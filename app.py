@@ -106,9 +106,9 @@ init_database(DATABASE_UE, 'ue_db', [
 
 ######## .env ########
 load_dotenv()
-dev_or_prod = os.getenv("DEV_OR_PROD") # either "DEVELOPMENT" or "PRODUCTION"
-lyrics_api_source = os.getenv("LYRICS_API_SOURCE") # either "REST" or "SELFMADE"
-log_on_off = os.getenv("LOG_ON_OFF") # either "ON" or "OFF"
+dev_or_prod = os.getenv("DEV_OR_PROD", "PRODUCTION") # either "DEVELOPMENT" or "PRODUCTION" - default to PRODUCTION
+lyrics_api_source = os.getenv("LYRICS_API_SOURCE", "SELFMADE") # either "REST" or "SELFMADE" - default to SELFMADE
+log_on_off = os.getenv("LOG_ON_OFF", "OFF") # either "ON" or "OFF" - default to OFF
 print(f"dev_or_prod: {dev_or_prod}")
 print(f"lyrics_api_source: {lyrics_api_source}")
 print(f"log_on_off: {log_on_off}")
