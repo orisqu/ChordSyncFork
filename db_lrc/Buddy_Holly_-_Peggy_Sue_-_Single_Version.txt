@@ -1,0 +1,141 @@
+{
+  "track_id": "1a4YRgItMM4aGilIg99elY",
+  "track_name": "Peggy Sue - Single Version",
+  "artist_name": "Buddy Holly",
+  "timestamp": "2025-03-23 15:48:33",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "6710",
+          "words": "If you knew Peggy Sue"
+        },
+        {
+          "startTimeMs": "9670",
+          "words": "Then you'd know why I feel blue"
+        },
+        {
+          "startTimeMs": "12680",
+          "words": "Without Peggy, my Peggy Sue"
+        },
+        {
+          "startTimeMs": "18870",
+          "words": "Oh, well, I love you, gal"
+        },
+        {
+          "startTimeMs": "20650",
+          "words": "Yes, I love you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "25730",
+          "words": "Peggy Sue, Peggy Sue"
+        },
+        {
+          "startTimeMs": "29040",
+          "words": "Oh, how my heart yearns for you"
+        },
+        {
+          "startTimeMs": "31800",
+          "words": "Oh, Peggy, my Peggy Sue"
+        },
+        {
+          "startTimeMs": "38280",
+          "words": "Oh, well, I love you, gal"
+        },
+        {
+          "startTimeMs": "39750",
+          "words": "Yes, I love you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "44990",
+          "words": "Peggy Sue, Peggy Sue"
+        },
+        {
+          "startTimeMs": "48230",
+          "words": "Pretty, pretty, pretty, pretty, Peggy Sue"
+        },
+        {
+          "startTimeMs": "50980",
+          "words": "Oh, Peggy, my Peggy Sue"
+        },
+        {
+          "startTimeMs": "57310",
+          "words": "Oh, well, I love you, gal"
+        },
+        {
+          "startTimeMs": "59160",
+          "words": "And I need you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "64350",
+          "words": "I love you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "67560",
+          "words": "With a love so rare and true"
+        },
+        {
+          "startTimeMs": "70230",
+          "words": "Oh, Peggy, my Peggy Sue"
+        },
+        {
+          "startTimeMs": "76850",
+          "words": "Well, I love you, gal"
+        },
+        {
+          "startTimeMs": "78530",
+          "words": "I want you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "103120",
+          "words": "Peggy Sue, Peggy Sue"
+        },
+        {
+          "startTimeMs": "106440",
+          "words": "Pretty, pretty, pretty, pretty, Peggy Sue"
+        },
+        {
+          "startTimeMs": "109200",
+          "words": "Oh, Peggy, my Peggy Sue"
+        },
+        {
+          "startTimeMs": "115400",
+          "words": "Oh, well, I love you, gal"
+        },
+        {
+          "startTimeMs": "117210",
+          "words": "Yes, I need you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "122620",
+          "words": "I love you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "125930",
+          "words": "With a love so rare and true"
+        },
+        {
+          "startTimeMs": "128500",
+          "words": "Oh, Peggy, my Peggy Sue"
+        },
+        {
+          "startTimeMs": "135180",
+          "words": "Oh, well, I love you, gal"
+        },
+        {
+          "startTimeMs": "136770",
+          "words": "And I want you, Peggy Sue"
+        },
+        {
+          "startTimeMs": "141460",
+          "words": "Oh, well, I love you gal"
+        },
+        {
+          "startTimeMs": "143300",
+          "words": "And I want you Peggy Sue"
+        }
+      ]
+    }
+  }
+}

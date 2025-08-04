@@ -1,0 +1,241 @@
+{
+  "track_id": "5DH7nDryMhpixm4G4B7RP9",
+  "track_name": "The Longest Time",
+  "artist_name": "Billy Joel",
+  "timestamp": "2025-03-24 18:19:13",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "350",
+          "words": "(Doom doom doom)"
+        },
+        {
+          "startTimeMs": "1680",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "5480",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "8750",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "11070",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "13080",
+          "words": "If you said goodbye to me tonight (whoo, ooh ooh ooh)"
+        },
+        {
+          "startTimeMs": "18880",
+          "words": "There would still be music left to write (ah ah ah)"
+        },
+        {
+          "startTimeMs": "24230",
+          "words": "What else could I do? (Ah ah ah)"
+        },
+        {
+          "startTimeMs": "27040",
+          "words": "I'm so inspired by you (ah ah ah)"
+        },
+        {
+          "startTimeMs": "30290",
+          "words": "That hasn't happened for the longest time"
+        },
+        {
+          "startTimeMs": "35760",
+          "words": "Once I thought my innocence was gone (whoo, ooh ooh ooh)"
+        },
+        {
+          "startTimeMs": "41320",
+          "words": "Now I know that happiness goes on (ah ah ah)"
+        },
+        {
+          "startTimeMs": "47080",
+          "words": "That's where you found me (ah ah ah)"
+        },
+        {
+          "startTimeMs": "50130",
+          "words": "When you put your arms around me (ah ah ah)"
+        },
+        {
+          "startTimeMs": "52970",
+          "words": "I haven't been there for the longest time"
+        },
+        {
+          "startTimeMs": "58900",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "62770",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "65230",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "68760",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "70360",
+          "words": "I'm that voice you're hearing in the hall (whoo, ooh ooh ooh)"
+        },
+        {
+          "startTimeMs": "75610",
+          "words": "And the greatest miracle of all (ah ah ah)"
+        },
+        {
+          "startTimeMs": "81400",
+          "words": "Is how I need you (ah ah ah)"
+        },
+        {
+          "startTimeMs": "84530",
+          "words": "And how you needed me too (ah ah ah)"
+        },
+        {
+          "startTimeMs": "88120",
+          "words": "That hasn't happened for the longest time"
+        },
+        {
+          "startTimeMs": "93280",
+          "words": "Maybe this won't last very long"
+        },
+        {
+          "startTimeMs": "98220",
+          "words": "But you feel so right"
+        },
+        {
+          "startTimeMs": "100840",
+          "words": "And I could be wrong"
+        },
+        {
+          "startTimeMs": "104350",
+          "words": "Maybe I've been hoping too hard"
+        },
+        {
+          "startTimeMs": "109440",
+          "words": "But I've gone this far"
+        },
+        {
+          "startTimeMs": "112300",
+          "words": "And it's more than I hoped for"
+        },
+        {
+          "startTimeMs": "115790",
+          "words": "Who knows how much further we'll go on (whoo, ooh ooh ooh)"
+        },
+        {
+          "startTimeMs": "121190",
+          "words": "Maybe I'll be sorry when you're gone (ah ah ah)"
+        },
+        {
+          "startTimeMs": "127170",
+          "words": "I'll take my chances (ah ah ah)"
+        },
+        {
+          "startTimeMs": "129970",
+          "words": "I forgot how nice romance is (ah ah ah)"
+        },
+        {
+          "startTimeMs": "133530",
+          "words": "I haven't been there for the longest time"
+        },
+        {
+          "startTimeMs": "138540",
+          "words": "I had second thoughts at the start"
+        },
+        {
+          "startTimeMs": "143540",
+          "words": "I said to myself"
+        },
+        {
+          "startTimeMs": "146330",
+          "words": "\"Hold on to your heart\""
+        },
+        {
+          "startTimeMs": "149570",
+          "words": "Now I know the woman that you are"
+        },
+        {
+          "startTimeMs": "154290",
+          "words": "You're wonderful so far"
+        },
+        {
+          "startTimeMs": "157010",
+          "words": "And it's more than I hoped for"
+        },
+        {
+          "startTimeMs": "160840",
+          "words": "I don't care what consequence it brings (whoo, ooh ooh ooh)"
+        },
+        {
+          "startTimeMs": "165910",
+          "words": "I have been a fool for lesser things (ah ah ah)"
+        },
+        {
+          "startTimeMs": "171580",
+          "words": "I want you so bad (ah ah ah)"
+        },
+        {
+          "startTimeMs": "174860",
+          "words": "I think you ought to know that (ah ah ah)"
+        },
+        {
+          "startTimeMs": "177980",
+          "words": "I intend to hold you for the longest time"
+        },
+        {
+          "startTimeMs": "183470",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "187440",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "189610",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "193440",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "195800",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "199020",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "201030",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "203840",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "206940",
+          "words": "Whoa, oh oh oh (for the longest)"
+        },
+        {
+          "startTimeMs": "210110",
+          "words": "For the longest time"
+        },
+        {
+          "startTimeMs": "212360",
+          "words": "Whoa, oh oh oh..."
+        }
+      ]
+    }
+  }
+}

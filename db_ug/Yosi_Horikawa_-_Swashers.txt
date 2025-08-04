@@ -1,0 +1,9 @@
+{
+  "track_id": "5IqjAH2ynF7320IVnqfjlT",
+  "track_name": "Swashers",
+  "artist_name": "Yosi Horikawa",
+  "timestamp": "2025-03-21 17:46:06",
+  "source_link": "https://www.google.de/search?q=Yosi Horikawa swashers chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

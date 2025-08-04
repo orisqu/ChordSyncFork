@@ -1,0 +1,85 @@
+{
+  "track_id": "46UVOp5pnAasev0rak9ta7",
+  "track_name": "All Your Love (I Miss Loving)",
+  "artist_name": "Otis Rush",
+  "timestamp": "2025-03-23 15:43:21",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "830",
+          "words": "All your love I miss lovin'"
+        },
+        {
+          "startTimeMs": "24480",
+          "words": "All you kisses I miss kissin'"
+        },
+        {
+          "startTimeMs": "28950",
+          "words": "All your love I miss lovin'"
+        },
+        {
+          "startTimeMs": "33440",
+          "words": "All your kisses I miss kissin'"
+        },
+        {
+          "startTimeMs": "37000",
+          "words": "Since I met you, baby"
+        },
+        {
+          "startTimeMs": "39790",
+          "words": "I never knew what I was missin'"
+        },
+        {
+          "startTimeMs": "45220",
+          "words": "All your love, pretty baby"
+        },
+        {
+          "startTimeMs": "47980",
+          "words": "That I got in store for you"
+        },
+        {
+          "startTimeMs": "50650",
+          "words": "All your love, pretty baby"
+        },
+        {
+          "startTimeMs": "55120",
+          "words": "That I got in store for you"
+        },
+        {
+          "startTimeMs": "58710",
+          "words": "When I tell ya, pretty baby"
+        },
+        {
+          "startTimeMs": "62320",
+          "words": "Ya gotta say you love me, too"
+        },
+        {
+          "startTimeMs": "66890",
+          "words": "All your lovin', pretty baby"
+        },
+        {
+          "startTimeMs": "116670",
+          "words": "All your lovin', pretty baby"
+        },
+        {
+          "startTimeMs": "121150",
+          "words": "All your lovin', pretty baby"
+        },
+        {
+          "startTimeMs": "124740",
+          "words": "All your lovin', pretty baby"
+        },
+        {
+          "startTimeMs": "130310",
+          "words": "When I first met ya, baby"
+        },
+        {
+          "startTimeMs": "134860",
+          "words": "I never knew what I was missin'"
+        }
+      ]
+    }
+  }
+}

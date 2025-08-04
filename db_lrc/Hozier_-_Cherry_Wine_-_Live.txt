@@ -1,0 +1,133 @@
+{
+  "track_id": "1C042FLYy7rP3MfnkOcnha",
+  "track_name": "Cherry Wine - Live",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-24 18:39:02",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "25260",
+          "words": "Her eyes and words are so icy, oh, but she burns"
+        },
+        {
+          "startTimeMs": "32070",
+          "words": "Like rum on a fire"
+        },
+        {
+          "startTimeMs": "36560",
+          "words": "Hot and fast and angry as she can be"
+        },
+        {
+          "startTimeMs": "42220",
+          "words": "I walk my days on a wire"
+        },
+        {
+          "startTimeMs": "48710",
+          "words": "It looks ugly"
+        },
+        {
+          "startTimeMs": "51650",
+          "words": "But it's clean"
+        },
+        {
+          "startTimeMs": "54440",
+          "words": "Oh mama, don't fuss over me"
+        },
+        {
+          "startTimeMs": "58590",
+          "words": "The way she tells me I'm hers and she's mine"
+        },
+        {
+          "startTimeMs": "64050",
+          "words": "Open hand or closed fist would be fine"
+        },
+        {
+          "startTimeMs": "68790",
+          "words": "The blood is rare and sweet as cherry wine"
+        },
+        {
+          "startTimeMs": "80020",
+          "words": "Calls of guilty thrown at me all while she stains"
+        },
+        {
+          "startTimeMs": "86680",
+          "words": "The sheets of some other"
+        },
+        {
+          "startTimeMs": "91130",
+          "words": "Thrown at me so powerfully, just like she throws"
+        },
+        {
+          "startTimeMs": "97980",
+          "words": "With the arm of her brother"
+        },
+        {
+          "startTimeMs": "103550",
+          "words": "But I want it"
+        },
+        {
+          "startTimeMs": "106230",
+          "words": "It's a crime"
+        },
+        {
+          "startTimeMs": "109070",
+          "words": "That she's not around most of the time"
+        },
+        {
+          "startTimeMs": "112970",
+          "words": "The way she shows me I'm hers and she's mine"
+        },
+        {
+          "startTimeMs": "118450",
+          "words": "Open hand or closed fist would be fine"
+        },
+        {
+          "startTimeMs": "123160",
+          "words": "The blood is rare and sweet as cherry wine"
+        },
+        {
+          "startTimeMs": "155960",
+          "words": "Her fight and fury is fiery, oh, but she loves"
+        },
+        {
+          "startTimeMs": "162850",
+          "words": "Like sleep to the freezing"
+        },
+        {
+          "startTimeMs": "167960",
+          "words": "Sweet and right and merciful, I'm all but washed"
+        },
+        {
+          "startTimeMs": "174320",
+          "words": "In the tide of her breathing"
+        },
+        {
+          "startTimeMs": "179990",
+          "words": "And it's worth it"
+        },
+        {
+          "startTimeMs": "182830",
+          "words": "It's divine"
+        },
+        {
+          "startTimeMs": "185850",
+          "words": "I have this some of the time"
+        },
+        {
+          "startTimeMs": "189240",
+          "words": "The way she shows me I'm hers and she's mine"
+        },
+        {
+          "startTimeMs": "195280",
+          "words": "Open hand or closed fist would be fine"
+        },
+        {
+          "startTimeMs": "199730",
+          "words": "The blood is rare and sweet as cherry wine"
+        }
+      ]
+    }
+  }
+}

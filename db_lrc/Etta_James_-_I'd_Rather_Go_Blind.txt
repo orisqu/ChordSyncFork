@@ -1,0 +1,77 @@
+{
+  "track_id": "1kPBT8S2wJFNAyBMnGVZgL",
+  "track_name": "I'd Rather Go Blind",
+  "artist_name": "Etta James",
+  "timestamp": "2025-03-23 15:34:52",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "19130",
+          "words": "Something told me it was over"
+        },
+        {
+          "startTimeMs": "28120",
+          "words": "When I saw you and her talking"
+        },
+        {
+          "startTimeMs": "36240",
+          "words": "Something deep down in my soul said, \"Cry Girl\""
+        },
+        {
+          "startTimeMs": "45300",
+          "words": "When I saw you and that girl, walking out"
+        },
+        {
+          "startTimeMs": "54480",
+          "words": "I would rather, I would rather go blind boy"
+        },
+        {
+          "startTimeMs": "63570",
+          "words": "Than to see you, walk away from me child, and all"
+        },
+        {
+          "startTimeMs": "71620",
+          "words": "So you see, I love you so much"
+        },
+        {
+          "startTimeMs": "75840",
+          "words": "That I don't want to watch you leave me baby"
+        },
+        {
+          "startTimeMs": "80920",
+          "words": "Most of all, I just don't, I just don't want to be free no"
+        },
+        {
+          "startTimeMs": "89910",
+          "words": "I was just, I was just, I was just sitting here thinking"
+        },
+        {
+          "startTimeMs": "99090",
+          "words": "Of your kisses and your warm embrace, yeah"
+        },
+        {
+          "startTimeMs": "108010",
+          "words": "When the reflection in the glass that I held to my lips now baby"
+        },
+        {
+          "startTimeMs": "117130",
+          "words": "Revealed the tears that was on my face, yeah"
+        },
+        {
+          "startTimeMs": "125270",
+          "words": "And baby, baby, I would rather, I would rather be blind boy"
+        },
+        {
+          "startTimeMs": "134950",
+          "words": "Than to see you walk away, see you walk away from me, yeah"
+        },
+        {
+          "startTimeMs": "143720",
+          "words": "Baby, baby, baby, I'd rather be blind now"
+        }
+      ]
+    }
+  }
+}

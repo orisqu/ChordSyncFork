@@ -1,0 +1,9 @@
+{
+  "track_id": "7wZUrN8oemZfsEd1CGkbXE",
+  "track_name": "Bleeding Love",
+  "artist_name": "Leona Lewis",
+  "timestamp": "2025-03-21 23:24:07",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/leona-lewis/bleeding-love-chords-690995",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BLEEDING LOVE CHORDS (ver 4) by Leona Lewis @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] C Closed off from love I didn’t need the pain Am Once or twice was enough And it was all in vain F G Time starts to pass Before you know it you’re frozen / C But somet"
+}

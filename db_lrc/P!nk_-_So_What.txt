@@ -1,0 +1,393 @@
+{
+  "track_id": "0JiY190vktuhSGN6aqJdrt",
+  "track_name": "So What",
+  "artist_name": "P!nk",
+  "timestamp": "2025-03-23 02:05:02",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "3480",
+          "words": "Na-na-na-na, na-na, na"
+        },
+        {
+          "startTimeMs": "5300",
+          "words": "Na-na-na-na na-na"
+        },
+        {
+          "startTimeMs": "6990",
+          "words": "Na-na-na-na, na-na, na"
+        },
+        {
+          "startTimeMs": "8960",
+          "words": "Na-na-na-na na-na"
+        },
+        {
+          "startTimeMs": "11040",
+          "words": "I guess I just lost my husband"
+        },
+        {
+          "startTimeMs": "13290",
+          "words": "I don't know where he went"
+        },
+        {
+          "startTimeMs": "14990",
+          "words": "So I'm gonna drink my money"
+        },
+        {
+          "startTimeMs": "16930",
+          "words": "I'm not gonna pay his rent (Nope)"
+        },
+        {
+          "startTimeMs": "18900",
+          "words": "I got a brand new attitude"
+        },
+        {
+          "startTimeMs": "20760",
+          "words": "And I'm gonna wear it tonight"
+        },
+        {
+          "startTimeMs": "22590",
+          "words": "I wanna get in trouble"
+        },
+        {
+          "startTimeMs": "24570",
+          "words": "I wanna start a fight"
+        },
+        {
+          "startTimeMs": "26390",
+          "words": "Na-na-na-na, na-na, na"
+        },
+        {
+          "startTimeMs": "28340",
+          "words": "I wanna start a fight"
+        },
+        {
+          "startTimeMs": "30000",
+          "words": "Na-na-na-na, na-na, na"
+        },
+        {
+          "startTimeMs": "32210",
+          "words": "I wanna start a fight!"
+        },
+        {
+          "startTimeMs": "33890",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "35410",
+          "words": "I'm still a rock star"
+        },
+        {
+          "startTimeMs": "37120",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "39100",
+          "words": "And I don't need you"
+        },
+        {
+          "startTimeMs": "41530",
+          "words": "And guess what?"
+        },
+        {
+          "startTimeMs": "43150",
+          "words": "I'm having more fun"
+        },
+        {
+          "startTimeMs": "44600",
+          "words": "And now that we're done"
+        },
+        {
+          "startTimeMs": "46720",
+          "words": "I'm gonna show you tonight"
+        },
+        {
+          "startTimeMs": "50220",
+          "words": "I'm alright"
+        },
+        {
+          "startTimeMs": "52550",
+          "words": "I'm just fine"
+        },
+        {
+          "startTimeMs": "54520",
+          "words": "And you're a tool"
+        },
+        {
+          "startTimeMs": "56460",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "58200",
+          "words": "I am a rock star"
+        },
+        {
+          "startTimeMs": "60190",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "62050",
+          "words": "And I don't want you tonight"
+        },
+        {
+          "startTimeMs": "65880",
+          "words": "Uh, check my flow, uh"
+        },
+        {
+          "startTimeMs": "68190",
+          "words": "The waiter just took my table"
+        },
+        {
+          "startTimeMs": "70150",
+          "words": "And gave it to Jessica Simps, shit"
+        },
+        {
+          "startTimeMs": "71840",
+          "words": "I guess I'll go sit with drum boy"
+        },
+        {
+          "startTimeMs": "74050",
+          "words": "At least he'll know how to hit (Oops)"
+        },
+        {
+          "startTimeMs": "75940",
+          "words": "What if this song's on the radio?"
+        },
+        {
+          "startTimeMs": "77950",
+          "words": "Then somebody's gonna die"
+        },
+        {
+          "startTimeMs": "79780",
+          "words": "I wanna get in trouble"
+        },
+        {
+          "startTimeMs": "81540",
+          "words": "My ex will start a fight"
+        },
+        {
+          "startTimeMs": "83410",
+          "words": "Na-na-na-na, na-na, na"
+        },
+        {
+          "startTimeMs": "85470",
+          "words": "He's gonna start a fight"
+        },
+        {
+          "startTimeMs": "87220",
+          "words": "Na-na-na-na, na-na, na"
+        },
+        {
+          "startTimeMs": "89320",
+          "words": "We're all gonna get in a fight"
+        },
+        {
+          "startTimeMs": "90940",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "92560",
+          "words": "I'm still a rock star"
+        },
+        {
+          "startTimeMs": "94370",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "96090",
+          "words": "And I don't need you"
+        },
+        {
+          "startTimeMs": "98780",
+          "words": "And guess what?"
+        },
+        {
+          "startTimeMs": "100120",
+          "words": "I'm having more fun"
+        },
+        {
+          "startTimeMs": "101920",
+          "words": "And now that we're done"
+        },
+        {
+          "startTimeMs": "103680",
+          "words": "I'm gonna show you tonight"
+        },
+        {
+          "startTimeMs": "107080",
+          "words": "I'm alright"
+        },
+        {
+          "startTimeMs": "109500",
+          "words": "I'm just fine"
+        },
+        {
+          "startTimeMs": "111500",
+          "words": "And you're a tool"
+        },
+        {
+          "startTimeMs": "113560",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "115230",
+          "words": "I am a rock star"
+        },
+        {
+          "startTimeMs": "117160",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "119020",
+          "words": "And I don't want you tonight"
+        },
+        {
+          "startTimeMs": "125050",
+          "words": "You weren't there"
+        },
+        {
+          "startTimeMs": "127750",
+          "words": "You never were"
+        },
+        {
+          "startTimeMs": "129780",
+          "words": "You want it all"
+        },
+        {
+          "startTimeMs": "131680",
+          "words": "But that's not fair"
+        },
+        {
+          "startTimeMs": "133660",
+          "words": "I gave you life"
+        },
+        {
+          "startTimeMs": "135570",
+          "words": "I gave my all"
+        },
+        {
+          "startTimeMs": "137260",
+          "words": "You weren't there"
+        },
+        {
+          "startTimeMs": "139120",
+          "words": "You let me fall"
+        },
+        {
+          "startTimeMs": "144110",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "145850",
+          "words": "I'm still a rock star"
+        },
+        {
+          "startTimeMs": "147740",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "149490",
+          "words": "And I don't need you"
+        },
+        {
+          "startTimeMs": "152160",
+          "words": "And guess what?"
+        },
+        {
+          "startTimeMs": "153500",
+          "words": "I'm having more fun"
+        },
+        {
+          "startTimeMs": "155230",
+          "words": "And now that we're done (We're done)"
+        },
+        {
+          "startTimeMs": "157380",
+          "words": "I'm gonna show you tonight"
+        },
+        {
+          "startTimeMs": "160440",
+          "words": "I'm alright (I'm alright)"
+        },
+        {
+          "startTimeMs": "162880",
+          "words": "I'm just fine (I'm just fine)"
+        },
+        {
+          "startTimeMs": "165050",
+          "words": "And you're a tool"
+        },
+        {
+          "startTimeMs": "167030",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "168770",
+          "words": "I am a rock star"
+        },
+        {
+          "startTimeMs": "170570",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "172550",
+          "words": "And I don't want you tonight (I don't want you tonight)"
+        },
+        {
+          "startTimeMs": "176660",
+          "words": "No no, no no"
+        },
+        {
+          "startTimeMs": "179760",
+          "words": "I don't want you tonight"
+        },
+        {
+          "startTimeMs": "184850",
+          "words": "You weren't there"
+        },
+        {
+          "startTimeMs": "188460",
+          "words": "I'm gonna show you tonight (I'm gonna show you tonight)"
+        },
+        {
+          "startTimeMs": "191220",
+          "words": "I'm alright (I'm alright)"
+        },
+        {
+          "startTimeMs": "193490",
+          "words": "I'm just fine"
+        },
+        {
+          "startTimeMs": "195230",
+          "words": "And you're a tool"
+        },
+        {
+          "startTimeMs": "197150",
+          "words": "So, so what?"
+        },
+        {
+          "startTimeMs": "199140",
+          "words": "I am a rock star"
+        },
+        {
+          "startTimeMs": "200980",
+          "words": "I got my rock moves"
+        },
+        {
+          "startTimeMs": "202930",
+          "words": "And I don't want you tonight (I don't want you tonight)"
+        },
+        {
+          "startTimeMs": "207020",
+          "words": "Woo-hoo"
+        },
+        {
+          "startTimeMs": "209640",
+          "words": "Ba-da-da-da, da-da"
+        }
+      ]
+    }
+  }
+}

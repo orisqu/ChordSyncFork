@@ -1,0 +1,189 @@
+{
+  "track_id": "60WZdX2EIKz5QWt6KXcgd0",
+  "track_name": "I THINK YOU TURNED ME",
+  "artist_name": "Chandler Leighton",
+  "timestamp": "2025-03-21 17:46:10",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "240",
+          "words": "Do you remember me?"
+        },
+        {
+          "startTimeMs": "2530",
+          "words": "The one you couldn't keep"
+        },
+        {
+          "startTimeMs": "4980",
+          "words": "You thought you opted out to leave"
+        },
+        {
+          "startTimeMs": "7520",
+          "words": "But I was out your league"
+        },
+        {
+          "startTimeMs": "10440",
+          "words": "And you did me a solid"
+        },
+        {
+          "startTimeMs": "12230",
+          "words": "When you ran from your problems"
+        },
+        {
+          "startTimeMs": "14330",
+          "words": "Seizing a bottle 'til you hit rock bottom"
+        },
+        {
+          "startTimeMs": "17120",
+          "words": "No shirt, no shoes, no man, no problems"
+        },
+        {
+          "startTimeMs": "20040",
+          "words": "You say talk is cheap"
+        },
+        {
+          "startTimeMs": "22180",
+          "words": "But you don't try to read"
+        },
+        {
+          "startTimeMs": "24610",
+          "words": "What's on the page"
+        },
+        {
+          "startTimeMs": "26280",
+          "words": "So I guess I have to say"
+        },
+        {
+          "startTimeMs": "28580",
+          "words": "I think you turned me gay"
+        },
+        {
+          "startTimeMs": "31160",
+          "words": "I've been swingin' both ways"
+        },
+        {
+          "startTimeMs": "33240",
+          "words": "Since you let me out my cage"
+        },
+        {
+          "startTimeMs": "36190",
+          "words": "I swear, it's not a phase"
+        },
+        {
+          "startTimeMs": "38450",
+          "words": "Now that I've had a taste"
+        },
+        {
+          "startTimeMs": "41010",
+          "words": "I think I'm switchin' lanes"
+        },
+        {
+          "startTimeMs": "43700",
+          "words": "It's not just growing pains"
+        },
+        {
+          "startTimeMs": "45950",
+          "words": "I'm not ashamed to say"
+        },
+        {
+          "startTimeMs": "48520",
+          "words": "I think you turned me"
+        },
+        {
+          "startTimeMs": "59720",
+          "words": "You might have a couple questions"
+        },
+        {
+          "startTimeMs": "62240",
+          "words": "Think I need antidepressants"
+        },
+        {
+          "startTimeMs": "64680",
+          "words": "So dumb, I don't need your lessons"
+        },
+        {
+          "startTimeMs": "67150",
+          "words": "Or your family's intervention"
+        },
+        {
+          "startTimeMs": "69780",
+          "words": "And I don't owe you shit"
+        },
+        {
+          "startTimeMs": "72350",
+          "words": "Because you called it quits"
+        },
+        {
+          "startTimeMs": "74650",
+          "words": "But I'll at least admit"
+        },
+        {
+          "startTimeMs": "77300",
+          "words": "I'm happy that you took the initiative"
+        },
+        {
+          "startTimeMs": "79790",
+          "words": "And then when you looked at her"
+        },
+        {
+          "startTimeMs": "82160",
+          "words": "And she looked back at me"
+        },
+        {
+          "startTimeMs": "83950",
+          "words": "And started second-guessing everything"
+        },
+        {
+          "startTimeMs": "87510",
+          "words": "I think you turned me gay"
+        },
+        {
+          "startTimeMs": "90130",
+          "words": "I've been swingin' both ways"
+        },
+        {
+          "startTimeMs": "92170",
+          "words": "Since you let me out my cage"
+        },
+        {
+          "startTimeMs": "95060",
+          "words": "I swear, it's not a phase"
+        },
+        {
+          "startTimeMs": "97360",
+          "words": "Now that I've had a taste"
+        },
+        {
+          "startTimeMs": "99900",
+          "words": "I think I'm switchin' lanes"
+        },
+        {
+          "startTimeMs": "102270",
+          "words": "It's not just growing pains"
+        },
+        {
+          "startTimeMs": "104600",
+          "words": "I'm not ashamed to say"
+        },
+        {
+          "startTimeMs": "107190",
+          "words": "I think you turned me"
+        },
+        {
+          "startTimeMs": "118870",
+          "words": "And I don't owe you shit"
+        },
+        {
+          "startTimeMs": "123590",
+          "words": "I think you turned me gay, haha"
+        },
+        {
+          "startTimeMs": "128570",
+          "words": "I mean, I like both, just not you"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "track_id": "73CLLmbqByFeUxURAJP9Ks",
+  "track_name": "Friends in Low Places",
+  "artist_name": "Garth Brooks Tribute",
+  "timestamp": "2025-03-23 14:28:07",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9320",
+          "words": "Blame it all on my roots, I showed up in boots"
+        },
+        {
+          "startTimeMs": "14050",
+          "words": "And ruined your black-tie affair"
+        },
+        {
+          "startTimeMs": "18620",
+          "words": "The last one to know, the last one to show"
+        },
+        {
+          "startTimeMs": "22810",
+          "words": "I was the last one you thought you'd see there"
+        },
+        {
+          "startTimeMs": "27460",
+          "words": "And I saw the surprise and the fear in his eyes"
+        },
+        {
+          "startTimeMs": "31960",
+          "words": "When I took his glass of champagne"
+        },
+        {
+          "startTimeMs": "36360",
+          "words": "And I toasted you, said, \"Honey, we may be through"
+        },
+        {
+          "startTimeMs": "40720",
+          "words": "But you'll never hear me complain\""
+        },
+        {
+          "startTimeMs": "45370",
+          "words": "'Cause I've got friends in low places"
+        },
+        {
+          "startTimeMs": "49420",
+          "words": "Where the whiskey drowns"
+        },
+        {
+          "startTimeMs": "51900",
+          "words": "And the beer chases my blues away"
+        },
+        {
+          "startTimeMs": "58040",
+          "words": "And I'll be okay"
+        },
+        {
+          "startTimeMs": "62420",
+          "words": "Yeah, I'm not big on social graces"
+        },
+        {
+          "startTimeMs": "67370",
+          "words": "Think I'll slip on down to the oasis"
+        },
+        {
+          "startTimeMs": "72100",
+          "words": "Oh, I've got friends in low places"
+        },
+        {
+          "startTimeMs": "98500",
+          "words": "Well, I guess I was wrong, I just don't belong"
+        },
+        {
+          "startTimeMs": "102820",
+          "words": "But then, I've been there before"
+        },
+        {
+          "startTimeMs": "107130",
+          "words": "Everything's all right, I'll just say goodnight"
+        },
+        {
+          "startTimeMs": "111430",
+          "words": "And I'll show myself to the door"
+        },
+        {
+          "startTimeMs": "116310",
+          "words": "Hey, I didn't mean to cause a big scene"
+        },
+        {
+          "startTimeMs": "120990",
+          "words": "Just give me an hour and then"
+        },
+        {
+          "startTimeMs": "125070",
+          "words": "Well, I'll be as high as that ivory tower"
+        },
+        {
+          "startTimeMs": "130860",
+          "words": "That you're livin' in"
+        },
+        {
+          "startTimeMs": "134140",
+          "words": "'Cause I've got friends in low places"
+        },
+        {
+          "startTimeMs": "138510",
+          "words": "Where the whiskey drowns"
+        },
+        {
+          "startTimeMs": "140780",
+          "words": "And the beer chases my blues away"
+        },
+        {
+          "startTimeMs": "147110",
+          "words": "And I'll be okay"
+        },
+        {
+          "startTimeMs": "151730",
+          "words": "Yeah, I'm not big on social graces"
+        },
+        {
+          "startTimeMs": "156140",
+          "words": "Think I'll slip on down to the oasis"
+        },
+        {
+          "startTimeMs": "160650",
+          "words": "Oh, I've got friends in low places"
+        },
+        {
+          "startTimeMs": "169910",
+          "words": "I got friends in low places"
+        },
+        {
+          "startTimeMs": "173760",
+          "words": "Where the whiskey drowns"
+        },
+        {
+          "startTimeMs": "176090",
+          "words": "And the beer chases my blues away"
+        },
+        {
+          "startTimeMs": "182030",
+          "words": "And I'll be okay"
+        },
+        {
+          "startTimeMs": "186570",
+          "words": "Yeah, I'm not big on social graces"
+        },
+        {
+          "startTimeMs": "191060",
+          "words": "Think I'll slip on down to the oasis"
+        },
+        {
+          "startTimeMs": "195600",
+          "words": "Oh, I got friends in low places"
+        },
+        {
+          "startTimeMs": "203730",
+          "words": "Yeah, I got friends in low places"
+        },
+        {
+          "startTimeMs": "208460",
+          "words": "Where the whiskey drowns"
+        },
+        {
+          "startTimeMs": "210680",
+          "words": "And the beer chases my blues away"
+        },
+        {
+          "startTimeMs": "216760",
+          "words": "And I'll be okay"
+        },
+        {
+          "startTimeMs": "221170",
+          "words": "Yeah, I'm not big on social graces"
+        },
+        {
+          "startTimeMs": "225710",
+          "words": "Think I'll slip on down to the oasis"
+        },
+        {
+          "startTimeMs": "230070",
+          "words": "Oh, I got friends in low places"
+        },
+        {
+          "startTimeMs": "238430",
+          "words": "Yeah, I got friends in low places"
+        },
+        {
+          "startTimeMs": "242900",
+          "words": "Where the whiskey drowns"
+        },
+        {
+          "startTimeMs": "245270",
+          "words": "And the beer chases my blues away"
+        },
+        {
+          "startTimeMs": "251360",
+          "words": "And I'll be okay"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "05aJGOuSDQTFyfzcGQrDUO",
+  "track_name": "Always - 2009 Remaster",
+  "artist_name": "Erasure",
+  "timestamp": "2025-03-24 16:22:04",
+  "source_link": "https://www.google.de/search?q=Erasure always - 2009  chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

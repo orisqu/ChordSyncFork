@@ -1,0 +1,46 @@
+{
+  "track_id": "2Q8dOmJZyjpqVNHToKTVwW",
+  "track_name": "Tiquette",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:46:44",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": [
+        "I am returning the ticket",
+        "I'm giving it back to you",
+        "Don't give me those sad eyes",
+        "And Stop asking me who",
+        "There is no \"who\", believe me",
+        "I might meet him someday",
+        "So don't you give me a hard time",
+        "Dream, it's not too late",
+        "I just returned the ticket",
+        "The ticket to your heart",
+        "But keep it somewhere safe",
+        "Cause the end is a new start",
+        "A dream will never be enough",
+        "Is that what you mean?",
+        "Reality is all",
+        "And there's nothing in between?",
+        "Yes it's hard to dance with stars",
+        "But even if you're right",
+        "You're not behind bars",
+        "You're free, so quit the fight",
+        "Try a change of scene",
+        "And take a second glance",
+        "There are many different roads",
+        "To give us another chance",
+        "You're out, you're down, you're through",
+        "You say you're through with me",
+        "That's never what i had in mind",
+        "If it was ever meant to be",
+        "I just returned the ticket",
+        "The ticket to your heart",
+        "But keep it somewhere safe",
+        "Cause the end is a new start",
+        "I need a ticket exchange"
+      ]
+    }
+  }
+}

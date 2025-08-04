@@ -1,0 +1,9 @@
+{
+  "track_id": "4afAeCMf15ClvLrAXwA3V9",
+  "track_name": "Lograremos ser humanos",
+  "artist_name": "Francisco \"Pancho\" Céspedes",
+  "timestamp": "2025-03-23 14:02:40",
+  "source_link": "https://www.google.de/search?q=Francisco \"Pancho\" Céspedes lograremos ser humanos chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

@@ -1,0 +1,12 @@
+{
+  "track_id": "6SlzsMv6eppTcoFYQrjrrE",
+  "track_name": "Trick Me",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:36:59",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

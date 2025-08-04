@@ -1,0 +1,9 @@
+{
+  "track_id": "7igk58Vs9uM2B0aaTUwv6F",
+  "track_name": "Can't Help Falling in Love",
+  "artist_name": "Michael Bublé",
+  "timestamp": "2025-03-24 18:12:40",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/5379378",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>DONT BLAME IT ON ME CHORDS by Michael Bublé @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] D Don&#039;t blame it on me A For falling in love with you / Anybody could see D There was nothing I could do D D7 G E7 You just shot me that look and baby I was hooke"
+}

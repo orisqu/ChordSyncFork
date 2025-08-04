@@ -1,0 +1,9 @@
+{
+  "track_id": "0J4FGKvAPf4KjMubYjY2w6",
+  "track_name": "Pure Imagination",
+  "artist_name": "Ant Law",
+  "timestamp": "2025-03-21 17:46:07",
+  "source_link": "https://www.google.de/search?q=Ant Law pure imagination chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

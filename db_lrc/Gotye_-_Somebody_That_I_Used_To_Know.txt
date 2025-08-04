@@ -1,0 +1,181 @@
+{
+  "track_id": "4wCmqSrbyCgxEXROQE6vtV",
+  "track_name": "Somebody That I Used To Know",
+  "artist_name": "Gotye",
+  "timestamp": "2025-03-23 02:23:32",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "18930",
+          "words": "Now and then I think of when we were together"
+        },
+        {
+          "startTimeMs": "26090",
+          "words": "Like when you said you felt so happy you could die"
+        },
+        {
+          "startTimeMs": "33750",
+          "words": "Told myself that you were right for me"
+        },
+        {
+          "startTimeMs": "37260",
+          "words": "But felt so lonely in your company"
+        },
+        {
+          "startTimeMs": "41010",
+          "words": "But that was love, and it's an ache I still remember"
+        },
+        {
+          "startTimeMs": "63480",
+          "words": "You can get addicted to a certain kind of sadness"
+        },
+        {
+          "startTimeMs": "70870",
+          "words": "Like resignation to the end, always the end"
+        },
+        {
+          "startTimeMs": "78290",
+          "words": "So when we found that we could not make sense"
+        },
+        {
+          "startTimeMs": "82110",
+          "words": "Well, you said that we would still be friends"
+        },
+        {
+          "startTimeMs": "85800",
+          "words": "But I'll admit that I was glad it was over"
+        },
+        {
+          "startTimeMs": "93520",
+          "words": "But you didn't have to cut me off"
+        },
+        {
+          "startTimeMs": "97290",
+          "words": "Make out like it never happened and that we were nothing"
+        },
+        {
+          "startTimeMs": "101260",
+          "words": "And I don't even need your love"
+        },
+        {
+          "startTimeMs": "103720",
+          "words": "But you treat me like a stranger, and that feels so rough"
+        },
+        {
+          "startTimeMs": "108530",
+          "words": "No, you didn't have to stoop so low"
+        },
+        {
+          "startTimeMs": "112050",
+          "words": "Have your friends collect your records and then change your number"
+        },
+        {
+          "startTimeMs": "116100",
+          "words": "I guess that I don't need that, though"
+        },
+        {
+          "startTimeMs": "119210",
+          "words": "Now you're just somebody that I used to know"
+        },
+        {
+          "startTimeMs": "126540",
+          "words": "Now you're just somebody that I used to know"
+        },
+        {
+          "startTimeMs": "133800",
+          "words": "Now you're just somebody that I used to know"
+        },
+        {
+          "startTimeMs": "153040",
+          "words": "Now and then I think of all the times you screwed me over"
+        },
+        {
+          "startTimeMs": "159920",
+          "words": "But had me believing it was always something that I'd done"
+        },
+        {
+          "startTimeMs": "168170",
+          "words": "And I don't wanna live that way"
+        },
+        {
+          "startTimeMs": "171810",
+          "words": "Reading into every word you say"
+        },
+        {
+          "startTimeMs": "175530",
+          "words": "You said that you could let it go"
+        },
+        {
+          "startTimeMs": "177920",
+          "words": "And I wouldn't catch you hung up on somebody that you used to know"
+        },
+        {
+          "startTimeMs": "182530",
+          "words": "But you didn't have to cut me off"
+        },
+        {
+          "startTimeMs": "186310",
+          "words": "Make out like it never happened and that we were nothing (aah-ooh)"
+        },
+        {
+          "startTimeMs": "190740",
+          "words": "And I don't even need your love (ooh)"
+        },
+        {
+          "startTimeMs": "192880",
+          "words": "But you treat me like a stranger, and that feels so rough (aah)"
+        },
+        {
+          "startTimeMs": "197800",
+          "words": "No, you didn't have to stoop so low (ooh)"
+        },
+        {
+          "startTimeMs": "201580",
+          "words": "Have your friends collect your records and then change your number (aah)"
+        },
+        {
+          "startTimeMs": "205480",
+          "words": "I guess that I don't need that, though"
+        },
+        {
+          "startTimeMs": "208250",
+          "words": "Now you're just somebody that I used to know"
+        },
+        {
+          "startTimeMs": "211740",
+          "words": "Somebody (I used to know)"
+        },
+        {
+          "startTimeMs": "215490",
+          "words": "Somebody (now you're just somebody that I used to know)"
+        },
+        {
+          "startTimeMs": "219140",
+          "words": "Somebody (I used to know)"
+        },
+        {
+          "startTimeMs": "222710",
+          "words": "Somebody (now you're just somebody that I used to know)"
+        },
+        {
+          "startTimeMs": "228790",
+          "words": "I used to know"
+        },
+        {
+          "startTimeMs": "232250",
+          "words": "That I used to know"
+        },
+        {
+          "startTimeMs": "236120",
+          "words": "I used to know"
+        },
+        {
+          "startTimeMs": "237720",
+          "words": "Somebody"
+        }
+      ]
+    }
+  }
+}

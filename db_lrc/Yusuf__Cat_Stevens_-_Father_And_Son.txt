@@ -1,0 +1,141 @@
+{
+  "track_id": "476V2d6iA2tWXgQboKmTtA",
+  "track_name": "Father And Son",
+  "artist_name": "Yusuf / Cat Stevens",
+  "timestamp": "2025-03-24 16:26:07",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15360",
+          "words": "It's not time to make a change"
+        },
+        {
+          "startTimeMs": "19910",
+          "words": "Just relax, take it easy"
+        },
+        {
+          "startTimeMs": "23740",
+          "words": "You're still young, that's your fault"
+        },
+        {
+          "startTimeMs": "27250",
+          "words": "There's so much you have to know"
+        },
+        {
+          "startTimeMs": "30670",
+          "words": "Find a girl, settle down"
+        },
+        {
+          "startTimeMs": "34090",
+          "words": "If you want you can marry"
+        },
+        {
+          "startTimeMs": "38380",
+          "words": "Look at me, I am old but I'm happy"
+        },
+        {
+          "startTimeMs": "44010",
+          "words": "I was once like you are now and I know that it's not easy"
+        },
+        {
+          "startTimeMs": "52890",
+          "words": "To be calm when you've found something going on"
+        },
+        {
+          "startTimeMs": "59170",
+          "words": "But take your time, think a lot"
+        },
+        {
+          "startTimeMs": "63340",
+          "words": "Think of everything you've got"
+        },
+        {
+          "startTimeMs": "67390",
+          "words": "For you will still be here tomorrow but your dreams may not"
+        },
+        {
+          "startTimeMs": "79190",
+          "words": "Oh, how can I try to explain?"
+        },
+        {
+          "startTimeMs": "82430",
+          "words": "'Cause when I do he turns away again"
+        },
+        {
+          "startTimeMs": "86010",
+          "words": "It's always been the same, same old story"
+        },
+        {
+          "startTimeMs": "91960",
+          "words": "From the moment I could talk I was ordered to listen"
+        },
+        {
+          "startTimeMs": "99990",
+          "words": "Now there's a way and I know that I have to go away"
+        },
+        {
+          "startTimeMs": "106780",
+          "words": "I know I have to go"
+        },
+        {
+          "startTimeMs": "153290",
+          "words": "It's not time to make a change"
+        },
+        {
+          "startTimeMs": "157340",
+          "words": "Just sit down, take it slowly"
+        },
+        {
+          "startTimeMs": "161310",
+          "words": "You're still young, that's your fault"
+        },
+        {
+          "startTimeMs": "165110",
+          "words": "There's so much you have to go through"
+        },
+        {
+          "startTimeMs": "168800",
+          "words": "Find a girl, settle down"
+        },
+        {
+          "startTimeMs": "172010",
+          "words": "If you want you can marry"
+        },
+        {
+          "startTimeMs": "176820",
+          "words": "Look at me, I am old but I am happy"
+        },
+        {
+          "startTimeMs": "181810",
+          "words": "All the times that I've cried"
+        },
+        {
+          "startTimeMs": "186430",
+          "words": "Keepin' all the things I knew inside"
+        },
+        {
+          "startTimeMs": "190650",
+          "words": "It's hard but it's harder to ignore it"
+        },
+        {
+          "startTimeMs": "195410",
+          "words": "If they were right I'd agree"
+        },
+        {
+          "startTimeMs": "200330",
+          "words": "But it's them they know, not me"
+        },
+        {
+          "startTimeMs": "203720",
+          "words": "Now there's a way and I know that I have to go away"
+        },
+        {
+          "startTimeMs": "210950",
+          "words": "I know I have to go"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "6XOINCZBv8Q7RXgNNiTwIN",
+  "track_name": "A Girl Like You",
+  "artist_name": "Edwyn Collins",
+  "timestamp": "2025-03-23 15:22:13",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/edwyn-collins/a-girl-like-you-chords-65044",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>A GIRL LIKE YOU CHORDS by Edwyn Collins @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] / Cm,Fm,Gm Cm,Fm,Cm Cm,Fm,Gm Cm,Fm,Cm / [Verse] / Cm Fm Gm Cm, Fm, Cm I?VE NEVER KNOWN A GIRL LIKE YOU BEFORE Cm Fm Gm Cm, Fm, Cm NOW JUST LIKE IN A SONG FROM DAYS OF YORE C"
+}

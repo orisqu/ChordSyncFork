@@ -1,0 +1,149 @@
+{
+  "track_id": "0mBL2JwjNYKtdFacHxvtJt",
+  "track_name": "I'm A Believer - From \"Shrek\" Motion Picture Soundtrack",
+  "artist_name": "Smash Mouth",
+  "timestamp": "2025-03-24 17:43:20",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "4870",
+          "words": "I thought love was only true in fairy tales"
+        },
+        {
+          "startTimeMs": "10390",
+          "words": "Meant for someone else, but not for me"
+        },
+        {
+          "startTimeMs": "16440",
+          "words": "Love was out to get me"
+        },
+        {
+          "startTimeMs": "19400",
+          "words": "That's the way it seemed"
+        },
+        {
+          "startTimeMs": "22110",
+          "words": "Disappointment haunted all my dreams"
+        },
+        {
+          "startTimeMs": "26890",
+          "words": "And then I saw her face, now I'm a believer"
+        },
+        {
+          "startTimeMs": "32810",
+          "words": "And not a trace, of doubt in my mind"
+        },
+        {
+          "startTimeMs": "38620",
+          "words": "I'm in love, I'm a believer"
+        },
+        {
+          "startTimeMs": "43100",
+          "words": "I couldn't leave her if I tried"
+        },
+        {
+          "startTimeMs": "48530",
+          "words": "I thought love was more or less a givin' thing"
+        },
+        {
+          "startTimeMs": "53950",
+          "words": "The more I gave, the less I got, oh yeah"
+        },
+        {
+          "startTimeMs": "60100",
+          "words": "What's the use in tryin'"
+        },
+        {
+          "startTimeMs": "63120",
+          "words": "All you get is pain"
+        },
+        {
+          "startTimeMs": "65820",
+          "words": "When I wanted sunshine, I got rain"
+        },
+        {
+          "startTimeMs": "70650",
+          "words": "And then I saw her face, now I'm a believer"
+        },
+        {
+          "startTimeMs": "76520",
+          "words": "And not a trace, of doubt in my mind"
+        },
+        {
+          "startTimeMs": "82460",
+          "words": "I'm in love, I'm a believer"
+        },
+        {
+          "startTimeMs": "86800",
+          "words": "I couldn't leave her if I tried"
+        },
+        {
+          "startTimeMs": "104090",
+          "words": "What's the use of trying"
+        },
+        {
+          "startTimeMs": "106850",
+          "words": "All you get is pain"
+        },
+        {
+          "startTimeMs": "109480",
+          "words": "When I wanted sunshine, I got rain"
+        },
+        {
+          "startTimeMs": "114490",
+          "words": "And then I saw her face, now I'm a believer"
+        },
+        {
+          "startTimeMs": "120150",
+          "words": "And not a trace, of doubt in my mind"
+        },
+        {
+          "startTimeMs": "126140",
+          "words": "But I'm in love, I'm a believer"
+        },
+        {
+          "startTimeMs": "130640",
+          "words": "I couldn't leave her if I tried"
+        },
+        {
+          "startTimeMs": "137540",
+          "words": "Then I saw her face, now I'm a believer"
+        },
+        {
+          "startTimeMs": "143540",
+          "words": "Not a trace, of doubt in my mind"
+        },
+        {
+          "startTimeMs": "149480",
+          "words": "Now I'm a believer, yeah, yeah, yeah, yeah, yeah, yeah"
+        },
+        {
+          "startTimeMs": "155040",
+          "words": "Now I'm a believer"
+        },
+        {
+          "startTimeMs": "158110",
+          "words": "Then I saw her face"
+        },
+        {
+          "startTimeMs": "164070",
+          "words": "Now I'm a believer"
+        },
+        {
+          "startTimeMs": "170020",
+          "words": "Not a trace"
+        },
+        {
+          "startTimeMs": "175720",
+          "words": "Of doubt in my mind"
+        },
+        {
+          "startTimeMs": "178840",
+          "words": "I'm a believer"
+        }
+      ]
+    }
+  }
+}

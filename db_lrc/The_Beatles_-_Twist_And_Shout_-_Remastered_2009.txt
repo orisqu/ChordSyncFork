@@ -1,0 +1,137 @@
+{
+  "track_id": "5ZBeML7Lf3FMEVviTyvi8l",
+  "track_name": "Twist And Shout - Remastered 2009",
+  "artist_name": "The Beatles",
+  "timestamp": "2025-03-23 15:45:58",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "4780",
+          "words": "Well, shake it up, baby, now"
+        },
+        {
+          "startTimeMs": "8120",
+          "words": "(Shake it up baby)"
+        },
+        {
+          "startTimeMs": "9530",
+          "words": "Twist and shout"
+        },
+        {
+          "startTimeMs": "12440",
+          "words": "(Twist and shout)"
+        },
+        {
+          "startTimeMs": "13840",
+          "words": "Come on, come on, come on, come on, baby, now (come on baby)"
+        },
+        {
+          "startTimeMs": "17190",
+          "words": "Come on and work it on out (work it on out ooh)"
+        },
+        {
+          "startTimeMs": "20990",
+          "words": "Well, work it on out (work it on out)"
+        },
+        {
+          "startTimeMs": "24590",
+          "words": "You know you look so good (look so good)"
+        },
+        {
+          "startTimeMs": "28460",
+          "words": "You know you got me goin' now (got me goin')"
+        },
+        {
+          "startTimeMs": "32070",
+          "words": "Just like I knew you would (like I knew you would ooh)"
+        },
+        {
+          "startTimeMs": "36530",
+          "words": "Well, shake it up, baby, now (shake it up baby)"
+        },
+        {
+          "startTimeMs": "39640",
+          "words": "Twist and shout (twist and shout)"
+        },
+        {
+          "startTimeMs": "43140",
+          "words": "Come on, come on, come on, come on, baby, now (come on baby)"
+        },
+        {
+          "startTimeMs": "46930",
+          "words": "Come on and work it on out (work it on out)"
+        },
+        {
+          "startTimeMs": "50770",
+          "words": "You know you twist, little girl (twist, little girl)"
+        },
+        {
+          "startTimeMs": "54890",
+          "words": "You know you twist so fine (twist so fine)"
+        },
+        {
+          "startTimeMs": "58000",
+          "words": "Come on and twist a little closer now (twist a little closer)"
+        },
+        {
+          "startTimeMs": "62350",
+          "words": "And let me know that you're mine, (let me know you're mine woo)"
+        },
+        {
+          "startTimeMs": "66200",
+          "words": "(Ah-ah-ah-ah-wow)"
+        },
+        {
+          "startTimeMs": "96880",
+          "words": "Baby, now (shake it up baby)"
+        },
+        {
+          "startTimeMs": "99170",
+          "words": "Twist and shout (twist and shout)"
+        },
+        {
+          "startTimeMs": "102280",
+          "words": "Come on, come on, come on, come on, baby, now (come on baby)"
+        },
+        {
+          "startTimeMs": "106170",
+          "words": "Come on and work it on out (work it on out ooh)"
+        },
+        {
+          "startTimeMs": "108830",
+          "words": "You know you twist, little girl (twist little girl)"
+        },
+        {
+          "startTimeMs": "113410",
+          "words": "You know you twist so fine (twist so fine)"
+        },
+        {
+          "startTimeMs": "117040",
+          "words": "Come on and twist a little closer now (twist a little closer)"
+        },
+        {
+          "startTimeMs": "121010",
+          "words": "And let me know that you're mine (let me know you're mine ooh)"
+        },
+        {
+          "startTimeMs": "125520",
+          "words": "Well, shake it, shake it, shake it, baby, now (shake it up baby)"
+        },
+        {
+          "startTimeMs": "129430",
+          "words": "Well, shake it, shake it, shake it, baby, now (shake it up baby)"
+        },
+        {
+          "startTimeMs": "133140",
+          "words": "Well, shake it, shake it, shake it, baby, now (shake it up baby)"
+        },
+        {
+          "startTimeMs": "137240",
+          "words": "(Ah-ah-ah-ah)"
+        }
+      ]
+    }
+  }
+}

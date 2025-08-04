@@ -1,0 +1,241 @@
+{
+  "track_id": "7a86XRg84qjasly9f6bPSD",
+  "track_name": "We Are Young (feat. Janelle Monáe)",
+  "artist_name": "fun.",
+  "timestamp": "2025-03-22 00:16:20",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "8460",
+          "words": "Give me a second I"
+        },
+        {
+          "startTimeMs": "10270",
+          "words": "I need to get my story straight"
+        },
+        {
+          "startTimeMs": "12310",
+          "words": "My friends are in the bathroom getting higher than the Empire State"
+        },
+        {
+          "startTimeMs": "16780",
+          "words": "My lover she's waiting for me just across the bar"
+        },
+        {
+          "startTimeMs": "20250",
+          "words": "My seat's been taken by some sunglasses asking 'bout a scar, and"
+        },
+        {
+          "startTimeMs": "25310",
+          "words": "I know I gave it to you months ago"
+        },
+        {
+          "startTimeMs": "29330",
+          "words": "I know you're trying to forget"
+        },
+        {
+          "startTimeMs": "32510",
+          "words": "But between the drinks and subtle things"
+        },
+        {
+          "startTimeMs": "35270",
+          "words": "The holes in my apologies, you know"
+        },
+        {
+          "startTimeMs": "37790",
+          "words": "I'm trying hard to take it back"
+        },
+        {
+          "startTimeMs": "40500",
+          "words": "So if by the time the bar closes"
+        },
+        {
+          "startTimeMs": "43890",
+          "words": "And you feel like falling down"
+        },
+        {
+          "startTimeMs": "46520",
+          "words": "I'll carry you home"
+        },
+        {
+          "startTimeMs": "49230",
+          "words": "Tonight"
+        },
+        {
+          "startTimeMs": "52980",
+          "words": "We are young"
+        },
+        {
+          "startTimeMs": "57850",
+          "words": "So let's set the world on fire"
+        },
+        {
+          "startTimeMs": "61440",
+          "words": "We can burn brighter than the sun"
+        },
+        {
+          "startTimeMs": "69700",
+          "words": "Tonight"
+        },
+        {
+          "startTimeMs": "74090",
+          "words": "We are young"
+        },
+        {
+          "startTimeMs": "78620",
+          "words": "So let's set the world on fire"
+        },
+        {
+          "startTimeMs": "82580",
+          "words": "We can burn brighter than the sun"
+        },
+        {
+          "startTimeMs": "90750",
+          "words": "Now I know that I'm not"
+        },
+        {
+          "startTimeMs": "93220",
+          "words": "All that you got"
+        },
+        {
+          "startTimeMs": "96210",
+          "words": "I guess that I, I just thought"
+        },
+        {
+          "startTimeMs": "98820",
+          "words": "Maybe we could find new ways to fall apart"
+        },
+        {
+          "startTimeMs": "101990",
+          "words": "But our friends are back"
+        },
+        {
+          "startTimeMs": "104170",
+          "words": "So let's raise a cup"
+        },
+        {
+          "startTimeMs": "106950",
+          "words": "'Cause I found someone to carry me home"
+        },
+        {
+          "startTimeMs": "111140",
+          "words": "Tonight"
+        },
+        {
+          "startTimeMs": "114810",
+          "words": "We are young"
+        },
+        {
+          "startTimeMs": "119550",
+          "words": "So let's set the world on fire"
+        },
+        {
+          "startTimeMs": "123200",
+          "words": "We can burn brighter than the sun"
+        },
+        {
+          "startTimeMs": "131690",
+          "words": "Tonight"
+        },
+        {
+          "startTimeMs": "135760",
+          "words": "We are young"
+        },
+        {
+          "startTimeMs": "140690",
+          "words": "So let's set the world on fire"
+        },
+        {
+          "startTimeMs": "144240",
+          "words": "We can burn brighter than the sun"
+        },
+        {
+          "startTimeMs": "152880",
+          "words": "Carry me home tonight (na na na na na na)"
+        },
+        {
+          "startTimeMs": "157830",
+          "words": "Just carry me home tonight (na na na na na na)"
+        },
+        {
+          "startTimeMs": "163350",
+          "words": "Carry me home tonight (na na na na na na)"
+        },
+        {
+          "startTimeMs": "168360",
+          "words": "Just carry me home tonight (na na na na na na)"
+        },
+        {
+          "startTimeMs": "174410",
+          "words": "The moon is on my side (na na na na na na)"
+        },
+        {
+          "startTimeMs": "177250",
+          "words": "I have no reason to run (na na na na na na)"
+        },
+        {
+          "startTimeMs": "179950",
+          "words": "So will someone come and carry me home tonight (na na na na na na)"
+        },
+        {
+          "startTimeMs": "185230",
+          "words": "The angels never arrived (na na na na na na)"
+        },
+        {
+          "startTimeMs": "187680",
+          "words": "But I can hear the choir (na na na na na na)"
+        },
+        {
+          "startTimeMs": "190340",
+          "words": "So will someone come and carry me home (na na na na na na)"
+        },
+        {
+          "startTimeMs": "194590",
+          "words": "Tonight"
+        },
+        {
+          "startTimeMs": "198220",
+          "words": "We are young"
+        },
+        {
+          "startTimeMs": "202840",
+          "words": "So let's set the world on fire"
+        },
+        {
+          "startTimeMs": "207180",
+          "words": "We can burn brighter than the sun"
+        },
+        {
+          "startTimeMs": "215050",
+          "words": "Tonight"
+        },
+        {
+          "startTimeMs": "219330",
+          "words": "We are young"
+        },
+        {
+          "startTimeMs": "224130",
+          "words": "So let's set the world on fire"
+        },
+        {
+          "startTimeMs": "227980",
+          "words": "We can burn brighter than the sun"
+        },
+        {
+          "startTimeMs": "235150",
+          "words": "So if by the time the bar closes"
+        },
+        {
+          "startTimeMs": "238750",
+          "words": "And you feel like falling down"
+        },
+        {
+          "startTimeMs": "241570",
+          "words": "I'll carry you home tonight"
+        }
+      ]
+    }
+  }
+}

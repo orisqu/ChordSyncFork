@@ -1,0 +1,253 @@
+{
+  "track_id": "66tqNAlqktqFsy2O6yXFUH",
+  "track_name": "Panic",
+  "artist_name": "Amy Lawton",
+  "timestamp": "2025-03-21 17:18:48",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "30070",
+          "words": "Say you love my personality, why? Thank you, it's yours"
+        },
+        {
+          "startTimeMs": "37210",
+          "words": "I figured out how to mirror you as you walked in the door"
+        },
+        {
+          "startTimeMs": "44330",
+          "words": "Tell me about yourself, I just wanna be adored"
+        },
+        {
+          "startTimeMs": "51320",
+          "words": "Tell me to be myself, yeah, I tried that before"
+        },
+        {
+          "startTimeMs": "55030",
+          "words": "And I couldn't settle on a thing, I think I'm not anything"
+        },
+        {
+          "startTimeMs": "61410",
+          "words": "The battery is dead, battery is dead, battery is dead"
+        },
+        {
+          "startTimeMs": "65640",
+          "words": "Battery is dead, battery is dead"
+        },
+        {
+          "startTimeMs": "68180",
+          "words": "Too many people in my head, people in my head, people in my head"
+        },
+        {
+          "startTimeMs": "72600",
+          "words": "People in my head, people in my head"
+        },
+        {
+          "startTimeMs": "75180",
+          "words": "And I panic when I have to meet up in a group"
+        },
+        {
+          "startTimeMs": "78480",
+          "words": "And I got to decide who to be, but I don't know who"
+        },
+        {
+          "startTimeMs": "82250",
+          "words": "And I panic when I think I'm gonna get found out"
+        },
+        {
+          "startTimeMs": "85740",
+          "words": "'Cause I just wanna get you to like me and I know exactly how"
+        },
+        {
+          "startTimeMs": "89490",
+          "words": "And it's a habit, I just pretend to be whoever I'm with"
+        },
+        {
+          "startTimeMs": "92740",
+          "words": "I can be anyone I want, and maybe it's a gift"
+        },
+        {
+          "startTimeMs": "96410",
+          "words": "And when they really wanna know what I'm all about"
+        },
+        {
+          "startTimeMs": "99990",
+          "words": "And I really wanna tell 'em, and I open my mouth I panic"
+        },
+        {
+          "startTimeMs": "118450",
+          "words": "Never trust someone that everyone likes"
+        },
+        {
+          "startTimeMs": "125320",
+          "words": "My skin starts to crawl when I hear that advice"
+        },
+        {
+          "startTimeMs": "132320",
+          "words": "'Cause I don't know who I go to bed with every night"
+        },
+        {
+          "startTimeMs": "139540",
+          "words": "But pretending gets easier every time"
+        },
+        {
+          "startTimeMs": "142780",
+          "words": "I don't know who's controlling me"
+        },
+        {
+          "startTimeMs": "146140",
+          "words": "I'm detached from reality"
+        },
+        {
+          "startTimeMs": "149680",
+          "words": "The battery is dead, battery is dead, battery is dead"
+        },
+        {
+          "startTimeMs": "153840",
+          "words": "Battery is dead, battery is dead"
+        },
+        {
+          "startTimeMs": "156350",
+          "words": "I'm just repeating what you said, 'peating what you said"
+        },
+        {
+          "startTimeMs": "159500",
+          "words": "Repeating what you said, 'peating what you said, repeating what you said"
+        },
+        {
+          "startTimeMs": "163690",
+          "words": "I panic when I have to meet up in a group"
+        },
+        {
+          "startTimeMs": "166850",
+          "words": "And I got to decide who to be, but I don't know who"
+        },
+        {
+          "startTimeMs": "170640",
+          "words": "And I panic when I think I'm gonna get found out"
+        },
+        {
+          "startTimeMs": "174010",
+          "words": "'Cause I just wanna get you to like me and I know exactly how"
+        },
+        {
+          "startTimeMs": "177530",
+          "words": "And it's a habit, I just pretend to be whoever I'm with"
+        },
+        {
+          "startTimeMs": "181160",
+          "words": "I can be anyone I want, and maybe it's a gift"
+        },
+        {
+          "startTimeMs": "184750",
+          "words": "And when they really wanna know what I'm all about"
+        },
+        {
+          "startTimeMs": "188150",
+          "words": "And I really wanna tell 'em, and I open my mouth I panic"
+        },
+        {
+          "startTimeMs": "192600",
+          "words": "You say you know me, but I don't even know me"
+        },
+        {
+          "startTimeMs": "195560",
+          "words": "But I know you, yeah I know you, I know you"
+        },
+        {
+          "startTimeMs": "199600",
+          "words": "You feel so close to me, you like this version of me"
+        },
+        {
+          "startTimeMs": "202390",
+          "words": "It's 'cause I made it for you, I made it for you"
+        },
+        {
+          "startTimeMs": "205660",
+          "words": "I'm a chameleon, and they say it's just fitting in"
+        },
+        {
+          "startTimeMs": "208880",
+          "words": "But it feels like I'm slipping when I step out of my door"
+        },
+        {
+          "startTimeMs": "212180",
+          "words": "And then, I have to reinvent myself again"
+        },
+        {
+          "startTimeMs": "214920",
+          "words": "I don't know who the hell I am, this body that I'm living in"
+        },
+        {
+          "startTimeMs": "218520",
+          "words": "You look at me and"
+        },
+        {
+          "startTimeMs": "220080",
+          "words": "And I panic when I have to meet up in a group"
+        },
+        {
+          "startTimeMs": "223360",
+          "words": "And I got to decide who to be, but I don't know who"
+        },
+        {
+          "startTimeMs": "227040",
+          "words": "And I panic when I think I'm gonna get found out"
+        },
+        {
+          "startTimeMs": "230660",
+          "words": "'Cause I just wanna get you to like me and I know exactly how"
+        },
+        {
+          "startTimeMs": "234210",
+          "words": "And it's a habit, I just pretend to be whoever I'm with"
+        },
+        {
+          "startTimeMs": "237460",
+          "words": "I can be anyone I want, and maybe it's a gift"
+        },
+        {
+          "startTimeMs": "240980",
+          "words": "And when they really wanna know what I'm all about"
+        },
+        {
+          "startTimeMs": "244660",
+          "words": "And I really wanna tell 'em, and I open my mouth"
+        },
+        {
+          "startTimeMs": "248450",
+          "words": "I panic when I have to meet up in a group"
+        },
+        {
+          "startTimeMs": "251430",
+          "words": "And I got to decide who to be, but I don't know who"
+        },
+        {
+          "startTimeMs": "255240",
+          "words": "And I panic when I think I'm gonna get found out"
+        },
+        {
+          "startTimeMs": "258600",
+          "words": "'Cause I just wanna get you to like me and I know exactly how"
+        },
+        {
+          "startTimeMs": "262380",
+          "words": "And it's a habit, I just pretend to be whoever I'm with"
+        },
+        {
+          "startTimeMs": "265740",
+          "words": "I can be anyone I want, and maybe it's a gift"
+        },
+        {
+          "startTimeMs": "269290",
+          "words": "And when they really wanna know what I'm all about"
+        },
+        {
+          "startTimeMs": "272830",
+          "words": "And I really wanna tell 'em, and I open my mouth I panic"
+        }
+      ]
+    }
+  }
+}

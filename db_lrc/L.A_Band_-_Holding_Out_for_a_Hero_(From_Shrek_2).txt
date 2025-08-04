@@ -1,0 +1,197 @@
+{
+  "track_id": "4vUy7enmN23um1gGRruA45",
+  "track_name": "Holding Out for a Hero (From \"Shrek 2\")",
+  "artist_name": "L.A Band",
+  "timestamp": "2025-03-21 18:07:57",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "40",
+          "words": "C minor, put it in C minor"
+        },
+        {
+          "startTimeMs": "2920",
+          "words": "Where have all the good men gone and"
+        },
+        {
+          "startTimeMs": "7120",
+          "words": "Where are all the gods?"
+        },
+        {
+          "startTimeMs": "11780",
+          "words": "Where's the street-wise Hercules"
+        },
+        {
+          "startTimeMs": "15170",
+          "words": "To fight the rising odds?"
+        },
+        {
+          "startTimeMs": "20340",
+          "words": "Isn't there a white knight upon a fiery steed?"
+        },
+        {
+          "startTimeMs": "29360",
+          "words": "Late at night I toss and I turn and I dream of what I need"
+        },
+        {
+          "startTimeMs": "44250",
+          "words": "I need a hero"
+        },
+        {
+          "startTimeMs": "46640",
+          "words": "I'm holding out for a hero 'til the end of the night"
+        },
+        {
+          "startTimeMs": "50800",
+          "words": "He's gotta be strong"
+        },
+        {
+          "startTimeMs": "52260",
+          "words": "And he's gotta be fast"
+        },
+        {
+          "startTimeMs": "53810",
+          "words": "And he's gotta be fresh from the fight"
+        },
+        {
+          "startTimeMs": "57370",
+          "words": "I need a hero"
+        },
+        {
+          "startTimeMs": "59330",
+          "words": "I'm holding out for a hero 'til the morning light"
+        },
+        {
+          "startTimeMs": "62780",
+          "words": "He's gotta be sure"
+        },
+        {
+          "startTimeMs": "65110",
+          "words": "And it's gotta be soon"
+        },
+        {
+          "startTimeMs": "66840",
+          "words": "And he's gotta be larger than life, larger than life"
+        },
+        {
+          "startTimeMs": "83620",
+          "words": "Somewhere after midnight"
+        },
+        {
+          "startTimeMs": "85610",
+          "words": "In my wildest fantasy"
+        },
+        {
+          "startTimeMs": "89860",
+          "words": "Somewhere just beyond my reach"
+        },
+        {
+          "startTimeMs": "92860",
+          "words": "There's someone reaching back for me"
+        },
+        {
+          "startTimeMs": "95850",
+          "words": "Racing on the thunder and rising with the heat"
+        },
+        {
+          "startTimeMs": "101910",
+          "words": "It's gonna take a superman to sweep me off my feet"
+        },
+        {
+          "startTimeMs": "120270",
+          "words": "Up where the mountains meet the heavens above"
+        },
+        {
+          "startTimeMs": "123520",
+          "words": "Out where the lightning splits the sea"
+        },
+        {
+          "startTimeMs": "126490",
+          "words": "I could swear that there's someone somewhere"
+        },
+        {
+          "startTimeMs": "129430",
+          "words": "Watching me"
+        },
+        {
+          "startTimeMs": "132930",
+          "words": "Through the wind and the chill and the rain"
+        },
+        {
+          "startTimeMs": "136270",
+          "words": "And the storm and the flood"
+        },
+        {
+          "startTimeMs": "139290",
+          "words": "I can feel his approach"
+        },
+        {
+          "startTimeMs": "141110",
+          "words": "Like the fire in my blood"
+        },
+        {
+          "startTimeMs": "144210",
+          "words": "(Like a fire in my blood)"
+        },
+        {
+          "startTimeMs": "145720",
+          "words": "(Like a fire in my blood)"
+        },
+        {
+          "startTimeMs": "147330",
+          "words": "(Like a fire in my blood)"
+        },
+        {
+          "startTimeMs": "148910",
+          "words": "(Like a fire in my blood)"
+        },
+        {
+          "startTimeMs": "166390",
+          "words": "Hero"
+        },
+        {
+          "startTimeMs": "183760",
+          "words": "I need a hero"
+        },
+        {
+          "startTimeMs": "185660",
+          "words": "I'm holding out for a hero 'til the morning light"
+        },
+        {
+          "startTimeMs": "189940",
+          "words": "And he's gotta be sure"
+        },
+        {
+          "startTimeMs": "191010",
+          "words": "And he's gotta be soon"
+        },
+        {
+          "startTimeMs": "192970",
+          "words": "And he's gotta be larger than life"
+        },
+        {
+          "startTimeMs": "222210",
+          "words": "Hero"
+        },
+        {
+          "startTimeMs": "224520",
+          "words": "And he's gotta be strong"
+        },
+        {
+          "startTimeMs": "225740",
+          "words": "And he's gotta be fast"
+        },
+        {
+          "startTimeMs": "227340",
+          "words": "And he's gotta be fresh from the fight"
+        },
+        {
+          "startTimeMs": "230810",
+          "words": "I need a hero"
+        }
+      ]
+    }
+  }
+}

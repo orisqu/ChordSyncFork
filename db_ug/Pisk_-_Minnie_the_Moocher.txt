@@ -1,0 +1,9 @@
+{
+  "track_id": "0JANCc1DhGuwOBnfaZNzaK",
+  "track_name": "Minnie the Moocher",
+  "artist_name": "Pisk",
+  "timestamp": "2025-04-07 17:29:42",
+  "source_link": "https://www.google.de/search?q=Pisk minnie the moocher chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

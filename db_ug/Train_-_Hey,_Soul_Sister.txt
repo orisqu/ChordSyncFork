@@ -1,0 +1,9 @@
+{
+  "track_id": "4HlFJV71xXKIGcU3kRyttv",
+  "track_name": "Hey, Soul Sister",
+  "artist_name": "Train",
+  "timestamp": "2025-03-23 01:16:48",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/train/hey-soul-sister-chords-884388",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>HEY SOUL SISTER CHORDS (ver 2) by Train @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Capo 4 Strumming pattern: D _ D U D U D U [Intro] C G Am F Hey-ay, Hey-ay-AY-ay-ay, Hey-ay-AY-ay-ay [Verse] C G Am F Your lipstick stains on the front lobe of my left side brains C "
+}

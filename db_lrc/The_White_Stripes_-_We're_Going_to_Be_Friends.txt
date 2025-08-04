@@ -1,0 +1,157 @@
+{
+  "track_id": "13lZDbwonGhOflQLQIfdtZ",
+  "track_name": "We're Going to Be Friends",
+  "artist_name": "The White Stripes",
+  "timestamp": "2025-03-21 23:02:46",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "5300",
+          "words": "Fall is here, hear the yell"
+        },
+        {
+          "startTimeMs": "8090",
+          "words": "Back to school, ring the bell"
+        },
+        {
+          "startTimeMs": "10760",
+          "words": "Brand new shoes, walking blues"
+        },
+        {
+          "startTimeMs": "13160",
+          "words": "Climb the fence, books and pens"
+        },
+        {
+          "startTimeMs": "15540",
+          "words": "I can tell that we are gonna be friends"
+        },
+        {
+          "startTimeMs": "20810",
+          "words": "I can tell that we are gonna be friends"
+        },
+        {
+          "startTimeMs": "28170",
+          "words": "Walk with me, Suzy Lee"
+        },
+        {
+          "startTimeMs": "30710",
+          "words": "Through the park and by the tree"
+        },
+        {
+          "startTimeMs": "33130",
+          "words": "We will rest upon the ground"
+        },
+        {
+          "startTimeMs": "35640",
+          "words": "And look at all the bugs we've found"
+        },
+        {
+          "startTimeMs": "38040",
+          "words": "Safely walk to school without a sound"
+        },
+        {
+          "startTimeMs": "43010",
+          "words": "Safely walk to school without a sound"
+        },
+        {
+          "startTimeMs": "50350",
+          "words": "Here we are, no one else"
+        },
+        {
+          "startTimeMs": "52480",
+          "words": "We walk to school all by ourselves"
+        },
+        {
+          "startTimeMs": "55330",
+          "words": "There's dirt on our uniforms"
+        },
+        {
+          "startTimeMs": "57660",
+          "words": "From chasing all the ants and worms"
+        },
+        {
+          "startTimeMs": "60150",
+          "words": "We clean up and now it's time to learn"
+        },
+        {
+          "startTimeMs": "65290",
+          "words": "We clean up and now it's time to learn"
+        },
+        {
+          "startTimeMs": "72520",
+          "words": "Numbers, letters, learn to spell"
+        },
+        {
+          "startTimeMs": "75060",
+          "words": "Nouns and books and show and tell"
+        },
+        {
+          "startTimeMs": "77470",
+          "words": "Playtime, we will throw the ball"
+        },
+        {
+          "startTimeMs": "79860",
+          "words": "Back to class, through the hall"
+        },
+        {
+          "startTimeMs": "82060",
+          "words": "Teacher marks our height against the wall"
+        },
+        {
+          "startTimeMs": "87100",
+          "words": "Teacher marks our height against the wall"
+        },
+        {
+          "startTimeMs": "94670",
+          "words": "And we don't notice any time pass"
+        },
+        {
+          "startTimeMs": "100030",
+          "words": "We don't notice anything"
+        },
+        {
+          "startTimeMs": "104300",
+          "words": "We sit side-by-side in every class"
+        },
+        {
+          "startTimeMs": "109370",
+          "words": "Teacher thinks that I sound funny"
+        },
+        {
+          "startTimeMs": "111450",
+          "words": "But she likes the way you sing"
+        },
+        {
+          "startTimeMs": "113720",
+          "words": "Tonight I'll dream while I'm in bed"
+        },
+        {
+          "startTimeMs": "116000",
+          "words": "When silly thoughts go through my head"
+        },
+        {
+          "startTimeMs": "118750",
+          "words": "About the bugs and alphabet"
+        },
+        {
+          "startTimeMs": "120810",
+          "words": "And when I wake tomorrow I'll bet"
+        },
+        {
+          "startTimeMs": "123270",
+          "words": "That you and I will walk together again"
+        },
+        {
+          "startTimeMs": "128110",
+          "words": "I can tell that we are gonna be friends"
+        },
+        {
+          "startTimeMs": "132860",
+          "words": "Yes, I can tell that we are gonna be friends"
+        }
+      ]
+    }
+  }
+}

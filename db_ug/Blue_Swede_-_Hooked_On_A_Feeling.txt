@@ -1,0 +1,9 @@
+{
+  "track_id": "6Ac4NVYYl2U73QiTt11ZKd",
+  "track_name": "Hooked On A Feeling",
+  "artist_name": "Blue Swede",
+  "timestamp": "2025-03-21 22:47:34",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/blue-swede/hooked-on-a-feeling-chords-753575",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>HOOKED ON A FEELING CHORDS by Blue Swede  &amp; Björn Skifs @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Blue Swede: Hooked On A Feeling BJ Thomas had a hit with this in &#039;69. Blue Swede had a hit again with it in &#039;74. Capo 1st fret [Intro] Ooga Chuka Ooga "
+}

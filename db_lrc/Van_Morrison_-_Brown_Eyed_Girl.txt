@@ -1,0 +1,177 @@
+{
+  "track_id": "3yrSvpt2l1xhsV9Em88Pul",
+  "track_name": "Brown Eyed Girl",
+  "artist_name": "Van Morrison",
+  "timestamp": "2025-03-24 18:05:38",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16590",
+          "words": "Hey, where did we go?"
+        },
+        {
+          "startTimeMs": "18210",
+          "words": "Days when the rains came"
+        },
+        {
+          "startTimeMs": "21440",
+          "words": "Down in the hollow"
+        },
+        {
+          "startTimeMs": "25030",
+          "words": "Playin' a new game"
+        },
+        {
+          "startTimeMs": "28120",
+          "words": "Laughing and a running hey, hey"
+        },
+        {
+          "startTimeMs": "31660",
+          "words": "Skipping and a jumping"
+        },
+        {
+          "startTimeMs": "34860",
+          "words": "In the misty morning fog with"
+        },
+        {
+          "startTimeMs": "38260",
+          "words": "Our hearts a thumpin' and you"
+        },
+        {
+          "startTimeMs": "41820",
+          "words": "My brown-eyed girl"
+        },
+        {
+          "startTimeMs": "46970",
+          "words": "You, my brown-eyed girl"
+        },
+        {
+          "startTimeMs": "54920",
+          "words": "Whatever happened"
+        },
+        {
+          "startTimeMs": "57290",
+          "words": "To Tuesday and so slow?"
+        },
+        {
+          "startTimeMs": "60640",
+          "words": "Going down the old mine"
+        },
+        {
+          "startTimeMs": "63720",
+          "words": "With a transistor radio"
+        },
+        {
+          "startTimeMs": "67070",
+          "words": "Standing in the sunlight laughing"
+        },
+        {
+          "startTimeMs": "70490",
+          "words": "Hiding behind a rainbow's wall"
+        },
+        {
+          "startTimeMs": "73410",
+          "words": "Slipping and sliding"
+        },
+        {
+          "startTimeMs": "76710",
+          "words": "All along the waterfall, with you"
+        },
+        {
+          "startTimeMs": "80620",
+          "words": "My brown-eyed girl"
+        },
+        {
+          "startTimeMs": "85220",
+          "words": "You, my brown-eyed girl"
+        },
+        {
+          "startTimeMs": "92500",
+          "words": "Do you remember when we used to sing?"
+        },
+        {
+          "startTimeMs": "97300",
+          "words": "Sha la la la la la la la la la la te da"
+        },
+        {
+          "startTimeMs": "101870",
+          "words": "Just like that"
+        },
+        {
+          "startTimeMs": "103660",
+          "words": "Sha la la la la la la la la la la te da, la te da"
+        },
+        {
+          "startTimeMs": "112650",
+          "words": "So hard to find my way"
+        },
+        {
+          "startTimeMs": "125420",
+          "words": "Now that I'm all on my own"
+        },
+        {
+          "startTimeMs": "128180",
+          "words": "I saw you just the other day"
+        },
+        {
+          "startTimeMs": "131320",
+          "words": "My, how you have grown"
+        },
+        {
+          "startTimeMs": "134520",
+          "words": "Cast my memory back there, Lord"
+        },
+        {
+          "startTimeMs": "137540",
+          "words": "Sometimes I'm overcome thinking 'bout"
+        },
+        {
+          "startTimeMs": "141040",
+          "words": "Making love in the green grass"
+        },
+        {
+          "startTimeMs": "143720",
+          "words": "Behind the stadium with you"
+        },
+        {
+          "startTimeMs": "147450",
+          "words": "My brown-eyed girl"
+        },
+        {
+          "startTimeMs": "150990",
+          "words": "You, my brown-eyed girl"
+        },
+        {
+          "startTimeMs": "158640",
+          "words": "Do you remember when we used to sing?"
+        },
+        {
+          "startTimeMs": "163560",
+          "words": "Sha la la la la la la la la la la te da"
+        },
+        {
+          "startTimeMs": "169050",
+          "words": "Sha la la la la la la la la la la te da, la te da"
+        },
+        {
+          "startTimeMs": "174690",
+          "words": "(Bit by bit, by bit, by bit, by bit, by bit)"
+        },
+        {
+          "startTimeMs": "177020",
+          "words": "(Sha la la la la la la, la te da, la te da"
+        },
+        {
+          "startTimeMs": "180770",
+          "words": "Sha la la la la la la la la la la te da, la te da"
+        },
+        {
+          "startTimeMs": "181870",
+          "words": "(La te da, da da da da da da da da)"
+        }
+      ]
+    }
+  }
+}

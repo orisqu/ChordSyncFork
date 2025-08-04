@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChordSync TV - Device Authentication</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tv_styles.css') }}">
+</head>
+<body class="auth-page">
+    <div class="auth-container">
+        <div class="logo-container">
+            <h1>ChordSync TV</h1>
+            <h2>Device Authentication</h2>
+        </div>
+        
+        <div class="device-auth-message">
+            <p>To connect ChordSync TV to your Spotify account:</p>
+            
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-text">On your phone or computer, go to:</div>
+                </div>
+                <div class="verification-uri">{{ verification_uri }}</div>
+                
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-text">Enter this code:</div>
+                </div>
+                <div class="user-code">{{ user_code }}</div>
+            </div>
+            
+            <div class="auth-status">
+                <p>Waiting for authentication...</p>
+                <div class="loading-spinner"></div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Store session data in a hidden element -->
+    <div id="session-data"
+         data-interval="{{ session.interval|default(5) }}"
+         style="display: none;"></div>
+    
+    <script>
+        // Get the polling interval from the data attribute
+        const sessionData = document.getElementById('session-data');
+        const pollingInterval = parseInt(sessionData.dataset.interval) * 1000; // Convert to milliseconds
+        
+        // Poll the server to check if the user has completed authentication
+        function pollAuthStatus() {
+            fetch('{{ url_for("poll_auth") }}')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'success') {
+                        // Redirect to the main page
+                        window.location.href = data.redirect;
+                    } else if (data.status === 'error') {
+                        // Display error message
+                        document.querySelector('.auth-status p').textContent = 'Error: ' + data.message;
+                        document.querySelector('.loading-spinner').style.display = 'none';
+                    } else {
+                        // Continue polling
+                        setTimeout(pollAuthStatus, pollingInterval);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error polling auth status:', error);
+                    document.querySelector('.auth-status p').textContent = 'Error checking authentication status. Please try again.';
+                    document.querySelector('.loading-spinner').style.display = 'none';
+                });
+        }
+        
+        // Start polling when the page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            // Wait a moment before starting to poll
+            setTimeout(pollAuthStatus, 2000);
+        });
+    </script>
+</body>
+</html>

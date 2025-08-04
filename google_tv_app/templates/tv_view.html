@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChordSync TV</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tv_styles.css') }}">
+    <meta http-equiv="refresh" content="3600"> <!-- Refresh page every hour to prevent stale sessions -->
+</head>
+<body class="tv-view">
+    <div class="tv-container">
+        <!-- Header with song info -->
+        <header class="song-header">
+            <div class="album-cover">
+                <img id="album-cover" src="{{ url_for('static', filename='img/default_album.png') }}" alt="Album Cover">
+            </div>
+            <div class="song-info">
+                <h1 id="track-name">Loading...</h1>
+                <h2 id="artist-name"></h2>
+                <div class="song-meta">
+                    <span id="track-progress">0:00</span> / <span id="track-duration">0:00</span>
+                    <div class="progress-bar">
+                        <div id="progress-fill"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="playback-info">
+                <div class="playback-status">
+                    <div id="play-status" class="status-icon">▶️</div>
+                    <div id="shuffle-status" class="status-icon">🔀</div>
+                    <div id="repeat-status" class="status-icon">🔁</div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main content with chords and lyrics -->
+        <main class="chord-display">
+            <div class="chord-container">
+                <div id="chord-content">
+                    <div class="loading-message">
+                        <p>Waiting for a song to play on Spotify...</p>
+                        <div class="loading-spinner"></div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer with additional info -->
+        <footer class="tv-footer">
+            <div class="song-key">
+                <span>Key: </span><span id="song-key">-</span>
+            </div>
+            <div class="song-capo">
+                <span>Capo: </span><span id="song-capo">-</span>
+            </div>
+            <div class="song-tuning">
+                <span>Tuning: </span><span id="song-tuning">-</span>
+            </div>
+            <div class="sync-status">
+                <span id="sync-indicator">⏱️</span>
+                <span id="sync-text">Sync Status: </span><span id="sync-value">-</span>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Current line highlight overlay -->
+    <div id="current-line-highlight" class="hidden"></div>
+
+    <script src="{{ url_for('static', filename='js/tv_view.js') }}"></script>
+</body>
+</html>

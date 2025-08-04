@@ -1,0 +1,9 @@
+{
+  "track_id": "59HjlYCeBsxdI0fcm3zglw",
+  "track_name": "Wildest Dreams",
+  "artist_name": "Taylor Swift",
+  "timestamp": "2025-03-23 02:23:49",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/taylor-swift/wildest-dreams-chords-1674166",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WILDEST DREAMS CHORDS by Taylor Swift @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] C Em D C Em D [Verse 1] C Em He said let&#039;s get out of this town D Drive out of the city, away from the crowds C Em I thought heaven can&#039;t help me now D C Nothing las"
+}

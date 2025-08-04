@@ -1,0 +1,9 @@
+{
+  "track_id": "2y7Xvfg3ATLTjKLfielZ6b",
+  "track_name": "St. James Infirmary Blues",
+  "artist_name": "The White Stripes",
+  "timestamp": "2025-03-23 15:40:56",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/the-white-stripes/st-james-infirmary-blues-chords-1708647",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>ST JAMES INFIRMARY BLUES CHORDS by The White Stripes @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Standard Tuning EADGBe / Intro: Am / Oh coco! / Verse 1: / Am E Am F E E7 Well Folks, I&#039;m goin&#039; down to St. James Infirmary, to see my baby there Am E Am F E "
+}

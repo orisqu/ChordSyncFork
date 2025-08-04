@@ -1,0 +1,9 @@
+{
+  "track_id": "3uMFGmOMgcOrnvPOkrJiYv",
+  "track_name": "In the Distance",
+  "artist_name": "Yosi Horikawa",
+  "timestamp": "2025-03-21 17:46:01",
+  "source_link": "https://www.google.de/search?q=Yosi Horikawa in the distance chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

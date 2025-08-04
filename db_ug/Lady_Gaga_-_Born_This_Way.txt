@@ -1,0 +1,9 @@
+{
+  "track_id": "6r2BECwMgEoRb5yLfp0Hca",
+  "track_name": "Born This Way",
+  "artist_name": "Lady Gaga",
+  "timestamp": "2025-03-23 02:23:55",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/lady-gaga/born-this-way-chords-1028954",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BORN THIS WAY CHORDS by Lady Gaga @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"It doesn&#039;t matter if you love him, or capital H-I-M Just put your paws up &#039;Cause you were born this way, baby [Verse 1] G F My mama told me when I was young C G We are all born "
+}

@@ -1,0 +1,477 @@
+{
+  "track_id": "03duS4fiU5jSVOZFR7TTQa",
+  "track_name": "Espresso - Mark Ronson x FNZ Working Later Remix",
+  "artist_name": "Sabrina Carpenter",
+  "timestamp": "2025-03-21 17:34:10",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "43100",
+          "words": "Too bad your ex don't do it for ya"
+        },
+        {
+          "startTimeMs": "44890",
+          "words": "For ya, for ya, for ya, for ya"
+        },
+        {
+          "startTimeMs": "47460",
+          "words": "Soft skin and I perfumed it for ya"
+        },
+        {
+          "startTimeMs": "49640",
+          "words": "For ya, for ya, for ya, for ya"
+        },
+        {
+          "startTimeMs": "51900",
+          "words": "I know I Mountain Dew it for ya"
+        },
+        {
+          "startTimeMs": "53990",
+          "words": "That morning coffee, brewed it for ya"
+        },
+        {
+          "startTimeMs": "56030",
+          "words": "One touch and I brand-newed it for ya"
+        },
+        {
+          "startTimeMs": "58110",
+          "words": "For ya, for ya"
+        },
+        {
+          "startTimeMs": "60670",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "62990",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "64980",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "67200",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "69150",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "71310",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "73520",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "75800",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "92710",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "95020",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "97100",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "99130",
+          "words": "Say you can't sleep, baby, I know (ah, ah)"
+        },
+        {
+          "startTimeMs": "103460",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "105710",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "107730",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "109830",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "112460",
+          "words": "I can't relate to desperation"
+        },
+        {
+          "startTimeMs": "116530",
+          "words": "My 'give-a-fucks' are on vacation"
+        },
+        {
+          "startTimeMs": "120870",
+          "words": "And I got this one boy, and he won't stop calling"
+        },
+        {
+          "startTimeMs": "125210",
+          "words": "When they act this way, I know I got 'em"
+        },
+        {
+          "startTimeMs": "128990",
+          "words": "Too bad your ex don't do it for ya"
+        },
+        {
+          "startTimeMs": "131250",
+          "words": "For ya, for ya, for ya, for ya"
+        },
+        {
+          "startTimeMs": "133290",
+          "words": "Soft skin and I perfumed it for ya"
+        },
+        {
+          "startTimeMs": "135400",
+          "words": "For ya, for ya, for ya, for ya"
+        },
+        {
+          "startTimeMs": "137560",
+          "words": "I know I Mountain Dew it for ya"
+        },
+        {
+          "startTimeMs": "139640",
+          "words": "That morning coffee, brewed it for ya"
+        },
+        {
+          "startTimeMs": "141940",
+          "words": "One touch and I brand-newed it for ya"
+        },
+        {
+          "startTimeMs": "144050",
+          "words": "For ya, for ya"
+        },
+        {
+          "startTimeMs": "146340",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "148680",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "150550",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "152810",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "154980",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "157030",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "159230",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "161350",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "163460",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "165680",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "167690",
+          "words": "Say you can't sleep, baby, I know, ah, ah"
+        },
+        {
+          "startTimeMs": "172190",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "174320",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "176420",
+          "words": "Say you can't sleep, baby, I know, ah, ah"
+        },
+        {
+          "startTimeMs": "181080",
+          "words": "I'm working late 'cause I'm a singer"
+        },
+        {
+          "startTimeMs": "185280",
+          "words": "Oh, he looks so cute wrapped around my finger"
+        },
+        {
+          "startTimeMs": "189500",
+          "words": "My twisted humor make him laugh so often"
+        },
+        {
+          "startTimeMs": "193710",
+          "words": "My honey bee, come and get this pollen"
+        },
+        {
+          "startTimeMs": "197570",
+          "words": "Too bad your ex don't do it for ya"
+        },
+        {
+          "startTimeMs": "199530",
+          "words": "For ya, for ya, for ya, for ya"
+        },
+        {
+          "startTimeMs": "201760",
+          "words": "Soft skin and I perfumed it for ya"
+        },
+        {
+          "startTimeMs": "204030",
+          "words": "For ya, for ya, for ya, for ya"
+        },
+        {
+          "startTimeMs": "206050",
+          "words": "I know I Mountain Dew it for ya"
+        },
+        {
+          "startTimeMs": "208360",
+          "words": "That morning coffee, brewed it for ya"
+        },
+        {
+          "startTimeMs": "210390",
+          "words": "One touch and I brand-newed it for ya"
+        },
+        {
+          "startTimeMs": "212470",
+          "words": "For ya, for ya"
+        },
+        {
+          "startTimeMs": "214970",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "217270",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "219160",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "221220",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "223420",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "225460",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "227640",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "229890",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "232150",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "234300",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "236230",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "238390",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "240330",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "242790",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "244960",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "246930",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "249280",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "251470",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "253460",
+          "words": "Say you can't sleep, baby, I know, ah, ah"
+        },
+        {
+          "startTimeMs": "257860",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "260170",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "262050",
+          "words": "Say you can't sleep, baby, I know, ah, ah"
+        },
+        {
+          "startTimeMs": "266470",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "268520",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "270690",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "272740",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "275050",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "277150",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "279280",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "281430",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "283520",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "285650",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "287500",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "289890",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "292080",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "294120",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "296230",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "298520",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "300420",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "302790",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "304920",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "307030",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "309280",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "311360",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "313420",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "315530",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "317780",
+          "words": "Thinkin' 'bout me every night, oh"
+        },
+        {
+          "startTimeMs": "319900",
+          "words": "Is it that sweet? I guess so"
+        },
+        {
+          "startTimeMs": "322010",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "324130",
+          "words": "That's that me espresso"
+        },
+        {
+          "startTimeMs": "326260",
+          "words": "Move it up, down, left, right, oh"
+        },
+        {
+          "startTimeMs": "328360",
+          "words": "Switch it up like Nintendo"
+        },
+        {
+          "startTimeMs": "330600",
+          "words": "Say you can't sleep, baby, I know"
+        },
+        {
+          "startTimeMs": "332730",
+          "words": "That's that me espresso"
+        }
+      ]
+    }
+  }
+}

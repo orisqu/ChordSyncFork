@@ -1,0 +1,197 @@
+{
+  "track_id": "0XYSepfitPhnzbXyz5CLVj",
+  "track_name": "Jericho",
+  "artist_name": "Iniko",
+  "timestamp": "2025-05-07 11:54:07",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "6740",
+          "words": "I'm high, I'm from outer space"
+        },
+        {
+          "startTimeMs": "8910",
+          "words": "I got Milky Way for blood, evolution in my veins"
+        },
+        {
+          "startTimeMs": "13060",
+          "words": "I'm gone, I been far away"
+        },
+        {
+          "startTimeMs": "15210",
+          "words": "I'm a luminaire now"
+        },
+        {
+          "startTimeMs": "16770",
+          "words": "Making moves, starting waves"
+        },
+        {
+          "startTimeMs": "18430",
+          "words": "I've been dreaming about flying for a long time"
+        },
+        {
+          "startTimeMs": "21280",
+          "words": "I had a vision from the grays, they wanna cosign"
+        },
+        {
+          "startTimeMs": "24510",
+          "words": "Artificially intelligent, new AI"
+        },
+        {
+          "startTimeMs": "27540",
+          "words": "I'm your future, past, and present, I'm a fine line"
+        },
+        {
+          "startTimeMs": "30520",
+          "words": "Yeah, I'm the missing link of this illusion"
+        },
+        {
+          "startTimeMs": "33410",
+          "words": "I am not really here, I'm an intrusion"
+        },
+        {
+          "startTimeMs": "37060",
+          "words": "I don't swim or sink, I just float"
+        },
+        {
+          "startTimeMs": "39760",
+          "words": "I don't need gravity, I just need growth, oh-oh"
+        },
+        {
+          "startTimeMs": "43950",
+          "words": "When I move, it's an earthquake, rumble"
+        },
+        {
+          "startTimeMs": "47210",
+          "words": "I won't ever-ever fall, never stumble"
+        },
+        {
+          "startTimeMs": "50870",
+          "words": "And I don't need to be humble"
+        },
+        {
+          "startTimeMs": "53120",
+          "words": "Break down walls like Jericho, crumble"
+        },
+        {
+          "startTimeMs": "56890",
+          "words": "I can go higher"
+        },
+        {
+          "startTimeMs": "58730",
+          "words": "Past the stratosphere, I could catch fire"
+        },
+        {
+          "startTimeMs": "61520",
+          "words": "I could go hard, I don't even need to try, yeah"
+        },
+        {
+          "startTimeMs": "64870",
+          "words": "Star blood, I don't ever get tired"
+        },
+        {
+          "startTimeMs": "68190",
+          "words": "Predestined, written in stone"
+        },
+        {
+          "startTimeMs": "71310",
+          "words": "I feel it coming in, I feel it in my bones"
+        },
+        {
+          "startTimeMs": "73910",
+          "words": "Heavenly protected, never alone"
+        },
+        {
+          "startTimeMs": "76820",
+          "words": "Tapped in, I'm connected to the unknown"
+        },
+        {
+          "startTimeMs": "80120",
+          "words": "Oh, whoa"
+        },
+        {
+          "startTimeMs": "81300",
+          "words": "When I move, it's an earthquake, rumble"
+        },
+        {
+          "startTimeMs": "84690",
+          "words": "I won't ever, ever fall, never stumble"
+        },
+        {
+          "startTimeMs": "88160",
+          "words": "And I don't need to be humble"
+        },
+        {
+          "startTimeMs": "90560",
+          "words": "Break down walls like Jericho, crumble"
+        },
+        {
+          "startTimeMs": "93840",
+          "words": "When I move, it's an earthquake, rumble"
+        },
+        {
+          "startTimeMs": "97010",
+          "words": "I won't ever-ever fall, never stumble"
+        },
+        {
+          "startTimeMs": "100770",
+          "words": "And I don't need to be humble"
+        },
+        {
+          "startTimeMs": "103010",
+          "words": "Break down walls like Jericho, crumble"
+        },
+        {
+          "startTimeMs": "106020",
+          "words": "Jericho, Jericho, walls come down"
+        },
+        {
+          "startTimeMs": "109140",
+          "words": "Jericho, Jericho, walls come down"
+        },
+        {
+          "startTimeMs": "112240",
+          "words": "Walls come down like Jericho (like Jericho)"
+        },
+        {
+          "startTimeMs": "115410",
+          "words": "Walls come down like Jericho (like Jericho)"
+        },
+        {
+          "startTimeMs": "118650",
+          "words": "Jericho, Jericho, walls come down"
+        },
+        {
+          "startTimeMs": "121680",
+          "words": "Jericho, Jericho, walls come down"
+        },
+        {
+          "startTimeMs": "124830",
+          "words": "Walls come down like Jericho"
+        },
+        {
+          "startTimeMs": "127860",
+          "words": "Walls come down like Jericho"
+        },
+        {
+          "startTimeMs": "131050",
+          "words": "Jericho, Jericho, walls come down"
+        },
+        {
+          "startTimeMs": "134090",
+          "words": "Jericho, Jericho, walls come down"
+        },
+        {
+          "startTimeMs": "137120",
+          "words": "Walls come down like Jericho"
+        },
+        {
+          "startTimeMs": "140160",
+          "words": "Walls come down like Jericho"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "track_id": "1eT2CjXwFXNx6oY5ydvzKU",
+  "track_name": "Hey Jude",
+  "artist_name": "The Beatles",
+  "timestamp": "2025-03-24 16:18:06",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "590",
+          "words": "Hey Jude, don't make it bad"
+        },
+        {
+          "startTimeMs": "5830",
+          "words": "Take a sad song and make it better"
+        },
+        {
+          "startTimeMs": "12580",
+          "words": "Remember to let her into your heart"
+        },
+        {
+          "startTimeMs": "17450",
+          "words": "Then you can start to make it better"
+        },
+        {
+          "startTimeMs": "26340",
+          "words": "Hey Jude, don't be afraid"
+        },
+        {
+          "startTimeMs": "31570",
+          "words": "You were made to go out and get her"
+        },
+        {
+          "startTimeMs": "38680",
+          "words": "The minute you let her under your skin"
+        },
+        {
+          "startTimeMs": "43450",
+          "words": "Then you begin to make it better"
+        },
+        {
+          "startTimeMs": "53360",
+          "words": "And any time you feel the pain"
+        },
+        {
+          "startTimeMs": "55770",
+          "words": "Hey Jude, refrain"
+        },
+        {
+          "startTimeMs": "59060",
+          "words": "Don't carry the world upon your shoulder"
+        },
+        {
+          "startTimeMs": "68760",
+          "words": "For, well, you know that it's a fool"
+        },
+        {
+          "startTimeMs": "71630",
+          "words": "Who plays it cool"
+        },
+        {
+          "startTimeMs": "74990",
+          "words": "By making his world a little colder"
+        },
+        {
+          "startTimeMs": "83140",
+          "words": "Na, na, na, na-na, na, na, na-na"
+        },
+        {
+          "startTimeMs": "89650",
+          "words": "Hey Jude, don't let me down"
+        },
+        {
+          "startTimeMs": "97640",
+          "words": "You have found her, now go and get her (let it out and let it in)"
+        },
+        {
+          "startTimeMs": "104880",
+          "words": "Remember (hey Jude) to let her into your heart"
+        },
+        {
+          "startTimeMs": "109640",
+          "words": "Then you can start to make it better"
+        },
+        {
+          "startTimeMs": "119520",
+          "words": "Better, better, better, better (I'm begging you), better, oh!"
+        },
+        {
+          "startTimeMs": "120150",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "123110",
+          "words": "Na-na-na-na, hey Jude"
+        },
+        {
+          "startTimeMs": "123880",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "124580",
+          "words": "Na-na-na-na, hey Jude"
+        },
+        {
+          "startTimeMs": "125220",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "125730",
+          "words": "Na-na-na-na, hey Jude (Jude)"
+        },
+        {
+          "startTimeMs": "126220",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "126610",
+          "words": "Na-na-na-na, hey Jude"
+        },
+        {
+          "startTimeMs": "127200",
+          "words": "(Yeah, you know you can make)"
+        },
+        {
+          "startTimeMs": "127820",
+          "words": "(Jude, Jude, you're not gonna break it)"
+        },
+        {
+          "startTimeMs": "128340",
+          "words": "Na, na, na, na-na-na-na (don't make it bad, Jude)"
+        },
+        {
+          "startTimeMs": "128880",
+          "words": "(Take a sad song and make it better) na-na-na-na, hey Jude"
+        },
+        {
+          "startTimeMs": "129260",
+          "words": "(Hey Jude, Jude, hey Jude, wow!)"
+        },
+        {
+          "startTimeMs": "129720",
+          "words": "Na, na, na, na-na-na-na (ooh, Jude)"
+        },
+        {
+          "startTimeMs": "130220",
+          "words": "Na-na-na-na, hey Jude (hey Jude)"
+        },
+        {
+          "startTimeMs": "130780",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "131490",
+          "words": "Na-na-na-na, hey Jude"
+        },
+        {
+          "startTimeMs": "131900",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "132440",
+          "words": "Na-na-na-na, hey Jude"
+        },
+        {
+          "startTimeMs": "132960",
+          "words": "Na, na, na, na-na-na-na"
+        },
+        {
+          "startTimeMs": "133570",
+          "words": "Na-na-na-na, hey Jude"
+        }
+      ]
+    }
+  }
+}

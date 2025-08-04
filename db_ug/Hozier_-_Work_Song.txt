@@ -1,0 +1,9 @@
+{
+  "track_id": "5TgEJ62DOzBpGxZ7WRsrqb",
+  "track_name": "Work Song",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-23 14:49:12",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/hozier/work-song-chords-1477621",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WORK SONG CHORDS by Hozier @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] | Bb Cm | Bb Cm | | Bb Cm | Bb | | Bb Cm | Bb Cm | | Bb Cm | Bb | [Verse 1] Bb Cm Boys workin&#039; on empty Bb Cm Is that the kinda way to face the burning heat? Bb Cm I just think abou"
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "62St7F8FfCo3x5vo1lbNjF",
+  "track_name": "What Happens When a Woman? - Live",
+  "artist_name": "Alexandra Olsavsky",
+  "timestamp": "2025-03-21 17:42:49",
+  "source_link": "https://www.google.de/search?q=Alexandra Olsavsky what happens when a woman? - live chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

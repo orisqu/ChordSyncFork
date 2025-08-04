@@ -1,0 +1,125 @@
+{
+  "track_id": "3zBhihYUHBmGd2bcQIobrF",
+  "track_name": "(Sittin' On) the Dock of the Bay",
+  "artist_name": "Otis Redding",
+  "timestamp": "2025-05-07 11:45:46",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11410",
+          "words": "Sittin' in the morning sun"
+        },
+        {
+          "startTimeMs": "15680",
+          "words": "I'll be sittin' when the evening comes"
+        },
+        {
+          "startTimeMs": "20050",
+          "words": "Watching the ships roll in"
+        },
+        {
+          "startTimeMs": "24210",
+          "words": "Then I watch 'em roll away again, yeah"
+        },
+        {
+          "startTimeMs": "30230",
+          "words": "I'm sittin' on the dock of the bay"
+        },
+        {
+          "startTimeMs": "32610",
+          "words": "Watchin' the tide roll away, ooh"
+        },
+        {
+          "startTimeMs": "38170",
+          "words": "I'm just sittin' on the dock of the bay"
+        },
+        {
+          "startTimeMs": "41990",
+          "words": "Wastin' time"
+        },
+        {
+          "startTimeMs": "47590",
+          "words": "I left my home in Georgia"
+        },
+        {
+          "startTimeMs": "52090",
+          "words": "Headed for the Frisco Bay"
+        },
+        {
+          "startTimeMs": "57320",
+          "words": "'Cause I've had nothing to live for"
+        },
+        {
+          "startTimeMs": "61430",
+          "words": "And look like nothing's gonna come my way"
+        },
+        {
+          "startTimeMs": "65680",
+          "words": "So, I'm just gon' sit on the dock of the bay"
+        },
+        {
+          "startTimeMs": "70760",
+          "words": "Watchin' the tide roll away, ooh"
+        },
+        {
+          "startTimeMs": "75740",
+          "words": "I'm sittin' on the dock of a bay"
+        },
+        {
+          "startTimeMs": "80500",
+          "words": "Wastin' time"
+        },
+        {
+          "startTimeMs": "85590",
+          "words": "Looks like nothing's gonna change"
+        },
+        {
+          "startTimeMs": "90720",
+          "words": "Everything still remains the same"
+        },
+        {
+          "startTimeMs": "95580",
+          "words": "I can't do what ten people tell me to do"
+        },
+        {
+          "startTimeMs": "100150",
+          "words": "So I guess I'll remain the same, listen"
+        },
+        {
+          "startTimeMs": "104420",
+          "words": "Sittin' here resting my bones"
+        },
+        {
+          "startTimeMs": "108010",
+          "words": "And this loneliness won't leave me alone"
+        },
+        {
+          "startTimeMs": "111920",
+          "words": "2,000 miles I roam"
+        },
+        {
+          "startTimeMs": "117190",
+          "words": "Just to make this dock my home, now"
+        },
+        {
+          "startTimeMs": "122270",
+          "words": "I'm just gon' sit at the dock of a bay"
+        },
+        {
+          "startTimeMs": "126750",
+          "words": "Watchin' the tide roll away, ooh"
+        },
+        {
+          "startTimeMs": "131650",
+          "words": "Sittin' on the dock of the bay"
+        },
+        {
+          "startTimeMs": "136910",
+          "words": "Wastin' time"
+        }
+      ]
+    }
+  }
+}

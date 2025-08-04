@@ -1,0 +1,9 @@
+{
+  "track_id": "0V2jz1cHERhQE5tDxe0qjx",
+  "track_name": "10/10",
+  "artist_name": "SHEE",
+  "timestamp": "2025-04-07 16:56:29",
+  "source_link": "https://www.google.de/search?q=SHEE 10/10 chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

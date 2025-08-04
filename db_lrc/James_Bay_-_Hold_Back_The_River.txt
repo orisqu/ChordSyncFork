@@ -1,0 +1,165 @@
+{
+  "track_id": "63lNvqjdrYxusz43JnORbE",
+  "track_name": "Hold Back The River",
+  "artist_name": "James Bay",
+  "timestamp": "2025-03-23 02:23:02",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "14430",
+          "words": "Tried to keep you close to me"
+        },
+        {
+          "startTimeMs": "20890",
+          "words": "But life got in between"
+        },
+        {
+          "startTimeMs": "28630",
+          "words": "Tried to square not being there"
+        },
+        {
+          "startTimeMs": "35100",
+          "words": "But it's there that I should have been"
+        },
+        {
+          "startTimeMs": "42520",
+          "words": "Hold back the river, let me look in your eyes"
+        },
+        {
+          "startTimeMs": "46130",
+          "words": "Hold back the river so I"
+        },
+        {
+          "startTimeMs": "49690",
+          "words": "Can stop for a minute and see where you hide"
+        },
+        {
+          "startTimeMs": "53480",
+          "words": "Hold back the river, hold back"
+        },
+        {
+          "startTimeMs": "60750",
+          "words": "Once upon a different life"
+        },
+        {
+          "startTimeMs": "67200",
+          "words": "We rode our bikes into the sky"
+        },
+        {
+          "startTimeMs": "74530",
+          "words": "But now we're caught against the tide"
+        },
+        {
+          "startTimeMs": "81370",
+          "words": "Those distant days are flashing by"
+        },
+        {
+          "startTimeMs": "88970",
+          "words": "Hold back the river, let me look in your eyes"
+        },
+        {
+          "startTimeMs": "92360",
+          "words": "Hold back the river so I"
+        },
+        {
+          "startTimeMs": "95840",
+          "words": "Can stop for a minute and be by your side"
+        },
+        {
+          "startTimeMs": "99660",
+          "words": "Hold back the river, hold back"
+        },
+        {
+          "startTimeMs": "103250",
+          "words": "Hold back the river, let me look in your eyes"
+        },
+        {
+          "startTimeMs": "106710",
+          "words": "Hold back the river so I"
+        },
+        {
+          "startTimeMs": "110060",
+          "words": "Can stop for a minute and see where you hide"
+        },
+        {
+          "startTimeMs": "113780",
+          "words": "Hold back the river, hold back"
+        },
+        {
+          "startTimeMs": "117610",
+          "words": "Oh, oh-ho, oh-oh, oh-oh"
+        },
+        {
+          "startTimeMs": "124080",
+          "words": "Oh-oh, ho-oh, oh-whoa-ho"
+        },
+        {
+          "startTimeMs": "131750",
+          "words": "Lonely water, lonely water, won't you let us wander?"
+        },
+        {
+          "startTimeMs": "142410",
+          "words": "Let us hold each other"
+        },
+        {
+          "startTimeMs": "146030",
+          "words": "Lonely water, lonely water, won't you let us wander?"
+        },
+        {
+          "startTimeMs": "156510",
+          "words": "Let us hold each other"
+        },
+        {
+          "startTimeMs": "160880",
+          "words": "Hold back the river, let me look in your eyes"
+        },
+        {
+          "startTimeMs": "164390",
+          "words": "Hold back the river so I"
+        },
+        {
+          "startTimeMs": "167890",
+          "words": "Can stop for a minute and be by your side"
+        },
+        {
+          "startTimeMs": "171590",
+          "words": "Hold back the river, hold back"
+        },
+        {
+          "startTimeMs": "175120",
+          "words": "Hold back the river, let me look in your eyes"
+        },
+        {
+          "startTimeMs": "178630",
+          "words": "Hold back the river so I"
+        },
+        {
+          "startTimeMs": "182180",
+          "words": "Can stop for a minute and be by your side"
+        },
+        {
+          "startTimeMs": "185750",
+          "words": "Hold back the river, oh"
+        },
+        {
+          "startTimeMs": "189540",
+          "words": "Lonely water, lonely water, won't you let us wander?"
+        },
+        {
+          "startTimeMs": "200110",
+          "words": "Let us hold each other"
+        },
+        {
+          "startTimeMs": "203800",
+          "words": "Lonely water, lonely water, won't you let us wander?"
+        },
+        {
+          "startTimeMs": "214430",
+          "words": "Let us hold each other"
+        }
+      ]
+    }
+  }
+}

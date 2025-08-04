@@ -1,0 +1,9 @@
+{
+  "track_id": "6ECp64rv50XVz93WvxXMGF",
+  "track_name": "This Love",
+  "artist_name": "Maroon 5",
+  "timestamp": "2025-03-23 02:17:17",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/maroon-5/this-love-chords-786697",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>THIS LOVE CHORDS (ver 4) by Maroon 5 @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"It&#039;s possible to substitute both E7/G# and Bdim7 with an E chord. [Intro] E7/G# - Am - Dm - Bdim7 x2 [Verse 1] E7/G# Am I was so high I did not recognize Dm Bdim7 the fire burning"
+}

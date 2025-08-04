@@ -1,0 +1,9 @@
+{
+  "track_id": "4kbj5MwxO1bq9wjT5g9HaA",
+  "track_name": "Shut Up and Dance",
+  "artist_name": "WALK THE MOON",
+  "timestamp": "2025-03-23 01:45:42",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/walk-the-moon/shut-up-and-dance-chords-1673689",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SHUT UP AND DANCE CHORDS by WALK THE MOON @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] G C Em D [Chorus] G C Oh don&#039;t you dare look back Em D Just keep your eyes on me. G C I said you&#039;re holding back, Em D She said shut up and dance with me! G C Em"
+}

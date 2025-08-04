@@ -1,0 +1,269 @@
+{
+  "track_id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+  "track_name": "Party In The U.S.A.",
+  "artist_name": "Miley Cyrus",
+  "timestamp": "2025-03-23 01:31:37",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9930",
+          "words": "I hopped off the plane at LAX"
+        },
+        {
+          "startTimeMs": "12260",
+          "words": "With a dream and my cardigan"
+        },
+        {
+          "startTimeMs": "14660",
+          "words": "Welcome to the land of fame excess (woah)"
+        },
+        {
+          "startTimeMs": "17590",
+          "words": "Am I gonna fit in?"
+        },
+        {
+          "startTimeMs": "19520",
+          "words": "Jumped in the cab, here I am for the first time"
+        },
+        {
+          "startTimeMs": "22780",
+          "words": "Look to my right, and I see the Hollywood sign"
+        },
+        {
+          "startTimeMs": "25080",
+          "words": "This is all so crazy"
+        },
+        {
+          "startTimeMs": "27460",
+          "words": "Everybody seems so famous"
+        },
+        {
+          "startTimeMs": "29930",
+          "words": "My tummy's turnin' and I'm feelin' kinda homesick"
+        },
+        {
+          "startTimeMs": "32730",
+          "words": "Too much pressure and I'm nervous"
+        },
+        {
+          "startTimeMs": "34740",
+          "words": "That's when the taxi man turned on the radio"
+        },
+        {
+          "startTimeMs": "37170",
+          "words": "And a Jay-Z song was on"
+        },
+        {
+          "startTimeMs": "39850",
+          "words": "And a Jay-Z song was on"
+        },
+        {
+          "startTimeMs": "42490",
+          "words": "And a Jay-Z song was on"
+        },
+        {
+          "startTimeMs": "44280",
+          "words": "So I put my hands up"
+        },
+        {
+          "startTimeMs": "45930",
+          "words": "They're playin' my song, the butterflies fly away"
+        },
+        {
+          "startTimeMs": "49560",
+          "words": "I'm noddin' my head like, yeah"
+        },
+        {
+          "startTimeMs": "52400",
+          "words": "Movin' my hips like, yeah"
+        },
+        {
+          "startTimeMs": "54770",
+          "words": "I got my hands up, they're playin' my song"
+        },
+        {
+          "startTimeMs": "57280",
+          "words": "They know I'm gonna be okay"
+        },
+        {
+          "startTimeMs": "60110",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "65280",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "70200",
+          "words": "Get to the club in my taxi cab"
+        },
+        {
+          "startTimeMs": "72260",
+          "words": "Everybody's looking at me now"
+        },
+        {
+          "startTimeMs": "74440",
+          "words": "Like, \"Who's that chick that's rockin' kicks?"
+        },
+        {
+          "startTimeMs": "77250",
+          "words": "She gotta be from out of town\""
+        },
+        {
+          "startTimeMs": "79970",
+          "words": "So hard with my girls not around me"
+        },
+        {
+          "startTimeMs": "82570",
+          "words": "It's definitely not a Nashville party"
+        },
+        {
+          "startTimeMs": "85140",
+          "words": "'Cause all I see are stilettos"
+        },
+        {
+          "startTimeMs": "87770",
+          "words": "I guess I never got the memo"
+        },
+        {
+          "startTimeMs": "89870",
+          "words": "My tummy's turnin' and I'm feelin' kinda homesick"
+        },
+        {
+          "startTimeMs": "92780",
+          "words": "Too much pressure and I'm nervous"
+        },
+        {
+          "startTimeMs": "94530",
+          "words": "That's when the DJ dropped my favorite tune"
+        },
+        {
+          "startTimeMs": "97230",
+          "words": "And a Britney song was on"
+        },
+        {
+          "startTimeMs": "99480",
+          "words": "And a Britney song was on"
+        },
+        {
+          "startTimeMs": "102160",
+          "words": "And a Britney song was on"
+        },
+        {
+          "startTimeMs": "104320",
+          "words": "So I put my hands up"
+        },
+        {
+          "startTimeMs": "106070",
+          "words": "They're playin' my song, the butterflies fly away"
+        },
+        {
+          "startTimeMs": "109820",
+          "words": "I'm noddin' my head like, yeah"
+        },
+        {
+          "startTimeMs": "112460",
+          "words": "Movin' my hips like, yeah"
+        },
+        {
+          "startTimeMs": "114500",
+          "words": "I got my hands up, they're playin' my song"
+        },
+        {
+          "startTimeMs": "117470",
+          "words": "They know I'm gonna be okay"
+        },
+        {
+          "startTimeMs": "119930",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "124860",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "130560",
+          "words": "Feel like hoppin' on a flight (on a flight)"
+        },
+        {
+          "startTimeMs": "135010",
+          "words": "Back to my hometown tonight (town tonight)"
+        },
+        {
+          "startTimeMs": "140590",
+          "words": "Something stops me every time (every time)"
+        },
+        {
+          "startTimeMs": "144840",
+          "words": "The DJ plays my song and I feel alright"
+        },
+        {
+          "startTimeMs": "149320",
+          "words": "So I put my hands up"
+        },
+        {
+          "startTimeMs": "151070",
+          "words": "They're playin' my song, the butterflies fly away"
+        },
+        {
+          "startTimeMs": "154630",
+          "words": "I'm noddin' my head like, yeah (noddin' my head)"
+        },
+        {
+          "startTimeMs": "157330",
+          "words": "Movin' my hips like, yeah (ooh, yeah)"
+        },
+        {
+          "startTimeMs": "159540",
+          "words": "I got my hands up, they're playin' my song"
+        },
+        {
+          "startTimeMs": "162330",
+          "words": "They know I'm gonna be okay (gonna be okay)"
+        },
+        {
+          "startTimeMs": "164990",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "169890",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "174690",
+          "words": "So I put my hands up"
+        },
+        {
+          "startTimeMs": "175960",
+          "words": "They're playin' my song, the butterflies fly away (flying away)"
+        },
+        {
+          "startTimeMs": "179560",
+          "words": "I'm noddin' my head like, yeah (noddin' my head like, yeah)"
+        },
+        {
+          "startTimeMs": "182730",
+          "words": "Movin' my hips like, yeah (movin' my hips like, yeah)"
+        },
+        {
+          "startTimeMs": "184740",
+          "words": "I got my hands up, they're playin' my song"
+        },
+        {
+          "startTimeMs": "187040",
+          "words": "They know I'm gonna be okay (I'm gonna be okay)"
+        },
+        {
+          "startTimeMs": "189620",
+          "words": "Yeah, it's a party in the U.S.A."
+        },
+        {
+          "startTimeMs": "194870",
+          "words": "Yeah (ha-ha-ha-ha), it's a party in the U.S.A."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "track_id": "4ZF74uJy2XGgVx8TUeYjZ8",
+  "track_name": "La Dueña del Swing",
+  "artist_name": "Los Hermanos Rosario",
+  "timestamp": "2025-04-07 19:05:00",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1900",
+          "words": "¡Já, ahora sí!"
+        },
+        {
+          "startTimeMs": "4410",
+          "words": "Los Dueños del Swing"
+        },
+        {
+          "startTimeMs": "6430",
+          "words": "¡Pa' que sepa', brother!"
+        },
+        {
+          "startTimeMs": "9230",
+          "words": "¡Ay!"
+        },
+        {
+          "startTimeMs": "20890",
+          "words": "A mí me gusta ver"
+        },
+        {
+          "startTimeMs": "22680",
+          "words": "Con la sabrosura"
+        },
+        {
+          "startTimeMs": "24080",
+          "words": "Con que esa morena"
+        },
+        {
+          "startTimeMs": "25650",
+          "words": "Mueve la cintura"
+        },
+        {
+          "startTimeMs": "27300",
+          "words": "(A mí me gusta ver)"
+        },
+        {
+          "startTimeMs": "28730",
+          "words": "(Con la sabrosura)"
+        },
+        {
+          "startTimeMs": "30350",
+          "words": "(Con que esa morena)"
+        },
+        {
+          "startTimeMs": "32070",
+          "words": "(Mueve la cintura)"
+        },
+        {
+          "startTimeMs": "33190",
+          "words": "Y a mí me gusta ver"
+        },
+        {
+          "startTimeMs": "35090",
+          "words": "Su delicadeza"
+        },
+        {
+          "startTimeMs": "36400",
+          "words": "Una mano en la cintura"
+        },
+        {
+          "startTimeMs": "38190",
+          "words": "Y otra en la cabeza"
+        },
+        {
+          "startTimeMs": "39560",
+          "words": "(A mí me gusta ver)"
+        },
+        {
+          "startTimeMs": "41050",
+          "words": "(Su delicadeza)"
+        },
+        {
+          "startTimeMs": "42700",
+          "words": "(Una mano en la cintura)"
+        },
+        {
+          "startTimeMs": "44390",
+          "words": "(Y otra en la cabeza)"
+        },
+        {
+          "startTimeMs": "45730",
+          "words": "Cuando llega al baile"
+        },
+        {
+          "startTimeMs": "47410",
+          "words": "Llama la atención"
+        },
+        {
+          "startTimeMs": "48870",
+          "words": "Y en el escenario"
+        },
+        {
+          "startTimeMs": "50290",
+          "words": "Ella se roba el show"
+        },
+        {
+          "startTimeMs": "52070",
+          "words": "Baila con su estilo"
+        },
+        {
+          "startTimeMs": "53590",
+          "words": "Como un figurín"
+        },
+        {
+          "startTimeMs": "55040",
+          "words": "Por eso es que yo digo"
+        },
+        {
+          "startTimeMs": "56400",
+          "words": "Que esa negra tiene swing"
+        },
+        {
+          "startTimeMs": "59910",
+          "words": "(¡Auuuu!)"
+        },
+        {
+          "startTimeMs": "62300",
+          "words": "(¡Rosario!)"
+        },
+        {
+          "startTimeMs": "70520",
+          "words": "A mí me gusta ver"
+        },
+        {
+          "startTimeMs": "72230",
+          "words": "Con la sabrosura"
+        },
+        {
+          "startTimeMs": "73810",
+          "words": "Con que esa morena"
+        },
+        {
+          "startTimeMs": "75340",
+          "words": "Mueve la cintura"
+        },
+        {
+          "startTimeMs": "76750",
+          "words": "(A mí me gusta ver)"
+        },
+        {
+          "startTimeMs": "78210",
+          "words": "(Con la sabrosura)"
+        },
+        {
+          "startTimeMs": "79830",
+          "words": "(Con que esa morena)"
+        },
+        {
+          "startTimeMs": "81320",
+          "words": "(Mueve la cintura)"
+        },
+        {
+          "startTimeMs": "82960",
+          "words": "Cuando llega al baile"
+        },
+        {
+          "startTimeMs": "84520",
+          "words": "Llama la atención"
+        },
+        {
+          "startTimeMs": "86060",
+          "words": "Y en el escenario"
+        },
+        {
+          "startTimeMs": "87500",
+          "words": "Ella se roba el show"
+        },
+        {
+          "startTimeMs": "89200",
+          "words": "Baila con su estilo"
+        },
+        {
+          "startTimeMs": "90860",
+          "words": "Como un figurín"
+        },
+        {
+          "startTimeMs": "92180",
+          "words": "Por eso es que yo digo"
+        },
+        {
+          "startTimeMs": "93600",
+          "words": "Que esa negra tiene swing"
+        },
+        {
+          "startTimeMs": "95160",
+          "words": "Y tiene, (swing)"
+        },
+        {
+          "startTimeMs": "96740",
+          "words": "Y baila, (swing)"
+        },
+        {
+          "startTimeMs": "98350",
+          "words": "Y goza, (swing)"
+        },
+        {
+          "startTimeMs": "99750",
+          "words": "¡Qué lindo!, (swing)"
+        },
+        {
+          "startTimeMs": "101550",
+          "words": "Y tiene, (swing)"
+        },
+        {
+          "startTimeMs": "103080",
+          "words": "Y baila, (swing)"
+        },
+        {
+          "startTimeMs": "104650",
+          "words": "Y goza, (swing)"
+        },
+        {
+          "startTimeMs": "105920",
+          "words": "¡Qué lindo!, (swing, swing, swing)"
+        },
+        {
+          "startTimeMs": "109270",
+          "words": "(Rafa, pero qué swing)"
+        },
+        {
+          "startTimeMs": "112720",
+          "words": "(Y no me la' doy manito)"
+        },
+        {
+          "startTimeMs": "119330",
+          "words": "(¡Rosario!)"
+        },
+        {
+          "startTimeMs": "121150",
+          "words": "(¡Ju, ju, ju!)"
+        },
+        {
+          "startTimeMs": "127070",
+          "words": "(¡Ja, ja, ja!)"
+        },
+        {
+          "startTimeMs": "132270",
+          "words": "Y tiene, (swing)"
+        },
+        {
+          "startTimeMs": "133990",
+          "words": "Y baila, (swing)"
+        },
+        {
+          "startTimeMs": "135490",
+          "words": "¡Qué lindo!, (swing)"
+        },
+        {
+          "startTimeMs": "136930",
+          "words": "Y goza, (swing)"
+        },
+        {
+          "startTimeMs": "138430",
+          "words": "Y tiene, (swing)"
+        },
+        {
+          "startTimeMs": "140090",
+          "words": "Y baila, (swing)"
+        },
+        {
+          "startTimeMs": "141580",
+          "words": "Y goza, (swing)"
+        },
+        {
+          "startTimeMs": "143210",
+          "words": "Con mucho, (swing, swing, swing)"
+        },
+        {
+          "startTimeMs": "145400",
+          "words": "(Moviendo la cadera), okay mujeres"
+        },
+        {
+          "startTimeMs": "147270",
+          "words": "(Moviendo la cadera), todo el mundo"
+        },
+        {
+          "startTimeMs": "148730",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "150170",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "151520",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "153060",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "154560",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "156390",
+          "words": "(A la derecha...) ¡Otra vez!"
+        },
+        {
+          "startTimeMs": "158080",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "159460",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "160980",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "162560",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "163920",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "165520",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "167060",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "168840",
+          "words": "(Swing, swing, swing)"
+        },
+        {
+          "startTimeMs": "171180",
+          "words": "(¡Jody Grasa, ahí sí hay swing!)"
+        },
+        {
+          "startTimeMs": "174950",
+          "words": "(¡Je, je, je)"
+        },
+        {
+          "startTimeMs": "181690",
+          "words": "(¡Macandi!)"
+        },
+        {
+          "startTimeMs": "194120",
+          "words": "Y tiene, (swing)"
+        },
+        {
+          "startTimeMs": "195880",
+          "words": "Y baila, (swing)"
+        },
+        {
+          "startTimeMs": "197430",
+          "words": "Y goza, (swing)"
+        },
+        {
+          "startTimeMs": "198880",
+          "words": "¡Qué lindo!, (swing)"
+        },
+        {
+          "startTimeMs": "200450",
+          "words": "Y tiene, (swing)"
+        },
+        {
+          "startTimeMs": "201930",
+          "words": "Y baila, (swing)"
+        },
+        {
+          "startTimeMs": "203580",
+          "words": "Y goza, (swing)"
+        },
+        {
+          "startTimeMs": "205170",
+          "words": "Con mucho, (swing, swing, swing)"
+        },
+        {
+          "startTimeMs": "207460",
+          "words": "(Moviendo la cadera), ahora mujeres"
+        },
+        {
+          "startTimeMs": "209060",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "210570",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "212050",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "213570",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "215120",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "216690",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "218230",
+          "words": "(A la derecha...)"
+        },
+        {
+          "startTimeMs": "219950",
+          "words": "(Moviendo la cadera), ahora"
+        },
+        {
+          "startTimeMs": "221450",
+          "words": "(Moviendo la cadera), los hombres, los hombres"
+        },
+        {
+          "startTimeMs": "223080",
+          "words": "(Moviendo la cadera), muévenla"
+        },
+        {
+          "startTimeMs": "224530",
+          "words": "(Moviendo la cadera)"
+        },
+        {
+          "startTimeMs": "225920",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "227440",
+          "words": "(A la derecha, a la izquierda)"
+        },
+        {
+          "startTimeMs": "229000",
+          "words": "(A la derecha, a la izquierda), todo el mundo"
+        },
+        {
+          "startTimeMs": "230980",
+          "words": "(Swing, swing, swing)"
+        },
+        {
+          "startTimeMs": "233270",
+          "words": "(¡Já, ay!)"
+        },
+        {
+          "startTimeMs": "236730",
+          "words": "(¡Bomba!)"
+        },
+        {
+          "startTimeMs": "243540",
+          "words": "(¡Rosario!)"
+        }
+      ]
+    }
+  }
+}

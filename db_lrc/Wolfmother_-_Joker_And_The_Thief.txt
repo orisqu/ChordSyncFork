@@ -1,0 +1,153 @@
+{
+  "track_id": "5cQjQPs8KzsmKNhBCb2Ad5",
+  "track_name": "Joker And The Thief",
+  "artist_name": "Wolfmother",
+  "timestamp": "2025-03-21 20:56:51",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "58080",
+          "words": "I said the joker is a wanted man"
+        },
+        {
+          "startTimeMs": "60980",
+          "words": "He makes his way all across the land"
+        },
+        {
+          "startTimeMs": "64200",
+          "words": "See him sifting through the sand"
+        },
+        {
+          "startTimeMs": "66600",
+          "words": "So I'll tell you all the story"
+        },
+        {
+          "startTimeMs": "68360",
+          "words": "About the joker and the thief in the night"
+        },
+        {
+          "startTimeMs": "76330",
+          "words": "He's always laughing in the midst of power"
+        },
+        {
+          "startTimeMs": "79660",
+          "words": "Always living in the final hour"
+        },
+        {
+          "startTimeMs": "82820",
+          "words": "There is always sweet and sour"
+        },
+        {
+          "startTimeMs": "85250",
+          "words": "So we are not going home"
+        },
+        {
+          "startTimeMs": "95150",
+          "words": "Can you see the joker flying over"
+        },
+        {
+          "startTimeMs": "100780",
+          "words": "As she's standing in the field of clover?"
+        },
+        {
+          "startTimeMs": "106970",
+          "words": "Watching out everyday"
+        },
+        {
+          "startTimeMs": "109760",
+          "words": "I wonder what would happen if he took her away"
+        },
+        {
+          "startTimeMs": "125470",
+          "words": "What you see, well, you might not know"
+        },
+        {
+          "startTimeMs": "128560",
+          "words": "You get the feelin', comin' after the glow"
+        },
+        {
+          "startTimeMs": "131420",
+          "words": "The vagabond is moving slow"
+        },
+        {
+          "startTimeMs": "133810",
+          "words": "So I'll tell you all the story"
+        },
+        {
+          "startTimeMs": "135850",
+          "words": "About the joker and the thief in the night"
+        },
+        {
+          "startTimeMs": "143940",
+          "words": "All the people that you see in the night"
+        },
+        {
+          "startTimeMs": "146990",
+          "words": "Hold their dreams up to the light"
+        },
+        {
+          "startTimeMs": "149960",
+          "words": "The wild beast is searching for sight"
+        },
+        {
+          "startTimeMs": "153090",
+          "words": "And we are not going home"
+        },
+        {
+          "startTimeMs": "162020",
+          "words": "Can you see the joker flying over"
+        },
+        {
+          "startTimeMs": "168280",
+          "words": "As she's standing in the field of clover?"
+        },
+        {
+          "startTimeMs": "174030",
+          "words": "Watching out everyday"
+        },
+        {
+          "startTimeMs": "177380",
+          "words": "I wonder what would happen if he took her away"
+        },
+        {
+          "startTimeMs": "254050",
+          "words": "I said the joker is a wanted man"
+        },
+        {
+          "startTimeMs": "257240",
+          "words": "He makes his way all across the land"
+        },
+        {
+          "startTimeMs": "260370",
+          "words": "See him sifting through the sand"
+        },
+        {
+          "startTimeMs": "262570",
+          "words": "So I'll tell you all the story"
+        },
+        {
+          "startTimeMs": "264060",
+          "words": "About the joker and the thief"
+        },
+        {
+          "startTimeMs": "265560",
+          "words": "I said I'll tell you all the story"
+        },
+        {
+          "startTimeMs": "267260",
+          "words": "About the the joker and the thief"
+        },
+        {
+          "startTimeMs": "268550",
+          "words": "I said, I'll tell you the story"
+        },
+        {
+          "startTimeMs": "270370",
+          "words": "About the joker and the thief in the night"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "track_id": "6r2BECwMgEoRb5yLfp0Hca",
+  "track_name": "Born This Way",
+  "artist_name": "Lady Gaga",
+  "timestamp": "2025-03-23 02:23:55",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "640",
+          "words": "It doesn't matter if you love him or capital H-I-M"
+        },
+        {
+          "startTimeMs": "10800",
+          "words": "Just put your paws up"
+        },
+        {
+          "startTimeMs": "13300",
+          "words": "'Cause you were born this way, baby"
+        },
+        {
+          "startTimeMs": "27110",
+          "words": "My mama told me when I was young, \"We are all born superstars\""
+        },
+        {
+          "startTimeMs": "34920",
+          "words": "She rolled my hair and put my lipstick on in the glass of her boudoir"
+        },
+        {
+          "startTimeMs": "42830",
+          "words": "\"There's nothing wrong with loving who you are\""
+        },
+        {
+          "startTimeMs": "45790",
+          "words": "She said, \"'Cause He made you perfect, babe"
+        },
+        {
+          "startTimeMs": "50480",
+          "words": "So hold your head up, girl, and you'll go far\""
+        },
+        {
+          "startTimeMs": "53970",
+          "words": "Listen to me when I say"
+        },
+        {
+          "startTimeMs": "57450",
+          "words": "I'm beautiful in my way 'cause God makes no mistakes"
+        },
+        {
+          "startTimeMs": "61300",
+          "words": "I'm on the right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "65230",
+          "words": "Don't hide yourself in regret, just love yourself, and you're set"
+        },
+        {
+          "startTimeMs": "69040",
+          "words": "I'm on the right track, baby, I was born this way (born this way)"
+        },
+        {
+          "startTimeMs": "73660",
+          "words": "Ooh, there ain't no other way, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "77590",
+          "words": "Baby, I was born this way (born this way)"
+        },
+        {
+          "startTimeMs": "81380",
+          "words": "Ooh, there ain't no other way, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "85300",
+          "words": "Right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "89090",
+          "words": "Don't be a drag, just be a queen"
+        },
+        {
+          "startTimeMs": "90760",
+          "words": "Don't be a drag, just be a queen"
+        },
+        {
+          "startTimeMs": "92740",
+          "words": "Don't be a drag, just be a queen"
+        },
+        {
+          "startTimeMs": "94690",
+          "words": "Don't be (don't be, don't be)"
+        },
+        {
+          "startTimeMs": "96990",
+          "words": "Give yourself prudence and love your friends"
+        },
+        {
+          "startTimeMs": "100430",
+          "words": "Subway kid, rejoice your truth"
+        },
+        {
+          "startTimeMs": "104700",
+          "words": "In the religion of the insecure, I must be myself, respect my youth"
+        },
+        {
+          "startTimeMs": "112560",
+          "words": "A different lover is not a sin, believe capital H-I-M (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "120190",
+          "words": "I love my life, I love this record, and"
+        },
+        {
+          "startTimeMs": "123670",
+          "words": "Mi amore vole fe, yah (same DNA)"
+        },
+        {
+          "startTimeMs": "127090",
+          "words": "I'm beautiful in my way 'cause God makes no mistakes"
+        },
+        {
+          "startTimeMs": "131040",
+          "words": "I'm on the right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "134800",
+          "words": "Don't hide yourself in regret, just love yourself, and you're set"
+        },
+        {
+          "startTimeMs": "138610",
+          "words": "I'm on the right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "143390",
+          "words": "Ooh, there ain't no other way, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "147210",
+          "words": "Baby, I was born this way (born this way)"
+        },
+        {
+          "startTimeMs": "151320",
+          "words": "Ooh, there ain't no other way, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "154500",
+          "words": "I'm on the right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "166230",
+          "words": "Don't be a drag, just be a queen"
+        },
+        {
+          "startTimeMs": "168150",
+          "words": "Whether you're broke or evergreen"
+        },
+        {
+          "startTimeMs": "170100",
+          "words": "You're Black, white, beige, chola descent"
+        },
+        {
+          "startTimeMs": "172020",
+          "words": "You're Lebanese, you're Orient'"
+        },
+        {
+          "startTimeMs": "174120",
+          "words": "Whether life's disabilities left you outcast, bullied, or teased"
+        },
+        {
+          "startTimeMs": "177950",
+          "words": "Rejoice and love yourself today"
+        },
+        {
+          "startTimeMs": "179820",
+          "words": "'Cause, baby, you were born this way"
+        },
+        {
+          "startTimeMs": "181460",
+          "words": "No matter gay, straight, or bi', lesbian, transgender life"
+        },
+        {
+          "startTimeMs": "185100",
+          "words": "I'm on the right track, baby, I was born to survive"
+        },
+        {
+          "startTimeMs": "189190",
+          "words": "No matter Black, white or beige, chola, or Orient' made"
+        },
+        {
+          "startTimeMs": "192950",
+          "words": "I'm on the right track, baby, I was born to be brave"
+        },
+        {
+          "startTimeMs": "196880",
+          "words": "I'm beautiful in my way 'cause God makes no mistakes"
+        },
+        {
+          "startTimeMs": "200790",
+          "words": "I'm on the right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "204550",
+          "words": "Don't hide yourself in regret, just love yourself, and you're set"
+        },
+        {
+          "startTimeMs": "208340",
+          "words": "I'm on the right track, baby, I was born this way, yeah"
+        },
+        {
+          "startTimeMs": "213040",
+          "words": "Ooh, there ain't no other way, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "216740",
+          "words": "Baby, I was born this way (born this way)"
+        },
+        {
+          "startTimeMs": "220840",
+          "words": "Ooh, there ain't no other way, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "224280",
+          "words": "I'm on the right track, baby, I was born this way"
+        },
+        {
+          "startTimeMs": "228240",
+          "words": "I was born this way, hey"
+        },
+        {
+          "startTimeMs": "230110",
+          "words": "I was born this way, hey"
+        },
+        {
+          "startTimeMs": "231770",
+          "words": "I'm on the right track, baby, I was born this way, hey"
+        },
+        {
+          "startTimeMs": "235720",
+          "words": "I was born this way, hey"
+        },
+        {
+          "startTimeMs": "237920",
+          "words": "I was born this way, hey"
+        },
+        {
+          "startTimeMs": "239540",
+          "words": "I'm on the right track, baby, I was born this way, hey"
+        },
+        {
+          "startTimeMs": "244260",
+          "words": "Same DNA, but born this way"
+        },
+        {
+          "startTimeMs": "251970",
+          "words": "Same DNA, but born this way"
+        }
+      ]
+    }
+  }
+}

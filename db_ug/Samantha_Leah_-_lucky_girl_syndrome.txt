@@ -1,0 +1,9 @@
+{
+  "track_id": "0lQL2slfegu8LCj6tsMeXD",
+  "track_name": "lucky girl syndrome",
+  "artist_name": "Samantha Leah",
+  "timestamp": "2025-03-21 17:46:09",
+  "source_link": "https://www.google.de/search?q=Samantha Leah lucky girl syndrome chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

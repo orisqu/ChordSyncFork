@@ -1,0 +1,9 @@
+{
+  "track_id": "4Ce37cRWvM1vIGGynKcs22",
+  "track_name": "Starving",
+  "artist_name": "Hailee Steinfeld",
+  "timestamp": "2025-03-23 02:20:54",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/hailee-steinfeld/starving-chords-1870745",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>STARVING CHORDS (ver 2) by Hailee Steinfeld  feat. Zedd @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Capo 4 / [Verse 1] / C Dm Am You know just what to say G Things, that scare me C Dm Am G I should just walk away but I can&#039;t move my feet C Dm Am G The more tha"
+}

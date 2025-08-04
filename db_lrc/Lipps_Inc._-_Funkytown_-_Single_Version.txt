@@ -1,0 +1,125 @@
+{
+  "track_id": "7lJIjSxAT7OcJA4zLb4q57",
+  "track_name": "Funkytown - Single Version",
+  "artist_name": "Lipps Inc.",
+  "timestamp": "2025-03-21 20:18:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "12050",
+          "words": "Gotta make a move to a town that's right for me"
+        },
+        {
+          "startTimeMs": "20090",
+          "words": "Town to keep me movin', keep me groovin' with some energy"
+        },
+        {
+          "startTimeMs": "26820",
+          "words": "Well, I talk about it, talk about it, talk about it, talk about it"
+        },
+        {
+          "startTimeMs": "35270",
+          "words": "Talk about, talk about, talk about movin'"
+        },
+        {
+          "startTimeMs": "43570",
+          "words": "Gotta move on"
+        },
+        {
+          "startTimeMs": "47350",
+          "words": "Gotta move on"
+        },
+        {
+          "startTimeMs": "51160",
+          "words": "Gotta move on"
+        },
+        {
+          "startTimeMs": "67900",
+          "words": "A-won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "71470",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "75330",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "79700",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "114970",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "118750",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "122520",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "126600",
+          "words": "Won't you take me to Funkytown?"
+        },
+        {
+          "startTimeMs": "141650",
+          "words": "Gotta make a move to a town that's right for me"
+        },
+        {
+          "startTimeMs": "149010",
+          "words": "Town to keep me movin', keep me groovin' with some energy"
+        },
+        {
+          "startTimeMs": "156370",
+          "words": "Well, I talk about it, talk about it, talk about it, talk about it"
+        },
+        {
+          "startTimeMs": "164610",
+          "words": "Talk about, talk about, talk about movin'"
+        },
+        {
+          "startTimeMs": "172860",
+          "words": "Gotta move on"
+        },
+        {
+          "startTimeMs": "176680",
+          "words": "Gotta move on"
+        },
+        {
+          "startTimeMs": "180590",
+          "words": "Gotta move on"
+        },
+        {
+          "startTimeMs": "196970",
+          "words": "(Won't you take me to) Funkytown?"
+        },
+        {
+          "startTimeMs": "200800",
+          "words": "(Won't you take me to) Funkytown?"
+        },
+        {
+          "startTimeMs": "204630",
+          "words": "(Won't you take me to) Funkytown?"
+        },
+        {
+          "startTimeMs": "208710",
+          "words": "(Won't you take me to) Funkytown?"
+        },
+        {
+          "startTimeMs": "228410",
+          "words": "(Won't you take me down to Funkytown?)"
+        },
+        {
+          "startTimeMs": "232580",
+          "words": "(Won't you take me down...)"
+        }
+      ]
+    }
+  }
+}

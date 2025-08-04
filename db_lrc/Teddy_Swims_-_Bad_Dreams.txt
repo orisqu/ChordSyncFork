@@ -1,0 +1,189 @@
+{
+  "track_id": "3BntzKsnLf2pc0dsvE3Zav",
+  "track_name": "Bad Dreams",
+  "artist_name": "Teddy Swims",
+  "timestamp": "2025-05-07 12:00:42",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15030",
+          "words": "Sun is going down, time is running out"
+        },
+        {
+          "startTimeMs": "18740",
+          "words": "No one else around but me"
+        },
+        {
+          "startTimeMs": "22680",
+          "words": "Steady losing light, steady losing my mind"
+        },
+        {
+          "startTimeMs": "26560",
+          "words": "Over shadows and gravity (ooh)"
+        },
+        {
+          "startTimeMs": "30730",
+          "words": "Without you, there ain't no place for me to hide"
+        },
+        {
+          "startTimeMs": "33880",
+          "words": "Without you, there's no way I can sleep tonight"
+        },
+        {
+          "startTimeMs": "37920",
+          "words": "What I do, for a little bit of peace and quiet"
+        },
+        {
+          "startTimeMs": "42060",
+          "words": "Without you, I keep slipping into bad dreams"
+        },
+        {
+          "startTimeMs": "48210",
+          "words": "But there's no you in I"
+        },
+        {
+          "startTimeMs": "52070",
+          "words": "No sound when I cry"
+        },
+        {
+          "startTimeMs": "55230",
+          "words": "I love you when I need you to set me free"
+        },
+        {
+          "startTimeMs": "59670",
+          "words": "From all of these bad dreams (bad dreams)"
+        },
+        {
+          "startTimeMs": "63570",
+          "words": "Waiting on the other side"
+        },
+        {
+          "startTimeMs": "67520",
+          "words": "No sound when I cry"
+        },
+        {
+          "startTimeMs": "70600",
+          "words": "I love you when I need you to set me free"
+        },
+        {
+          "startTimeMs": "74930",
+          "words": "From all of these, all of these"
+        },
+        {
+          "startTimeMs": "78120",
+          "words": "Ooh, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "81970",
+          "words": "Bad dreams"
+        },
+        {
+          "startTimeMs": "84820",
+          "words": "Ooh, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "89540",
+          "words": "All of these"
+        },
+        {
+          "startTimeMs": "91540",
+          "words": "Baby, please come around, help me settle down"
+        },
+        {
+          "startTimeMs": "95030",
+          "words": "Hellish habits cloud my head"
+        },
+        {
+          "startTimeMs": "99690",
+          "words": "What you waiting for?"
+        },
+        {
+          "startTimeMs": "101800",
+          "words": "Something physical"
+        },
+        {
+          "startTimeMs": "103490",
+          "words": "I can do this by myself"
+        },
+        {
+          "startTimeMs": "107360",
+          "words": "Without you, there ain't no place for me to hide"
+        },
+        {
+          "startTimeMs": "110960",
+          "words": "Without you, there ain't no way I can sleep tonight"
+        },
+        {
+          "startTimeMs": "115230",
+          "words": "What I do, for a little bit of peace and quiet"
+        },
+        {
+          "startTimeMs": "121650",
+          "words": "Without you, I keep slipping into bad dreams"
+        },
+        {
+          "startTimeMs": "124650",
+          "words": "But there's no you in I"
+        },
+        {
+          "startTimeMs": "128920",
+          "words": "No sound when I cry"
+        },
+        {
+          "startTimeMs": "131670",
+          "words": "I love you when I need you to set me free (to set me free)"
+        },
+        {
+          "startTimeMs": "136390",
+          "words": "From all of these (all of these), all of these"
+        },
+        {
+          "startTimeMs": "138310",
+          "words": "All of these bad dreams"
+        },
+        {
+          "startTimeMs": "140450",
+          "words": "Waiting on the other side"
+        },
+        {
+          "startTimeMs": "144300",
+          "words": "No sound when I cry"
+        },
+        {
+          "startTimeMs": "146980",
+          "words": "I love you when I need you to set me free"
+        },
+        {
+          "startTimeMs": "152060",
+          "words": "From all of these, all of these"
+        },
+        {
+          "startTimeMs": "154780",
+          "words": "Ooh, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "158880",
+          "words": "Bad dreams"
+        },
+        {
+          "startTimeMs": "160730",
+          "words": "Baby, please"
+        },
+        {
+          "startTimeMs": "162200",
+          "words": "Ooh, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "166440",
+          "words": "All of these, all of these"
+        },
+        {
+          "startTimeMs": "177200",
+          "words": "Ooh, ooh, ooh, ooh"
+        }
+      ]
+    }
+  }
+}

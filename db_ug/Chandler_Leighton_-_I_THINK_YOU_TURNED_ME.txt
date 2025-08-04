@@ -1,0 +1,9 @@
+{
+  "track_id": "60WZdX2EIKz5QWt6KXcgd0",
+  "track_name": "I THINK YOU TURNED ME",
+  "artist_name": "Chandler Leighton",
+  "timestamp": "2025-03-21 17:46:10",
+  "source_link": "https://www.google.de/search?q=Chandler Leighton i think you turned me chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

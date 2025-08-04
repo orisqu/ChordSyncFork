@@ -1,0 +1,229 @@
+{
+  "track_id": "6ujkVvJAlQ39Ra0E2tKx8M",
+  "track_name": "Conversations in the Dark - Violin Remix",
+  "artist_name": "John Legend",
+  "timestamp": "2025-03-21 17:17:54",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1580",
+          "words": "Talk"
+        },
+        {
+          "startTimeMs": "3150",
+          "words": "Let's have conversations in the dark"
+        },
+        {
+          "startTimeMs": "6850",
+          "words": "World is sleeping, I'm awake with you"
+        },
+        {
+          "startTimeMs": "12310",
+          "words": "With you"
+        },
+        {
+          "startTimeMs": "16400",
+          "words": "Watch"
+        },
+        {
+          "startTimeMs": "18130",
+          "words": "Movies that we've both already seen"
+        },
+        {
+          "startTimeMs": "22090",
+          "words": "I ain't even looking at the screen, it's true"
+        },
+        {
+          "startTimeMs": "27250",
+          "words": "I got my eyes on you"
+        },
+        {
+          "startTimeMs": "30330",
+          "words": "And you say that you're not worth it"
+        },
+        {
+          "startTimeMs": "33820",
+          "words": "You get hung up on your flaws"
+        },
+        {
+          "startTimeMs": "37520",
+          "words": "Well, in my eyes you are perfect"
+        },
+        {
+          "startTimeMs": "41490",
+          "words": "As you are"
+        },
+        {
+          "startTimeMs": "46480",
+          "words": "I will never try to change you, change you"
+        },
+        {
+          "startTimeMs": "49960",
+          "words": "I will always want the same you, same you"
+        },
+        {
+          "startTimeMs": "53750",
+          "words": "Swear on everything I pray to"
+        },
+        {
+          "startTimeMs": "57120",
+          "words": "That I won't break your heart"
+        },
+        {
+          "startTimeMs": "61550",
+          "words": "I'll be there when you get lonely, lonely"
+        },
+        {
+          "startTimeMs": "65000",
+          "words": "Keep the secrets that you told me, told me"
+        },
+        {
+          "startTimeMs": "68580",
+          "words": "And your love is all you owe me"
+        },
+        {
+          "startTimeMs": "71960",
+          "words": "And I won't break your heart"
+        },
+        {
+          "startTimeMs": "80180",
+          "words": "On"
+        },
+        {
+          "startTimeMs": "81950",
+          "words": "Sunday mornings we sleep-in 'til noon"
+        },
+        {
+          "startTimeMs": "85390",
+          "words": "Well, I can sleep forever next to you"
+        },
+        {
+          "startTimeMs": "90620",
+          "words": "Next to you"
+        },
+        {
+          "startTimeMs": "94660",
+          "words": "And we"
+        },
+        {
+          "startTimeMs": "96970",
+          "words": "We got places we both gotta be"
+        },
+        {
+          "startTimeMs": "100610",
+          "words": "But there ain't nothing I would rather do"
+        },
+        {
+          "startTimeMs": "105860",
+          "words": "Than blow off all my plans for you"
+        },
+        {
+          "startTimeMs": "110160",
+          "words": "And you say that you're not worth it"
+        },
+        {
+          "startTimeMs": "113630",
+          "words": "And get hung up on your flaws"
+        },
+        {
+          "startTimeMs": "117080",
+          "words": "But in my eyes you are perfect"
+        },
+        {
+          "startTimeMs": "121150",
+          "words": "As you are"
+        },
+        {
+          "startTimeMs": "123090",
+          "words": "As you are"
+        },
+        {
+          "startTimeMs": "125830",
+          "words": "I will never try to change you, change you"
+        },
+        {
+          "startTimeMs": "129040",
+          "words": "I will always want the same you, same you"
+        },
+        {
+          "startTimeMs": "132990",
+          "words": "Swear on everything I pray to"
+        },
+        {
+          "startTimeMs": "135860",
+          "words": "That I won't break your heart"
+        },
+        {
+          "startTimeMs": "140630",
+          "words": "I'll be there when you get lonely, lonely"
+        },
+        {
+          "startTimeMs": "144240",
+          "words": "Keep the secrets that you told me, told me"
+        },
+        {
+          "startTimeMs": "147890",
+          "words": "And your love is all you owe me"
+        },
+        {
+          "startTimeMs": "151360",
+          "words": "And I won't break your heart"
+        },
+        {
+          "startTimeMs": "157160",
+          "words": "When no one seems to notice"
+        },
+        {
+          "startTimeMs": "160570",
+          "words": "And your days, they seem so hard"
+        },
+        {
+          "startTimeMs": "164030",
+          "words": "My darling, you should know this"
+        },
+        {
+          "startTimeMs": "168120",
+          "words": "My love is everywhere you are"
+        },
+        {
+          "startTimeMs": "173710",
+          "words": "I will never try to change you, change you"
+        },
+        {
+          "startTimeMs": "176940",
+          "words": "I will always want the same you, same you"
+        },
+        {
+          "startTimeMs": "181960",
+          "words": "Swear on everything I pray to"
+        },
+        {
+          "startTimeMs": "183820",
+          "words": "That I won't break your heart"
+        },
+        {
+          "startTimeMs": "188430",
+          "words": "I'll be there when you get lonely, lonely"
+        },
+        {
+          "startTimeMs": "191940",
+          "words": "Keep the secrets that you told me, told me"
+        },
+        {
+          "startTimeMs": "195910",
+          "words": "And your love is all you owe me"
+        },
+        {
+          "startTimeMs": "199070",
+          "words": "And I won't break your heart"
+        },
+        {
+          "startTimeMs": "214520",
+          "words": "I won't break your heart"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "track_id": "6s8nHXTJVqFjXE4yVZPDHR",
+  "track_name": "Troublemaker (feat. Flo Rida)",
+  "artist_name": "Olly Murs",
+  "timestamp": "2025-03-23 02:28:01",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "190",
+          "words": "You're a troublemaker"
+        },
+        {
+          "startTimeMs": "1240",
+          "words": "You're a troublemaker"
+        },
+        {
+          "startTimeMs": "6820",
+          "words": "You ain't nothing"
+        },
+        {
+          "startTimeMs": "7380",
+          "words": "But a troublemaker girl"
+        },
+        {
+          "startTimeMs": "9490",
+          "words": "You had me hooked again from the minute you sat down"
+        },
+        {
+          "startTimeMs": "14400",
+          "words": "The way you bite your lip"
+        },
+        {
+          "startTimeMs": "15710",
+          "words": "Got my head spinnin' around"
+        },
+        {
+          "startTimeMs": "18730",
+          "words": "After a drink or two"
+        },
+        {
+          "startTimeMs": "20220",
+          "words": "I was putty in your hands"
+        },
+        {
+          "startTimeMs": "22810",
+          "words": "I don't know if I have the strength to stand"
+        },
+        {
+          "startTimeMs": "26300",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "27470",
+          "words": "Trouble-troublemaker, Yeah"
+        },
+        {
+          "startTimeMs": "29260",
+          "words": "That's your middle name"
+        },
+        {
+          "startTimeMs": "31250",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "32020",
+          "words": "I know you're no good"
+        },
+        {
+          "startTimeMs": "33580",
+          "words": "But you're stuck in my brain"
+        },
+        {
+          "startTimeMs": "35420",
+          "words": "And I wanna know"
+        },
+        {
+          "startTimeMs": "36330",
+          "words": "Why does it feel so good"
+        },
+        {
+          "startTimeMs": "38050",
+          "words": "But it hurt so bad"
+        },
+        {
+          "startTimeMs": "39450",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "40520",
+          "words": "My mind keeps saying"
+        },
+        {
+          "startTimeMs": "42160",
+          "words": "Run as fas as you can"
+        },
+        {
+          "startTimeMs": "45190",
+          "words": "I say I'm done, but then you pull me back"
+        },
+        {
+          "startTimeMs": "48940",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "50460",
+          "words": "I swear you're giving me a heart attack"
+        },
+        {
+          "startTimeMs": "52850",
+          "words": "Troublemaker!"
+        },
+        {
+          "startTimeMs": "54300",
+          "words": "It's like you're always there"
+        },
+        {
+          "startTimeMs": "56320",
+          "words": "In the corners of my mind"
+        },
+        {
+          "startTimeMs": "58460",
+          "words": "I see a silhouette every time I close my eyes"
+        },
+        {
+          "startTimeMs": "64470",
+          "words": "There must be poison in those fingertips of yours"
+        },
+        {
+          "startTimeMs": "68050",
+          "words": "'Cause I keep comin' bach again for more"
+        },
+        {
+          "startTimeMs": "72470",
+          "words": "You're a troublemaker"
+        },
+        {
+          "startTimeMs": "72700",
+          "words": "You're a troublemaker"
+        },
+        {
+          "startTimeMs": "72880",
+          "words": "You ain't nothing"
+        },
+        {
+          "startTimeMs": "72940",
+          "words": "But a troublemaker girl"
+        },
+        {
+          "startTimeMs": "73100",
+          "words": "You had me hooked again from the minute you sat down"
+        },
+        {
+          "startTimeMs": "73280",
+          "words": "The way you bite your lip"
+        },
+        {
+          "startTimeMs": "73280",
+          "words": "Got my head spinnin' around"
+        },
+        {
+          "startTimeMs": "73330",
+          "words": "After a drink or two"
+        },
+        {
+          "startTimeMs": "73330",
+          "words": "I was putty in your hands"
+        },
+        {
+          "startTimeMs": "73460",
+          "words": "I don't know if I have the strength to stand"
+        },
+        {
+          "startTimeMs": "73510",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "73670",
+          "words": "Trouble-troublemaker, Yeah"
+        },
+        {
+          "startTimeMs": "73810",
+          "words": "That's your middle name"
+        },
+        {
+          "startTimeMs": "76360",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "77680",
+          "words": "I know you're no good"
+        },
+        {
+          "startTimeMs": "78800",
+          "words": "But you're stuck in my brain"
+        },
+        {
+          "startTimeMs": "81070",
+          "words": "And I wanna know"
+        },
+        {
+          "startTimeMs": "82010",
+          "words": "Why does it feel so good"
+        },
+        {
+          "startTimeMs": "83930",
+          "words": "But it hurt so bad"
+        },
+        {
+          "startTimeMs": "85420",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "86510",
+          "words": "My mind keeps saying"
+        },
+        {
+          "startTimeMs": "87480",
+          "words": "Run as fas as you can"
+        },
+        {
+          "startTimeMs": "91000",
+          "words": "I say I'm done, but then you pull me back"
+        },
+        {
+          "startTimeMs": "94350",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "95650",
+          "words": "I swear you're giving me a heart attack"
+        },
+        {
+          "startTimeMs": "98860",
+          "words": "Troublemaker!"
+        },
+        {
+          "startTimeMs": "100360",
+          "words": "Why does it feel so good"
+        },
+        {
+          "startTimeMs": "101680",
+          "words": "But it hurt so bad"
+        },
+        {
+          "startTimeMs": "103920",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "104920",
+          "words": "My mind keeps saying"
+        },
+        {
+          "startTimeMs": "106240",
+          "words": "Run as fas as you can"
+        },
+        {
+          "startTimeMs": "108890",
+          "words": "Troublemaker"
+        },
+        {
+          "startTimeMs": "109630",
+          "words": "I say I'm done, but then you pull me back"
+        },
+        {
+          "startTimeMs": "113000",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "113920",
+          "words": "I swear you're giving me a heart attack"
+        },
+        {
+          "startTimeMs": "117430",
+          "words": "Troublemaker!"
+        },
+        {
+          "startTimeMs": "118580",
+          "words": "Maybe I'm insane"
+        },
+        {
+          "startTimeMs": "120380",
+          "words": "'Cause I keep doing the same damn thing"
+        },
+        {
+          "startTimeMs": "122650",
+          "words": "Thinking one day we gon' change"
+        },
+        {
+          "startTimeMs": "124990",
+          "words": "But you know just how to work that back"
+        },
+        {
+          "startTimeMs": "127130",
+          "words": "And make me forget my name"
+        },
+        {
+          "startTimeMs": "128570",
+          "words": "What the hell you do I won't remember"
+        },
+        {
+          "startTimeMs": "131470",
+          "words": "I'll be gone until November"
+        },
+        {
+          "startTimeMs": "133550",
+          "words": "And you'll show up"
+        },
+        {
+          "startTimeMs": "135140",
+          "words": "Again next summer, Yeah!"
+        },
+        {
+          "startTimeMs": "136560",
+          "words": "Typical middle name is Prada"
+        },
+        {
+          "startTimeMs": "138240",
+          "words": "Fit you like glove girl"
+        },
+        {
+          "startTimeMs": "139900",
+          "words": "I'm sick of the drama"
+        },
+        {
+          "startTimeMs": "141170",
+          "words": "You're a troublemaker"
+        },
+        {
+          "startTimeMs": "142270",
+          "words": "But damn girl it's like I love the trouble"
+        },
+        {
+          "startTimeMs": "144310",
+          "words": "And I can't even explain why"
+        },
+        {
+          "startTimeMs": "145590",
+          "words": "Why does it feel so good"
+        },
+        {
+          "startTimeMs": "147650",
+          "words": "But it hurt so bad"
+        },
+        {
+          "startTimeMs": "149120",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "150540",
+          "words": "My mind keeps saying"
+        },
+        {
+          "startTimeMs": "151510",
+          "words": "Run as fas as you can"
+        },
+        {
+          "startTimeMs": "153880",
+          "words": "Troublemaker"
+        },
+        {
+          "startTimeMs": "154690",
+          "words": "I say I'm done, but then you pull me back"
+        },
+        {
+          "startTimeMs": "158100",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "158900",
+          "words": "I swear you're giving me a heart attack"
+        },
+        {
+          "startTimeMs": "162120",
+          "words": "Troublemaker!"
+        },
+        {
+          "startTimeMs": "163430",
+          "words": "Why does it feel so good"
+        },
+        {
+          "startTimeMs": "165280",
+          "words": "But it hurt so bad"
+        },
+        {
+          "startTimeMs": "167250",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "168250",
+          "words": "My mind keeps saying"
+        },
+        {
+          "startTimeMs": "169900",
+          "words": "Run as fas as you can"
+        },
+        {
+          "startTimeMs": "171890",
+          "words": "Troublemaker"
+        },
+        {
+          "startTimeMs": "172620",
+          "words": "I say I'm done, but then you pull me back"
+        },
+        {
+          "startTimeMs": "176090",
+          "words": "Oh, oh, oh"
+        },
+        {
+          "startTimeMs": "177360",
+          "words": "I swear you're giving me a heart attack"
+        },
+        {
+          "startTimeMs": "180530",
+          "words": "Troublemaker!"
+        }
+      ]
+    }
+  }
+}

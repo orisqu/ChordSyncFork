@@ -1,0 +1,173 @@
+{
+  "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
+  "track_name": "Tennessee Whiskey",
+  "artist_name": "Chris Stapleton",
+  "timestamp": "2025-03-21 17:29:51",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "25080",
+          "words": "Used to spend my nights out in a bar room"
+        },
+        {
+          "startTimeMs": "32730",
+          "words": "Liquor was the only love I've known"
+        },
+        {
+          "startTimeMs": "41280",
+          "words": "But you rescued me from reachin' for the bottom"
+        },
+        {
+          "startTimeMs": "48050",
+          "words": "And brought me back from being too far gone"
+        },
+        {
+          "startTimeMs": "56030",
+          "words": "You're as smooth"
+        },
+        {
+          "startTimeMs": "62270",
+          "words": "As Tennessee whiskey"
+        },
+        {
+          "startTimeMs": "67080",
+          "words": "You're as sweet"
+        },
+        {
+          "startTimeMs": "71250",
+          "words": "As strawberry wine"
+        },
+        {
+          "startTimeMs": "77060",
+          "words": "You're as warm"
+        },
+        {
+          "startTimeMs": "80860",
+          "words": "As a glass of brandy"
+        },
+        {
+          "startTimeMs": "86050",
+          "words": "And honey, I stay stoned on your love"
+        },
+        {
+          "startTimeMs": "90360",
+          "words": "All the time"
+        },
+        {
+          "startTimeMs": "95820",
+          "words": "I've looked for love in all the same old places"
+        },
+        {
+          "startTimeMs": "104090",
+          "words": "Found the bottom of the bottles always dry"
+        },
+        {
+          "startTimeMs": "113630",
+          "words": "But when you poured out your heart I didn't waste it"
+        },
+        {
+          "startTimeMs": "120450",
+          "words": "'Cause there's nothing like your love to get me high"
+        },
+        {
+          "startTimeMs": "130440",
+          "words": "You're as smooth"
+        },
+        {
+          "startTimeMs": "139080",
+          "words": "As Tennessee whiskey"
+        },
+        {
+          "startTimeMs": "143130",
+          "words": "You're as sweet"
+        },
+        {
+          "startTimeMs": "147220",
+          "words": "As strawberry wine"
+        },
+        {
+          "startTimeMs": "151640",
+          "words": "You're as warm"
+        },
+        {
+          "startTimeMs": "156610",
+          "words": "As a glass of brandy"
+        },
+        {
+          "startTimeMs": "161580",
+          "words": "And honey, I stay stoned on your love"
+        },
+        {
+          "startTimeMs": "165370",
+          "words": "All the time"
+        },
+        {
+          "startTimeMs": "171120",
+          "words": "You're as smooth"
+        },
+        {
+          "startTimeMs": "212130",
+          "words": "As Tennessee whiskey"
+        },
+        {
+          "startTimeMs": "216820",
+          "words": "You're as sweet"
+        },
+        {
+          "startTimeMs": "222610",
+          "words": "As strawberry wine"
+        },
+        {
+          "startTimeMs": "229090",
+          "words": "You're as warm"
+        },
+        {
+          "startTimeMs": "232510",
+          "words": "As a glass of brandy"
+        },
+        {
+          "startTimeMs": "238430",
+          "words": "Honey, I stay stoned on your love"
+        },
+        {
+          "startTimeMs": "239570",
+          "words": "All the time"
+        },
+        {
+          "startTimeMs": "247650",
+          "words": "You're as smooth"
+        },
+        {
+          "startTimeMs": "252120",
+          "words": "As Tennessee whiskey"
+        },
+        {
+          "startTimeMs": "257020",
+          "words": "Tennessee Whiskey"
+        },
+        {
+          "startTimeMs": "261080",
+          "words": "Tennessee Whiskey"
+        },
+        {
+          "startTimeMs": "266590",
+          "words": "You're as smooth"
+        },
+        {
+          "startTimeMs": "271000",
+          "words": "As Tennessee Whiskey"
+        },
+        {
+          "startTimeMs": "276630",
+          "words": "Tennessee whiskey"
+        },
+        {
+          "startTimeMs": "281070",
+          "words": "Tennessee whiskey"
+        }
+      ]
+    }
+  }
+}

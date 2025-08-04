@@ -1,0 +1,9 @@
+{
+  "track_id": "1eT2CjXwFXNx6oY5ydvzKU",
+  "track_name": "Hey Jude",
+  "artist_name": "The Beatles",
+  "timestamp": "2025-03-24 16:18:05",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/the-beatles/hey-jude-chords-1061739",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>HEY JUDE CHORDS (ver 7) by The Beatles @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Hey Jude chords The Beatles 1968 (Paul McCartney) https://en.wikipedia.org/wiki/Hey_Jude Capo III * [Verse] D A A7 Asus4 A D Hey Jude, don’t make it bad, take a sad song and make it "
+}

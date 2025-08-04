@@ -1,0 +1,9 @@
+{
+  "track_id": "4Gx3c4fRMYuzI9RzBNqd53",
+  "track_name": "Royal Pain",
+  "artist_name": "Eels",
+  "timestamp": "2025-03-21 20:39:50",
+  "source_link": "https://www.google.de/search?q=Eels royal pain chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

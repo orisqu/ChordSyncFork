@@ -1,0 +1,101 @@
+{
+  "track_id": "1YnLthg0HOs8YTzgN5hVh2",
+  "track_name": "God Only Knows",
+  "artist_name": "Kina Grannis",
+  "timestamp": "2025-03-23 21:40:51",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1880",
+          "words": "I may not always love you"
+        },
+        {
+          "startTimeMs": "5920",
+          "words": "But long as there are stars above you"
+        },
+        {
+          "startTimeMs": "10320",
+          "words": "You never need to doubt it"
+        },
+        {
+          "startTimeMs": "14880",
+          "words": "I'll make you so sure about it"
+        },
+        {
+          "startTimeMs": "19380",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "28400",
+          "words": "If you should ever leave me"
+        },
+        {
+          "startTimeMs": "32800",
+          "words": "Though life would still go on, believe me"
+        },
+        {
+          "startTimeMs": "37260",
+          "words": "The world could show nothing to me"
+        },
+        {
+          "startTimeMs": "41630",
+          "words": "So what good would livin' do me?"
+        },
+        {
+          "startTimeMs": "46360",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "73420",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "82450",
+          "words": "If you should ever leave me"
+        },
+        {
+          "startTimeMs": "86750",
+          "words": "Though life would still go on, believe me"
+        },
+        {
+          "startTimeMs": "91380",
+          "words": "The world could show nothing to me"
+        },
+        {
+          "startTimeMs": "95570",
+          "words": "So what good would livin' do me?"
+        },
+        {
+          "startTimeMs": "100260",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "104680",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "109360",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "113720",
+          "words": "God only knows what I'd be without you (God only knows)"
+        },
+        {
+          "startTimeMs": "118120",
+          "words": "God only knows what I'd be without you"
+        },
+        {
+          "startTimeMs": "122760",
+          "words": "God only knows what I'd be without you (God only knows)"
+        },
+        {
+          "startTimeMs": "127250",
+          "words": "God only knows what I'd be without you"
+        }
+      ]
+    }
+  }
+}

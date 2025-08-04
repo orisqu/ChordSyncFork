@@ -1,0 +1,9 @@
+{
+  "track_id": "6s8nHXTJVqFjXE4yVZPDHR",
+  "track_name": "Troublemaker (feat. Flo Rida)",
+  "artist_name": "Olly Murs",
+  "timestamp": "2025-03-23 02:28:00",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/olly-murs/troublemaker-chords-1217401",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TROUBLEMAKER CHORDS (ver 2) by Olly Murs  feat. Flo Rida @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Olly Murs feat. Flo Rida - Troublemaker / There are a couple of tabs of this song, but I don&#039;t think any of them are suitable for novices. Hopefully this tab w"
+}

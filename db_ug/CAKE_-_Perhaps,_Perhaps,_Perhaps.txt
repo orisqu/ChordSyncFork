@@ -1,0 +1,9 @@
+{
+  "track_id": "4mwV1R7sI1sFql5aQlCmRQ",
+  "track_name": "Perhaps, Perhaps, Perhaps",
+  "artist_name": "CAKE",
+  "timestamp": "2025-03-23 14:40:58",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/cake/perhaps-perhaps-perhaps-chords-63320",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>PERHAPS PERHAPS PERHAPS CHORDS by CAKE @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Perhaps, Perhaps, Perhaps Artist : Cake Album : Fashion Nugget Song : Perhaps, perhaps, perhaps From : Thomas Juul Krahn [Verse 1] Cm You won&#039;t admit you love me Fm And so Cm Ho"
+}

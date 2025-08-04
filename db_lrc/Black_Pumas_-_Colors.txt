@@ -1,0 +1,197 @@
+{
+  "track_id": "6d4FWjx72iuRWzn1HwywLK",
+  "track_name": "Colors",
+  "artist_name": "Black Pumas",
+  "timestamp": "2025-03-23 18:53:27",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "19460",
+          "words": "I woke up to the morning sky, first"
+        },
+        {
+          "startTimeMs": "25320",
+          "words": "Baby blue, just like we rehearsed"
+        },
+        {
+          "startTimeMs": "30120",
+          "words": "When I get up off this ground"
+        },
+        {
+          "startTimeMs": "32550",
+          "words": "I shake leaves back down to the brown, brown, brown, brown"
+        },
+        {
+          "startTimeMs": "37250",
+          "words": "'Til I'm clean"
+        },
+        {
+          "startTimeMs": "45090",
+          "words": "Then I walk where I'd be shaded by the trees"
+        },
+        {
+          "startTimeMs": "49760",
+          "words": "By a meadow of green"
+        },
+        {
+          "startTimeMs": "52800",
+          "words": "For about a mile"
+        },
+        {
+          "startTimeMs": "55420",
+          "words": "I'm headed to town, town, town, in style"
+        },
+        {
+          "startTimeMs": "63080",
+          "words": "With all my favorite colors, yes, sir"
+        },
+        {
+          "startTimeMs": "68330",
+          "words": "All my favorite colors, right on"
+        },
+        {
+          "startTimeMs": "73380",
+          "words": "My sisters and my brothers"
+        },
+        {
+          "startTimeMs": "76550",
+          "words": "See 'em like no other"
+        },
+        {
+          "startTimeMs": "79640",
+          "words": "All my favorite colors"
+        },
+        {
+          "startTimeMs": "84680",
+          "words": "It's a good day to be"
+        },
+        {
+          "startTimeMs": "86870",
+          "words": "A good day for me"
+        },
+        {
+          "startTimeMs": "88750",
+          "words": "A good day to see"
+        },
+        {
+          "startTimeMs": "90560",
+          "words": "My favorite colors, colors"
+        },
+        {
+          "startTimeMs": "94270",
+          "words": "My sisters and my brothers"
+        },
+        {
+          "startTimeMs": "97150",
+          "words": "They see 'em like no other"
+        },
+        {
+          "startTimeMs": "100660",
+          "words": "All my favorite colors"
+        },
+        {
+          "startTimeMs": "105420",
+          "words": "Now take me to other side"
+        },
+        {
+          "startTimeMs": "111090",
+          "words": "Little bitty blues bird flies"
+        },
+        {
+          "startTimeMs": "116840",
+          "words": "And gray clouds, or white walls, or blue skies"
+        },
+        {
+          "startTimeMs": "121150",
+          "words": "We gon' fly, feel alright"
+        },
+        {
+          "startTimeMs": "127440",
+          "words": "And we gon' (Ooh-ooh, ooh-ooh, ooh-ooh, ooh), yeah"
+        },
+        {
+          "startTimeMs": "132780",
+          "words": "It sound like (Ooh-ooh, ooh-ooh, ooh-ooh, ooh), yeah"
+        },
+        {
+          "startTimeMs": "138730",
+          "words": "The least I can say, I anticipate"
+        },
+        {
+          "startTimeMs": "141720",
+          "words": "A homecoming parade as we renegade"
+        },
+        {
+          "startTimeMs": "144040",
+          "words": "In the morning, right on"
+        },
+        {
+          "startTimeMs": "148210",
+          "words": "With all my favorite colors, yes, sir"
+        },
+        {
+          "startTimeMs": "153580",
+          "words": "All my favorite colors, yes, ma'am"
+        },
+        {
+          "startTimeMs": "158470",
+          "words": "My sisters and my brothers"
+        },
+        {
+          "startTimeMs": "161720",
+          "words": "See 'em like no other"
+        },
+        {
+          "startTimeMs": "164230",
+          "words": "All my favorite colors"
+        },
+        {
+          "startTimeMs": "190330",
+          "words": "All my favorite colors, right"
+        },
+        {
+          "startTimeMs": "195910",
+          "words": "All my favorite colors, yes, ma'am"
+        },
+        {
+          "startTimeMs": "200790",
+          "words": "My sisters and my brothers"
+        },
+        {
+          "startTimeMs": "203720",
+          "words": "See 'em like no other"
+        },
+        {
+          "startTimeMs": "206530",
+          "words": "All my favorite colors"
+        },
+        {
+          "startTimeMs": "211470",
+          "words": "It's a good day to be"
+        },
+        {
+          "startTimeMs": "213760",
+          "words": "A good day for me"
+        },
+        {
+          "startTimeMs": "215520",
+          "words": "A good day to see my favorite colors, colors"
+        },
+        {
+          "startTimeMs": "221530",
+          "words": "My sisters and my brothers"
+        },
+        {
+          "startTimeMs": "224180",
+          "words": "They see 'em like no other"
+        },
+        {
+          "startTimeMs": "229200",
+          "words": "All my favorite colors"
+        }
+      ]
+    }
+  }
+}

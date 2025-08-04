@@ -1,0 +1,9 @@
+{
+  "track_id": "7lJIjSxAT7OcJA4zLb4q57",
+  "track_name": "Funkytown - Single Version",
+  "artist_name": "Lipps Inc.",
+  "timestamp": "2025-03-21 20:21:49",
+  "source_link": "https://www.google.de/search?q=Lipps Inc. funkytown - single  chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

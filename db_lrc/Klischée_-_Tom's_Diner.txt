@@ -1,0 +1,12 @@
+{
+  "track_id": "6fdN1txlgDkzLevWdjDfus",
+  "track_name": "Tom's Diner",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:26:53",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "track_id": "4Ce37cRWvM1vIGGynKcs22",
+  "track_name": "Starving",
+  "artist_name": "Hailee Steinfeld",
+  "timestamp": "2025-03-23 02:20:55",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9050",
+          "words": "You know just what to say, things that scare me"
+        },
+        {
+          "startTimeMs": "14120",
+          "words": "I should just walk away, but I can't move my feet"
+        },
+        {
+          "startTimeMs": "19020",
+          "words": "The more that I know you, the more that I want to"
+        },
+        {
+          "startTimeMs": "23580",
+          "words": "Something inside me's changed"
+        },
+        {
+          "startTimeMs": "27190",
+          "words": "I was so much younger yesterday"
+        },
+        {
+          "startTimeMs": "33100",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "38330",
+          "words": "Don't need no butterflies when you give me the whole damn zoo"
+        },
+        {
+          "startTimeMs": "43160",
+          "words": "By the way, right away, you do things to my body"
+        },
+        {
+          "startTimeMs": "47960",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "62490",
+          "words": "By the way, right away, you do things to my body"
+        },
+        {
+          "startTimeMs": "67230",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "72180",
+          "words": "You know just how to make my heart beat faster"
+        },
+        {
+          "startTimeMs": "76580",
+          "words": "Emotional earthquake, bring on disaster"
+        },
+        {
+          "startTimeMs": "81260",
+          "words": "You hit me head on, got me weak in my knees"
+        },
+        {
+          "startTimeMs": "85930",
+          "words": "Yeah, something inside me's changed"
+        },
+        {
+          "startTimeMs": "89430",
+          "words": "I was so much younger yesterday"
+        },
+        {
+          "startTimeMs": "94440",
+          "words": "So much younger yesterday"
+        },
+        {
+          "startTimeMs": "100570",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "105550",
+          "words": "Don't need no butterflies when you give me the whole damn zoo"
+        },
+        {
+          "startTimeMs": "110390",
+          "words": "By the way, right away, you do things to my body"
+        },
+        {
+          "startTimeMs": "115180",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "129530",
+          "words": "By the way, right away, you do things to my body"
+        },
+        {
+          "startTimeMs": "134460",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "139500",
+          "words": "You you, yeah till I tasted you"
+        },
+        {
+          "startTimeMs": "148870",
+          "words": "By the way, by the way, you do things to my body"
+        },
+        {
+          "startTimeMs": "153680",
+          "words": "I didn't know that I was starving till I tasted you"
+        },
+        {
+          "startTimeMs": "158710",
+          "words": "I didn't know till I tasted you"
+        },
+        {
+          "startTimeMs": "168670",
+          "words": "The more that I know you, the more that I want to"
+        },
+        {
+          "startTimeMs": "172500",
+          "words": "Something inside me's changed"
+        },
+        {
+          "startTimeMs": "175950",
+          "words": "I was so much younger yesterday"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "track_id": "3AIcfqqTYJzVVzZcZnGYoB",
+  "track_name": "Ever Fallen In Love",
+  "artist_name": "Pete Yorn",
+  "timestamp": "2025-03-21 20:28:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11100",
+          "words": "You spurn my natural emotions"
+        },
+        {
+          "startTimeMs": "13720",
+          "words": "You make me feel like dirt"
+        },
+        {
+          "startTimeMs": "15730",
+          "words": "And I'm hurt"
+        },
+        {
+          "startTimeMs": "21480",
+          "words": "And if I start a commotion"
+        },
+        {
+          "startTimeMs": "24370",
+          "words": "I run the risk of losing you"
+        },
+        {
+          "startTimeMs": "26850",
+          "words": "And that's worse"
+        },
+        {
+          "startTimeMs": "29390",
+          "words": "..."
+        },
+        {
+          "startTimeMs": "32130",
+          "words": "Ever fallen in love with someone"
+        },
+        {
+          "startTimeMs": "34170",
+          "words": "Ever fallen in love"
+        },
+        {
+          "startTimeMs": "35660",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "37050",
+          "words": "Ever fallen in..."
+        },
+        {
+          "startTimeMs": "38230",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "39450",
+          "words": "You shouldn't've fallen in love with"
+        },
+        {
+          "startTimeMs": "43240",
+          "words": "I can't see much of a future"
+        },
+        {
+          "startTimeMs": "45600",
+          "words": "Unless we find out what's to blame"
+        },
+        {
+          "startTimeMs": "48260",
+          "words": "What a shame"
+        },
+        {
+          "startTimeMs": "53170",
+          "words": "And we won't be together much longer"
+        },
+        {
+          "startTimeMs": "55910",
+          "words": "Unless we realize that we are the same"
+        },
+        {
+          "startTimeMs": "63780",
+          "words": "Ever fallen in love with someone"
+        },
+        {
+          "startTimeMs": "66050",
+          "words": "Ever fallen in love"
+        },
+        {
+          "startTimeMs": "67310",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "68730",
+          "words": "Ever fallen in..."
+        },
+        {
+          "startTimeMs": "69920",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "71170",
+          "words": "You shouldn't've fallen in love with"
+        },
+        {
+          "startTimeMs": "74590",
+          "words": "Ever fallen in love with someone"
+        },
+        {
+          "startTimeMs": "76490",
+          "words": "Ever fallen in love"
+        },
+        {
+          "startTimeMs": "77990",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "79220",
+          "words": "Ever fallen in..."
+        },
+        {
+          "startTimeMs": "80430",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "81980",
+          "words": "You shouldn't've fallen in love with"
+        },
+        {
+          "startTimeMs": "85450",
+          "words": "You disturb my natural emotions"
+        },
+        {
+          "startTimeMs": "87940",
+          "words": "You make me feel like dirt"
+        },
+        {
+          "startTimeMs": "90200",
+          "words": "And I'm hurt"
+        },
+        {
+          "startTimeMs": "95990",
+          "words": "And if I start a commotion"
+        },
+        {
+          "startTimeMs": "98820",
+          "words": "I'll only end up losing you"
+        },
+        {
+          "startTimeMs": "101080",
+          "words": "And that's worse"
+        },
+        {
+          "startTimeMs": "106350",
+          "words": "Ever fallen in love with someone"
+        },
+        {
+          "startTimeMs": "108720",
+          "words": "Ever fallen in love"
+        },
+        {
+          "startTimeMs": "109910",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "111220",
+          "words": "Ever fallen in..."
+        },
+        {
+          "startTimeMs": "112490",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "113970",
+          "words": "You shouldn't've fallen in love with"
+        },
+        {
+          "startTimeMs": "128050",
+          "words": "Ever fallen in love with someone"
+        },
+        {
+          "startTimeMs": "130040",
+          "words": "Ever fallen in love"
+        },
+        {
+          "startTimeMs": "131310",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "132660",
+          "words": "Ever fallen in..."
+        },
+        {
+          "startTimeMs": "134000",
+          "words": "In love with someone"
+        },
+        {
+          "startTimeMs": "135280",
+          "words": "You shouldn't've fallen in love with"
+        },
+        {
+          "startTimeMs": "138560",
+          "words": "Fallen in love with"
+        },
+        {
+          "startTimeMs": "141380",
+          "words": "Ever fallen in love with someone"
+        },
+        {
+          "startTimeMs": "143240",
+          "words": "You shouldn't've fallen in love with"
+        }
+      ]
+    }
+  }
+}

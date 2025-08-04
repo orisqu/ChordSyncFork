@@ -1,0 +1,9 @@
+{
+  "track_id": "5igPYfVEH0VVl4an4ITHez",
+  "track_name": "Tear Me Down",
+  "artist_name": "Tony Molina",
+  "timestamp": "2025-03-21 23:17:14",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/tony-molina/tear-me-down-chords-3027671",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TEAR ME DOWN CHORDS by Tony Molina @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] [Guitar 1&amp;2] D F# G A D Babe, I was glad you&#039;re the girl I found F# G A D But it seems you don&#039;t want me around B E A You build me up to tear me down [Guitar 1] P"
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "3FkP6u9dRgH1sJtlCoy7bB",
+  "track_name": "(I'd Go The) Whole Wide World",
+  "artist_name": "The Monkees",
+  "timestamp": "2025-03-21 23:15:39",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/the-monkees/whole-wide-world-chords-481716",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WHOLE WIDE WORLD CHORDS by The Monkees @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Whole Wide World by The Monkees E A E A When I was a young boy, mama she said to me, E A &quot;There&#039;s only one girl in the world for you, E A And she probably lives in Tahiti.&"
+}

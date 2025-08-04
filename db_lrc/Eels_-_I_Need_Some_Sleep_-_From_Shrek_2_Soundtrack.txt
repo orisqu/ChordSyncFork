@@ -1,0 +1,89 @@
+{
+  "track_id": "2R4XnkJVIF1r2TePH7aGjj",
+  "track_name": "I Need Some Sleep - From \"Shrek 2\" Soundtrack",
+  "artist_name": "Eels",
+  "timestamp": "2025-03-21 20:25:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15170",
+          "words": "I need some sleep"
+        },
+        {
+          "startTimeMs": "18860",
+          "words": "You can't go on like this"
+        },
+        {
+          "startTimeMs": "22240",
+          "words": "I tried countin' sheep"
+        },
+        {
+          "startTimeMs": "25910",
+          "words": "But there's one I always miss"
+        },
+        {
+          "startTimeMs": "30250",
+          "words": "Everyone says, I'm gettin' down too low"
+        },
+        {
+          "startTimeMs": "37700",
+          "words": "Everyone says, you just gotta let it go"
+        },
+        {
+          "startTimeMs": "44480",
+          "words": "You just gotta let it go"
+        },
+        {
+          "startTimeMs": "48260",
+          "words": "You just gotta let it go"
+        },
+        {
+          "startTimeMs": "60880",
+          "words": "I need some sleep"
+        },
+        {
+          "startTimeMs": "63340",
+          "words": "Time to put the old horse down"
+        },
+        {
+          "startTimeMs": "67580",
+          "words": "I'm in too deep"
+        },
+        {
+          "startTimeMs": "70430",
+          "words": "And the wheels keep spinnin' 'round"
+        },
+        {
+          "startTimeMs": "74950",
+          "words": "Everyone says, I'm gettin' down too low"
+        },
+        {
+          "startTimeMs": "82860",
+          "words": "Everyone says, you just gotta let it go"
+        },
+        {
+          "startTimeMs": "89410",
+          "words": "You just gotta let it go"
+        },
+        {
+          "startTimeMs": "93450",
+          "words": "You just gotta let it go"
+        },
+        {
+          "startTimeMs": "124350",
+          "words": "You just gotta let it go"
+        },
+        {
+          "startTimeMs": "131230",
+          "words": "You just gotta let it go"
+        },
+        {
+          "startTimeMs": "138380",
+          "words": "You just gotta let it go"
+        }
+      ]
+    }
+  }
+}

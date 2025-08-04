@@ -1,0 +1,181 @@
+{
+  "track_id": "4fHDlIntTsRGSyTg5UYZYC",
+  "track_name": "Banana Boat (Day-O)",
+  "artist_name": "Harry Belafonte",
+  "timestamp": "2025-03-21 23:08:49",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "4140",
+          "words": "Day-o, day-ay-ay-o"
+        },
+        {
+          "startTimeMs": "9310",
+          "words": "Daylight come and me wan' go home"
+        },
+        {
+          "startTimeMs": "15030",
+          "words": "Day, me say day, me say day, me say day"
+        },
+        {
+          "startTimeMs": "19470",
+          "words": "Me say day, me say day-ay-ay-o"
+        },
+        {
+          "startTimeMs": "22550",
+          "words": "Daylight come and me wan' go home"
+        },
+        {
+          "startTimeMs": "28450",
+          "words": "Work all night on a drink a'rum"
+        },
+        {
+          "startTimeMs": "33110",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "37270",
+          "words": "Stack banana 'til the morning come"
+        },
+        {
+          "startTimeMs": "41100",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "44990",
+          "words": "Come, Mr. Tally Man, tally me banana"
+        },
+        {
+          "startTimeMs": "48960",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "52680",
+          "words": "Come, Mr. Tally Man, tally me banana"
+        },
+        {
+          "startTimeMs": "56970",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "60420",
+          "words": "It's six foot, seven foot, eight foot, bunch"
+        },
+        {
+          "startTimeMs": "64520",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "68170",
+          "words": "Six foot, seven foot, eight foot, bunch"
+        },
+        {
+          "startTimeMs": "72060",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "75940",
+          "words": "Day, me say day-ay-ay-o"
+        },
+        {
+          "startTimeMs": "79860",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "84310",
+          "words": "Day, me say day, me say day, me say day"
+        },
+        {
+          "startTimeMs": "88960",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "91680",
+          "words": "A beautiful bunch a'ripe banana"
+        },
+        {
+          "startTimeMs": "95760",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "99550",
+          "words": "Hide the deadly black tarantula"
+        },
+        {
+          "startTimeMs": "103630",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "107240",
+          "words": "It's six foot, seven foot, eight foot, bunch"
+        },
+        {
+          "startTimeMs": "111200",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "115080",
+          "words": "Six foot, seven foot, eight foot, bunch"
+        },
+        {
+          "startTimeMs": "119240",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "123190",
+          "words": "Day, me say day-ay-ay-o"
+        },
+        {
+          "startTimeMs": "126930",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "130990",
+          "words": "Day, me say day, me say day, me say day"
+        },
+        {
+          "startTimeMs": "135910",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "138970",
+          "words": "Come, Mr. Tally Man, tally me banana"
+        },
+        {
+          "startTimeMs": "142950",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "146760",
+          "words": "Come, Mr. Tally Man, tally me banana"
+        },
+        {
+          "startTimeMs": "150920",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "154650",
+          "words": "Day-o, day-ay-ay-o"
+        },
+        {
+          "startTimeMs": "160140",
+          "words": "(Daylight come and me wan' go home)"
+        },
+        {
+          "startTimeMs": "166520",
+          "words": "Day, me say day, me say day, me say day"
+        },
+        {
+          "startTimeMs": "170640",
+          "words": "Me say day, me say day-ay-ay-o"
+        },
+        {
+          "startTimeMs": "174000",
+          "words": "(Daylight come and me wan' go home)"
+        }
+      ]
+    }
+  }
+}

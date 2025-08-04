@@ -1,0 +1,9 @@
+{
+  "track_id": "1C042FLYy7rP3MfnkOcnha",
+  "track_name": "Cherry Wine - Live",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-24 18:39:01",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/hozier/cherry-wine-chords-1686110",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>CHERRY WINE CHORDS (ver 2) by Hozier @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] / C F C / [Verse 1] / C C Her eyes and words are so icy Am Oh, but she burns F C Like rum on a fire C C Hot and fast and angry C As she can be Am F C I walk my days on a wire /"
+}

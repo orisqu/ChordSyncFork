@@ -1,0 +1,193 @@
+{
+  "track_id": "5p3JunprHCxClJjOmcLV8G",
+  "track_name": "Walk On the Wild Side",
+  "artist_name": "Lou Reed",
+  "timestamp": "2025-03-21 23:17:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "19440",
+          "words": "Holly came from Miami, F.L.A."
+        },
+        {
+          "startTimeMs": "24690",
+          "words": "Hitch-hiked her way across the U.S.A."
+        },
+        {
+          "startTimeMs": "28620",
+          "words": "Plucked her eyebrows on the way"
+        },
+        {
+          "startTimeMs": "30950",
+          "words": "Shaved her legs and then he was a she"
+        },
+        {
+          "startTimeMs": "33590",
+          "words": "She says, \"Hey, babe"
+        },
+        {
+          "startTimeMs": "34650",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "37340",
+          "words": "Said, \"Hey, honey"
+        },
+        {
+          "startTimeMs": "39530",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "51080",
+          "words": "Candy came from out on the Island"
+        },
+        {
+          "startTimeMs": "56750",
+          "words": "In the back room she was everybody's darling"
+        },
+        {
+          "startTimeMs": "61160",
+          "words": "But she never lost her head"
+        },
+        {
+          "startTimeMs": "63870",
+          "words": "Even when she was giving head"
+        },
+        {
+          "startTimeMs": "66030",
+          "words": "She says, \"Hey, babe"
+        },
+        {
+          "startTimeMs": "67320",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "69710",
+          "words": "Said, \"Hey, babe"
+        },
+        {
+          "startTimeMs": "72250",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "74160",
+          "words": "And the colored girls go"
+        },
+        {
+          "startTimeMs": "76030",
+          "words": "\"Doo do doo do doo do do doo...\""
+        },
+        {
+          "startTimeMs": "103620",
+          "words": "Little Joe never once gave it away"
+        },
+        {
+          "startTimeMs": "107140",
+          "words": "Everybody had to pay and pay"
+        },
+        {
+          "startTimeMs": "110710",
+          "words": "A hustle here and a hustle there"
+        },
+        {
+          "startTimeMs": "114570",
+          "words": "New York City's the place"
+        },
+        {
+          "startTimeMs": "116920",
+          "words": "Where they said, \"Hey, babe"
+        },
+        {
+          "startTimeMs": "118230",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "120530",
+          "words": "I said, \"Hey, Joe"
+        },
+        {
+          "startTimeMs": "123190",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "135660",
+          "words": "Sugar Plum Fairy came and hit the streets"
+        },
+        {
+          "startTimeMs": "138690",
+          "words": "Looking for soul food and a place to eat"
+        },
+        {
+          "startTimeMs": "142350",
+          "words": "Went to the Apollo"
+        },
+        {
+          "startTimeMs": "146290",
+          "words": "You should've seen them go, go, go"
+        },
+        {
+          "startTimeMs": "148680",
+          "words": "They said, \"Hey, sugar"
+        },
+        {
+          "startTimeMs": "150280",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "152790",
+          "words": "I said, \"Hey, babe"
+        },
+        {
+          "startTimeMs": "155100",
+          "words": "Take a walk on the wild side\", alright"
+        },
+        {
+          "startTimeMs": "159230",
+          "words": "Huh"
+        },
+        {
+          "startTimeMs": "167670",
+          "words": "Jackie is just speeding away"
+        },
+        {
+          "startTimeMs": "171170",
+          "words": "Thought she was James Dean for a day"
+        },
+        {
+          "startTimeMs": "176360",
+          "words": "Then I guess she had to crash"
+        },
+        {
+          "startTimeMs": "178720",
+          "words": "Valium would have helped that bash"
+        },
+        {
+          "startTimeMs": "180650",
+          "words": "She said, \"Hey, babe"
+        },
+        {
+          "startTimeMs": "182220",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "184970",
+          "words": "I said, \"Hey, honey"
+        },
+        {
+          "startTimeMs": "186310",
+          "words": "Take a walk on the wild side\""
+        },
+        {
+          "startTimeMs": "187950",
+          "words": "And the colored girls say"
+        },
+        {
+          "startTimeMs": "189680",
+          "words": "\"Doo do doo do doo do do doo...\""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "track_id": "3OltYYcLZUhvho5QoRbUNr",
+  "track_name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
+  "artist_name": "Counting Crows",
+  "timestamp": "2025-03-23 14:13:55",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16630",
+          "words": "So she said, what's the problem, baby?"
+        },
+        {
+          "startTimeMs": "20130",
+          "words": "What's the problem? I don't know"
+        },
+        {
+          "startTimeMs": "22210",
+          "words": "Well, maybe I'm in love (love)"
+        },
+        {
+          "startTimeMs": "24290",
+          "words": "Think about it every time I think about it"
+        },
+        {
+          "startTimeMs": "26810",
+          "words": "I can't stop thinking about it"
+        },
+        {
+          "startTimeMs": "29030",
+          "words": "How much longer will it take to cure this?"
+        },
+        {
+          "startTimeMs": "32280",
+          "words": "Just to cure it 'cause I can't ignore it if it's love (love)"
+        },
+        {
+          "startTimeMs": "36250",
+          "words": "Makes me wanna turn around and face me"
+        },
+        {
+          "startTimeMs": "38720",
+          "words": "But I don't know nothing 'bout love"
+        },
+        {
+          "startTimeMs": "42020",
+          "words": "Come on, come on, turn a little faster"
+        },
+        {
+          "startTimeMs": "45980",
+          "words": "Come on, come on, the world will follow after"
+        },
+        {
+          "startTimeMs": "49390",
+          "words": "Come on, come on, because everybody's after love"
+        },
+        {
+          "startTimeMs": "59900",
+          "words": "So I said I'm a snowball running"
+        },
+        {
+          "startTimeMs": "63530",
+          "words": "Running down into the spring that's coming"
+        },
+        {
+          "startTimeMs": "66660",
+          "words": "All this love melting under blue skies"
+        },
+        {
+          "startTimeMs": "69560",
+          "words": "Belting out sunlight, shimmering love"
+        },
+        {
+          "startTimeMs": "73090",
+          "words": "Well, baby, I surrender to the strawberry ice cream"
+        },
+        {
+          "startTimeMs": "77230",
+          "words": "Never ever end of all this love"
+        },
+        {
+          "startTimeMs": "80080",
+          "words": "Well, I didn't mean to do it"
+        },
+        {
+          "startTimeMs": "82580",
+          "words": "But there's no escaping your love"
+        },
+        {
+          "startTimeMs": "86160",
+          "words": "These lines of lightning mean we're never alone"
+        },
+        {
+          "startTimeMs": "90530",
+          "words": "Never alone, no, no"
+        },
+        {
+          "startTimeMs": "92930",
+          "words": "Come on, come on, move a little closer"
+        },
+        {
+          "startTimeMs": "96340",
+          "words": "Come on, come on, I want to hear you whisper"
+        },
+        {
+          "startTimeMs": "99870",
+          "words": "Come on, come on, settle down inside my love"
+        },
+        {
+          "startTimeMs": "106650",
+          "words": "Come on, come on, jump a little higher"
+        },
+        {
+          "startTimeMs": "110390",
+          "words": "Come on, come on, if you feel a little lighter"
+        },
+        {
+          "startTimeMs": "113880",
+          "words": "Come on, come on, we were once upon a time in love"
+        },
+        {
+          "startTimeMs": "122730",
+          "words": "We're accidentally in love"
+        },
+        {
+          "startTimeMs": "126460",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "129800",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "133370",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "136890",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "140210",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "143770",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "147100",
+          "words": "Accidentally in love"
+        },
+        {
+          "startTimeMs": "150660",
+          "words": "Accidentally"
+        },
+        {
+          "startTimeMs": "152250",
+          "words": "I'm in love, I'm in love"
+        },
+        {
+          "startTimeMs": "154150",
+          "words": "I'm in love, I'm in love"
+        },
+        {
+          "startTimeMs": "155980",
+          "words": "I'm in love, I'm in love"
+        },
+        {
+          "startTimeMs": "157670",
+          "words": "Accidentally"
+        },
+        {
+          "startTimeMs": "159240",
+          "words": "I'm in love, I'm in love"
+        },
+        {
+          "startTimeMs": "160980",
+          "words": "I'm in love, I'm in love"
+        },
+        {
+          "startTimeMs": "162670",
+          "words": "I'm in love, I'm in love"
+        },
+        {
+          "startTimeMs": "164580",
+          "words": "Accidentally"
+        },
+        {
+          "startTimeMs": "165930",
+          "words": "Come on, come on, spin a little tighter"
+        },
+        {
+          "startTimeMs": "169430",
+          "words": "Come on, come on, and the world's a little brighter"
+        },
+        {
+          "startTimeMs": "172880",
+          "words": "Come on, come on, just get yourself inside her love"
+        },
+        {
+          "startTimeMs": "179160",
+          "words": "I'm in love"
+        }
+      ]
+    }
+  }
+}

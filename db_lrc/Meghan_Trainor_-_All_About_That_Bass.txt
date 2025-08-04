@@ -1,0 +1,229 @@
+{
+  "track_id": "5jE48hhRu8E6zBDPRSkEq7",
+  "track_name": "All About That Bass",
+  "artist_name": "Meghan Trainor",
+  "timestamp": "2025-03-23 01:35:18",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "40",
+          "words": "Because you know I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "4690",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "8120",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "11840",
+          "words": "I'm all about that bass, 'bout that bass"
+        },
+        {
+          "startTimeMs": "13980",
+          "words": "Bass, bass, bass (bass)"
+        },
+        {
+          "startTimeMs": "15950",
+          "words": "Yeah, it's pretty clear, I ain't no size two"
+        },
+        {
+          "startTimeMs": "19330",
+          "words": "But I can shake it, shake it"
+        },
+        {
+          "startTimeMs": "21330",
+          "words": "Like I'm supposed to do"
+        },
+        {
+          "startTimeMs": "22980",
+          "words": "'Cause I got that boom, boom"
+        },
+        {
+          "startTimeMs": "24350",
+          "words": "That all the boys chase"
+        },
+        {
+          "startTimeMs": "26150",
+          "words": "And all the right junk in all the right places"
+        },
+        {
+          "startTimeMs": "30270",
+          "words": "I see the magazines workin' that Photoshop"
+        },
+        {
+          "startTimeMs": "33820",
+          "words": "We know that shit ain't real"
+        },
+        {
+          "startTimeMs": "35620",
+          "words": "C'mon now, make it stop"
+        },
+        {
+          "startTimeMs": "37010",
+          "words": "If you got beauty, beauty, just raise 'em up"
+        },
+        {
+          "startTimeMs": "39940",
+          "words": "'Cause every inch of you is perfect"
+        },
+        {
+          "startTimeMs": "41860",
+          "words": "From the bottom to the top"
+        },
+        {
+          "startTimeMs": "43720",
+          "words": "Yeah, my mama, she told me, \"Don't worry about your size\""
+        },
+        {
+          "startTimeMs": "47620",
+          "words": "(Shoo-wop-wop, sha-ooh-wop-wop)"
+        },
+        {
+          "startTimeMs": "50730",
+          "words": "She says, \"Boys like a little more booty to hold at night\""
+        },
+        {
+          "startTimeMs": "55610",
+          "words": "(That booty, booty, uh, that booty, booty)"
+        },
+        {
+          "startTimeMs": "58070",
+          "words": "And, no, I won't be no stick-figure silicone Barbie doll"
+        },
+        {
+          "startTimeMs": "62020",
+          "words": "(Shoo-wop-wop, sha-ooh-wop-wop)"
+        },
+        {
+          "startTimeMs": "65230",
+          "words": "So if that's what's you're into then go ahead and move along"
+        },
+        {
+          "startTimeMs": "71830",
+          "words": "Because you know I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "76280",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "79960",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "83390",
+          "words": "I'm all about that bass, 'bout that bass"
+        },
+        {
+          "startTimeMs": "85940",
+          "words": "Hey, I'm bringing booty back"
+        },
+        {
+          "startTimeMs": "89290",
+          "words": "Go ahead and tell them skinny bitches that"
+        },
+        {
+          "startTimeMs": "92670",
+          "words": "Nah, I'm just playing, I know y'all think you're fat"
+        },
+        {
+          "startTimeMs": "96280",
+          "words": "But I'm here to tell ya every inch of you is perfect from the bottom to the top"
+        },
+        {
+          "startTimeMs": "101280",
+          "words": "Yeah, my mama, she told me, \"Don't worry about your size\""
+        },
+        {
+          "startTimeMs": "105100",
+          "words": "(Shoo-wop-wop, sha-ooh-wop-wop)"
+        },
+        {
+          "startTimeMs": "107930",
+          "words": "She says, \"Boys like a little more booty to hold at night\""
+        },
+        {
+          "startTimeMs": "112870",
+          "words": "(That booty, booty, uh, that booty, booty)"
+        },
+        {
+          "startTimeMs": "115160",
+          "words": "And, no, I won't be no stick-figure silicone Barbie doll"
+        },
+        {
+          "startTimeMs": "119260",
+          "words": "(Shoo-wop-wop, sha-ooh-wop-wop)"
+        },
+        {
+          "startTimeMs": "122210",
+          "words": "So, if that's what's you're into then go ahead and move along"
+        },
+        {
+          "startTimeMs": "128950",
+          "words": "Because you know I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "133420",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "136970",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "140510",
+          "words": "I'm all about that bass, 'bout that bass"
+        },
+        {
+          "startTimeMs": "143150",
+          "words": "Because you know I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "147690",
+          "words": "I said I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "151630",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "154690",
+          "words": "I said I'm all about that bass, 'bout that bass"
+        },
+        {
+          "startTimeMs": "157650",
+          "words": "Because you know I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "162060",
+          "words": "I said I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "165810",
+          "words": "I'm all about that bass, 'bout that bass, no treble"
+        },
+        {
+          "startTimeMs": "168780",
+          "words": "I said I'm all about that bass, 'bout that bass"
+        },
+        {
+          "startTimeMs": "171970",
+          "words": "'Bout that bass, 'bout that bass, hey, hey"
+        },
+        {
+          "startTimeMs": "176390",
+          "words": "Hey, hey, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "179110",
+          "words": "You know you love this bass, ayy, haha"
+        }
+      ]
+    }
+  }
+}

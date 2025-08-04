@@ -1,0 +1,269 @@
+{
+  "track_id": "7iDa6hUg2VgEL1o1HjmfBn",
+  "track_name": "Meant to Be (feat. Florida Georgia Line)",
+  "artist_name": "Bebe Rexha",
+  "timestamp": "2025-03-23 02:05:16",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "6080",
+          "words": "Baby, lay on back and relax"
+        },
+        {
+          "startTimeMs": "8760",
+          "words": "Kick your pretty feet up on my dash"
+        },
+        {
+          "startTimeMs": "11790",
+          "words": "No need to go nowhere fast"
+        },
+        {
+          "startTimeMs": "14670",
+          "words": "Let's enjoy right here where we at"
+        },
+        {
+          "startTimeMs": "17850",
+          "words": "Who knows where this road is supposed to lead"
+        },
+        {
+          "startTimeMs": "22080",
+          "words": "We got nothing but time"
+        },
+        {
+          "startTimeMs": "24340",
+          "words": "As long as you're right here next to me"
+        },
+        {
+          "startTimeMs": "27420",
+          "words": "Everything's gonna be alright"
+        },
+        {
+          "startTimeMs": "30420",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "32180",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "34170",
+          "words": "Baby, just let it be"
+        },
+        {
+          "startTimeMs": "36640",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "38360",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "40450",
+          "words": "Baby, just let it be"
+        },
+        {
+          "startTimeMs": "43240",
+          "words": "So, won't you ride with me"
+        },
+        {
+          "startTimeMs": "45100",
+          "words": "Ride with me?"
+        },
+        {
+          "startTimeMs": "46760",
+          "words": "See where this thing goes"
+        },
+        {
+          "startTimeMs": "49210",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "51270",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "52930",
+          "words": "Baby, if it's meant to be"
+        },
+        {
+          "startTimeMs": "55580",
+          "words": "I don't mean to be so uptight"
+        },
+        {
+          "startTimeMs": "58510",
+          "words": "But my heart's been hurt a couple times"
+        },
+        {
+          "startTimeMs": "61440",
+          "words": "By a couple guys that didn't treat me right"
+        },
+        {
+          "startTimeMs": "64220",
+          "words": "I ain't gonna lie, ain't gonna lie"
+        },
+        {
+          "startTimeMs": "67910",
+          "words": "'Cause I'm tired of the fake love"
+        },
+        {
+          "startTimeMs": "70160",
+          "words": "Show me what you're made of"
+        },
+        {
+          "startTimeMs": "71960",
+          "words": "Boy, make me believe"
+        },
+        {
+          "startTimeMs": "74550",
+          "words": "Own up, girl"
+        },
+        {
+          "startTimeMs": "76410",
+          "words": "Don't you know you're beautiful?"
+        },
+        {
+          "startTimeMs": "78370",
+          "words": "And it's easy to see"
+        },
+        {
+          "startTimeMs": "80420",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "82090",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "84030",
+          "words": "Baby, just let it be"
+        },
+        {
+          "startTimeMs": "86420",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "88070",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "90190",
+          "words": "Baby, just let it be"
+        },
+        {
+          "startTimeMs": "92800",
+          "words": "So, won't you ride with me"
+        },
+        {
+          "startTimeMs": "94810",
+          "words": "Ride with me?"
+        },
+        {
+          "startTimeMs": "96520",
+          "words": "See where this thing goes"
+        },
+        {
+          "startTimeMs": "99120",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "100600",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "102790",
+          "words": "Baby, if it's meant to be"
+        },
+        {
+          "startTimeMs": "105160",
+          "words": "So, won't ride with me"
+        },
+        {
+          "startTimeMs": "107560",
+          "words": "Ride with me"
+        },
+        {
+          "startTimeMs": "109340",
+          "words": "See where this thing goes"
+        },
+        {
+          "startTimeMs": "112010",
+          "words": "Ride with me"
+        },
+        {
+          "startTimeMs": "113870",
+          "words": "Ride with me"
+        },
+        {
+          "startTimeMs": "115810",
+          "words": "Baby, if it's meant to be"
+        },
+        {
+          "startTimeMs": "117920",
+          "words": "Maybe we do"
+        },
+        {
+          "startTimeMs": "119540",
+          "words": "Maybe we don't"
+        },
+        {
+          "startTimeMs": "120940",
+          "words": "Maybe we will"
+        },
+        {
+          "startTimeMs": "122510",
+          "words": "Maybe we won't"
+        },
+        {
+          "startTimeMs": "123950",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "125780",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "127830",
+          "words": "Baby, just let it be"
+        },
+        {
+          "startTimeMs": "130170",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "132050",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "134090",
+          "words": "Baby, just let it be"
+        },
+        {
+          "startTimeMs": "136630",
+          "words": "So, won't you ride with me"
+        },
+        {
+          "startTimeMs": "138860",
+          "words": "Ride with me?"
+        },
+        {
+          "startTimeMs": "140380",
+          "words": "See where this thing goes"
+        },
+        {
+          "startTimeMs": "142750",
+          "words": "If it's meant to be"
+        },
+        {
+          "startTimeMs": "144360",
+          "words": "It'll be, it'll be"
+        },
+        {
+          "startTimeMs": "146400",
+          "words": "Baby, if it's meant to be"
+        }
+      ]
+    }
+  }
+}

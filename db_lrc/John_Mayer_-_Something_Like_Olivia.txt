@@ -1,0 +1,129 @@
+{
+  "track_id": "1aiDlPLPljMFUylWjMZras",
+  "track_name": "Something Like Olivia",
+  "artist_name": "John Mayer",
+  "timestamp": "2025-03-24 18:27:49",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "10050",
+          "words": "Well, Olivia is taken"
+        },
+        {
+          "startTimeMs": "12520",
+          "words": "But a look like hers can be found from time to time"
+        },
+        {
+          "startTimeMs": "19810",
+          "words": "Yeah, Olivia is taken"
+        },
+        {
+          "startTimeMs": "22220",
+          "words": "But a look like hers can be found from time to time"
+        },
+        {
+          "startTimeMs": "28990",
+          "words": "I'm thinking something like Olivia is"
+        },
+        {
+          "startTimeMs": "32680",
+          "words": "What I need to find"
+        },
+        {
+          "startTimeMs": "38850",
+          "words": "There's only one man in this world who gets to"
+        },
+        {
+          "startTimeMs": "42340",
+          "words": "Sleep with her by his side"
+        },
+        {
+          "startTimeMs": "48610",
+          "words": "There's only one man in this world who gets to"
+        },
+        {
+          "startTimeMs": "52050",
+          "words": "Sleep with her by his side"
+        },
+        {
+          "startTimeMs": "58200",
+          "words": "I'm thinking something like Olivia could"
+        },
+        {
+          "startTimeMs": "61880",
+          "words": "Keep me through the night"
+        },
+        {
+          "startTimeMs": "97260",
+          "words": "Now I'm not trying to steal"
+        },
+        {
+          "startTimeMs": "100680",
+          "words": "No love away from no one man"
+        },
+        {
+          "startTimeMs": "106940",
+          "words": "No, I'm not trying to steal"
+        },
+        {
+          "startTimeMs": "110380",
+          "words": "No love away from no one man"
+        },
+        {
+          "startTimeMs": "116520",
+          "words": "But if Olivia herself were at my door"
+        },
+        {
+          "startTimeMs": "120050",
+          "words": "I'd have to say, I'd let her in"
+        },
+        {
+          "startTimeMs": "126860",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "131710",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "136250",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "141160",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "145330",
+          "words": "I keep thinking something like Olivia is"
+        },
+        {
+          "startTimeMs": "149080",
+          "words": "What I need to find"
+        },
+        {
+          "startTimeMs": "155940",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "160800",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "165220",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "170040",
+          "words": "Something like Olivia"
+        },
+        {
+          "startTimeMs": "174180",
+          "words": "I keep thinking something like Olivia"
+        }
+      ]
+    }
+  }
+}

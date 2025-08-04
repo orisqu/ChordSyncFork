@@ -1,0 +1,9 @@
+{
+  "track_id": "6io0LJIP9ntX35hTfaxwQG",
+  "track_name": "Lay Down Sally",
+  "artist_name": "Eric Clapton",
+  "timestamp": "2025-03-23 15:51:03",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/eric-clapton/lay-down-sally-chords-1403270",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>LAY DOWN SALLY CHORDS (ver 2) by Eric Clapton @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] | A | A | A | A | x2 [Verse 1] A There is nothing that is wrong D In wanting you to stay here with me. A I know you&#039;ve got somewhere to go, But won&#039;t you mak"
+}

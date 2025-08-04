@@ -1,0 +1,221 @@
+{
+  "track_id": "4HlFJV71xXKIGcU3kRyttv",
+  "track_name": "Hey, Soul Sister",
+  "artist_name": "Train",
+  "timestamp": "2025-03-23 01:16:49",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "4080",
+          "words": "Hey, hey"
+        },
+        {
+          "startTimeMs": "5800",
+          "words": "Hey-hey, hey-hey"
+        },
+        {
+          "startTimeMs": "8240",
+          "words": "Hey-hey, hey-hey"
+        },
+        {
+          "startTimeMs": "11600",
+          "words": "Your lipstick stains"
+        },
+        {
+          "startTimeMs": "15170",
+          "words": "On the front lobe of my left side brains"
+        },
+        {
+          "startTimeMs": "20160",
+          "words": "I knew I wouldn't forget you"
+        },
+        {
+          "startTimeMs": "23070",
+          "words": "And so I went and let you blow my mind"
+        },
+        {
+          "startTimeMs": "31370",
+          "words": "Your sweet moonbeam"
+        },
+        {
+          "startTimeMs": "34530",
+          "words": "The smell of you in every single dream I dream"
+        },
+        {
+          "startTimeMs": "40000",
+          "words": "I knew when we collided"
+        },
+        {
+          "startTimeMs": "42330",
+          "words": "You're the one I have decided who's one of my kind"
+        },
+        {
+          "startTimeMs": "51500",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "53620",
+          "words": "Ain't that Mr. Mister on the radio, stereo"
+        },
+        {
+          "startTimeMs": "58530",
+          "words": "The way you move ain't fair, you know"
+        },
+        {
+          "startTimeMs": "61440",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "63740",
+          "words": "I don't wanna miss a single thing you do tonight"
+        },
+        {
+          "startTimeMs": "73220",
+          "words": "Hey, hey"
+        },
+        {
+          "startTimeMs": "74870",
+          "words": "Hey-hey, hey-hey"
+        },
+        {
+          "startTimeMs": "77580",
+          "words": "Hey-hey, hey-hey"
+        },
+        {
+          "startTimeMs": "81160",
+          "words": "Just in time"
+        },
+        {
+          "startTimeMs": "84490",
+          "words": "I'm so glad you have a one-track mind like me"
+        },
+        {
+          "startTimeMs": "89970",
+          "words": "You gave my life direction"
+        },
+        {
+          "startTimeMs": "92350",
+          "words": "A game show love connection we can't deny"
+        },
+        {
+          "startTimeMs": "100880",
+          "words": "I'm so obsessed"
+        },
+        {
+          "startTimeMs": "104040",
+          "words": "My heart is bound to beat right out my untrimmed chest"
+        },
+        {
+          "startTimeMs": "109220",
+          "words": "I believe in you, like a virgin, you're Madonna"
+        },
+        {
+          "startTimeMs": "114320",
+          "words": "And I'm always gonna wanna blow your mind"
+        },
+        {
+          "startTimeMs": "120980",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "123270",
+          "words": "Ain't that Mr. Mister on the radio, stereo"
+        },
+        {
+          "startTimeMs": "128040",
+          "words": "The way you move ain't fair, you know"
+        },
+        {
+          "startTimeMs": "130760",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "132850",
+          "words": "I don't wanna miss a single thing you do tonight"
+        },
+        {
+          "startTimeMs": "140840",
+          "words": "The way you can cut a rug"
+        },
+        {
+          "startTimeMs": "143100",
+          "words": "Watching you is the only drug I need"
+        },
+        {
+          "startTimeMs": "145860",
+          "words": "So gangsta, I'm so thug"
+        },
+        {
+          "startTimeMs": "147920",
+          "words": "You're the only one I'm dreaming of"
+        },
+        {
+          "startTimeMs": "150470",
+          "words": "You see, I can be myself now finally"
+        },
+        {
+          "startTimeMs": "153330",
+          "words": "In fact, there's nothing I can't be"
+        },
+        {
+          "startTimeMs": "156380",
+          "words": "I want the world to see you'll be with me"
+        },
+        {
+          "startTimeMs": "160410",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "162740",
+          "words": "Ain't that Mr. Mister on the radio, stereo"
+        },
+        {
+          "startTimeMs": "167420",
+          "words": "The way you move ain't fair, you know"
+        },
+        {
+          "startTimeMs": "170410",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "172460",
+          "words": "I don't wanna miss a single thing you do tonight"
+        },
+        {
+          "startTimeMs": "180160",
+          "words": "Hey, soul sister"
+        },
+        {
+          "startTimeMs": "182450",
+          "words": "I don't wanna miss a single thing you do tonight"
+        },
+        {
+          "startTimeMs": "191910",
+          "words": "Hey, hey"
+        },
+        {
+          "startTimeMs": "193870",
+          "words": "Hey-hey, hey-hey"
+        },
+        {
+          "startTimeMs": "196520",
+          "words": "Hey-hey, hey-hey (tonight)"
+        },
+        {
+          "startTimeMs": "202090",
+          "words": "Hey, hey"
+        },
+        {
+          "startTimeMs": "203930",
+          "words": "Hey-hey, hey-hey"
+        },
+        {
+          "startTimeMs": "206320",
+          "words": "Hey-hey, hey-hey (tonight)"
+        }
+      ]
+    }
+  }
+}

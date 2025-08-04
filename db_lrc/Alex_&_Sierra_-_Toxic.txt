@@ -1,0 +1,181 @@
+{
+  "track_id": "05MvS7aW44UFqvqK9rmhvS",
+  "track_name": "Toxic",
+  "artist_name": "Alex & Sierra",
+  "timestamp": "2025-03-21 17:17:59",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9250",
+          "words": "Baby, can't you see I'm calling?"
+        },
+        {
+          "startTimeMs": "14290",
+          "words": "A guy like you should wear a warning"
+        },
+        {
+          "startTimeMs": "18650",
+          "words": "It's dangerous, I'm falling"
+        },
+        {
+          "startTimeMs": "26990",
+          "words": "There's no escape, I can't wait"
+        },
+        {
+          "startTimeMs": "32170",
+          "words": "I need a hit"
+        },
+        {
+          "startTimeMs": "34480",
+          "words": "Baby, give me it"
+        },
+        {
+          "startTimeMs": "36580",
+          "words": "It's dangerous, I'm loving it"
+        },
+        {
+          "startTimeMs": "44800",
+          "words": "Too high, can't come down"
+        },
+        {
+          "startTimeMs": "49830",
+          "words": "Losing my head, spinnin' 'round and 'round"
+        },
+        {
+          "startTimeMs": "56270",
+          "words": "Do you feel me now?"
+        },
+        {
+          "startTimeMs": "62760",
+          "words": "With a taste of your lips, I'm on a ride"
+        },
+        {
+          "startTimeMs": "67260",
+          "words": "You're toxic, I'm slippin' under"
+        },
+        {
+          "startTimeMs": "71910",
+          "words": "With a taste of a poison paradise"
+        },
+        {
+          "startTimeMs": "75240",
+          "words": "I'm addicted to you"
+        },
+        {
+          "startTimeMs": "77820",
+          "words": "Don't you know that you're toxic?"
+        },
+        {
+          "startTimeMs": "84270",
+          "words": "Don't you love what you do?"
+        },
+        {
+          "startTimeMs": "86710",
+          "words": "Don't you know that you're toxic?"
+        },
+        {
+          "startTimeMs": "98650",
+          "words": "It's getting late to give you up"
+        },
+        {
+          "startTimeMs": "104080",
+          "words": "I took a sip from my devil's cup"
+        },
+        {
+          "startTimeMs": "108730",
+          "words": "Slowly, it's taking over me"
+        },
+        {
+          "startTimeMs": "115090",
+          "words": "Too high, can't come down"
+        },
+        {
+          "startTimeMs": "121450",
+          "words": "It's in the air and it's all around"
+        },
+        {
+          "startTimeMs": "128060",
+          "words": "Can you feel me now?"
+        },
+        {
+          "startTimeMs": "134420",
+          "words": "With a taste of your lips, I'm on a ride"
+        },
+        {
+          "startTimeMs": "139080",
+          "words": "You're toxic, I'm slippin' under"
+        },
+        {
+          "startTimeMs": "143670",
+          "words": "With a taste of a poison paradise"
+        },
+        {
+          "startTimeMs": "147390",
+          "words": "I'm addicted to you"
+        },
+        {
+          "startTimeMs": "149510",
+          "words": "Don't you know that you're toxic?"
+        },
+        {
+          "startTimeMs": "156400",
+          "words": "Don't you love what you do?"
+        },
+        {
+          "startTimeMs": "158520",
+          "words": "Don't you know that you're toxic, yeah?"
+        },
+        {
+          "startTimeMs": "171090",
+          "words": "Intoxicate me now with your lovin' now"
+        },
+        {
+          "startTimeMs": "174560",
+          "words": "I think I'm ready now, I think I'm ready now"
+        },
+        {
+          "startTimeMs": "179620",
+          "words": "Intoxicate me now with your lovin' now"
+        },
+        {
+          "startTimeMs": "184330",
+          "words": "I think I'm ready now, I think I'm ready now"
+        },
+        {
+          "startTimeMs": "188650",
+          "words": "Intoxicate me now with your lovin' now"
+        },
+        {
+          "startTimeMs": "193300",
+          "words": "I think I'm ready now, I think I'm ready now"
+        },
+        {
+          "startTimeMs": "197510",
+          "words": "Intoxicate me now with your lovin' now"
+        },
+        {
+          "startTimeMs": "202540",
+          "words": "I think I'm ready now, I think I'm ready now"
+        },
+        {
+          "startTimeMs": "206600",
+          "words": "Intoxicate me now with your lovin' now"
+        },
+        {
+          "startTimeMs": "211340",
+          "words": "I think I'm ready now, I think I'm ready now"
+        },
+        {
+          "startTimeMs": "234120",
+          "words": "Intoxicate me now with your lovin' now"
+        },
+        {
+          "startTimeMs": "238170",
+          "words": "I think I'm ready now, I think I'm ready now"
+        }
+      ]
+    }
+  }
+}

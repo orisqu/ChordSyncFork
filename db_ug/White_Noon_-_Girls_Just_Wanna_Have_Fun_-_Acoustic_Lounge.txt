@@ -1,0 +1,9 @@
+{
+  "track_id": "0qmCY6HSUythpP4RnlLcJE",
+  "track_name": "Girls Just Wanna Have Fun - Acoustic Lounge",
+  "artist_name": "White Noon",
+  "timestamp": "2025-03-21 18:06:56",
+  "source_link": "https://www.google.de/search?q=White Noon girls just wanna have fun - acoustic lounge chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

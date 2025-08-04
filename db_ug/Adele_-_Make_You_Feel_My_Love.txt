@@ -1,0 +1,9 @@
+{
+  "track_id": "5FgPwJ7Nh2FVmIXviKl2VF",
+  "track_name": "Make You Feel My Love",
+  "artist_name": "Adele",
+  "timestamp": "2025-03-21 17:30:37",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/adele/make-you-feel-my-love-chords-752102",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>MAKE YOU FEEL MY LOVE CHORDS by Adele @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] |G | D | F | C | |Cm | G |A7 D7| G | [Verse 1] G D When the rain is blowing in your face F C And the whole world is on your case Cm G I could offer you a warm embrace A7 D7 G "
+}

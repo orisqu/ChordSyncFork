@@ -1,0 +1,9 @@
+{
+  "track_id": "1aiDlPLPljMFUylWjMZras",
+  "track_name": "Something Like Olivia",
+  "artist_name": "John Mayer",
+  "timestamp": "2025-03-24 18:27:48",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/john-mayer/something-like-olivia-chords-1053042",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SOMETHING LIKE OLIVIA ACOUSTIC  CHORDS by John Mayer @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"This is based on the acoustic Hotel Cafe Performance Something Like Olivia – John Mayer Chords by Jason Wolpers (Reason141) / [Verse 1] G Well, Olivia is taken C But a "
+}

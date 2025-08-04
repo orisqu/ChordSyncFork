@@ -1,0 +1,12 @@
+{
+  "track_id": "4afAeCMf15ClvLrAXwA3V9",
+  "track_name": "Lograremos ser humanos",
+  "artist_name": "Francisco \"Pancho\" Céspedes",
+  "timestamp": "2025-03-23 14:02:41",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

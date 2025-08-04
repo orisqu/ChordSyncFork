@@ -1,0 +1,9 @@
+{
+  "track_id": "5GoSyDfZhhluHCJFXduVz7",
+  "track_name": "if u wanna",
+  "artist_name": "Jades Goudreault",
+  "timestamp": "2025-03-21 17:46:11",
+  "source_link": "https://www.google.de/search?q=Jades Goudreault if u wanna chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

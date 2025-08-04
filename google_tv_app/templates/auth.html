@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChordSync TV - Authentication</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tv_styles.css') }}">
+</head>
+<body class="auth-page">
+    <div class="auth-container">
+        <div class="logo-container">
+            <h1>ChordSync TV</h1>
+            <div class="logo-ascii">
+<pre>
+   _____ _                   _  _____                  
+  / ____| |                 | |/ ____|                 
+ | |    | |__   ___  _ __ __| | (___  _   _ _ __   ___ 
+ | |    | '_ \ / _ \| '__/ _` |\___ \| | | | '_ \ / __|
+ | |____| | | | (_) | | | (_| |____) | |_| | | | | (__ 
+  \_____|_| |_|\___/|_|  \__,_|_____/ \__, |_| |_|\___|
+                                       __/ |           
+                                      |___/            
+</pre>
+        </div>
+        <h2>Google TV Edition</h2>
+        </div>
+        <div class="auth-message">
+            <p>Welcome to ChordSync TV!</p>
+            <p>This is a view-only interface for Google TV that displays chord sheets synchronized with your Spotify playback.</p>
+            <p>To get started, you need to authenticate with Spotify.</p>
+            <a href="{{ url_for('device_auth') }}" class="auth-button">Begin Authentication</a>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/tv_auth.js') }}"></script>
+</body>
+</html>

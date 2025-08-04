@@ -1,0 +1,149 @@
+{
+  "track_id": "6aBUnkXuCEQQHAlTokv9or",
+  "track_name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+  "artist_name": "Talking Heads",
+  "timestamp": "2025-03-21 23:17:21",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "63880",
+          "words": "Home is where I want to be"
+        },
+        {
+          "startTimeMs": "67540",
+          "words": "Pick me up and turn me around"
+        },
+        {
+          "startTimeMs": "71680",
+          "words": "I feel numb, born with a weak heart"
+        },
+        {
+          "startTimeMs": "76140",
+          "words": "I guess I must be having fun"
+        },
+        {
+          "startTimeMs": "80440",
+          "words": "The less we say about it, the better"
+        },
+        {
+          "startTimeMs": "84790",
+          "words": "Make it up as we go along"
+        },
+        {
+          "startTimeMs": "88890",
+          "words": "Feet on the ground, head in the sky"
+        },
+        {
+          "startTimeMs": "93150",
+          "words": "It's okay, I know nothing's wrong, nothing"
+        },
+        {
+          "startTimeMs": "97840",
+          "words": "I, I got plenty of time"
+        },
+        {
+          "startTimeMs": "106210",
+          "words": "I, you got light in your eyes"
+        },
+        {
+          "startTimeMs": "113430",
+          "words": "And you're standing here beside me"
+        },
+        {
+          "startTimeMs": "118560",
+          "words": "I love the passing of time"
+        },
+        {
+          "startTimeMs": "122850",
+          "words": "Never for money, always for love"
+        },
+        {
+          "startTimeMs": "126850",
+          "words": "Cover up and say goodnight, say goodnight"
+        },
+        {
+          "startTimeMs": "168800",
+          "words": "Home is where I want to be"
+        },
+        {
+          "startTimeMs": "172460",
+          "words": "But I guess I'm already there"
+        },
+        {
+          "startTimeMs": "176600",
+          "words": "I come home, she lifted up her wings"
+        },
+        {
+          "startTimeMs": "181090",
+          "words": "I guess that this must be the place"
+        },
+        {
+          "startTimeMs": "185460",
+          "words": "I can't tell one from another"
+        },
+        {
+          "startTimeMs": "189680",
+          "words": "Did I find you, or you find me?"
+        },
+        {
+          "startTimeMs": "194070",
+          "words": "There was a time before we were born"
+        },
+        {
+          "startTimeMs": "197720",
+          "words": "If someone asks, this is where I'll be, where I'll be"
+        },
+        {
+          "startTimeMs": "202920",
+          "words": "I, we drift in and out"
+        },
+        {
+          "startTimeMs": "211170",
+          "words": "I, sing into my mouth"
+        },
+        {
+          "startTimeMs": "218160",
+          "words": "Out of all those kinds of people"
+        },
+        {
+          "startTimeMs": "223540",
+          "words": "You got a face with a view"
+        },
+        {
+          "startTimeMs": "227660",
+          "words": "I'm just an animal looking for a home"
+        },
+        {
+          "startTimeMs": "231110",
+          "words": "And share the same space for a minute or two"
+        },
+        {
+          "startTimeMs": "235160",
+          "words": "And you love me 'til my heart stops"
+        },
+        {
+          "startTimeMs": "240680",
+          "words": "Love me 'til I'm dead"
+        },
+        {
+          "startTimeMs": "244560",
+          "words": "Eyes that light up, eyes look through you"
+        },
+        {
+          "startTimeMs": "248350",
+          "words": "Cover up the blank spots"
+        },
+        {
+          "startTimeMs": "250630",
+          "words": "Hit me on the head, I got"
+        },
+        {
+          "startTimeMs": "252740",
+          "words": "\"Ooh-ooh-ooh-ooh\""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "track_id": "5XMSixVxbXMS9zmpdS3p4Z",
+  "track_name": "Reflejo (Pop Version)",
+  "artist_name": "Malú",
+  "timestamp": "2025-03-24 16:55:09",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "10940",
+          "words": "Mírame"
+        },
+        {
+          "startTimeMs": "12680",
+          "words": "Yo no sé si al fin lograré encontrar"
+        },
+        {
+          "startTimeMs": "15300",
+          "words": "Quién hay tras mi reflejo"
+        },
+        {
+          "startTimeMs": "21280",
+          "words": "Me marché"
+        },
+        {
+          "startTimeMs": "22680",
+          "words": "Y mi corazón quedó atrás"
+        },
+        {
+          "startTimeMs": "27850",
+          "words": "Lo que ves"
+        },
+        {
+          "startTimeMs": "30140",
+          "words": "Es sólo un papel que representar"
+        },
+        {
+          "startTimeMs": "43390",
+          "words": "Dime a quién puedo engañar"
+        },
+        {
+          "startTimeMs": "44640",
+          "words": "¿Quién hay dentro de mí?"
+        },
+        {
+          "startTimeMs": "47110",
+          "words": "En un espejo me perdí"
+        },
+        {
+          "startTimeMs": "51790",
+          "words": "Mi reflejo me dirá"
+        },
+        {
+          "startTimeMs": "55850",
+          "words": "Quién soy de verdad"
+        },
+        {
+          "startTimeMs": "58820",
+          "words": "Y ahora estoy"
+        },
+        {
+          "startTimeMs": "66020",
+          "words": "Ocultando siempre mi corazón"
+        },
+        {
+          "startTimeMs": "70640",
+          "words": "Y todo en lo que creo"
+        },
+        {
+          "startTimeMs": "75780",
+          "words": "Pero sé"
+        },
+        {
+          "startTimeMs": "77640",
+          "words": "Que detrás del velo esta la razón"
+        },
+        {
+          "startTimeMs": "83180",
+          "words": "Y me amarás por lo que soy"
+        },
+        {
+          "startTimeMs": "92340",
+          "words": "¿Quién hay dentro de mí?"
+        },
+        {
+          "startTimeMs": "95240",
+          "words": "En un espejo me perdí"
+        },
+        {
+          "startTimeMs": "99190",
+          "words": "¿Cuándo mi reflejo me dirá"
+        },
+        {
+          "startTimeMs": "105690",
+          "words": "Quien soy?"
+        },
+        {
+          "startTimeMs": "108350",
+          "words": "Debo disimular"
+        },
+        {
+          "startTimeMs": "108350",
+          "words": "Y cambiar la realidad"
+        },
+        {
+          "startTimeMs": "120410",
+          "words": "Mi reflejo me dirá"
+        },
+        {
+          "startTimeMs": "124330",
+          "words": "Quién soy de verdad"
+        },
+        {
+          "startTimeMs": "130870",
+          "words": "Debo luchar hasta el fin"
+        },
+        {
+          "startTimeMs": "135250",
+          "words": "Y volar"
+        },
+        {
+          "startTimeMs": "140350",
+          "words": "Y el Sol"
+        },
+        {
+          "startTimeMs": "142600",
+          "words": "Quemará las sombras que hay"
+        },
+        {
+          "startTimeMs": "144060",
+          "words": "Dentro"
+        },
+        {
+          "startTimeMs": "145110",
+          "words": "Qué difícil es sentir"
+        },
+        {
+          "startTimeMs": "153090",
+          "words": "Ser fuerte y sobrevivir"
+        },
+        {
+          "startTimeMs": "158160",
+          "words": "No voy a esconderme nunca más"
+        },
+        {
+          "startTimeMs": "168080",
+          "words": "No más"
+        },
+        {
+          "startTimeMs": "170070",
+          "words": "No debo disimular"
+        },
+        {
+          "startTimeMs": "170720",
+          "words": "Ni cambiar la realidad"
+        },
+        {
+          "startTimeMs": "176220",
+          "words": "Mi reflejo me dirá"
+        },
+        {
+          "startTimeMs": "181170",
+          "words": "Quién soy de verdad"
+        },
+        {
+          "startTimeMs": "182060",
+          "words": "Somos mi reflejo y yo"
+        },
+        {
+          "startTimeMs": "185640",
+          "words": "Y lo que hay detrás"
+        }
+      ]
+    }
+  }
+}

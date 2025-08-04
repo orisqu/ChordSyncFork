@@ -1,0 +1,193 @@
+{
+  "track_id": "3pkyOftPm4ULW89PrFJ3N3",
+  "track_name": "Get This (Bang Bang)",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:39:27",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1020",
+          "words": "Get this pocket full of sugar"
+        },
+        {
+          "startTimeMs": "2980",
+          "words": "Rushing on those fools"
+        },
+        {
+          "startTimeMs": "4750",
+          "words": "Get this mister dollar pusher"
+        },
+        {
+          "startTimeMs": "6630",
+          "words": "Hitting up on you"
+        },
+        {
+          "startTimeMs": "8420",
+          "words": "Reaching to another level"
+        },
+        {
+          "startTimeMs": "10320",
+          "words": "Working my own rules"
+        },
+        {
+          "startTimeMs": "12490",
+          "words": "Look out, yeh you should be careful"
+        },
+        {
+          "startTimeMs": "14270",
+          "words": "Needing all the jewels"
+        },
+        {
+          "startTimeMs": "15650",
+          "words": "It gets me high, sweet sugar bang bang"
+        },
+        {
+          "startTimeMs": "19350",
+          "words": "Won't let me down, gold trigger bang bang"
+        },
+        {
+          "startTimeMs": "23910",
+          "words": "Living life in luxury"
+        },
+        {
+          "startTimeMs": "26060",
+          "words": "Want it all right now"
+        },
+        {
+          "startTimeMs": "27810",
+          "words": "Think you can keep up with me?"
+        },
+        {
+          "startTimeMs": "29780",
+          "words": "You should try and chase me down"
+        },
+        {
+          "startTimeMs": "31370",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "35090",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "38840",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "42880",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "46730",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "50550",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "54260",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "58220",
+          "words": "Get This"
+        },
+        {
+          "startTimeMs": "101850",
+          "words": "Get this power trippin flowing"
+        },
+        {
+          "startTimeMs": "103650",
+          "words": "All around your hood"
+        },
+        {
+          "startTimeMs": "105530",
+          "words": "Get this money maker going"
+        },
+        {
+          "startTimeMs": "107680",
+          "words": "Who wants all the goods?"
+        },
+        {
+          "startTimeMs": "109440",
+          "words": "I'm so fresh, I never worry"
+        },
+        {
+          "startTimeMs": "111390",
+          "words": "'cos I pay my way"
+        },
+        {
+          "startTimeMs": "113130",
+          "words": "Powerful and i'm not sorry"
+        },
+        {
+          "startTimeMs": "115250",
+          "words": "That's just how I play"
+        },
+        {
+          "startTimeMs": "116390",
+          "words": "It gets me high, sweet sugar bang bang"
+        },
+        {
+          "startTimeMs": "120060",
+          "words": "Won't let me down, gold trigger bang bang"
+        },
+        {
+          "startTimeMs": "124630",
+          "words": "It's all I got to believe"
+        },
+        {
+          "startTimeMs": "126730",
+          "words": "Won't knock me to the ground"
+        },
+        {
+          "startTimeMs": "128680",
+          "words": "Think you can keep up with me?"
+        },
+        {
+          "startTimeMs": "130450",
+          "words": "You should try n chase me down"
+        },
+        {
+          "startTimeMs": "132850",
+          "words": "Bang bang, bang bang"
+        },
+        {
+          "startTimeMs": "139380",
+          "words": "Bang bang, bang bang"
+        },
+        {
+          "startTimeMs": "145030",
+          "words": "You should try and chase me down"
+        },
+        {
+          "startTimeMs": "207910",
+          "words": "It gets me high, sweet sugar bang bang"
+        },
+        {
+          "startTimeMs": "211710",
+          "words": "Won't let me down, gold trigger bang bang"
+        },
+        {
+          "startTimeMs": "216840",
+          "words": "Living life in luxury"
+        },
+        {
+          "startTimeMs": "218970",
+          "words": "Want it all right now"
+        },
+        {
+          "startTimeMs": "220820",
+          "words": "Think you can keep up with me?"
+        },
+        {
+          "startTimeMs": "222620",
+          "words": "You should try and chase me down"
+        }
+      ]
+    }
+  }
+}

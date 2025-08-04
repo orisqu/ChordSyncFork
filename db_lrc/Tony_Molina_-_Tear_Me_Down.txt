@@ -1,0 +1,37 @@
+{
+  "track_id": "5igPYfVEH0VVl4an4ITHez",
+  "track_name": "Tear Me Down",
+  "artist_name": "Tony Molina",
+  "timestamp": "2025-03-21 23:17:15",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "650",
+          "words": "Babe, I was glad you're the girl I found"
+        },
+        {
+          "startTimeMs": "4960",
+          "words": "But it seems you don't want me around"
+        },
+        {
+          "startTimeMs": "8600",
+          "words": "You build me up to tear me down"
+        },
+        {
+          "startTimeMs": "15370",
+          "words": "Why did you have to hurt me then"
+        },
+        {
+          "startTimeMs": "19530",
+          "words": "I only tried to be your friend"
+        },
+        {
+          "startTimeMs": "23000",
+          "words": "Guess this is how it always is"
+        }
+      ]
+    }
+  }
+}

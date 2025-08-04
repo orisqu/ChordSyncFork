@@ -1,0 +1,9 @@
+{
+  "track_id": "7hWDA6ACGC11UVvTbOMZjX",
+  "track_name": "Changes",
+  "artist_name": "Butterfly Boucher",
+  "timestamp": "2025-03-24 17:39:58",
+  "source_link": "https://www.google.de/search?q=Butterfly Boucher changes chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

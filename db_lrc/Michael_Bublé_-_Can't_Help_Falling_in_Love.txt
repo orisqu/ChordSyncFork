@@ -1,0 +1,85 @@
+{
+  "track_id": "7igk58Vs9uM2B0aaTUwv6F",
+  "track_name": "Can't Help Falling in Love",
+  "artist_name": "Michael Bublé",
+  "timestamp": "2025-03-24 18:12:41",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "12380",
+          "words": "Wise men say, only fools rush in"
+        },
+        {
+          "startTimeMs": "28540",
+          "words": "But I can't help falling in love with you"
+        },
+        {
+          "startTimeMs": "45480",
+          "words": "Shall I stay?"
+        },
+        {
+          "startTimeMs": "53120",
+          "words": "Would it be a sin?"
+        },
+        {
+          "startTimeMs": "61650",
+          "words": "If I can't help falling in love with you"
+        },
+        {
+          "startTimeMs": "78660",
+          "words": "Like a river flows, surely to the sea"
+        },
+        {
+          "startTimeMs": "87010",
+          "words": "Darling, so it goes"
+        },
+        {
+          "startTimeMs": "91150",
+          "words": "Some things are meant to be"
+        },
+        {
+          "startTimeMs": "100550",
+          "words": "Take my hand"
+        },
+        {
+          "startTimeMs": "107030",
+          "words": "Take my whole life too"
+        },
+        {
+          "startTimeMs": "115380",
+          "words": "For I can't help falling in love with you"
+        },
+        {
+          "startTimeMs": "129340",
+          "words": "Instrumental"
+        },
+        {
+          "startTimeMs": "144790",
+          "words": "Some things are meant to be"
+        },
+        {
+          "startTimeMs": "156620",
+          "words": "Take my hand"
+        },
+        {
+          "startTimeMs": "162650",
+          "words": "Take my, my whole life too"
+        },
+        {
+          "startTimeMs": "171380",
+          "words": "For I can't help falling in love with you"
+        },
+        {
+          "startTimeMs": "190150",
+          "words": "For I can't help falling in love"
+        },
+        {
+          "startTimeMs": "202830",
+          "words": "With you"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "5xNpsWUHMrBvWNiQc3HAiK",
+  "track_name": "Change On The Rise",
+  "artist_name": "Avi Kaplan",
+  "timestamp": "2025-05-07 11:56:45",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/avi-kaplan/change-on-the-rise-chords-2691219",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>CHANGE ON THE RISE CHORDS by Avi Kaplan @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] Cm Bb Without the light F Cm Oh the darkness comes Cm Bb Hold through the night F Cm The shadows will run [Pre-Chorus] Cm Bb Fend off the enemy F Sing out the jubilee Cm W"
+}

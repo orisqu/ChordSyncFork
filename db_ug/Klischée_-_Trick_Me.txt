@@ -1,0 +1,9 @@
+{
+  "track_id": "6SlzsMv6eppTcoFYQrjrrE",
+  "track_name": "Trick Me",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:36:58",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/kelis/trick-me-chords-2236875",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TRICK ME CHORDS by Kelis @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] D#m C#m G#m x4 [Verse 1] D#m C#m G#m Said I&#039;ve paid my dues for all that I&#039;ve done D#m C#m G#m And I showed you that I loved you more than once D#m C#m G#m There&#039;s nothing l"
+}

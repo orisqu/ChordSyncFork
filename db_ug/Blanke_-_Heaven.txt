@@ -1,0 +1,9 @@
+{
+  "track_id": "4FHSM9uehI2DtSWtzYORNV",
+  "track_name": "Heaven",
+  "artist_name": "Blanke",
+  "timestamp": "2025-03-21 21:40:40",
+  "source_link": "https://www.google.de/search?q=Blanke heaven chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

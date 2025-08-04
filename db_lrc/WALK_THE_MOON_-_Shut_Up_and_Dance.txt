@@ -1,0 +1,261 @@
+{
+  "track_id": "4kbj5MwxO1bq9wjT5g9HaA",
+  "track_name": "Shut Up and Dance",
+  "artist_name": "WALK THE MOON",
+  "timestamp": "2025-03-23 01:45:43",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "2970",
+          "words": "\"Oh, don't you dare look back"
+        },
+        {
+          "startTimeMs": "4910",
+          "words": "Just keep your eyes on me\""
+        },
+        {
+          "startTimeMs": "6820",
+          "words": "I said, \"You're holding back\""
+        },
+        {
+          "startTimeMs": "8540",
+          "words": "She said, \"Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "11540",
+          "words": "This woman is my destiny"
+        },
+        {
+          "startTimeMs": "14210",
+          "words": "She said, \"Ooh-hoo"
+        },
+        {
+          "startTimeMs": "16450",
+          "words": "Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "25880",
+          "words": "We were victims of the night"
+        },
+        {
+          "startTimeMs": "28730",
+          "words": "The chemical, physical, kryptonite"
+        },
+        {
+          "startTimeMs": "32470",
+          "words": "Helpless to the bass and faded light"
+        },
+        {
+          "startTimeMs": "36250",
+          "words": "Oh, we were bound to get together"
+        },
+        {
+          "startTimeMs": "39090",
+          "words": "Bound to get together"
+        },
+        {
+          "startTimeMs": "41220",
+          "words": "She took my arm"
+        },
+        {
+          "startTimeMs": "43260",
+          "words": "I don't know how it happened"
+        },
+        {
+          "startTimeMs": "45170",
+          "words": "We took the floor and she said"
+        },
+        {
+          "startTimeMs": "48050",
+          "words": "\"Oh, don't you dare look back"
+        },
+        {
+          "startTimeMs": "49860",
+          "words": "Just keep your eyes on me\""
+        },
+        {
+          "startTimeMs": "51600",
+          "words": "I said, \"You're holding back\""
+        },
+        {
+          "startTimeMs": "53570",
+          "words": "She said, \"Shut up and dance with me!\""
+        },
+        {
+          "startTimeMs": "56330",
+          "words": "This woman is my destiny"
+        },
+        {
+          "startTimeMs": "59100",
+          "words": "She said, \"Ooh-hoo"
+        },
+        {
+          "startTimeMs": "61570",
+          "words": "Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "66350",
+          "words": "A backless dress and some beat up sneaks"
+        },
+        {
+          "startTimeMs": "69820",
+          "words": "My discothèque Juliet, teenage dream"
+        },
+        {
+          "startTimeMs": "73800",
+          "words": "I felt it in my chest as she looked at me"
+        },
+        {
+          "startTimeMs": "77250",
+          "words": "I knew we were bound to be together"
+        },
+        {
+          "startTimeMs": "80420",
+          "words": "Bound to be together"
+        },
+        {
+          "startTimeMs": "82470",
+          "words": "She took my arm"
+        },
+        {
+          "startTimeMs": "84710",
+          "words": "I don't know how it happened"
+        },
+        {
+          "startTimeMs": "86360",
+          "words": "We took the floor and she said"
+        },
+        {
+          "startTimeMs": "89280",
+          "words": "\"Oh, don't you dare look back"
+        },
+        {
+          "startTimeMs": "91290",
+          "words": "Just keep your eyes on me\""
+        },
+        {
+          "startTimeMs": "93070",
+          "words": "I said, \"You're holding back\""
+        },
+        {
+          "startTimeMs": "94800",
+          "words": "She said, \"Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "97530",
+          "words": "This woman is my destiny"
+        },
+        {
+          "startTimeMs": "100410",
+          "words": "She said, \"Ooh-hoo"
+        },
+        {
+          "startTimeMs": "102710",
+          "words": "Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "107380",
+          "words": "Oh, come on, girl"
+        },
+        {
+          "startTimeMs": "123900",
+          "words": "Deep in her eyes"
+        },
+        {
+          "startTimeMs": "125750",
+          "words": "I think I see the future"
+        },
+        {
+          "startTimeMs": "127750",
+          "words": "I realize this is my last chance"
+        },
+        {
+          "startTimeMs": "131350",
+          "words": "She took my arm"
+        },
+        {
+          "startTimeMs": "133350",
+          "words": "I don't know how it happened"
+        },
+        {
+          "startTimeMs": "135280",
+          "words": "We took the floor and she said"
+        },
+        {
+          "startTimeMs": "145520",
+          "words": "\"Oh, don't you dare look back"
+        },
+        {
+          "startTimeMs": "147430",
+          "words": "Just keep your eyes on me\""
+        },
+        {
+          "startTimeMs": "149330",
+          "words": "I said, \"You're holding back\""
+        },
+        {
+          "startTimeMs": "151190",
+          "words": "She said, \"Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "153830",
+          "words": "This woman is my destiny"
+        },
+        {
+          "startTimeMs": "156800",
+          "words": "She said, \"Ooh-hoo"
+        },
+        {
+          "startTimeMs": "158930",
+          "words": "Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "160830",
+          "words": "\"Don't you dare look back"
+        },
+        {
+          "startTimeMs": "162280",
+          "words": "Just keep your eyes on me\""
+        },
+        {
+          "startTimeMs": "164270",
+          "words": "I said, \"You're holding back\""
+        },
+        {
+          "startTimeMs": "166050",
+          "words": "She said, \"Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "168990",
+          "words": "This woman is my destiny"
+        },
+        {
+          "startTimeMs": "171730",
+          "words": "She said, \"Ooh-hoo"
+        },
+        {
+          "startTimeMs": "173970",
+          "words": "Shut up and dance with me\""
+        },
+        {
+          "startTimeMs": "179460",
+          "words": "Ooh-hoo"
+        },
+        {
+          "startTimeMs": "181550",
+          "words": "Shut up and dance with me"
+        },
+        {
+          "startTimeMs": "187430",
+          "words": "Ooh-hoo"
+        },
+        {
+          "startTimeMs": "189250",
+          "words": "Shut up and dance with me"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "5yHRupjhJzuqxW5WjGTRr7",
+  "track_name": "Crazy Love",
+  "artist_name": "Michael Bublé",
+  "timestamp": "2025-03-24 16:51:37",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/887198",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>CRAZY LOVE CHORDS by Michael Bublé @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Michael Buble - Crazy Love / [Verse 1] G D Cadd9 G I can hear her heart beat for a thousand miles G D Cadd9 G And the heavens open every time she smiles G D Cadd9 G And when I come to he"
+}

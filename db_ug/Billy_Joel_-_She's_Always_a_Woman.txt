@@ -1,0 +1,9 @@
+{
+  "track_id": "5RgFlk1fcClZd0Y4SGYhqH",
+  "track_name": "She's Always a Woman",
+  "artist_name": "Billy Joel",
+  "timestamp": "2025-03-23 15:10:22",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/billy-joel/shes-always-a-woman-chords-583675",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SHES ALWAYS A WOMAN CHORDS (ver 2) by Billy Joel @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] D Dsus4 D A D G D [Verse 1] A7 D She can kill with a smile A7 D She can wound with her eyes D7 G D G She can ruin your faith with her casual lies A7 D A7 F# And she"
+}

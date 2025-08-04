@@ -1,0 +1,209 @@
+{
+  "track_id": "05aJGOuSDQTFyfzcGQrDUO",
+  "track_name": "Always - 2009 Remaster",
+  "artist_name": "Erasure",
+  "timestamp": "2025-03-23 14:31:55",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "3420",
+          "words": "Open your eyes, I see"
+        },
+        {
+          "startTimeMs": "25720",
+          "words": "Your eyes are open"
+        },
+        {
+          "startTimeMs": "30870",
+          "words": "Wear no disguise for me"
+        },
+        {
+          "startTimeMs": "35160",
+          "words": "Come into the open"
+        },
+        {
+          "startTimeMs": "38650",
+          "words": "When it's cold (when it's cold) outside (outside)"
+        },
+        {
+          "startTimeMs": "44460",
+          "words": "Am I here in vain?"
+        },
+        {
+          "startTimeMs": "47910",
+          "words": "Hold on to the night"
+        },
+        {
+          "startTimeMs": "52360",
+          "words": "There will be no shame"
+        },
+        {
+          "startTimeMs": "57880",
+          "words": "Always, I wanna be with you"
+        },
+        {
+          "startTimeMs": "61360",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "64250",
+          "words": "And live in harmony, harmony, oh love"
+        },
+        {
+          "startTimeMs": "68130",
+          "words": "(Always) I wanna be with you"
+        },
+        {
+          "startTimeMs": "71940",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "74300",
+          "words": "And live in harmony, harmony, oh love"
+        },
+        {
+          "startTimeMs": "77780",
+          "words": "(Always)"
+        },
+        {
+          "startTimeMs": "88440",
+          "words": "Melting the ice for me"
+        },
+        {
+          "startTimeMs": "92690",
+          "words": "Jump into the ocean"
+        },
+        {
+          "startTimeMs": "97530",
+          "words": "Hold back the tide, I see"
+        },
+        {
+          "startTimeMs": "101680",
+          "words": "Your love in motion"
+        },
+        {
+          "startTimeMs": "104910",
+          "words": "When it's cold (when it's cold) outside (outside)"
+        },
+        {
+          "startTimeMs": "110660",
+          "words": "Am I here in vain?"
+        },
+        {
+          "startTimeMs": "114750",
+          "words": "Hold on to the night"
+        },
+        {
+          "startTimeMs": "119060",
+          "words": "There will be no shame"
+        },
+        {
+          "startTimeMs": "124420",
+          "words": "Always, I wanna be with you"
+        },
+        {
+          "startTimeMs": "127950",
+          "words": "And make believe with you (always)"
+        },
+        {
+          "startTimeMs": "131130",
+          "words": "And live in harmony, harmony, oh love"
+        },
+        {
+          "startTimeMs": "134420",
+          "words": "(Always) I wanna be with you (always)"
+        },
+        {
+          "startTimeMs": "139150",
+          "words": "And make believe with you (always)"
+        },
+        {
+          "startTimeMs": "141100",
+          "words": "And live in harmony, harmony, oh love (always)"
+        },
+        {
+          "startTimeMs": "162600",
+          "words": "When it's cold (when it's cold) outside (outside)"
+        },
+        {
+          "startTimeMs": "166910",
+          "words": "Am I here in vain?"
+        },
+        {
+          "startTimeMs": "171620",
+          "words": "Hold on to the night (when it's cold in the night)"
+        },
+        {
+          "startTimeMs": "178330",
+          "words": "There will be no shame (no shame)"
+        },
+        {
+          "startTimeMs": "183790",
+          "words": "Always, I wanna be with you"
+        },
+        {
+          "startTimeMs": "187380",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "189970",
+          "words": "And live in harmony, harmony, oh love (the leaves are falling down)"
+        },
+        {
+          "startTimeMs": "194550",
+          "words": "(Always) I wanna be with you"
+        },
+        {
+          "startTimeMs": "197800",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "200330",
+          "words": "And live in harmony, harmony, oh love"
+        },
+        {
+          "startTimeMs": "204140",
+          "words": "(Always) I wanna be with you"
+        },
+        {
+          "startTimeMs": "207660",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "210190",
+          "words": "And live in harmony, harmony, oh love (all the leaves are falling down)"
+        },
+        {
+          "startTimeMs": "215080",
+          "words": "(Always) I wanna be with you"
+        },
+        {
+          "startTimeMs": "217900",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "219990",
+          "words": "And live in harmony, harmony, oh love"
+        },
+        {
+          "startTimeMs": "223660",
+          "words": "(Always) I wanna be with you"
+        },
+        {
+          "startTimeMs": "227640",
+          "words": "And make believe with you"
+        },
+        {
+          "startTimeMs": "230490",
+          "words": "And live in harmony, harmony, oh love (all the leaves are falling down)"
+        },
+        {
+          "startTimeMs": "234090",
+          "words": "(Always) I wanna be with you"
+        }
+      ]
+    }
+  }
+}

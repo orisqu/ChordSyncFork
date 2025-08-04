@@ -1,0 +1,9 @@
+{
+  "track_id": "5DH7nDryMhpixm4G4B7RP9",
+  "track_name": "The Longest Time",
+  "artist_name": "Billy Joel",
+  "timestamp": "2025-03-24 18:19:12",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/billy-joel/the-longest-time-chords-758243",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>THE LONGEST TIME CHORDS (ver 2) by Billy Joel @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"&#039;The Longest Time&#039;, Billy Joel. Based on Official Video: https://www.youtube.com/watch?v=a_XgQhMPeEQ Altered bass line in bridge endings. / Capo on 1st fret / [Choru"
+}

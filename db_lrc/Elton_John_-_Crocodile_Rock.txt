@@ -1,0 +1,241 @@
+{
+  "track_id": "6WCeFNVAXUtNczb7lqLiZU",
+  "track_name": "Crocodile Rock",
+  "artist_name": "Elton John",
+  "timestamp": "2025-03-24 18:51:15",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15150",
+          "words": "I remember when rock was young"
+        },
+        {
+          "startTimeMs": "18200",
+          "words": "Me and Susie had so much fun"
+        },
+        {
+          "startTimeMs": "21520",
+          "words": "Holding hands and skimming stones"
+        },
+        {
+          "startTimeMs": "24620",
+          "words": "Had an old gold Chevy, and a place of my own"
+        },
+        {
+          "startTimeMs": "28050",
+          "words": "But the biggest kick I ever got"
+        },
+        {
+          "startTimeMs": "30820",
+          "words": "Was doing a thing called the Crocodile Rock"
+        },
+        {
+          "startTimeMs": "34260",
+          "words": "While the other kids were rocking 'round the clock"
+        },
+        {
+          "startTimeMs": "37410",
+          "words": "We were hopping and bopping to the Crocodile Rock, well"
+        },
+        {
+          "startTimeMs": "41390",
+          "words": "Crocodile rocking is something shocking"
+        },
+        {
+          "startTimeMs": "44050",
+          "words": "When your feet just can't keep still"
+        },
+        {
+          "startTimeMs": "47580",
+          "words": "I never knew me a better time and I guess I never will"
+        },
+        {
+          "startTimeMs": "53690",
+          "words": "Oh, lawdy mama those Friday nights"
+        },
+        {
+          "startTimeMs": "56650",
+          "words": "When Suzie wore her dresses tight"
+        },
+        {
+          "startTimeMs": "60440",
+          "words": "And the Crocodile rocking was out of sight"
+        },
+        {
+          "startTimeMs": "66840",
+          "words": "Laa, la-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "72440",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "75440",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "79290",
+          "words": "But the years went by and the rock just died"
+        },
+        {
+          "startTimeMs": "82540",
+          "words": "Suzie went and left me for some foreign guy"
+        },
+        {
+          "startTimeMs": "85810",
+          "words": "Long nights crying by the record machine"
+        },
+        {
+          "startTimeMs": "89070",
+          "words": "Dreaming of my Chevy and old blue jeans"
+        },
+        {
+          "startTimeMs": "92020",
+          "words": "But they'll never kill the thrills we've got"
+        },
+        {
+          "startTimeMs": "95220",
+          "words": "Burning up to the Crocodile Rock"
+        },
+        {
+          "startTimeMs": "98440",
+          "words": "Learning fast as the weeks went past"
+        },
+        {
+          "startTimeMs": "101360",
+          "words": "We really thought the Crocodile Rock would last, well"
+        },
+        {
+          "startTimeMs": "105370",
+          "words": "Crocodile rocking is something shocking"
+        },
+        {
+          "startTimeMs": "108190",
+          "words": "When your feet just can't keep still"
+        },
+        {
+          "startTimeMs": "111780",
+          "words": "I never knew me a better time and I guess, I never will"
+        },
+        {
+          "startTimeMs": "117920",
+          "words": "Oh, lawdy mama those Friday nights"
+        },
+        {
+          "startTimeMs": "120920",
+          "words": "When Suzie wore her dresses tight"
+        },
+        {
+          "startTimeMs": "124880",
+          "words": "Crocodile rocking was out of sight"
+        },
+        {
+          "startTimeMs": "131190",
+          "words": "Laa, la-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "136600",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "139800",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "143670",
+          "words": "I remember when rock was young"
+        },
+        {
+          "startTimeMs": "146440",
+          "words": "Me and Suzie had so much fun"
+        },
+        {
+          "startTimeMs": "149860",
+          "words": "Holding hands and skimming stones"
+        },
+        {
+          "startTimeMs": "152920",
+          "words": "Had an old gold Chevy, and place of my own"
+        },
+        {
+          "startTimeMs": "156350",
+          "words": "But the biggest kick I ever got"
+        },
+        {
+          "startTimeMs": "159450",
+          "words": "Was doing a thing called the Crocodile Rock"
+        },
+        {
+          "startTimeMs": "162880",
+          "words": "While the other kids were rocking 'round the clock"
+        },
+        {
+          "startTimeMs": "165970",
+          "words": "We were hopping and bopping to the Crocodile Rock, well"
+        },
+        {
+          "startTimeMs": "169860",
+          "words": "Crocodile rocking is something shocking"
+        },
+        {
+          "startTimeMs": "172470",
+          "words": "When your feet just can't keep still"
+        },
+        {
+          "startTimeMs": "176060",
+          "words": "I never knew me a better time and I guess, I never will"
+        },
+        {
+          "startTimeMs": "182320",
+          "words": "Oh, lawdy mama those Friday nights"
+        },
+        {
+          "startTimeMs": "185310",
+          "words": "When Suzie wore her dresses tight"
+        },
+        {
+          "startTimeMs": "189050",
+          "words": "Crocodile rocking was out of sight"
+        },
+        {
+          "startTimeMs": "195440",
+          "words": "Laa, la-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "200980",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "204150",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "208290",
+          "words": "Laa, la-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "213620",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "216980",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "220930",
+          "words": "Laa, la-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "226480",
+          "words": "La-la-la-la-laa"
+        },
+        {
+          "startTimeMs": "229650",
+          "words": "La-la-la-la-laa"
+        }
+      ]
+    }
+  }
+}

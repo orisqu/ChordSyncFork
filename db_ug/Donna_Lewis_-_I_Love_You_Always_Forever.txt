@@ -1,0 +1,9 @@
+{
+  "track_id": "1PEqh7awkpuepLBSq8ZwqD",
+  "track_name": "I Love You Always Forever",
+  "artist_name": "Donna Lewis",
+  "timestamp": "2025-03-23 01:42:21",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/donna-lewis/i-love-you-always-forever-chords-743496",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>I LOVE YOU ALWAYS FOREVER CHORDS by Donna Lewis @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse] / C Em F Bb Feels like, I&#039;m standing in a timeless dream C Em F Bb Of light mists, of pale amber rose C Em F Bb Feels like, I&#039;m lost in a deep cloud of hea"
+}

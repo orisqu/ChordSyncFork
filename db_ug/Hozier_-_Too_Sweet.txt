@@ -1,0 +1,9 @@
+{
+  "track_id": "76JKIsdKrAfWUMjaA0u7v5",
+  "track_name": "Too Sweet",
+  "artist_name": "Hozier",
+  "timestamp": "2025-05-07 11:49:55",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/hozier/too-sweet-chords-5194038",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TOO SWEET CHORDS (ver 2) by Hozier @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Simple chords in the original key.\">\n<meta name=\"keywords\" content=\"Hozier - Too Sweet (Chords), Chords, Hozier, Ultimate-Guitar.Com\">\n            <script>\n    (function () {\n        var"
+}

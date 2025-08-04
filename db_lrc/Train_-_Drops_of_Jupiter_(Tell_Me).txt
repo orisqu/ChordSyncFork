@@ -1,0 +1,225 @@
+{
+  "track_id": "2hKdd3qO7cWr2Jo0Bcs0MA",
+  "track_name": "Drops of Jupiter (Tell Me)",
+  "artist_name": "Train",
+  "timestamp": "2025-03-23 15:06:03",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11590",
+          "words": "Now that she's back in the atmosphere"
+        },
+        {
+          "startTimeMs": "14530",
+          "words": "With drops of Jupiter in her hair"
+        },
+        {
+          "startTimeMs": "23790",
+          "words": "She acts like summer and walks like rain"
+        },
+        {
+          "startTimeMs": "26660",
+          "words": "Reminds me that there's a time to change, hey"
+        },
+        {
+          "startTimeMs": "35720",
+          "words": "Since the return of her stay on the moon"
+        },
+        {
+          "startTimeMs": "38510",
+          "words": "She listens like spring and she talks like June, hey"
+        },
+        {
+          "startTimeMs": "44630",
+          "words": "Hey, hey, yeah"
+        },
+        {
+          "startTimeMs": "47800",
+          "words": "But tell me, did you sail across the sun?"
+        },
+        {
+          "startTimeMs": "51970",
+          "words": "Did you make it to the Milky Way to see the lights all faded"
+        },
+        {
+          "startTimeMs": "56750",
+          "words": "And that Heaven is overrated?"
+        },
+        {
+          "startTimeMs": "59950",
+          "words": "And tell me, did you fall for a shooting star?"
+        },
+        {
+          "startTimeMs": "64020",
+          "words": "One without a permanent scar, and did you miss me"
+        },
+        {
+          "startTimeMs": "68250",
+          "words": "While you were looking for yourself out there?"
+        },
+        {
+          "startTimeMs": "83810",
+          "words": "Now that she's back from that soul vacation"
+        },
+        {
+          "startTimeMs": "86980",
+          "words": "Tracing her way through the constellation, hey, mmm"
+        },
+        {
+          "startTimeMs": "95870",
+          "words": "She checks out Mozart while she does Tae-Bo"
+        },
+        {
+          "startTimeMs": "98980",
+          "words": "Reminds me that there's a room to grow, hey, yeah"
+        },
+        {
+          "startTimeMs": "108040",
+          "words": "Now that she's back in the atmosphere"
+        },
+        {
+          "startTimeMs": "110790",
+          "words": "I'm afraid that she might think of me as"
+        },
+        {
+          "startTimeMs": "114020",
+          "words": "Plain ol' Jane told a story about a man"
+        },
+        {
+          "startTimeMs": "116850",
+          "words": "Who was too afraid to fly, so he never did land"
+        },
+        {
+          "startTimeMs": "119970",
+          "words": "But tell me, did the wind sweep you off your feet?"
+        },
+        {
+          "startTimeMs": "123910",
+          "words": "Did you finally get the chance to dance along the light of day"
+        },
+        {
+          "startTimeMs": "129050",
+          "words": "And head back to the Milky Way?"
+        },
+        {
+          "startTimeMs": "131960",
+          "words": "And tell me, did Venus blow your mind?"
+        },
+        {
+          "startTimeMs": "136440",
+          "words": "Was it everything you wanted to find, and did you miss me"
+        },
+        {
+          "startTimeMs": "140390",
+          "words": "While you were looking for yourself out there?"
+        },
+        {
+          "startTimeMs": "154840",
+          "words": "Can you imagine no love, pride, deep-fried chicken"
+        },
+        {
+          "startTimeMs": "159500",
+          "words": "Your best friend always sticking up for you"
+        },
+        {
+          "startTimeMs": "164720",
+          "words": "Even when I know you're wrong?"
+        },
+        {
+          "startTimeMs": "167340",
+          "words": "Can you imagine no first dance, freeze-dried romance"
+        },
+        {
+          "startTimeMs": "171580",
+          "words": "Five hour phone conversation"
+        },
+        {
+          "startTimeMs": "174060",
+          "words": "The best soy latte that you ever had, and me?"
+        },
+        {
+          "startTimeMs": "180130",
+          "words": "But tell me, did the wind sweep you off your feet?"
+        },
+        {
+          "startTimeMs": "184340",
+          "words": "Did you finally get the chance to dance along the light of day"
+        },
+        {
+          "startTimeMs": "189380",
+          "words": "And head back toward the Milky Way?"
+        },
+        {
+          "startTimeMs": "192350",
+          "words": "And tell me, did you sail across the sun?"
+        },
+        {
+          "startTimeMs": "196360",
+          "words": "Did you make it to the Milky Way to see the lights all faded"
+        },
+        {
+          "startTimeMs": "201280",
+          "words": "And that Heaven is overrated?"
+        },
+        {
+          "startTimeMs": "204320",
+          "words": "And tell me, did you fall for a shooting star?"
+        },
+        {
+          "startTimeMs": "208410",
+          "words": "One without a permanent scar, and then you miss me"
+        },
+        {
+          "startTimeMs": "212610",
+          "words": "While you were looking for yourself?"
+        },
+        {
+          "startTimeMs": "216340",
+          "words": "Na-na, na-na, na-na"
+        },
+        {
+          "startTimeMs": "219570",
+          "words": "Na-na, na-na, na-na, na, na"
+        },
+        {
+          "startTimeMs": "223230",
+          "words": "And did you finally get the chance"
+        },
+        {
+          "startTimeMs": "225220",
+          "words": "To dance along the light of day?"
+        },
+        {
+          "startTimeMs": "228440",
+          "words": "Na-na, na-na, na-na"
+        },
+        {
+          "startTimeMs": "231420",
+          "words": "Na-na, na-na, na-na, na, na"
+        },
+        {
+          "startTimeMs": "234180",
+          "words": "And did you fall for a shooting star?"
+        },
+        {
+          "startTimeMs": "237520",
+          "words": "Fall for a shooting star?"
+        },
+        {
+          "startTimeMs": "240640",
+          "words": "Na-na, na-na, na-na"
+        },
+        {
+          "startTimeMs": "243630",
+          "words": "Na-na, na-na, na-na, na, na"
+        },
+        {
+          "startTimeMs": "246380",
+          "words": "And are you lonely looking for yourself out there?"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "3dj4wgM3cPeuLwMNHDuBon",
+  "track_name": "The Door",
+  "artist_name": "Teddy Swims",
+  "timestamp": "2025-05-07 11:46:22",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/teddy-swims/the-door-chords-4984486",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>THE DOOR CHORDS by Teddy Swims @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] G#m E F# D# [Verse 1] G#m I took a page out of your favorite book E You sold me lies just by the way you look F# Taught me a language that I&#039;ve never speak D# Baby, that ain&#03"
+}

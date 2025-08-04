@@ -1,0 +1,189 @@
+{
+  "track_id": "7hWDA6ACGC11UVvTbOMZjX",
+  "track_name": "Changes",
+  "artist_name": "Butterfly Boucher",
+  "timestamp": "2025-03-21 18:08:57",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "8080",
+          "words": "(Oh yeah)"
+        },
+        {
+          "startTimeMs": "19870",
+          "words": "Still don't know what I was looking for"
+        },
+        {
+          "startTimeMs": "23220",
+          "words": "And my time was running wild"
+        },
+        {
+          "startTimeMs": "26030",
+          "words": "A million dead-end streets"
+        },
+        {
+          "startTimeMs": "28520",
+          "words": "Every time I thought I'd got it made"
+        },
+        {
+          "startTimeMs": "31610",
+          "words": "It seemed the taste was not so sweet"
+        },
+        {
+          "startTimeMs": "35890",
+          "words": "So I turned myself to face me"
+        },
+        {
+          "startTimeMs": "40120",
+          "words": "But I've never caught a glimpse"
+        },
+        {
+          "startTimeMs": "44030",
+          "words": "Of how the others must see the faker"
+        },
+        {
+          "startTimeMs": "48270",
+          "words": "I'm much too fast to take that test"
+        },
+        {
+          "startTimeMs": "51350",
+          "words": "Ch-ch-ch-ch-changes"
+        },
+        {
+          "startTimeMs": "53320",
+          "words": "(Turn and face the strange) ch-ch-changes"
+        },
+        {
+          "startTimeMs": "58020",
+          "words": "Don't want to be a richer one"
+        },
+        {
+          "startTimeMs": "60980",
+          "words": "Ch-ch-ch-ch-changes"
+        },
+        {
+          "startTimeMs": "63090",
+          "words": "(Turn and face the strange) ch-ch-changes"
+        },
+        {
+          "startTimeMs": "67400",
+          "words": "Just gonna have to be a different one"
+        },
+        {
+          "startTimeMs": "70330",
+          "words": "Time may change me, but I can't trace time"
+        },
+        {
+          "startTimeMs": "81960",
+          "words": "Ooh-yeah"
+        },
+        {
+          "startTimeMs": "87760",
+          "words": "I watch the ripples change their size"
+        },
+        {
+          "startTimeMs": "91090",
+          "words": "But never leave the stream, form impermanence, and"
+        },
+        {
+          "startTimeMs": "96420",
+          "words": "So the days float through my eyes"
+        },
+        {
+          "startTimeMs": "99780",
+          "words": "But still the days seem the same"
+        },
+        {
+          "startTimeMs": "103880",
+          "words": "And these children that you spit on"
+        },
+        {
+          "startTimeMs": "108260",
+          "words": "As they try to change their worlds"
+        },
+        {
+          "startTimeMs": "112430",
+          "words": "They're immune to your consultations"
+        },
+        {
+          "startTimeMs": "116030",
+          "words": "They're quite aware of what they're going through"
+        },
+        {
+          "startTimeMs": "119440",
+          "words": "Ch-ch-ch-ch-changes"
+        },
+        {
+          "startTimeMs": "121670",
+          "words": "(Turn and face the strange) ch-ch-changes"
+        },
+        {
+          "startTimeMs": "125950",
+          "words": "Don't tell them to grow up and out of it"
+        },
+        {
+          "startTimeMs": "128990",
+          "words": "Ch-ch-ch-ch-changes"
+        },
+        {
+          "startTimeMs": "130980",
+          "words": "(Turn and face the strange) ch-ch-changes"
+        },
+        {
+          "startTimeMs": "135130",
+          "words": "Where's your shame? You've left us up to our necks in it"
+        },
+        {
+          "startTimeMs": "138260",
+          "words": "Time may change me, but you can't trace time"
+        },
+        {
+          "startTimeMs": "145000",
+          "words": "Strange fascination, fascinating me"
+        },
+        {
+          "startTimeMs": "152870",
+          "words": "Ah, changes are taking the pace I'm going through"
+        },
+        {
+          "startTimeMs": "160480",
+          "words": "Ch-ch-ch-ch-changes"
+        },
+        {
+          "startTimeMs": "162310",
+          "words": "(Turn and face the strange) ch-ch-changes"
+        },
+        {
+          "startTimeMs": "165770",
+          "words": "Ooh, look out you rock 'n' rollers"
+        },
+        {
+          "startTimeMs": "169900",
+          "words": "Ch-ch-ch-ch-changes"
+        },
+        {
+          "startTimeMs": "171650",
+          "words": "(Turn and face the strange) ch-ch-changes"
+        },
+        {
+          "startTimeMs": "176040",
+          "words": "Pretty soon now, you're gonna get older"
+        },
+        {
+          "startTimeMs": "179450",
+          "words": "Time may change me, but I can't trace time"
+        },
+        {
+          "startTimeMs": "185370",
+          "words": "I said that time may change me"
+        },
+        {
+          "startTimeMs": "192470",
+          "words": "But I can't change time"
+        }
+      ]
+    }
+  }
+}

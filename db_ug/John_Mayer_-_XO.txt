@@ -1,0 +1,9 @@
+{
+  "track_id": "7cpCU3Denug5NGZsSpQl8v",
+  "track_name": "XO",
+  "artist_name": "John Mayer",
+  "timestamp": "2025-03-24 16:14:32",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/john-mayer/xo-chords-1478111",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>XO CHORDS (ver 2) by John Mayer @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Capo 2nd Fret He alternates between C and Cmaj7 in every C chord. G6add11 320010 [Intro] C [Verse 1] C Your love is bright as ever C Even in the shadows F Baby, kiss me C Before they turn t"
+}

@@ -1,0 +1,133 @@
+{
+  "track_id": "04XRimcx9QuSrtUvWpdkmS",
+  "track_name": "How Sweet It Is",
+  "artist_name": "Michael Bublé",
+  "timestamp": "2025-03-24 16:05:25",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "14790",
+          "words": "Needed the shelter of someone's arms"
+        },
+        {
+          "startTimeMs": "19190",
+          "words": "And there you were"
+        },
+        {
+          "startTimeMs": "22090",
+          "words": "Needed someone to understand my ups and downs"
+        },
+        {
+          "startTimeMs": "25960",
+          "words": "And there you were"
+        },
+        {
+          "startTimeMs": "29260",
+          "words": "With sweet love and devotion"
+        },
+        {
+          "startTimeMs": "33130",
+          "words": "Touching my emotion"
+        },
+        {
+          "startTimeMs": "35650",
+          "words": "I want to stop, and thank you baby"
+        },
+        {
+          "startTimeMs": "38940",
+          "words": "I just want to stop - and thank you baby... woawoa yeah"
+        },
+        {
+          "startTimeMs": "44520",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "51270",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "58280",
+          "words": "I close my eyes at night"
+        },
+        {
+          "startTimeMs": "61200",
+          "words": "Wonderin' where would I be without you in my life"
+        },
+        {
+          "startTimeMs": "65540",
+          "words": "Everything I did was just a bore"
+        },
+        {
+          "startTimeMs": "68800",
+          "words": "Everywhere I went"
+        },
+        {
+          "startTimeMs": "71170",
+          "words": "You know I've been there before"
+        },
+        {
+          "startTimeMs": "72460",
+          "words": "But you brightened up for me all of my days"
+        },
+        {
+          "startTimeMs": "76170",
+          "words": "With a love so sweet in so may ways"
+        },
+        {
+          "startTimeMs": "79170",
+          "words": "I want to stop, and thank you baby"
+        },
+        {
+          "startTimeMs": "82130",
+          "words": "I just want to stop - and thank you baby... woawoa"
+        },
+        {
+          "startTimeMs": "87300",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "94330",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "116000",
+          "words": "You were better to me than I was to myself"
+        },
+        {
+          "startTimeMs": "119220",
+          "words": "For me there is you and there aint nobody else"
+        },
+        {
+          "startTimeMs": "122630",
+          "words": "I want to stop, and thank you baby"
+        },
+        {
+          "startTimeMs": "125440",
+          "words": "I just want to stop - and thank you baby... woawoaaaa"
+        },
+        {
+          "startTimeMs": "132340",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "139310",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "146060",
+          "words": "I mean it's like cowabulla don't you know to be loved by you"
+        },
+        {
+          "startTimeMs": "153480",
+          "words": "How sweet it is to be loved by you"
+        },
+        {
+          "startTimeMs": "161160",
+          "words": "How sweet it is to be loved by yooooou"
+        }
+      ]
+    }
+  }
+}

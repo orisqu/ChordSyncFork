@@ -1,0 +1,9 @@
+{
+  "track_id": "6aBUnkXuCEQQHAlTokv9or",
+  "track_name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+  "artist_name": "Talking Heads",
+  "timestamp": "2025-03-21 23:17:20",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/talking-heads/this-must-be-the-place-naive-melody-chords-2051899",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>THIS MUST BE THE PLACE NAIVE MELODY CHORDS (ver 3) by Talking Heads @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Complete chords and lyrics / suggestions for voicings and a basic tab for the main riff / https://www.youtube.com/watch?v=_aNQFcNNnrE.\">\n<meta name=\"keyw"
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "22vgEDb5hykfaTwLuskFGD",
+  "track_name": "Sucker",
+  "artist_name": "Jonas Brothers",
+  "timestamp": "2025-03-21 23:38:34",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/jonas-brothers/sucker-chords-2619351",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SUCKER CHORDS by Jonas Brothers @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"(Tab for Verses and Pre-Chorus) C#m E B C#m E B G# B e|------------|----------------------| B|------------|----------------------| G|------------|----------------------| D|------------|----"
+}

@@ -1,0 +1,141 @@
+{
+  "track_id": "4oUZkVTb7apjsy9ztCnADR",
+  "track_name": "Natural Mystic",
+  "artist_name": "Bob Marley & The Wailers",
+  "timestamp": "2025-03-23 15:37:28",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "27420",
+          "words": "There's a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "34870",
+          "words": "If you listen carefully now you will hear"
+        },
+        {
+          "startTimeMs": "42210",
+          "words": "This could be the first trumpet"
+        },
+        {
+          "startTimeMs": "46250",
+          "words": "Might as well be the last"
+        },
+        {
+          "startTimeMs": "49880",
+          "words": "Many more will have to suffer"
+        },
+        {
+          "startTimeMs": "53430",
+          "words": "Many more will have to die"
+        },
+        {
+          "startTimeMs": "56490",
+          "words": "Don't ask me why"
+        },
+        {
+          "startTimeMs": "61250",
+          "words": "Things are not the way they used to be"
+        },
+        {
+          "startTimeMs": "66760",
+          "words": "I won't tell no lie"
+        },
+        {
+          "startTimeMs": "71910",
+          "words": "One and all got to face reality now"
+        },
+        {
+          "startTimeMs": "78980",
+          "words": "Though I try to find the answer"
+        },
+        {
+          "startTimeMs": "82870",
+          "words": "To all the questions they ask"
+        },
+        {
+          "startTimeMs": "86690",
+          "words": "Though I know it's impossible"
+        },
+        {
+          "startTimeMs": "90110",
+          "words": "To go living through the past"
+        },
+        {
+          "startTimeMs": "93100",
+          "words": "Don't tell no lie"
+        },
+        {
+          "startTimeMs": "97720",
+          "words": "There's a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "103890",
+          "words": "Can't keep them down"
+        },
+        {
+          "startTimeMs": "108760",
+          "words": "If you listen carefully now you will hear"
+        },
+        {
+          "startTimeMs": "116820",
+          "words": "There's a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "130630",
+          "words": "This could be the first trumpet"
+        },
+        {
+          "startTimeMs": "134150",
+          "words": "Might as well be the last"
+        },
+        {
+          "startTimeMs": "137900",
+          "words": "Many more will have to suffer"
+        },
+        {
+          "startTimeMs": "141410",
+          "words": "Many more will have to die"
+        },
+        {
+          "startTimeMs": "144350",
+          "words": "Don't ask me why"
+        },
+        {
+          "startTimeMs": "148410",
+          "words": "There's a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "154740",
+          "words": "I won't tell no lie"
+        },
+        {
+          "startTimeMs": "159720",
+          "words": "If you listen carefully now you will hear"
+        },
+        {
+          "startTimeMs": "166570",
+          "words": "There's a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "173610",
+          "words": "Such a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "181030",
+          "words": "There's a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "188020",
+          "words": "Such a natural mystic blowin' through the air"
+        },
+        {
+          "startTimeMs": "195330",
+          "words": "Such a natural mystic blowin' through the air"
+        }
+      ]
+    }
+  }
+}

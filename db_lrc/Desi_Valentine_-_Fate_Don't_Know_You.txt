@@ -1,0 +1,209 @@
+{
+  "track_id": "6oxkSR49MmP414m3l4XN1K",
+  "track_name": "Fate Don't Know You",
+  "artist_name": "Desi Valentine",
+  "timestamp": "2025-03-23 18:53:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "23530",
+          "words": "I put my palms before her eyes"
+        },
+        {
+          "startTimeMs": "29550",
+          "words": "And she told me my truth"
+        },
+        {
+          "startTimeMs": "35500",
+          "words": "Laid the road for me"
+        },
+        {
+          "startTimeMs": "38310",
+          "words": "A rich man's destiny"
+        },
+        {
+          "startTimeMs": "41240",
+          "words": "But she saw it without you"
+        },
+        {
+          "startTimeMs": "47200",
+          "words": "She's a liar"
+        },
+        {
+          "startTimeMs": "50140",
+          "words": "She has no clue"
+        },
+        {
+          "startTimeMs": "53120",
+          "words": "You're the one thing I will not lose"
+        },
+        {
+          "startTimeMs": "58670",
+          "words": "I'll turn the tide"
+        },
+        {
+          "startTimeMs": "61510",
+          "words": "Pull down the moon"
+        },
+        {
+          "startTimeMs": "64630",
+          "words": "Run rivers dry"
+        },
+        {
+          "startTimeMs": "67720",
+          "words": "Battle fate for you"
+        },
+        {
+          "startTimeMs": "70530",
+          "words": "Let's burn the pages"
+        },
+        {
+          "startTimeMs": "73320",
+          "words": "We'll start anew"
+        },
+        {
+          "startTimeMs": "76250",
+          "words": "Right through the ages, to prove"
+        },
+        {
+          "startTimeMs": "81980",
+          "words": "Fate don't know you like I do"
+        },
+        {
+          "startTimeMs": "88900",
+          "words": "Like I do"
+        },
+        {
+          "startTimeMs": "96580",
+          "words": "I'm gonna make you feel my love"
+        },
+        {
+          "startTimeMs": "102380",
+          "words": "Leave you no room for doubt"
+        },
+        {
+          "startTimeMs": "108050",
+          "words": "No other hope for me"
+        },
+        {
+          "startTimeMs": "111040",
+          "words": "You're my destiny"
+        },
+        {
+          "startTimeMs": "114090",
+          "words": "Won't go nowhere without you"
+        },
+        {
+          "startTimeMs": "119940",
+          "words": "You're my fire"
+        },
+        {
+          "startTimeMs": "122710",
+          "words": "That much is true"
+        },
+        {
+          "startTimeMs": "125490",
+          "words": "You're the one thing I will not lose"
+        },
+        {
+          "startTimeMs": "131550",
+          "words": "I'll turn the tide"
+        },
+        {
+          "startTimeMs": "134220",
+          "words": "Pull down the moon"
+        },
+        {
+          "startTimeMs": "137320",
+          "words": "Run rivers dry"
+        },
+        {
+          "startTimeMs": "140440",
+          "words": "Battle fate for you"
+        },
+        {
+          "startTimeMs": "143280",
+          "words": "Let's burn the pages"
+        },
+        {
+          "startTimeMs": "146150",
+          "words": "We'll start anew"
+        },
+        {
+          "startTimeMs": "148990",
+          "words": "Right through the ages, to prove"
+        },
+        {
+          "startTimeMs": "155040",
+          "words": "Fate don't know you like I do"
+        },
+        {
+          "startTimeMs": "162140",
+          "words": "Like I do"
+        },
+        {
+          "startTimeMs": "168090",
+          "words": "Like I do"
+        },
+        {
+          "startTimeMs": "181090",
+          "words": "You're my fire"
+        },
+        {
+          "startTimeMs": "183850",
+          "words": "They have no clue"
+        },
+        {
+          "startTimeMs": "186840",
+          "words": "You're the one thing I will not lose"
+        },
+        {
+          "startTimeMs": "192510",
+          "words": "I will not lose"
+        },
+        {
+          "startTimeMs": "195630",
+          "words": "I'll turn the tide"
+        },
+        {
+          "startTimeMs": "198560",
+          "words": "Pull down the moon"
+        },
+        {
+          "startTimeMs": "201550",
+          "words": "Run rivers dry"
+        },
+        {
+          "startTimeMs": "204350",
+          "words": "Battle fate for you"
+        },
+        {
+          "startTimeMs": "207400",
+          "words": "Let's burn the pages"
+        },
+        {
+          "startTimeMs": "210260",
+          "words": "We'll start anew"
+        },
+        {
+          "startTimeMs": "213000",
+          "words": "Right through the ages"
+        },
+        {
+          "startTimeMs": "216190",
+          "words": "Fate don't know you like I do"
+        },
+        {
+          "startTimeMs": "222660",
+          "words": "Know you like I do"
+        },
+        {
+          "startTimeMs": "227580",
+          "words": "Fate don't know you like I do"
+        }
+      ]
+    }
+  }
+}

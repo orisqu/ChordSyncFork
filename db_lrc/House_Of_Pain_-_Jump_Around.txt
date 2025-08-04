@@ -1,0 +1,329 @@
+{
+  "track_id": "3TZwjdclvWt7iPJUnMpgcs",
+  "track_name": "Jump Around",
+  "artist_name": "House Of Pain",
+  "timestamp": "2025-03-21 23:02:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "24760",
+          "words": "Pack it up, pack it in, let me begin"
+        },
+        {
+          "startTimeMs": "27340",
+          "words": "I came to win, battle me, that's a sin"
+        },
+        {
+          "startTimeMs": "29530",
+          "words": "I won't ever slack up, punk, ya better back up"
+        },
+        {
+          "startTimeMs": "31990",
+          "words": "Try and play the role and yo, the whole crew'll act up"
+        },
+        {
+          "startTimeMs": "34250",
+          "words": "Get up, stand up, (c'mon) c'mon, throw your hands up"
+        },
+        {
+          "startTimeMs": "36460",
+          "words": "If ya got the feelin', jump up towards the ceilin'"
+        },
+        {
+          "startTimeMs": "38670",
+          "words": "Muggs let the funk flow, someone's talkin' junk"
+        },
+        {
+          "startTimeMs": "40720",
+          "words": "Yo, I bust him in the eye, and then I'll take the punk's ho"
+        },
+        {
+          "startTimeMs": "43110",
+          "words": "Feelin', funkin', amps in the trunk, and"
+        },
+        {
+          "startTimeMs": "45310",
+          "words": "I got more rhymes than there's cops at a Dunkin'"
+        },
+        {
+          "startTimeMs": "47740",
+          "words": "Donuts shop, sho' nuff, I got props"
+        },
+        {
+          "startTimeMs": "49660",
+          "words": "From the kids on the Hill plus my mom and my pops"
+        },
+        {
+          "startTimeMs": "52020",
+          "words": "I came to get down, I came to get down"
+        },
+        {
+          "startTimeMs": "54130",
+          "words": "So get out your seat and jump around"
+        },
+        {
+          "startTimeMs": "56230",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "58620",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "60770",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "63020",
+          "words": "Jump up, jump up, and get down"
+        },
+        {
+          "startTimeMs": "65240",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "67330",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump!"
+        },
+        {
+          "startTimeMs": "69990",
+          "words": "(Steady on the left) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "72050",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! Jump!"
+        },
+        {
+          "startTimeMs": "74700",
+          "words": "I'll serve your ass like John McEnroe"
+        },
+        {
+          "startTimeMs": "76550",
+          "words": "If your girl steps up, I'm smackin' the ho"
+        },
+        {
+          "startTimeMs": "79190",
+          "words": "Word to your moms, I came to drop bombs"
+        },
+        {
+          "startTimeMs": "81270",
+          "words": "I got more rhymes than the Bible's got Psalms"
+        },
+        {
+          "startTimeMs": "83390",
+          "words": "And just like the Prodigal Son, I've returned"
+        },
+        {
+          "startTimeMs": "85780",
+          "words": "Anyone steppin' to me, you'll get burned"
+        },
+        {
+          "startTimeMs": "87910",
+          "words": "'Cause I got lyrics, but you ain't got none"
+        },
+        {
+          "startTimeMs": "90340",
+          "words": "If ya come to battle, bring a shotgun (shotgun)"
+        },
+        {
+          "startTimeMs": "92270",
+          "words": "But if you do, you're a fool, 'cause I duel to the death"
+        },
+        {
+          "startTimeMs": "94970",
+          "words": "Tryin' to step to me, you'll take your last breath"
+        },
+        {
+          "startTimeMs": "97070",
+          "words": "I got the skill, come get your fill"
+        },
+        {
+          "startTimeMs": "99120",
+          "words": "'Cause when I shoot the gift, I shoot to kill"
+        },
+        {
+          "startTimeMs": "101550",
+          "words": "I came to get down, I came to get down"
+        },
+        {
+          "startTimeMs": "103630",
+          "words": "So get out your seat and jump around"
+        },
+        {
+          "startTimeMs": "105770",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "108110",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "110250",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "112390",
+          "words": "Jump up, jump up, and get down"
+        },
+        {
+          "startTimeMs": "114430",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "116900",
+          "words": "(Steady on the left) Jump! Jump! Jump! Jump!"
+        },
+        {
+          "startTimeMs": "118860",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "121270",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! Jump! (Steady on the right)"
+        },
+        {
+          "startTimeMs": "125620",
+          "words": "(Steady on the right)"
+        },
+        {
+          "startTimeMs": "128090",
+          "words": "(Steady on the right)"
+        },
+        {
+          "startTimeMs": "130180",
+          "words": "(Steady on the left)"
+        },
+        {
+          "startTimeMs": "132790",
+          "words": "I'm the cream of the crop, I rise to the top"
+        },
+        {
+          "startTimeMs": "135010",
+          "words": "I never eat a pig 'cause a pig is a cop"
+        },
+        {
+          "startTimeMs": "137110",
+          "words": "Or better yet a Terminator, like Arnold Schwarzenegger"
+        },
+        {
+          "startTimeMs": "139530",
+          "words": "Tryin' to play me out like as if my name was Sega"
+        },
+        {
+          "startTimeMs": "142090",
+          "words": "But I ain't goin' out like no pro, bitch"
+        },
+        {
+          "startTimeMs": "144470",
+          "words": "Get used to one style and yo, and I might switch"
+        },
+        {
+          "startTimeMs": "146520",
+          "words": "It up, up and around, then buck, buck ya down"
+        },
+        {
+          "startTimeMs": "148430",
+          "words": "Put out ya head and then ya wake up in the Dawn of the Dead"
+        },
+        {
+          "startTimeMs": "150850",
+          "words": "I'm comin' to get ya, I'm comin' to get ya"
+        },
+        {
+          "startTimeMs": "153210",
+          "words": "Spittin' out lyrics, homie, I'll wet ya"
+        },
+        {
+          "startTimeMs": "155320",
+          "words": "I came to get down, I came to get down"
+        },
+        {
+          "startTimeMs": "157540",
+          "words": "So get out your seat and jump around"
+        },
+        {
+          "startTimeMs": "159600",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "161850",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "164120",
+          "words": "Jump around (jump around)"
+        },
+        {
+          "startTimeMs": "166280",
+          "words": "Jump up, jump up, and get down"
+        },
+        {
+          "startTimeMs": "168420",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "170840",
+          "words": "(Steady on the left) Jump! Jump! Jump! Jump!"
+        },
+        {
+          "startTimeMs": "173220",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "175330",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! Jump! (Steady on the right)"
+        },
+        {
+          "startTimeMs": "178020",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "180450",
+          "words": "(Steady on the left) Jump! Jump! Jump! Jump!"
+        },
+        {
+          "startTimeMs": "182590",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Everybody jump)"
+        },
+        {
+          "startTimeMs": "184910",
+          "words": "(Steady on the right) Jump! Jump! Jump! Jump! (Steady on the right)"
+        },
+        {
+          "startTimeMs": "187380",
+          "words": "(Steady on the right) Yo, this is dedicated"
+        },
+        {
+          "startTimeMs": "189680",
+          "words": "(Steady on the right) To Joe \"The Biter\""
+        },
+        {
+          "startTimeMs": "191760",
+          "words": "(Steady on the right) Nicolo"
+        },
+        {
+          "startTimeMs": "194140",
+          "words": "(Steady on the right) Grab the bozack"
+        },
+        {
+          "startTimeMs": "196400",
+          "words": "(Steady on the right) Punk"
+        },
+        {
+          "startTimeMs": "198040",
+          "words": "(Steady on- steady on the right)"
+        },
+        {
+          "startTimeMs": "200720",
+          "words": "(Steady on the right)"
+        },
+        {
+          "startTimeMs": "203190",
+          "words": "(Steady on the right)"
+        }
+      ]
+    }
+  }
+}

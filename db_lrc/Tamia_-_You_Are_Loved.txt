@@ -1,0 +1,137 @@
+{
+  "track_id": "1Gq5I9PzS7FtHJ0gvBQkPy",
+  "track_name": "You Are Loved",
+  "artist_name": "Tamia",
+  "timestamp": "2025-03-23 21:40:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1880",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "2400",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "3640",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "4100",
+          "words": "Because you're mine, oh"
+        },
+        {
+          "startTimeMs": "4670",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "5160",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "5570",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "6070",
+          "words": "Because I love you, I do"
+        },
+        {
+          "startTimeMs": "6430",
+          "words": "There's something I want you to know"
+        },
+        {
+          "startTimeMs": "7200",
+          "words": "Whenever you're feeling alone"
+        },
+        {
+          "startTimeMs": "7730",
+          "words": "Always remember this song"
+        },
+        {
+          "startTimeMs": "8500",
+          "words": "I, I love you, I do"
+        },
+        {
+          "startTimeMs": "9220",
+          "words": "Each time you break down and cry"
+        },
+        {
+          "startTimeMs": "9630",
+          "words": "Look deep inside and you'll find"
+        },
+        {
+          "startTimeMs": "10140",
+          "words": "Lift up your head and realize"
+        },
+        {
+          "startTimeMs": "10540",
+          "words": "I love you, I do"
+        },
+        {
+          "startTimeMs": "11110",
+          "words": "'Cause you are loved"
+        },
+        {
+          "startTimeMs": "57460",
+          "words": "Now you, you are loved"
+        },
+        {
+          "startTimeMs": "57880",
+          "words": "You are loved"
+        },
+        {
+          "startTimeMs": "58260",
+          "words": "Because you're mine, oh, say"
+        },
+        {
+          "startTimeMs": "58690",
+          "words": "I am loved (So loved) Say it"
+        },
+        {
+          "startTimeMs": "59070",
+          "words": "I am loved (So loved)"
+        },
+        {
+          "startTimeMs": "59350",
+          "words": "I am loved"
+        },
+        {
+          "startTimeMs": "59680",
+          "words": "And I love you"
+        },
+        {
+          "startTimeMs": "59940",
+          "words": "I know you feel alone"
+        },
+        {
+          "startTimeMs": "60220",
+          "words": "We all have times when we feel alone"
+        },
+        {
+          "startTimeMs": "60520",
+          "words": "Even when everyone is around us"
+        },
+        {
+          "startTimeMs": "60880",
+          "words": "We still sometimes feel alone"
+        },
+        {
+          "startTimeMs": "61170",
+          "words": "But you are not alone"
+        },
+        {
+          "startTimeMs": "61440",
+          "words": "You are not alone"
+        },
+        {
+          "startTimeMs": "61760",
+          "words": "You are loved"
+        }
+      ]
+    }
+  }
+}

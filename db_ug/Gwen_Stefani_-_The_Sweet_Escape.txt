@@ -1,0 +1,9 @@
+{
+  "track_id": "66ZcOcouenzZEnzTJvoFmH",
+  "track_name": "The Sweet Escape",
+  "artist_name": "Gwen Stefani",
+  "timestamp": "2025-03-23 02:26:21",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/gwen-stefani/the-sweet-escape-chords-886716",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>THE SWEET ESCAPE CHORDS by Gwen Stefani  feat. Akon @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"CAPO on first fret, if you play it like this then you&#039;re in the original key of the song! Enjoy! [Akon] Am C Woooo hooo D7 F Weee oooo Am C Wooo hooo D7 F Weee oooo"
+}

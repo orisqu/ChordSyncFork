@@ -1,0 +1,193 @@
+{
+  "track_id": "30emkg41FAEvRBuRj0quCy",
+  "track_name": "Voy a Hacer Todo un Hombre de Tí",
+  "artist_name": "Pablo Perea",
+  "timestamp": "2025-03-24 15:57:46",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "17520",
+          "words": "Llega el enemigo"
+        },
+        {
+          "startTimeMs": "20840",
+          "words": "Vamos a luchar"
+        },
+        {
+          "startTimeMs": "25880",
+          "words": "Me enviaron nenas"
+        },
+        {
+          "startTimeMs": "29250",
+          "words": "Tal vez a jugar"
+        },
+        {
+          "startTimeMs": "33630",
+          "words": "Hoy dais lástima, vais a aprender"
+        },
+        {
+          "startTimeMs": "37330",
+          "words": "Pasión, deber, valor, virtud"
+        },
+        {
+          "startTimeMs": "41780",
+          "words": "Pues yo ya lo logré, ahora tú"
+        },
+        {
+          "startTimeMs": "51050",
+          "words": "La quietud del bosque"
+        },
+        {
+          "startTimeMs": "54550",
+          "words": "Y el ardor del sol"
+        },
+        {
+          "startTimeMs": "59670",
+          "words": "Cuando los consigues, tuyo es el control"
+        },
+        {
+          "startTimeMs": "67220",
+          "words": "Y aunque eres hoy, patético"
+        },
+        {
+          "startTimeMs": "71310",
+          "words": "Todo un hombre haré de ti"
+        },
+        {
+          "startTimeMs": "75410",
+          "words": "Y serás el mejor para mí"
+        },
+        {
+          "startTimeMs": "84740",
+          "words": "No puedo ya ni respirar"
+        },
+        {
+          "startTimeMs": "86660",
+          "words": "Despedirme de mi gente"
+        },
+        {
+          "startTimeMs": "88920",
+          "words": "¿Y por qué falte a la escuela a entrenar?"
+        },
+        {
+          "startTimeMs": "93520",
+          "words": "Ya la veo renunciar"
+        },
+        {
+          "startTimeMs": "95330",
+          "words": "Que no vaya a descubrirme"
+        },
+        {
+          "startTimeMs": "97410",
+          "words": "Cómo desearía hoy saber nadar"
+        },
+        {
+          "startTimeMs": "100770",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "101920",
+          "words": "Seré más raudo que un río bravo"
+        },
+        {
+          "startTimeMs": "104930",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "106130",
+          "words": "Tendré la fuerza de un gran tifón"
+        },
+        {
+          "startTimeMs": "108980",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "110350",
+          "words": "Con la energía del fuego ardiente"
+        },
+        {
+          "startTimeMs": "114190",
+          "words": "La luna sabrá guiar el corazón"
+        },
+        {
+          "startTimeMs": "122840",
+          "words": "Vienen ya los Hunos y no hay más que hablar"
+        },
+        {
+          "startTimeMs": "131490",
+          "words": "Si haces lo que ordene, te podrás salvar"
+        },
+        {
+          "startTimeMs": "138980",
+          "words": "No estás listo aún para luchar"
+        },
+        {
+          "startTimeMs": "143180",
+          "words": "Sobras, ya te irás de aquí"
+        },
+        {
+          "startTimeMs": "147180",
+          "words": "No serás el mejor para mí"
+        },
+        {
+          "startTimeMs": "155200",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "156530",
+          "words": "Seré más raudo que un río bravo"
+        },
+        {
+          "startTimeMs": "159680",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "160960",
+          "words": "Tendré la fuerza de un gran tifón"
+        },
+        {
+          "startTimeMs": "163960",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "165010",
+          "words": "Con la energía del fuego ardiente"
+        },
+        {
+          "startTimeMs": "168840",
+          "words": "La luna sabrá guiar el corazón"
+        },
+        {
+          "startTimeMs": "176320",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "177570",
+          "words": "Seré más raudo que un río bravo"
+        },
+        {
+          "startTimeMs": "180510",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "181960",
+          "words": "Tendré la fuerza de un gran tifón"
+        },
+        {
+          "startTimeMs": "184990",
+          "words": "(Con valor)"
+        },
+        {
+          "startTimeMs": "186030",
+          "words": "Con la energía del fuego ardiente"
+        },
+        {
+          "startTimeMs": "189800",
+          "words": "La luna sabrá guiar el corazón"
+        }
+      ]
+    }
+  }
+}

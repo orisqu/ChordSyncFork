@@ -1,0 +1,12 @@
+{
+  "track_id": "4SOwtJZMvyxgVKYI68NBi2",
+  "track_name": "Karma Chameleon - The Voyage Edition",
+  "artist_name": "Drew Love",
+  "timestamp": "2025-03-24 16:08:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

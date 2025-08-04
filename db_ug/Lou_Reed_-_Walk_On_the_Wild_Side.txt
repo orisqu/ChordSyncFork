@@ -1,0 +1,9 @@
+{
+  "track_id": "5p3JunprHCxClJjOmcLV8G",
+  "track_name": "Walk On the Wild Side",
+  "artist_name": "Lou Reed",
+  "timestamp": "2025-03-21 23:17:22",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/lou-reed/walk-on-the-wild-side-chords-459911",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WALK ON THE WILD SIDE CHORDS (ver 2) by Lou Reed @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"By: Adam.M.L. Chords: C F Dm e|--x-----| |----x----| |---1----| B|--1-----| |----1----| |---3----| G|--0-----| |----2----| |---2----| D|--2-----| |----3----| |---0----| A|-"
+}

@@ -1,0 +1,313 @@
+{
+  "track_id": "5mvKuE9Lf9ARVXVXA32kK9",
+  "track_name": "Price Tag",
+  "artist_name": "Jessie J",
+  "timestamp": "2025-03-23 01:55:47",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "3390",
+          "words": "Okay, Coconut man, Moonheads and Pea"
+        },
+        {
+          "startTimeMs": "10190",
+          "words": "You ready?"
+        },
+        {
+          "startTimeMs": "13050",
+          "words": "Seems like everybody's got a price"
+        },
+        {
+          "startTimeMs": "15940",
+          "words": "I wonder how they sleep at night"
+        },
+        {
+          "startTimeMs": "18410",
+          "words": "When the sale comes first and the truth comes second"
+        },
+        {
+          "startTimeMs": "21330",
+          "words": "Just stop for a minute and smile"
+        },
+        {
+          "startTimeMs": "24360",
+          "words": "Why is everybody so serious?"
+        },
+        {
+          "startTimeMs": "27150",
+          "words": "Acting so damn mysterious"
+        },
+        {
+          "startTimeMs": "29650",
+          "words": "Got shades on your eyes"
+        },
+        {
+          "startTimeMs": "30900",
+          "words": "And your heels so high that you can't even have a good time"
+        },
+        {
+          "startTimeMs": "35460",
+          "words": "Everybody look to their left"
+        },
+        {
+          "startTimeMs": "38000",
+          "words": "Everybody look to their right"
+        },
+        {
+          "startTimeMs": "40390",
+          "words": "Can you feel that? Yeah"
+        },
+        {
+          "startTimeMs": "42060",
+          "words": "We're paying with love tonight"
+        },
+        {
+          "startTimeMs": "43980",
+          "words": "It's not about the money, money, money"
+        },
+        {
+          "startTimeMs": "46970",
+          "words": "We don't need your money, money, money"
+        },
+        {
+          "startTimeMs": "49320",
+          "words": "We just wanna make the world dance"
+        },
+        {
+          "startTimeMs": "52320",
+          "words": "Forget about the price tag"
+        },
+        {
+          "startTimeMs": "55070",
+          "words": "Ain't about the, uh, cha-ching cha-ching"
+        },
+        {
+          "startTimeMs": "58160",
+          "words": "Ain't about the, yeah, ba-bling ba-bling"
+        },
+        {
+          "startTimeMs": "60840",
+          "words": "Wanna make the world dance"
+        },
+        {
+          "startTimeMs": "63260",
+          "words": "Forget about the price tag"
+        },
+        {
+          "startTimeMs": "66520",
+          "words": "Okay"
+        },
+        {
+          "startTimeMs": "68170",
+          "words": "We need to take it back in time"
+        },
+        {
+          "startTimeMs": "70780",
+          "words": "When music made us all unite"
+        },
+        {
+          "startTimeMs": "73460",
+          "words": "And it wasn't low blows and video hoes"
+        },
+        {
+          "startTimeMs": "76350",
+          "words": "Am I the only the one getting tired?"
+        },
+        {
+          "startTimeMs": "79230",
+          "words": "Why is everybody so obsessed?"
+        },
+        {
+          "startTimeMs": "81940",
+          "words": "Money can't buy us happiness"
+        },
+        {
+          "startTimeMs": "84400",
+          "words": "Can we all slow down and enjoy right now?"
+        },
+        {
+          "startTimeMs": "87280",
+          "words": "Guarantee we'll be feeling alright"
+        },
+        {
+          "startTimeMs": "90240",
+          "words": "Everybody look to their left (to their left)"
+        },
+        {
+          "startTimeMs": "92990",
+          "words": "Everybody look to their right (to their right)"
+        },
+        {
+          "startTimeMs": "95330",
+          "words": "Can you feel that? Yeah"
+        },
+        {
+          "startTimeMs": "96980",
+          "words": "We're paying with love tonight"
+        },
+        {
+          "startTimeMs": "98810",
+          "words": "It's not about the money, money, money"
+        },
+        {
+          "startTimeMs": "101760",
+          "words": "We don't need your money, money, money"
+        },
+        {
+          "startTimeMs": "104150",
+          "words": "We just wanna make the world dance"
+        },
+        {
+          "startTimeMs": "107160",
+          "words": "Forget about the price tag"
+        },
+        {
+          "startTimeMs": "110030",
+          "words": "Ain't about the, uh, cha-ching cha-ching"
+        },
+        {
+          "startTimeMs": "112960",
+          "words": "Ain't about the, yeah, ba-bling ba-bling"
+        },
+        {
+          "startTimeMs": "115640",
+          "words": "Wanna make the world dance"
+        },
+        {
+          "startTimeMs": "118020",
+          "words": "Forget about the price tag"
+        },
+        {
+          "startTimeMs": "120540",
+          "words": "Yeah, yeah, well, keep the price tag and take the cash back"
+        },
+        {
+          "startTimeMs": "123910",
+          "words": "Just give me six strings (six strings) and a half-stack (half stack)"
+        },
+        {
+          "startTimeMs": "126810",
+          "words": "And you can, can keep the cars, leave me the garage"
+        },
+        {
+          "startTimeMs": "129510",
+          "words": "And all I, yes, all I need are keys and guitars"
+        },
+        {
+          "startTimeMs": "132120",
+          "words": "And guess what? In thirty seconds, I'm leaving to Mars (Mars)"
+        },
+        {
+          "startTimeMs": "135030",
+          "words": "Yeah, we leaping across these undefeatable odds (odds)"
+        },
+        {
+          "startTimeMs": "137690",
+          "words": "It's like this, man, you can't put a price on a life (na-ah)"
+        },
+        {
+          "startTimeMs": "140880",
+          "words": "We do this for the love, so we fight and sacrifice every night"
+        },
+        {
+          "startTimeMs": "144280",
+          "words": "So we ain't gon' stumble and fall, never (nah)"
+        },
+        {
+          "startTimeMs": "146460",
+          "words": "Waiting to see this in the sign of defeat, uh-uh"
+        },
+        {
+          "startTimeMs": "149100",
+          "words": "So we gon' keep everyone moving their feet"
+        },
+        {
+          "startTimeMs": "151440",
+          "words": "So bring back the beat and then everyone sing"
+        },
+        {
+          "startTimeMs": "153850",
+          "words": "It's not about the money, money, money"
+        },
+        {
+          "startTimeMs": "156770",
+          "words": "We don't need your money, money, money"
+        },
+        {
+          "startTimeMs": "159200",
+          "words": "We just wanna make the world dance"
+        },
+        {
+          "startTimeMs": "162090",
+          "words": "Forget about the price tag"
+        },
+        {
+          "startTimeMs": "164800",
+          "words": "Ain't about the, uh, cha-ching, cha-ching"
+        },
+        {
+          "startTimeMs": "167790",
+          "words": "Ain't about the, yeah, ba-bling, ba-bling"
+        },
+        {
+          "startTimeMs": "170470",
+          "words": "Wanna make the world dance"
+        },
+        {
+          "startTimeMs": "173140",
+          "words": "Forget about the price tag (hey, hey)"
+        },
+        {
+          "startTimeMs": "175790",
+          "words": "It's not about the money, money, money (we don't need it)"
+        },
+        {
+          "startTimeMs": "178590",
+          "words": "We don't need your money, money, money (no, no)"
+        },
+        {
+          "startTimeMs": "181040",
+          "words": "(We don't need it) we just wanna make the world dance (dance)"
+        },
+        {
+          "startTimeMs": "184000",
+          "words": "Forget about the price tag (dance, dance, dance)"
+        },
+        {
+          "startTimeMs": "186960",
+          "words": "Ain't about the, uh, cha-ching cha-ching"
+        },
+        {
+          "startTimeMs": "189890",
+          "words": "Ain't about the (it ain't about), yeah, ba-bling ba-bling"
+        },
+        {
+          "startTimeMs": "192480",
+          "words": "Wanna make the world dance (yeah, yeah)"
+        },
+        {
+          "startTimeMs": "194990",
+          "words": "Forget about the price tag (forget about the price tag)"
+        },
+        {
+          "startTimeMs": "198640",
+          "words": "(Ahh, ahh, ahh, ahh)"
+        },
+        {
+          "startTimeMs": "209210",
+          "words": "Yeah, yeah (ahh)"
+        },
+        {
+          "startTimeMs": "211610",
+          "words": "Ooh, ooh, ooh (ahh)"
+        },
+        {
+          "startTimeMs": "214100",
+          "words": "Forget about the price tag, yeah (ahh, ahh)"
+        }
+      ]
+    }
+  }
+}

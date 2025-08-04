@@ -1,0 +1,121 @@
+{
+  "track_id": "3xINh6YqkLfucEtjoa4x7D",
+  "track_name": "Days Like This",
+  "artist_name": "Van Morrison",
+  "timestamp": "2025-03-23 15:10:33",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11030",
+          "words": "When it's not always raining there'll be days like this"
+        },
+        {
+          "startTimeMs": "16450",
+          "words": "When there's no one complaining there'll be days like this"
+        },
+        {
+          "startTimeMs": "21240",
+          "words": "When everything falls into place like the flick of a switch"
+        },
+        {
+          "startTimeMs": "26880",
+          "words": "Well my mama told me there'll be days like this"
+        },
+        {
+          "startTimeMs": "34630",
+          "words": "When you don't need to worry there'll be days like this"
+        },
+        {
+          "startTimeMs": "39920",
+          "words": "When no one's in a hurry there'll be days like this"
+        },
+        {
+          "startTimeMs": "45140",
+          "words": "When you don't get betrayed by that old Judas kiss"
+        },
+        {
+          "startTimeMs": "50500",
+          "words": "Oh my mama told me there'll be days like this"
+        },
+        {
+          "startTimeMs": "58180",
+          "words": "When you don't need an answer there'll be days like this"
+        },
+        {
+          "startTimeMs": "63470",
+          "words": "When you don't meet a chancer there'll be days like this"
+        },
+        {
+          "startTimeMs": "68520",
+          "words": "When all the parts of the puzzle start to look like they fit"
+        },
+        {
+          "startTimeMs": "73930",
+          "words": "Then I must remember there'll be days like this"
+        },
+        {
+          "startTimeMs": "99920",
+          "words": "(There'll be days like this)"
+        },
+        {
+          "startTimeMs": "105010",
+          "words": "When everyone is up front and they're not playing tricks"
+        },
+        {
+          "startTimeMs": "110290",
+          "words": "When you don't have no freeloaders out to get their kicks"
+        },
+        {
+          "startTimeMs": "115110",
+          "words": "When it's nobody's business the way that you wanna live"
+        },
+        {
+          "startTimeMs": "120230",
+          "words": "I just have to remember there'll be days like this"
+        },
+        {
+          "startTimeMs": "127470",
+          "words": "When no one steps on my dreams there'll be days like this"
+        },
+        {
+          "startTimeMs": "132550",
+          "words": "When people understand what I mean there'll be days like this"
+        },
+        {
+          "startTimeMs": "138220",
+          "words": "When you ring out the changes of how everything is"
+        },
+        {
+          "startTimeMs": "143330",
+          "words": "Well, my mama told me there'll be days like this"
+        },
+        {
+          "startTimeMs": "151080",
+          "words": "Oh na na, nana nana"
+        },
+        {
+          "startTimeMs": "156200",
+          "words": "Oh na na, nana nana"
+        },
+        {
+          "startTimeMs": "166400",
+          "words": "Oh, my mama told me there'll be days like this"
+        },
+        {
+          "startTimeMs": "171430",
+          "words": "Oh, my mama told me there'll be days like this"
+        },
+        {
+          "startTimeMs": "176460",
+          "words": "Oh, my mama told me there'll be days like this"
+        },
+        {
+          "startTimeMs": "181760",
+          "words": "Oh, my mama told me there'll be days like this"
+        }
+      ]
+    }
+  }
+}

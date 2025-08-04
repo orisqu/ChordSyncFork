@@ -1,0 +1,141 @@
+{
+  "track_id": "4JoDGVsk0XNqFp6wNZOSZd",
+  "track_name": "Recuérdame (Interpretada por Ernesto De la Cruz)",
+  "artist_name": "Marco Antonio Solís",
+  "timestamp": "2025-03-23 14:01:15",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "170",
+          "words": "¡Aaah ja jay!"
+        },
+        {
+          "startTimeMs": "6120",
+          "words": "¡Aah ja ja jay!"
+        },
+        {
+          "startTimeMs": "9230",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "12040",
+          "words": "Hoy me tengo que ir, mi amor"
+        },
+        {
+          "startTimeMs": "13660",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "15870",
+          "words": "No llores, por favor"
+        },
+        {
+          "startTimeMs": "17990",
+          "words": "Te llevo en mi corazón"
+        },
+        {
+          "startTimeMs": "19680",
+          "words": "Y cerca me tendrás"
+        },
+        {
+          "startTimeMs": "21820",
+          "words": "A solas, yo te cantaré"
+        },
+        {
+          "startTimeMs": "23420",
+          "words": "Soñando en regresar"
+        },
+        {
+          "startTimeMs": "24880",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "27080",
+          "words": "Aunque tengo que emigrar"
+        },
+        {
+          "startTimeMs": "28400",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "30600",
+          "words": "Si mi guitarra oyes llorar"
+        },
+        {
+          "startTimeMs": "33060",
+          "words": "Ella con su triste canto te acompañará"
+        },
+        {
+          "startTimeMs": "37040",
+          "words": "Hasta que en mis brazos tú estés"
+        },
+        {
+          "startTimeMs": "39460",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "59520",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "63150",
+          "words": "Hoy me tengo que ir, mi amor"
+        },
+        {
+          "startTimeMs": "64860",
+          "words": "Recuérdame"
+        },
+        {
+          "startTimeMs": "66880",
+          "words": "No llores, por favor"
+        },
+        {
+          "startTimeMs": "68880",
+          "words": "Te llevo en mi corazón"
+        },
+        {
+          "startTimeMs": "70460",
+          "words": "Y cerca me tendrás"
+        },
+        {
+          "startTimeMs": "72570",
+          "words": "A solas, yo te cantaré"
+        },
+        {
+          "startTimeMs": "73960",
+          "words": "Soñando en regresar"
+        },
+        {
+          "startTimeMs": "75520",
+          "words": "Recuérdame (Recuérdame, recuérdame)"
+        },
+        {
+          "startTimeMs": "77510",
+          "words": "Aunque tengo que emigrar"
+        },
+        {
+          "startTimeMs": "79150",
+          "words": "Recuérdame (Recuérdame, recuérdame)"
+        },
+        {
+          "startTimeMs": "81040",
+          "words": "Si mi guitarra oyes llorar"
+        },
+        {
+          "startTimeMs": "83580",
+          "words": "Ella con su triste canto te acompañará"
+        },
+        {
+          "startTimeMs": "88350",
+          "words": "Hasta que en mis brazos tú estés"
+        },
+        {
+          "startTimeMs": "92290",
+          "words": "¡Recuérdame!"
+        }
+      ]
+    }
+  }
+}

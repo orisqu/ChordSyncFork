@@ -1,0 +1,9 @@
+{
+  "track_id": "6WCeFNVAXUtNczb7lqLiZU",
+  "track_name": "Crocodile Rock",
+  "artist_name": "Elton John",
+  "timestamp": "2025-03-24 18:51:14",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/elton-john/crocodile-rock-chords-10730",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>CROCODILE ROCK CHORDS by Elton John @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] G G Em Em C C D D [Verse 1] G Bm I remember when rock was young, me and Susie had so much fun C D Holding hands and skimmin&#039; stones had a old gold Chevy &amp; a place of my"
+}

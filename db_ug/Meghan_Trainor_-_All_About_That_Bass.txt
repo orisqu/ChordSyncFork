@@ -1,0 +1,9 @@
+{
+  "track_id": "5jE48hhRu8E6zBDPRSkEq7",
+  "track_name": "All About That Bass",
+  "artist_name": "Meghan Trainor",
+  "timestamp": "2025-03-23 01:35:17",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/meghan-trainor/all-about-that-bass-chords-1494750",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>ALL ABOUT THAT BASS CHORDS by Meghan Trainor @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Chorus] A Because you know I&#039;m all about that bass, A &#039;Bout that bass &#039;bout that bass, no treble Bm I&#039;m all &#039;bout that bass, &#039;bout that bass, no "
+}

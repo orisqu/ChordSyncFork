@@ -1,0 +1,181 @@
+{
+  "track_id": "4FHSM9uehI2DtSWtzYORNV",
+  "track_name": "Heaven",
+  "artist_name": "Blanke",
+  "timestamp": "2025-03-21 21:40:41",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11830",
+          "words": "Pins and needles on my skin"
+        },
+        {
+          "startTimeMs": "15010",
+          "words": "Yeah I'm leaving through the window once again"
+        },
+        {
+          "startTimeMs": "19270",
+          "words": "I crash in the morning"
+        },
+        {
+          "startTimeMs": "21950",
+          "words": "How can I explain the state I'm in"
+        },
+        {
+          "startTimeMs": "25220",
+          "words": "Close enough I could just taste"
+        },
+        {
+          "startTimeMs": "28100",
+          "words": "Illuminate when I run away"
+        },
+        {
+          "startTimeMs": "32060",
+          "words": "I'm not afraid here"
+        },
+        {
+          "startTimeMs": "34320",
+          "words": "I think I'll lay here"
+        },
+        {
+          "startTimeMs": "36470",
+          "words": "Cause it feels like heaven, heaven every time"
+        },
+        {
+          "startTimeMs": "41510",
+          "words": "Leave it all behind -hind"
+        },
+        {
+          "startTimeMs": "50070",
+          "words": "I'm swimming under holy water, blurry eyed"
+        },
+        {
+          "startTimeMs": "54380",
+          "words": "Holding golden butterflies"
+        },
+        {
+          "startTimeMs": "59800",
+          "words": "And even on the edge it feels likе"
+        },
+        {
+          "startTimeMs": "63970",
+          "words": "Heaven, heavеn, every time"
+        },
+        {
+          "startTimeMs": "67210",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "72540",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "85510",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "111320",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "117890",
+          "words": "Spinning on my axis"
+        },
+        {
+          "startTimeMs": "120810",
+          "words": "Try to paint it in my mind how I imagined"
+        },
+        {
+          "startTimeMs": "125250",
+          "words": "Sand through my fingers"
+        },
+        {
+          "startTimeMs": "127650",
+          "words": "Hold on too tight and it never happened"
+        },
+        {
+          "startTimeMs": "130860",
+          "words": "Lucid, I'm floating"
+        },
+        {
+          "startTimeMs": "133750",
+          "words": "I'll stay here in focus"
+        },
+        {
+          "startTimeMs": "137080",
+          "words": "I'm just trying to find another wonder"
+        },
+        {
+          "startTimeMs": "142330",
+          "words": "Cause it feels like heaven, heaven every time"
+        },
+        {
+          "startTimeMs": "147130",
+          "words": "Leave it all behind -hind"
+        },
+        {
+          "startTimeMs": "155540",
+          "words": "Swimming under holy water, blurry eyed"
+        },
+        {
+          "startTimeMs": "159990",
+          "words": "Holding golden butterflies"
+        },
+        {
+          "startTimeMs": "165530",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "169310",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "172620",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "178330",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "191280",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "203670",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "207850",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "211090",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "216430",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "220580",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "223870",
+          "words": "Heaven, heaven, every time"
+        },
+        {
+          "startTimeMs": "229160",
+          "words": "And even on the edge it feels like"
+        },
+        {
+          "startTimeMs": "241930",
+          "words": "(And even on the edge it feels like)"
+        }
+      ]
+    }
+  }
+}

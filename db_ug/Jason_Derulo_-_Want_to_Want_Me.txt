@@ -1,0 +1,9 @@
+{
+  "track_id": "7oGZAicScQt96OAW4AruYy",
+  "track_name": "Want to Want Me",
+  "artist_name": "Jason Derulo",
+  "timestamp": "2025-03-23 02:04:53",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/jason-derulo/want-to-want-me-chords-1722046",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WANT TO WANT ME CHORDS by Jason Derulo @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"CAPO ON 3rd FRET! Standard Tuning. Jason Derulo. [Verse] C It&#039;s too hard to sleep I got the sheets on the floor Am Nothing on me And I can&#039;t take it no more C it&#039;s a h"
+}

@@ -1,0 +1,140 @@
+/* 
+ * ChordSync Enhanced Styles with Progress Bar
+ * With tight chord-lyric pairing and progress indicator
+ */
+
+/* REDUCE SIZE OF PLAYER UI */
+#IDAlbum {
+    width: auto;
+    height: 140px; /* Reduced from 175px */
+}
+
+#IDdivTrackAndTime {
+    height: 140px; /* Reduced from 175px */
+}
+
+#IDtrackName {
+    font-size: 1.7rem; /* Reduced from 2rem */
+}
+
+#IDartistName {
+    font-size: 1.1rem; /* Reduced from 1.3rem */
+}
+
+#IDplayAndPauseButton {
+    width: 45px; /* Reduced from 50px */
+}
+
+#IDbackButton, #IDforwardButton {
+    width: 35px; /* Reduced from 40px */
+}
+
+#IDshuffleButton, #IDrepeatSpotifyButton {
+    width: 30px; /* Reduced from 35px/45px */
+    height: 40px; /* Reduced from 45px */
+}
+
+#IDdivAlbumAndTrackAndTime {
+    margin: 0 0 1vh 0; /* Reduced from 2vh */
+}
+
+/* INCREASE SIZE OF LYRICS/CHORDS */
+#IDdivMainChordsWrapper {
+    height: 55vh; /* Increased from 40vh */
+    font-size: 1.8rem; /* Increased from 1.5rem */
+}
+
+/* Chord-lyric pair container */
+.chord-lyric-pair {
+    position: relative;
+    margin-bottom: 1.5em; /* Space between pairs */
+    background-color: transparent;
+    transition: background-color 0.4s ease;
+    border-radius: 4px;
+    padding: 0.2em 0.5em;
+}
+
+/* Active chord-lyric pair */
+.chord-lyric-pair.active {
+    background-color: rgba(29, 185, 84, 0.15);
+    box-shadow: 0 0 10px rgba(29, 185, 84, 0.3);
+}
+
+/* Chord line */
+.chord-line {
+    margin-bottom: 0.1em !important; /* Tighter spacing between chord and lyric */
+    padding: 0.1em 0;
+    transition: all 0.3s ease;
+}
+
+/* Lyric line */
+.lyric-line {
+    padding: 0.1em 0;
+    transition: all 0.3s ease;
+}
+
+/* Chord spans */
+.chord_span {
+    font-weight: bold;
+    color: #1DB954; /* Spotify green */
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    border-radius: 3px;
+}
+
+/* Current chord-lyric indicator */
+.chord-lyric-pair.active::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 4px;
+    height: 100%;
+    background-color: #ff5500;
+    border-radius: 2px;
+    animation: pulse-glow 1.5s infinite;
+}
+
+@keyframes pulse-glow {
+    0% { opacity: 0.7; box-shadow: 0 0 3px #ff5500; }
+    50% { opacity: 1; box-shadow: 0 0 8px #ff5500; }
+    100% { opacity: 0.7; box-shadow: 0 0 3px #ff5500; }
+}
+
+/* Progress bar container */
+.progress-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 1.5px;
+    overflow: hidden;
+}
+
+/* Progress bar fill */
+.progress-bar {
+    height: 100%;
+    width: 0%; /* Will be set dynamically */
+    background-color: #ff5500;
+    transition: width 0.25s linear;
+}
+
+/* Emphasized chords */
+.chord-lyric-pair.active .chord_span {
+    color: #1DB954;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgba(29, 185, 84, 0.3);
+}
+
+/* Opacity for non-active pairs */
+.chord-lyric-pair:not(.active) {
+    opacity: 0.8;
+}
+
+/* Override any existing spacing */
+#IDdivMainChords > span {
+    margin-bottom: 0.1em !important;
+}

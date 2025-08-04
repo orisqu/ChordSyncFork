@@ -1,0 +1,9 @@
+{
+  "track_id": "1fDsrQ23eTAVFElUMaf38X",
+  "track_name": "American Pie",
+  "artist_name": "Don McLean",
+  "timestamp": "2025-03-24 16:42:59",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/don-mclean/american-pie-chords-187946",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>AMERICAN PIE CHORDS by Don McLean @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"* = strum once The C minor chord which is played in verse 4 may be a mistake but it is on the recording. [Verse 1] G D/F# Em A long, long time ago Am C Em D Dsus4 D Dsus2 D I can still re"
+}

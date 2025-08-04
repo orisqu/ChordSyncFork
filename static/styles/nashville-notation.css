@@ -1,0 +1,105 @@
+/* Nashville Notation CSS Styles for ChordSync */
+
+/* Nashville number styling */
+.nashville-notation {
+    color: #ff9d00; /* Warm orange that contrasts well with the Spotify green */
+    font-size: 0.85em;
+    font-weight: normal;
+    opacity: 0.9;
+    margin-left: 4px;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
+  }
+  
+  /* Animation for key detection success */
+  @keyframes keyDetected {
+    0% { transform: scale(1); opacity: 0.7; }
+    50% { transform: scale(1.2); opacity: 1; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  
+  /* Apply animation to the key value when updated */
+  .key-detected {
+    animation: keyDetected 0.7s ease-in-out;
+  }
+  
+  /* Ensure chord spans have room for the notation */
+  .chord_span {
+    margin-right: 5px !important;
+    padding: 2px 4px;
+    border-radius: 3px;
+    position: relative;
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  /* Hover effect for chord spans */
+  .chord_span:hover {
+    background-color: rgba(29, 185, 84, 0.2);
+  }
+  
+  /* Hover effect for Nashville notation */
+  .chord_span:hover .nashville-notation {
+    color: #ffb84d;
+    opacity: 1;
+  }
+  
+  /* Enhanced key display in toolbar */
+  #IDtrackKeyValue {
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  /* Info tooltip for Nashville notation */
+  .info-tooltip {
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    white-space: nowrap;
+    z-index: 100;
+  }
+  
+  /* Show tooltip on hover */
+  .has-info:hover .info-tooltip {
+    opacity: 1;
+  }
+  
+  /* Key scale degrees legend container */
+  .key-legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin: 8px 0;
+    padding: 6px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    font-size: 0.8em;
+  }
+  
+  .key-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  
+  .key-legend-number {
+    color: #ff9d00;
+    font-weight: bold;
+  }
+  
+  /* Make nashville notation more visible when chord is playing */
+  .current-line .chord_span .nashville-notation {
+    opacity: 1;
+    color: #ffc266;
+    text-shadow: 0 0 5px rgba(255, 157, 0, 0.3);
+  }

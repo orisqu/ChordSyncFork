@@ -1,0 +1,189 @@
+{
+  "track_id": "5Hroj5K7vLpIG4FNCRIjbP",
+  "track_name": "Best Day Of My Life",
+  "artist_name": "American Authors",
+  "timestamp": "2025-03-23 01:39:08",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9520",
+          "words": "I had a dream so big and loud"
+        },
+        {
+          "startTimeMs": "11930",
+          "words": "I jumped so high I touched the clouds"
+        },
+        {
+          "startTimeMs": "14520",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "16870",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "19020",
+          "words": "I stretched my hands out to the sky"
+        },
+        {
+          "startTimeMs": "21530",
+          "words": "We danced with monsters through the night"
+        },
+        {
+          "startTimeMs": "23930",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "26580",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "28650",
+          "words": "I'm never gonna look back, whoa"
+        },
+        {
+          "startTimeMs": "30990",
+          "words": "I never gonna give it up, no"
+        },
+        {
+          "startTimeMs": "33740",
+          "words": "Please don't wake me now"
+        },
+        {
+          "startTimeMs": "36300",
+          "words": "(One, two, three, four)"
+        },
+        {
+          "startTimeMs": "41270",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "45380",
+          "words": "My life"
+        },
+        {
+          "startTimeMs": "50780",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "55000",
+          "words": "My life"
+        },
+        {
+          "startTimeMs": "66830",
+          "words": "I howled at the moon with friends"
+        },
+        {
+          "startTimeMs": "69570",
+          "words": "And then the sun came crashing in"
+        },
+        {
+          "startTimeMs": "72160",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "74560",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "76710",
+          "words": "But all the possibilities"
+        },
+        {
+          "startTimeMs": "79040",
+          "words": "No limits, just epiphanies"
+        },
+        {
+          "startTimeMs": "81720",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "84170",
+          "words": "Woah, oh, oh, oh, oh, oh-oh, oh"
+        },
+        {
+          "startTimeMs": "86210",
+          "words": "I'm never gonna look back, woah"
+        },
+        {
+          "startTimeMs": "88550",
+          "words": "I never gonna give it up, no"
+        },
+        {
+          "startTimeMs": "91280",
+          "words": "Just don't wake me now"
+        },
+        {
+          "startTimeMs": "97630",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "101990",
+          "words": "My life"
+        },
+        {
+          "startTimeMs": "107250",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "111460",
+          "words": "My life"
+        },
+        {
+          "startTimeMs": "123610",
+          "words": "I hear it calling outside my window"
+        },
+        {
+          "startTimeMs": "128480",
+          "words": "I feel it in my soul (soul)"
+        },
+        {
+          "startTimeMs": "132970",
+          "words": "The stars were burning so bright, the sun was out 'til midnight"
+        },
+        {
+          "startTimeMs": "138090",
+          "words": "I say we lose control (control)"
+        },
+        {
+          "startTimeMs": "155120",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "159300",
+          "words": "My life"
+        },
+        {
+          "startTimeMs": "164820",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "169090",
+          "words": "My life"
+        },
+        {
+          "startTimeMs": "171960",
+          "words": "This is gonna be, this is gonna be, this is gotta be"
+        },
+        {
+          "startTimeMs": "175020",
+          "words": "The best day of my life"
+        },
+        {
+          "startTimeMs": "178730",
+          "words": "Everything is looking up, everybody up now"
+        },
+        {
+          "startTimeMs": "184050",
+          "words": "This is gonna be the best day of my life"
+        },
+        {
+          "startTimeMs": "188100",
+          "words": "My life"
+        }
+      ]
+    }
+  }
+}

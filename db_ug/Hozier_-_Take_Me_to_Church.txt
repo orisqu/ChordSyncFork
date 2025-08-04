@@ -1,0 +1,9 @@
+{
+  "track_id": "1CS7Sd1u5tWkstBhpssyjP",
+  "track_name": "Take Me to Church",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-23 14:55:08",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/hozier/take-me-to-church-chords-1442757",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TAKE ME TO CHURCH ACOUSTIC  CHORDS by Hozier @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"http://www.youtube.com/watch?v=2MlHC2rEPdQ is a great acoustic version of this song that I based this tab off. In the chorus a B or B7 is fine depending if you&#039;re playing "
+}

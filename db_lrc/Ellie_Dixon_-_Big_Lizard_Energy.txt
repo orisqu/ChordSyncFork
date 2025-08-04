@@ -1,0 +1,237 @@
+{
+  "track_id": "6VluWX7HW7IswLgiHrVvn7",
+  "track_name": "Big Lizard Energy",
+  "artist_name": "Ellie Dixon",
+  "timestamp": "2025-03-21 17:46:13",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "3930",
+          "words": "Think I got a problem with proportions"
+        },
+        {
+          "startTimeMs": "6400",
+          "words": "Freakin' out, 'cause everythin' feels so damn important"
+        },
+        {
+          "startTimeMs": "8920",
+          "words": "Hit the red alert when it's just a bit of caution"
+        },
+        {
+          "startTimeMs": "11230",
+          "words": "Yeah, I drove myself to exhaustion"
+        },
+        {
+          "startTimeMs": "13740",
+          "words": "But I've been growin'"
+        },
+        {
+          "startTimeMs": "14940",
+          "words": "Call it a Five-Star thriller"
+        },
+        {
+          "startTimeMs": "16320",
+          "words": "Tiptoein'"
+        },
+        {
+          "startTimeMs": "17260",
+          "words": "Over your roof, I'm a killer"
+        },
+        {
+          "startTimeMs": "18980",
+          "words": "Mind-Blowin'"
+        },
+        {
+          "startTimeMs": "19760",
+          "words": "Perspective makes it all chiller"
+        },
+        {
+          "startTimeMs": "21490",
+          "words": "I'm growin', I'm growin', I'm growin' (ah)"
+        },
+        {
+          "startTimeMs": "23970",
+          "words": "(Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah-ah-ah)"
+        },
+        {
+          "startTimeMs": "28150",
+          "words": "Problems are big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "30380",
+          "words": "I'm a Jurassic Killer (ah)"
+        },
+        {
+          "startTimeMs": "33740",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "37630",
+          "words": "Problems are big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "40120",
+          "words": "I'm a Jurassic Killer (ah)"
+        },
+        {
+          "startTimeMs": "43780",
+          "words": "(It's a monster!)"
+        },
+        {
+          "startTimeMs": "44870",
+          "words": "(Run for your life!)"
+        },
+        {
+          "startTimeMs": "48040",
+          "words": "And now I'm feelin' so reptilian"
+        },
+        {
+          "startTimeMs": "50260",
+          "words": "Takin' down my issues like they're just civilians"
+        },
+        {
+          "startTimeMs": "52750",
+          "words": "New Blockbuster, I'm makin' them millions"
+        },
+        {
+          "startTimeMs": "55240",
+          "words": "Don't really care about their opinions"
+        },
+        {
+          "startTimeMs": "56900",
+          "words": "But I've been growin'"
+        },
+        {
+          "startTimeMs": "58160",
+          "words": "Call it a Five-Star thriller"
+        },
+        {
+          "startTimeMs": "59510",
+          "words": "Tiptoein'"
+        },
+        {
+          "startTimeMs": "60670",
+          "words": "Over your roof, I'm a killer"
+        },
+        {
+          "startTimeMs": "61830",
+          "words": "Mind-Blowin'"
+        },
+        {
+          "startTimeMs": "62980",
+          "words": "Perspective makes it all chiller"
+        },
+        {
+          "startTimeMs": "64510",
+          "words": "I'm growin', I'm growin', I'm growin' (ah)"
+        },
+        {
+          "startTimeMs": "67140",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "71320",
+          "words": "Problems are big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "73710",
+          "words": "I'm a Jurassic Killer (ah)"
+        },
+        {
+          "startTimeMs": "76860",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "80860",
+          "words": "Problems are big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "83450",
+          "words": "I'm a Jurassic Killer (ah)"
+        },
+        {
+          "startTimeMs": "91110",
+          "words": "Big Lizard Energy, cold-blooded enemy"
+        },
+        {
+          "startTimeMs": "93470",
+          "words": "Not so scared when I'm 320 feet"
+        },
+        {
+          "startTimeMs": "95820",
+          "words": "Big Lizard Energy, cold-blooded enemy"
+        },
+        {
+          "startTimeMs": "98290",
+          "words": "Not so scared when I'm 320 feet"
+        },
+        {
+          "startTimeMs": "100630",
+          "words": "Big Lizard Energy, cold-blooded enemy"
+        },
+        {
+          "startTimeMs": "103120",
+          "words": "Not so scared when I'm 320 feet"
+        },
+        {
+          "startTimeMs": "105570",
+          "words": "Big Lizard Energy, cold-blooded enemy"
+        },
+        {
+          "startTimeMs": "108090",
+          "words": "Not so scared when I'm 320 feet"
+        },
+        {
+          "startTimeMs": "110400",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "114510",
+          "words": "Problems are big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "116920",
+          "words": "I'm a Jurassic Killer (ah)"
+        },
+        {
+          "startTimeMs": "119820",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "124000",
+          "words": "Problems are big, yeah, they make me shiver"
+        },
+        {
+          "startTimeMs": "126690",
+          "words": "But I feel brave, I know that I'm bigger"
+        },
+        {
+          "startTimeMs": "129460",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "133670",
+          "words": "Problems are b-b-big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "136040",
+          "words": "I'm a J-J-Jurassic k-killer"
+        },
+        {
+          "startTimeMs": "139010",
+          "words": "Ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah-ah-ah-ah, ah-ah"
+        },
+        {
+          "startTimeMs": "143670",
+          "words": "Problems are big, but I'm bigger"
+        },
+        {
+          "startTimeMs": "146110",
+          "words": "I'm a Jurassic Killer (ah)"
+        }
+      ]
+    }
+  }
+}

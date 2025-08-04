@@ -1,0 +1,9 @@
+{
+  "track_id": "4THrHKyBL0yaDDw9yg37Zk",
+  "track_name": "I Will Survive",
+  "artist_name": "CAKE",
+  "timestamp": "2025-03-21 17:21:37",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/cake/i-will-survive-chords-689767",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>I WILL SURVIVE CHORDS by CAKE @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] Am Dm G C F B E E7 [Verse 1] Am Dm At first I was afraid, I was petrified G C I kept thinkin&#039; I could never live without you by my side F B7 But then I spent so many nights just "
+}

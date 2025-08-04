@@ -1,0 +1,273 @@
+{
+  "track_id": "6FE2iI43OZnszFLuLtvvmg",
+  "track_name": "Classic",
+  "artist_name": "MKTO",
+  "timestamp": "2025-03-23 01:35:53",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "60",
+          "words": "Hey, where's the drum?"
+        },
+        {
+          "startTimeMs": "7410",
+          "words": "Wooo oh"
+        },
+        {
+          "startTimeMs": "11790",
+          "words": "Let's go"
+        },
+        {
+          "startTimeMs": "13130",
+          "words": "Woo girl, you're shinin'"
+        },
+        {
+          "startTimeMs": "15320",
+          "words": "Like a 5th Avenue diamond"
+        },
+        {
+          "startTimeMs": "17880",
+          "words": "And they don't make you like they used to"
+        },
+        {
+          "startTimeMs": "20020",
+          "words": "You're never goin' out of style"
+        },
+        {
+          "startTimeMs": "22430",
+          "words": "Woo pretty baby"
+        },
+        {
+          "startTimeMs": "24840",
+          "words": "This world might have gone crazy"
+        },
+        {
+          "startTimeMs": "27330",
+          "words": "The way you saved me, who could blame me"
+        },
+        {
+          "startTimeMs": "29390",
+          "words": "When I just wanna make you smile"
+        },
+        {
+          "startTimeMs": "31190",
+          "words": "I wanna thrill ya like Michael"
+        },
+        {
+          "startTimeMs": "33300",
+          "words": "I wanna kiss you like Prince"
+        },
+        {
+          "startTimeMs": "35660",
+          "words": "Let's get it on like Marvin Gaye, like Hathaway"
+        },
+        {
+          "startTimeMs": "38560",
+          "words": "Write a song for you like this"
+        },
+        {
+          "startTimeMs": "40630",
+          "words": "You're over my head, I'm out of my mind"
+        },
+        {
+          "startTimeMs": "43140",
+          "words": "Thinkin' I was born in the wrong time"
+        },
+        {
+          "startTimeMs": "45340",
+          "words": "One of a kind, livin' in a world gone plastic"
+        },
+        {
+          "startTimeMs": "49420",
+          "words": "Baby, you're so classic (yeah, yeah)"
+        },
+        {
+          "startTimeMs": "53470",
+          "words": "(Gone plastic)"
+        },
+        {
+          "startTimeMs": "54380",
+          "words": "Baby, you're so classic (yeah, yeah)"
+        },
+        {
+          "startTimeMs": "57100",
+          "words": "Baby you"
+        },
+        {
+          "startTimeMs": "58840",
+          "words": "Baby, you're so classic"
+        },
+        {
+          "startTimeMs": "60300",
+          "words": "Four dozen roses"
+        },
+        {
+          "startTimeMs": "62470",
+          "words": "Anything for you to notice"
+        },
+        {
+          "startTimeMs": "64960",
+          "words": "All the way to serenade you"
+        },
+        {
+          "startTimeMs": "67170",
+          "words": "Doin' it Sinatra style"
+        },
+        {
+          "startTimeMs": "69470",
+          "words": "I'ma pick you up in a Cadillac"
+        },
+        {
+          "startTimeMs": "71630",
+          "words": "Like a gentleman, bringin' glamour back"
+        },
+        {
+          "startTimeMs": "74200",
+          "words": "Keep it real to real in the way I feel"
+        },
+        {
+          "startTimeMs": "76630",
+          "words": "I could walk you down the aisle"
+        },
+        {
+          "startTimeMs": "78100",
+          "words": "I wanna thrill you like Michael"
+        },
+        {
+          "startTimeMs": "80320",
+          "words": "I wanna kiss you like Prince"
+        },
+        {
+          "startTimeMs": "82730",
+          "words": "Let's get it on like Marvin Gaye, like Hathaway"
+        },
+        {
+          "startTimeMs": "85840",
+          "words": "Write a song for you like this"
+        },
+        {
+          "startTimeMs": "87540",
+          "words": "You're over my head, I'm out of my mind"
+        },
+        {
+          "startTimeMs": "90110",
+          "words": "Thinkin' I was born in the wrong time"
+        },
+        {
+          "startTimeMs": "92460",
+          "words": "It's love on rewind, everything is so throwback-ish"
+        },
+        {
+          "startTimeMs": "95880",
+          "words": "I kinda like it, how ya"
+        },
+        {
+          "startTimeMs": "97660",
+          "words": "Out of my league, old school chic"
+        },
+        {
+          "startTimeMs": "99590",
+          "words": "Like a movie star from a silver screen"
+        },
+        {
+          "startTimeMs": "101770",
+          "words": "You're one of a kind, livin' in a world gone plastic"
+        },
+        {
+          "startTimeMs": "105550",
+          "words": "Baby, you're so classic (yeah, yeah)"
+        },
+        {
+          "startTimeMs": "110080",
+          "words": "Baby, you're so classic (yeah, yeah)"
+        },
+        {
+          "startTimeMs": "114240",
+          "words": "Baby, you're so classic"
+        },
+        {
+          "startTimeMs": "116820",
+          "words": "Baby, you're class, and baby, you're sick"
+        },
+        {
+          "startTimeMs": "118720",
+          "words": "I never met a girl like you ever 'til we met"
+        },
+        {
+          "startTimeMs": "121080",
+          "words": "A star in the '40s, centerfold in the '50s"
+        },
+        {
+          "startTimeMs": "123570",
+          "words": "You got me trippin' out like the '60s, hippies"
+        },
+        {
+          "startTimeMs": "126040",
+          "words": "Queen of the discotheque"
+        },
+        {
+          "startTimeMs": "127560",
+          "words": "A '70s dream in an '80s vest"
+        },
+        {
+          "startTimeMs": "129960",
+          "words": "Hepburn, Beyoncé, Marilyn, Massive"
+        },
+        {
+          "startTimeMs": "132440",
+          "words": "Girl, you're timeless"
+        },
+        {
+          "startTimeMs": "134000",
+          "words": "Just so classic"
+        },
+        {
+          "startTimeMs": "135360",
+          "words": "You're over my head, I'm out of my mind"
+        },
+        {
+          "startTimeMs": "137220",
+          "words": "Thinkin' I was born in the wrong time"
+        },
+        {
+          "startTimeMs": "139470",
+          "words": "It's love on rewind, everything is so throwback-ish"
+        },
+        {
+          "startTimeMs": "143230",
+          "words": "I kinda like it, how ya"
+        },
+        {
+          "startTimeMs": "144280",
+          "words": "Out of my league, old school chic"
+        },
+        {
+          "startTimeMs": "146420",
+          "words": "Like a movie star from a silver screen"
+        },
+        {
+          "startTimeMs": "148840",
+          "words": "You're one of a kind, livin' in a world gone plastic"
+        },
+        {
+          "startTimeMs": "152620",
+          "words": "Baby, you're so classic (whoa oh)"
+        },
+        {
+          "startTimeMs": "157010",
+          "words": "Baby, you're so classic (yeah, yeah)"
+        },
+        {
+          "startTimeMs": "161860",
+          "words": "Baby, you're so classic"
+        },
+        {
+          "startTimeMs": "164760",
+          "words": "Ooh, classic"
+        }
+      ]
+    }
+  }
+}

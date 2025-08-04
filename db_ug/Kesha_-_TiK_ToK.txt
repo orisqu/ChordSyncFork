@@ -1,0 +1,9 @@
+{
+  "track_id": "0HPD5WQqrq7wPWR7P7Dw1i",
+  "track_name": "TiK ToK",
+  "artist_name": "Kesha",
+  "timestamp": "2025-04-07 17:04:30",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/kesha/tik-tok-chords-888737",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TIK TOK CHORDS by Kesha @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] Bb C Dm Wake up in the mornin&#039; feelin&#039; like P Diddy Bb C Dm Put my glasses on, I&#039;m out the door - I&#039;m gonna hit this city Bb C Dm Before I leave, brush my teeth with a"
+}

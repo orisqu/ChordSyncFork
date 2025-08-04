@@ -1,0 +1,9 @@
+{
+  "track_id": "6Qs4SXO9dwPj5GKvVOv8Ki",
+  "track_name": "Dancing With A Stranger (with Normani)",
+  "artist_name": "Sam Smith",
+  "timestamp": "2025-03-21 23:23:19",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/sam-smith/dancing-with-a-stranger-chords-2570979",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>DANCING WITH A STRANGER CHORDS by Sam Smith , Normani @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Capo 1st fret. Really easy to follow.\">\n<meta name=\"keywords\" content=\"Sam Smith - Dancing With A Stranger (Chords), Chords, Sam Smith, Normani, Ultimate-Guitar.Com\">\n"
+}

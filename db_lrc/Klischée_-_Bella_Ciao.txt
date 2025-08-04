@@ -1,0 +1,133 @@
+{
+  "track_id": "1Fy5bkDkn7rsISXLOQJAIP",
+  "track_name": "Bella Ciao",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:07:49",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1410",
+          "words": "Questa mattina, mi son svegliata."
+        },
+        {
+          "startTimeMs": "4530",
+          "words": "Oh bella ciao, bella ciao, bella ciao, ciao, ciao."
+        },
+        {
+          "startTimeMs": "8520",
+          "words": "Questa mattina, mi son svegliata"
+        },
+        {
+          "startTimeMs": "12130",
+          "words": "E ho trovato l'invasor."
+        },
+        {
+          "startTimeMs": "31210",
+          "words": "Oh partigiano, portami via."
+        },
+        {
+          "startTimeMs": "34740",
+          "words": "Oh bella ciao, bella ciao, bella ciao, ciao, ciao."
+        },
+        {
+          "startTimeMs": "38490",
+          "words": "Oh partigiano, portami via"
+        },
+        {
+          "startTimeMs": "42100",
+          "words": "Che mi sento di morir"
+        },
+        {
+          "startTimeMs": "61580",
+          "words": "Oh partigiano"
+        },
+        {
+          "startTimeMs": "64980",
+          "words": "Oh partigiano, portami via"
+        },
+        {
+          "startTimeMs": "68550",
+          "words": "Oh bella ciao, bella ciao, bella ciao, ciao, ciao."
+        },
+        {
+          "startTimeMs": "72140",
+          "words": "Oh partigiano, portami via"
+        },
+        {
+          "startTimeMs": "76090",
+          "words": "Che mi sento di morir."
+        },
+        {
+          "startTimeMs": "81640",
+          "words": "Ciao, ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "85310",
+          "words": "Oh bella ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "89190",
+          "words": "Oh bella ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "92850",
+          "words": "Oh bella ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "111620",
+          "words": "E se muoio da partigiano"
+        },
+        {
+          "startTimeMs": "115020",
+          "words": "Oh bella ciao, bella ciao, bella ciao, ciao, ciao"
+        },
+        {
+          "startTimeMs": "118940",
+          "words": "E se muoio da partigiano"
+        },
+        {
+          "startTimeMs": "122980",
+          "words": "Tu mi devi seppellir"
+        },
+        {
+          "startTimeMs": "126540",
+          "words": "E' questo il fiore del partigiano"
+        },
+        {
+          "startTimeMs": "130290",
+          "words": "Oh bella ciao, bella ciao, bella ciao, ciao, ciao"
+        },
+        {
+          "startTimeMs": "134040",
+          "words": "E' questo il fiore del partigiano"
+        },
+        {
+          "startTimeMs": "137950",
+          "words": "Morto per la libertà"
+        },
+        {
+          "startTimeMs": "142390",
+          "words": "Ciao"
+        },
+        {
+          "startTimeMs": "158590",
+          "words": "Oh bella ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "162460",
+          "words": "Oh bella ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "165940",
+          "words": "Oh bella ciao, bella ciao, bella"
+        },
+        {
+          "startTimeMs": "169610",
+          "words": "Oh bella ciao, bella ciao, bella"
+        }
+      ]
+    }
+  }
+}

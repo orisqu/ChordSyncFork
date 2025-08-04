@@ -1,0 +1,9 @@
+{
+  "track_id": "6g6A7qNhTfUgOSH7ROOxTD",
+  "track_name": "Talk Dirty (feat. 2 Chainz)",
+  "artist_name": "Jason Derulo",
+  "timestamp": "2025-04-07 16:58:16",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/jason-derulo/talk-dirty-chords-1475548",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TALK DIRTY CHORDS by Jason Derulo  feat. 2 Chainz @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"I was messing around with an F# major chord and came up with a progression that sounded mighty similar to a recent pop hit. / Call me a hypocrite for this, but I&#039;m re"
+}

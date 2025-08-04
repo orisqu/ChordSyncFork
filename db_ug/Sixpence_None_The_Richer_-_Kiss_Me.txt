@@ -1,0 +1,9 @@
+{
+  "track_id": "754kgU5rWscRTfvlsuEwFp",
+  "track_name": "Kiss Me",
+  "artist_name": "Sixpence None The Richer",
+  "timestamp": "2025-03-23 02:27:51",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/sixpence-none-the-richer/kiss-me-chords-2707",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>KISS ME CHORDS (ver 2) by Sixpence None the Richer for guitar, ukulele, piano at Ultimate-Guitar</title>\n<meta name=\"description\" content=\"[Intro] / D - Dmaj7 - D7 - Dmaj7 / D - Dmaj7 - D7 - Dmaj7 / [Verse 1] D Dmaj7 Kiss me out of the bearded barley. D7 Dmaj7 D Nightly, beside the gr"
+}

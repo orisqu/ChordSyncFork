@@ -1,0 +1,9 @@
+{
+  "track_id": "1wJL1A0QUHJPf2cm7tsrdw",
+  "track_name": "Never Grow Up",
+  "artist_name": "Taylor Swift",
+  "timestamp": "2025-03-23 21:40:37",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/taylor-swift/never-grow-up-chords-998171",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>NEVER GROW UP CHORDS by Taylor Swift for guitar, ukulele, piano at Ultimate-Guitar</title>\n<meta name=\"description\" content=\"---------------------------------------------------------------------------- NEVER GROW UP - Taylor Swift ------------------------------------------------------"
+}

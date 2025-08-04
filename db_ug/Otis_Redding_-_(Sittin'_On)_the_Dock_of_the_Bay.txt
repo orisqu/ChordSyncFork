@@ -1,0 +1,9 @@
+{
+  "track_id": "3zBhihYUHBmGd2bcQIobrF",
+  "track_name": "(Sittin' On) the Dock of the Bay",
+  "artist_name": "Otis Redding",
+  "timestamp": "2025-05-07 11:45:45",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/otis-redding/sittin-on-the-dock-of-the-bay-chords-1088518",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SITTIN ON THE DOCK OF THE BAY CHORDS (ver 6) by Otis Redding @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Sittin&#039; On The Dock Of The Bay chords Otis Redding 1968 (Steve Cropper) ** https://en.wikipedia.org/wiki/(Sittin%27_On)_The_Dock_of_the_Bay G [Verse 1] G B"
+}

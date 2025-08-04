@@ -1,0 +1,9 @@
+{
+  "track_id": "58mFu3oIpBa0HLNeJIxsw3",
+  "track_name": "Heaven Is A Place On Earth",
+  "artist_name": "Belinda Carlisle",
+  "timestamp": "2025-03-24 17:05:16",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/belinda-carlisle/heaven-is-a-place-on-earth-chords-452443",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>HEAVEN IS A PLACE ON EARTH CHORDS by Belinda Carlisle @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"&quot;Heaven Is A Place On Earth&quot; Belinda Carlisle / Transcribbed by ViviEatWorld / Chords: C#m: x46654 A: 002220 B: x24442 E: 022100 G: 320003 F#m: 244222 D#m: x"
+}

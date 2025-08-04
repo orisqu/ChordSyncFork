@@ -1,0 +1,9 @@
+Default Album Cover for ChordSync TV
+
+This is a placeholder for the default album cover image.
+The actual image should be a 300x300 pixel PNG or JPG file with:
+- Dark gray background (#333333)
+- Spotify green (#1DB954) record/vinyl design
+- "ChordSync TV" text at the bottom
+
+Save the actual image as default_album.png in this directory.

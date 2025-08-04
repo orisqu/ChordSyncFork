@@ -1,0 +1,9 @@
+{
+  "track_id": "3pkyOftPm4ULW89PrFJ3N3",
+  "track_name": "Get This (Bang Bang)",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:39:26",
+  "source_link": "https://www.google.de/search?q=Klischée get this (bang bang) chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

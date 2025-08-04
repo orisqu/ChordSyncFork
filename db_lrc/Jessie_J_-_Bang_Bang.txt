@@ -1,0 +1,273 @@
+{
+  "track_id": "0puf9yIluy9W0vpMEUoAnN",
+  "track_name": "Bang Bang",
+  "artist_name": "Jessie J",
+  "timestamp": "2025-03-23 01:20:26",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1600",
+          "words": "She got a body like an hourglass"
+        },
+        {
+          "startTimeMs": "4430",
+          "words": "But I can give it to you all the time"
+        },
+        {
+          "startTimeMs": "8360",
+          "words": "She got a booty like a Cadillac"
+        },
+        {
+          "startTimeMs": "10760",
+          "words": "But I can send you into overdrive, oh"
+        },
+        {
+          "startTimeMs": "14990",
+          "words": "You've been waiting for that"
+        },
+        {
+          "startTimeMs": "17920",
+          "words": "Step on up, swing your bat"
+        },
+        {
+          "startTimeMs": "21180",
+          "words": "See, anybody could be bad to you"
+        },
+        {
+          "startTimeMs": "23980",
+          "words": "You need a good girl to blow your mind, yeah"
+        },
+        {
+          "startTimeMs": "27660",
+          "words": "Bang-bang into the room (I know you want it)"
+        },
+        {
+          "startTimeMs": "30830",
+          "words": "Bang-bang all over you (I'll let you have it)"
+        },
+        {
+          "startTimeMs": "33930",
+          "words": "Just wait a minute, let me take you there (ah)"
+        },
+        {
+          "startTimeMs": "37040",
+          "words": "And wait a minute 'til you (ah, hey!)"
+        },
+        {
+          "startTimeMs": "40470",
+          "words": "Bang-bang, there goes your heart (I know you want it)"
+        },
+        {
+          "startTimeMs": "43550",
+          "words": "Back-back seat of my car (I'll let you have it)"
+        },
+        {
+          "startTimeMs": "46990",
+          "words": "Wait a minute, let me take you there (ah)"
+        },
+        {
+          "startTimeMs": "50080",
+          "words": "Wait a minute 'til you (ah, hey!)"
+        },
+        {
+          "startTimeMs": "53030",
+          "words": "She might've let you hold her hand in school"
+        },
+        {
+          "startTimeMs": "55360",
+          "words": "But I'ma show you how to graduate (mhm)"
+        },
+        {
+          "startTimeMs": "59300",
+          "words": "No, I don't need to hear you talk the talk (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "62170",
+          "words": "Just come and show me what your mama gave, oh (alright)"
+        },
+        {
+          "startTimeMs": "65380",
+          "words": "I heard you've got a very big (shh)"
+        },
+        {
+          "startTimeMs": "69020",
+          "words": "Mouth, but don't say a thing"
+        },
+        {
+          "startTimeMs": "72170",
+          "words": "See, anybody could be good to you"
+        },
+        {
+          "startTimeMs": "74700",
+          "words": "You need a bad girl to blow your mind"
+        },
+        {
+          "startTimeMs": "78450",
+          "words": "Bang-bang into the room (I know you want it)"
+        },
+        {
+          "startTimeMs": "81850",
+          "words": "Bang-bang all over you (I'll let you have it)"
+        },
+        {
+          "startTimeMs": "85050",
+          "words": "Wait a minute, let me take you there (ah)"
+        },
+        {
+          "startTimeMs": "88570",
+          "words": "Wait a minute 'til you (ah, hey!)"
+        },
+        {
+          "startTimeMs": "91670",
+          "words": "Bang-bang, there goes your heart (I know you want it)"
+        },
+        {
+          "startTimeMs": "94740",
+          "words": "Back, backseat of my car (seat of my car), I'll let you have it"
+        },
+        {
+          "startTimeMs": "98170",
+          "words": "Wait a minute, let me take you there (you know what, girls?)"
+        },
+        {
+          "startTimeMs": "101370",
+          "words": "Wait a minute 'til you, ah, hey (let me show you how to do it)"
+        },
+        {
+          "startTimeMs": "103980",
+          "words": "It's Myx Moscato, it's frizz in a bottle"
+        },
+        {
+          "startTimeMs": "105830",
+          "words": "It's Nicki Full Throttle, it's oh-oh"
+        },
+        {
+          "startTimeMs": "107330",
+          "words": "Swimming in The Grotto, we winning in the lotto"
+        },
+        {
+          "startTimeMs": "108980",
+          "words": "We dipping in the powder blue, four-door"
+        },
+        {
+          "startTimeMs": "110560",
+          "words": "Kitten so good, it's dripping on wood"
+        },
+        {
+          "startTimeMs": "112120",
+          "words": "Get a ride in the engine that could go"
+        },
+        {
+          "startTimeMs": "113770",
+          "words": "Batman, robbin' it, bang-bang, cocking it"
+        },
+        {
+          "startTimeMs": "115220",
+          "words": "Queen Nicki dominant, prominent"
+        },
+        {
+          "startTimeMs": "116860",
+          "words": "It's me, Jessie and Ari, if they test me, they sorry"
+        },
+        {
+          "startTimeMs": "119900",
+          "words": "Ride his, uh, like a Harley then pull off in his Ferrari"
+        },
+        {
+          "startTimeMs": "123170",
+          "words": "If he hanging, we banging, phone ranging, he slanging"
+        },
+        {
+          "startTimeMs": "126230",
+          "words": "It ain't karaoke night but get the mic 'cause I'm singing"
+        },
+        {
+          "startTimeMs": "129670",
+          "words": "Uh, B to the A to the N to the G to the-"
+        },
+        {
+          "startTimeMs": "132560",
+          "words": "Uh, B to the A to the N to the G to the, hey"
+        },
+        {
+          "startTimeMs": "136510",
+          "words": "See, anybody could be good to you"
+        },
+        {
+          "startTimeMs": "138890",
+          "words": "You need a bad girl to blow your mind"
+        },
+        {
+          "startTimeMs": "141730",
+          "words": "Your mind, hey (okay)"
+        },
+        {
+          "startTimeMs": "144420",
+          "words": "Bang-bang into the room (I know you want it)"
+        },
+        {
+          "startTimeMs": "147270",
+          "words": "Bang-bang all over you (bang, bang, bang, bang), I'll let you have it"
+        },
+        {
+          "startTimeMs": "150620",
+          "words": "Wait a minute, let me take you there (ah)"
+        },
+        {
+          "startTimeMs": "154030",
+          "words": "Wait a minute 'til you (ah-yeah, yeah-uh-huh, ah, hey!)"
+        },
+        {
+          "startTimeMs": "156940",
+          "words": "Bang-bang, there goes your heart (there goes your heart), I know you want it"
+        },
+        {
+          "startTimeMs": "160130",
+          "words": "Back-back seat of my car (back of my car), I'll let you have it"
+        },
+        {
+          "startTimeMs": "163590",
+          "words": "Wait a minute, let me take you there (let me take you there)"
+        },
+        {
+          "startTimeMs": "166790",
+          "words": "Wait a minute 'til you (ah, hey!)"
+        },
+        {
+          "startTimeMs": "169690",
+          "words": "Bang-bang into the room (I know you want it)"
+        },
+        {
+          "startTimeMs": "173060",
+          "words": "Bang-bang all over you (all over you, baby)"
+        },
+        {
+          "startTimeMs": "175460",
+          "words": "Yo, I said, bang, bang, bang, b-bang, bang"
+        },
+        {
+          "startTimeMs": "179430",
+          "words": "Bang, bang, bang, bang, b-bang, bang"
+        },
+        {
+          "startTimeMs": "182540",
+          "words": "Bang-bang, there goes your heart (I know you want it)"
+        },
+        {
+          "startTimeMs": "185540",
+          "words": "Back, backseat of my car, I'll let you have it (oh-oh)"
+        },
+        {
+          "startTimeMs": "189120",
+          "words": "Wait a minute, let me take you there (ah)"
+        },
+        {
+          "startTimeMs": "192570",
+          "words": "Wait a minute 'til you (ah, hey!)"
+        }
+      ]
+    }
+  }
+}

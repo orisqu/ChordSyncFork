@@ -1,0 +1,9 @@
+{
+  "track_id": "3QNzzHDUa14Z39zsssSVps",
+  "track_name": "A NEW SOCIETY",
+  "artist_name": "MEG MYERS",
+  "timestamp": "2025-03-24 17:59:31",
+  "source_link": "https://www.google.de/search?q=MEG MYERS a new society chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

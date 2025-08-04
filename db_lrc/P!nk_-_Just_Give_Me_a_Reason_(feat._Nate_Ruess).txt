@@ -1,0 +1,281 @@
+{
+  "track_id": "1mKXFLRA179hdOWQBwUk9e",
+  "track_name": "Just Give Me a Reason (feat. Nate Ruess)",
+  "artist_name": "P!nk",
+  "timestamp": "2025-03-23 02:23:27",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "10310",
+          "words": "Right from the start"
+        },
+        {
+          "startTimeMs": "11860",
+          "words": "You were a thief, you stole my heart"
+        },
+        {
+          "startTimeMs": "15080",
+          "words": "And I, your willing victim"
+        },
+        {
+          "startTimeMs": "19890",
+          "words": "I let you see the parts of me"
+        },
+        {
+          "startTimeMs": "22570",
+          "words": "That weren't all that pretty"
+        },
+        {
+          "startTimeMs": "25000",
+          "words": "And with every touch you fixed them"
+        },
+        {
+          "startTimeMs": "30130",
+          "words": "Now you've been talking in your sleep, oh, oh"
+        },
+        {
+          "startTimeMs": "35710",
+          "words": "Things you never say to me, oh, oh"
+        },
+        {
+          "startTimeMs": "40310",
+          "words": "Tell me that you've had enough"
+        },
+        {
+          "startTimeMs": "44380",
+          "words": "Of our love, our love"
+        },
+        {
+          "startTimeMs": "50800",
+          "words": "Just give me a reason"
+        },
+        {
+          "startTimeMs": "52550",
+          "words": "Just a little bit's enough"
+        },
+        {
+          "startTimeMs": "55050",
+          "words": "Just a second, we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "58750",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "61050",
+          "words": "It's in the stars"
+        },
+        {
+          "startTimeMs": "62680",
+          "words": "It's been written in the scars on our hearts"
+        },
+        {
+          "startTimeMs": "66520",
+          "words": "We're not broken, just bent"
+        },
+        {
+          "startTimeMs": "68620",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "73030",
+          "words": "I'm sorry I don't understand"
+        },
+        {
+          "startTimeMs": "75490",
+          "words": "Where all of this is coming from"
+        },
+        {
+          "startTimeMs": "78030",
+          "words": "I thought that we were fine"
+        },
+        {
+          "startTimeMs": "81300",
+          "words": "(Oh, we had everything)"
+        },
+        {
+          "startTimeMs": "83420",
+          "words": "Your head is running wild again"
+        },
+        {
+          "startTimeMs": "85530",
+          "words": "My dear we still have everything"
+        },
+        {
+          "startTimeMs": "88280",
+          "words": "And it's all in your mind"
+        },
+        {
+          "startTimeMs": "91370",
+          "words": "(Yeah, but this is happening)"
+        },
+        {
+          "startTimeMs": "93450",
+          "words": "Now you've been having real bad dreams, oh, oh"
+        },
+        {
+          "startTimeMs": "98490",
+          "words": "You used to lie so close to me, oh, oh"
+        },
+        {
+          "startTimeMs": "103530",
+          "words": "There's nothing more than empty sheets"
+        },
+        {
+          "startTimeMs": "107270",
+          "words": "Between our love, our love"
+        },
+        {
+          "startTimeMs": "112460",
+          "words": "Oh, our love, our love"
+        },
+        {
+          "startTimeMs": "118850",
+          "words": "Just give me a reason"
+        },
+        {
+          "startTimeMs": "120930",
+          "words": "Just a little bit's enough"
+        },
+        {
+          "startTimeMs": "123550",
+          "words": "Just a second, we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "126840",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "129300",
+          "words": "I've never stopped"
+        },
+        {
+          "startTimeMs": "130960",
+          "words": "You're still written in the scars on my heart"
+        },
+        {
+          "startTimeMs": "134770",
+          "words": "You're not broken, just bent"
+        },
+        {
+          "startTimeMs": "136910",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "139890",
+          "words": "Oh, tears ducts and rust"
+        },
+        {
+          "startTimeMs": "141950",
+          "words": "I'll fix it for us"
+        },
+        {
+          "startTimeMs": "144710",
+          "words": "We're collecting dust"
+        },
+        {
+          "startTimeMs": "147130",
+          "words": "But our love's enough"
+        },
+        {
+          "startTimeMs": "150110",
+          "words": "You're holding it in"
+        },
+        {
+          "startTimeMs": "152570",
+          "words": "You're pouring a drink"
+        },
+        {
+          "startTimeMs": "154990",
+          "words": "No, nothing is as bad as it seems"
+        },
+        {
+          "startTimeMs": "162190",
+          "words": "We'll come clean"
+        },
+        {
+          "startTimeMs": "164590",
+          "words": "Just give me a reason"
+        },
+        {
+          "startTimeMs": "166320",
+          "words": "Just a little bit's enough"
+        },
+        {
+          "startTimeMs": "168630",
+          "words": "Just a second, we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "172480",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "174750",
+          "words": "It's in the stars"
+        },
+        {
+          "startTimeMs": "176540",
+          "words": "It's been written in the scars on our hearts"
+        },
+        {
+          "startTimeMs": "179700",
+          "words": "That we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "182390",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "184820",
+          "words": "Just give me a reason"
+        },
+        {
+          "startTimeMs": "186480",
+          "words": "Just a little bit's enough"
+        },
+        {
+          "startTimeMs": "188850",
+          "words": "Just a second, we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "192720",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "194910",
+          "words": "It's in the stars"
+        },
+        {
+          "startTimeMs": "196620",
+          "words": "It's been written in the scars on our hearts"
+        },
+        {
+          "startTimeMs": "199890",
+          "words": "That we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "202470",
+          "words": "And we can learn to love again"
+        },
+        {
+          "startTimeMs": "206450",
+          "words": "Oh-oh, we can learn to love again"
+        },
+        {
+          "startTimeMs": "211240",
+          "words": "Oh-oh, can learn to love again"
+        },
+        {
+          "startTimeMs": "219310",
+          "words": "Oh-oh, that we're not broken, just bent"
+        },
+        {
+          "startTimeMs": "222850",
+          "words": "And we can learn to love again"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "track_id": "2BOqDYLOJBiMOXShCV1neZ",
+  "track_name": "Dancing On My Own",
+  "artist_name": "Calum Scott",
+  "timestamp": "2025-03-23 01:55:58",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9400",
+          "words": "Somebody said you got a new friend"
+        },
+        {
+          "startTimeMs": "17810",
+          "words": "But does she love you better than I can?"
+        },
+        {
+          "startTimeMs": "26010",
+          "words": "And there's a big black sky over my town"
+        },
+        {
+          "startTimeMs": "34920",
+          "words": "I know where you're at, I bet she's around"
+        },
+        {
+          "startTimeMs": "43230",
+          "words": "And yeah, I know it's stupid"
+        },
+        {
+          "startTimeMs": "47590",
+          "words": "But I just gotta see it for myself"
+        },
+        {
+          "startTimeMs": "52280",
+          "words": "I'm in the corner, watching you kiss her, oh, oh-oh"
+        },
+        {
+          "startTimeMs": "60370",
+          "words": "And I'm right over here, why can't you see me? Oh, oh-oh"
+        },
+        {
+          "startTimeMs": "68750",
+          "words": "And I'm giving it my all, but I'm not the guy you're taking home"
+        },
+        {
+          "startTimeMs": "75700",
+          "words": "Ooh-ooh-ooh, I keep dancing on my own, no"
+        },
+        {
+          "startTimeMs": "86030",
+          "words": "I just wanna dance all night"
+        },
+        {
+          "startTimeMs": "94440",
+          "words": "And I'm all messed up, I'm so out of line, yeah"
+        },
+        {
+          "startTimeMs": "102960",
+          "words": "Stilettos and broken bottles"
+        },
+        {
+          "startTimeMs": "107190",
+          "words": "I'm spinning around in circles"
+        },
+        {
+          "startTimeMs": "111580",
+          "words": "And I'm in the corner, watching you kiss her, oh, oh-oh"
+        },
+        {
+          "startTimeMs": "119900",
+          "words": "And I'm right over here, why can't you see me? Oh, oh-oh"
+        },
+        {
+          "startTimeMs": "128490",
+          "words": "And I'm giving it my all, but I'm not the guy you're taking home"
+        },
+        {
+          "startTimeMs": "135360",
+          "words": "Ooh-ooh-ooh, and I keep dancing on my own"
+        },
+        {
+          "startTimeMs": "143350",
+          "words": "And oh no"
+        },
+        {
+          "startTimeMs": "162690",
+          "words": "So far away but still so near"
+        },
+        {
+          "startTimeMs": "167090",
+          "words": "The lights come up, the music dies"
+        },
+        {
+          "startTimeMs": "171130",
+          "words": "But you don't see me standing here"
+        },
+        {
+          "startTimeMs": "175800",
+          "words": "I just came to say goodbye"
+        },
+        {
+          "startTimeMs": "180160",
+          "words": "I'm in the corner, watching you kiss her, oh, oh-oh"
+        },
+        {
+          "startTimeMs": "188290",
+          "words": "And I'm giving it my all, but I'm not the guy you're taking home"
+        },
+        {
+          "startTimeMs": "194970",
+          "words": "Ooh-ooh-ooh, and I keep dancing on my own"
+        },
+        {
+          "startTimeMs": "203090",
+          "words": "And oh no"
+        },
+        {
+          "startTimeMs": "205540",
+          "words": "Said I'm in the corner, watching you kiss her, oh no"
+        },
+        {
+          "startTimeMs": "213800",
+          "words": "And I'm right over here, why can't you see me? Oh no"
+        },
+        {
+          "startTimeMs": "222210",
+          "words": "And I'm giving it my all, but I'm not the guy you're taking home"
+        },
+        {
+          "startTimeMs": "229290",
+          "words": "Ooh-ooh-ooh, and I keep dancing on my own"
+        },
+        {
+          "startTimeMs": "239410",
+          "words": "So far away, but still so near"
+        },
+        {
+          "startTimeMs": "243620",
+          "words": "The lights come up, the music dies"
+        },
+        {
+          "startTimeMs": "247700",
+          "words": "But you don't see me standing here"
+        }
+      ]
+    }
+  }
+}

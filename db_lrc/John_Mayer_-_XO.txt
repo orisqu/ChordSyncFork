@@ -1,0 +1,209 @@
+{
+  "track_id": "7cpCU3Denug5NGZsSpQl8v",
+  "track_name": "XO",
+  "artist_name": "John Mayer",
+  "timestamp": "2025-03-24 16:14:32",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "10520",
+          "words": "Your love is bright as ever"
+        },
+        {
+          "startTimeMs": "15830",
+          "words": "Even in the shadows"
+        },
+        {
+          "startTimeMs": "21120",
+          "words": "Baby, kiss me"
+        },
+        {
+          "startTimeMs": "25810",
+          "words": "Before they turn the lights out"
+        },
+        {
+          "startTimeMs": "32690",
+          "words": "Your heart is glowing"
+        },
+        {
+          "startTimeMs": "37310",
+          "words": "And I'm crashing into you"
+        },
+        {
+          "startTimeMs": "43530",
+          "words": "Baby, kiss me kiss me"
+        },
+        {
+          "startTimeMs": "48370",
+          "words": "Before they turn the lights out"
+        },
+        {
+          "startTimeMs": "50650",
+          "words": "Before they turn the lights out"
+        },
+        {
+          "startTimeMs": "53520",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "55920",
+          "words": "In the darkest night"
+        },
+        {
+          "startTimeMs": "59680",
+          "words": "I'll search through the crowd,"
+        },
+        {
+          "startTimeMs": "65500",
+          "words": "Your face is all that I see"
+        },
+        {
+          "startTimeMs": "68300",
+          "words": "I'll give you everything"
+        },
+        {
+          "startTimeMs": "70230",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "73070",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "76960",
+          "words": "We don't have forever"
+        },
+        {
+          "startTimeMs": "81690",
+          "words": "Baby, daylight's wasting"
+        },
+        {
+          "startTimeMs": "87320",
+          "words": "You better kiss me"
+        },
+        {
+          "startTimeMs": "91680",
+          "words": "Before our time has run out"
+        },
+        {
+          "startTimeMs": "99280",
+          "words": "Nobody sees what we see"
+        },
+        {
+          "startTimeMs": "103560",
+          "words": "They're just hopelessly gazing"
+        },
+        {
+          "startTimeMs": "109330",
+          "words": "Baby, take me take me"
+        },
+        {
+          "startTimeMs": "114530",
+          "words": "Before they turn the lights out"
+        },
+        {
+          "startTimeMs": "117440",
+          "words": "Before time has run out"
+        },
+        {
+          "startTimeMs": "119370",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "122150",
+          "words": "In the darkest night"
+        },
+        {
+          "startTimeMs": "125890",
+          "words": "I'll search through the crowd,"
+        },
+        {
+          "startTimeMs": "131690",
+          "words": "Your face is all that I see"
+        },
+        {
+          "startTimeMs": "134530",
+          "words": "I'll give you everything"
+        },
+        {
+          "startTimeMs": "136470",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "139310",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "141270",
+          "words": "You can turn my lights out"
+        },
+        {
+          "startTimeMs": "144180",
+          "words": "I love you like XO"
+        },
+        {
+          "startTimeMs": "146410",
+          "words": "You love me like XO"
+        },
+        {
+          "startTimeMs": "149370",
+          "words": "You kill me, girl, XO"
+        },
+        {
+          "startTimeMs": "151600",
+          "words": "You love me like XO"
+        },
+        {
+          "startTimeMs": "154550",
+          "words": "All that I see"
+        },
+        {
+          "startTimeMs": "156450",
+          "words": "Give you everything"
+        },
+        {
+          "startTimeMs": "158350",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "160770",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "164070",
+          "words": "You can turn my lights out"
+        },
+        {
+          "startTimeMs": "176440",
+          "words": "In the darkest night"
+        },
+        {
+          "startTimeMs": "181170",
+          "words": "I'll search through the crowd,"
+        },
+        {
+          "startTimeMs": "186970",
+          "words": "Your face is all that I see"
+        },
+        {
+          "startTimeMs": "189380",
+          "words": "I'll give you everything"
+        },
+        {
+          "startTimeMs": "191630",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "194030",
+          "words": "Baby, love me lights out"
+        },
+        {
+          "startTimeMs": "196980",
+          "words": "You can turn my lights out"
+        }
+      ]
+    }
+  }
+}

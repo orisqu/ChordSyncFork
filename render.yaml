@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: chordsync
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --worker-class eventlet -w 1 --bind 0.0.0.0:$PORT app:app
+    envVars:
+      - key: DEV_OR_PROD
+        value: PRODUCTION
+      - key: LYRICS_API_SOURCE
+        value: SELFMADE
+      - key: LOG_ON_OFF
+        value: OFF
+      - key: FLASK_SECRET_KEY
+        generateValue: true
+      - key: SPOTIFY_CLIENT_ID
+        sync: false
+      - key: SPOTIFY_CLIENT_SECRET
+        sync: false
+      - key: SPOTIFY_REDIRECT_URI
+        value: https://chordsync.onrender.com/callback
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GOOGLE_API_KEY
+        sync: false
+      - key: GOOGLE_SEARCH_ENGINE_ID
+        sync: false
+      - key: SP_DC_COOKIE
+        sync: false

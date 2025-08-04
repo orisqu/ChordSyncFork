@@ -1,0 +1,9 @@
+{
+  "track_id": "2ZdHu0bwO6fMyjzumHnQFV",
+  "track_name": "I'm Not Sorry",
+  "artist_name": "MEG MYERS",
+  "timestamp": "2025-03-24 17:14:18",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/meg-myers/sorry-chords-1716811",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SORRY CHORDS by Meg Myers @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] Em G Am Em x2 [Verse] Em G Am Em My Heart is Wasted, cut up like a Drug Em G Am Em And your tears they taste like Vinegar and Blood Em G Am Em And these conversations choke us til we\">\n<m"
+}

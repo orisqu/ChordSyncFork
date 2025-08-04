@@ -1,0 +1,213 @@
+{
+  "track_id": "3YeBXUEWIjCtcsv0tULpz8",
+  "track_name": "Devil in a Dress",
+  "artist_name": "Teddy Swims",
+  "timestamp": "2025-03-23 15:13:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "2860",
+          "words": "If you leave me God rest my soul"
+        },
+        {
+          "startTimeMs": "7120",
+          "words": "If you stay here"
+        },
+        {
+          "startTimeMs": "9220",
+          "words": "I'm no better off"
+        },
+        {
+          "startTimeMs": "13230",
+          "words": "Bury me six feet down below"
+        },
+        {
+          "startTimeMs": "17210",
+          "words": "And I'll be smiling, when I go"
+        },
+        {
+          "startTimeMs": "23980",
+          "words": "Damned if I do"
+        },
+        {
+          "startTimeMs": "25120",
+          "words": "Damned if I don't (damned if I don't, damned if I don't)"
+        },
+        {
+          "startTimeMs": "28840",
+          "words": "She looked at me"
+        },
+        {
+          "startTimeMs": "30330",
+          "words": "Then I sold my soul"
+        },
+        {
+          "startTimeMs": "32880",
+          "words": "She's the devil"
+        },
+        {
+          "startTimeMs": "35450",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "38190",
+          "words": "I'm in peril"
+        },
+        {
+          "startTimeMs": "40550",
+          "words": "She ripped my heart right out my chest"
+        },
+        {
+          "startTimeMs": "43600",
+          "words": "I would give my life for one more kiss, from the devil"
+        },
+        {
+          "startTimeMs": "50770",
+          "words": "'Cause she's the devil in a dress"
+        },
+        {
+          "startTimeMs": "53880",
+          "words": "And I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "56180",
+          "words": "Oh, I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "59010",
+          "words": "And I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "61230",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "64980",
+          "words": "Them pearly gates and streets of gold"
+        },
+        {
+          "startTimeMs": "69060",
+          "words": "I won't make it, I'm out of control"
+        },
+        {
+          "startTimeMs": "75160",
+          "words": "I wear your love like a blindfold"
+        },
+        {
+          "startTimeMs": "79610",
+          "words": "And truth be told I sold my soul"
+        },
+        {
+          "startTimeMs": "84550",
+          "words": "To the devil"
+        },
+        {
+          "startTimeMs": "87030",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "89770",
+          "words": "I'm in peril"
+        },
+        {
+          "startTimeMs": "92110",
+          "words": "She ripped my heart right out my chest"
+        },
+        {
+          "startTimeMs": "95160",
+          "words": "I would give my life for one more kiss, from the devil"
+        },
+        {
+          "startTimeMs": "102490",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "105540",
+          "words": "And I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "107890",
+          "words": "Oh, I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "110660",
+          "words": "And I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "112970",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "115810",
+          "words": "I would give my life for one more kiss"
+        },
+        {
+          "startTimeMs": "120980",
+          "words": "I'm a man in pain, I'm a masochist"
+        },
+        {
+          "startTimeMs": "128380",
+          "words": "She's the devil"
+        },
+        {
+          "startTimeMs": "130990",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "133420",
+          "words": "I'm in peril"
+        },
+        {
+          "startTimeMs": "135900",
+          "words": "She ripped my heart right out my chest"
+        },
+        {
+          "startTimeMs": "139030",
+          "words": "And I would give my life for one more kiss, from the devil"
+        },
+        {
+          "startTimeMs": "146390",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "149370",
+          "words": "And I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "151630",
+          "words": "Oh, I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "154130",
+          "words": "She's the devil"
+        },
+        {
+          "startTimeMs": "156760",
+          "words": "She's a devil in a dress"
+        },
+        {
+          "startTimeMs": "159510",
+          "words": "And I love it, love it, love it"
+        },
+        {
+          "startTimeMs": "161920",
+          "words": "Oh, love it, love it, love it"
+        },
+        {
+          "startTimeMs": "164450",
+          "words": "She's the devil"
+        },
+        {
+          "startTimeMs": "167100",
+          "words": "She's the devil in a dress"
+        },
+        {
+          "startTimeMs": "169740",
+          "words": "And I love it"
+        }
+      ]
+    }
+  }
+}

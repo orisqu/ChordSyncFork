@@ -1,0 +1,9 @@
+{
+  "track_id": "6OzAkuRDmEpd52RF1g1WvU",
+  "track_name": "Stand By Me",
+  "artist_name": "Ben E. King",
+  "timestamp": "2025-03-21 17:27:10",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-chords-1724608",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>STAND BY ME CHORDS (ver 7) by Ben E. King @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Ben E. King Stand By Me BPM : 120 Capo : II [Verse 1] G G Em Em When the night has come and the land is da- rk C D G G And the mo- on is the on- ly light we&#039;ll see G G Em Em "
+}

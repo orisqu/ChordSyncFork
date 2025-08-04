@@ -1,0 +1,241 @@
+{
+  "track_id": "76JKIsdKrAfWUMjaA0u7v5",
+  "track_name": "Too Sweet",
+  "artist_name": "Hozier",
+  "timestamp": "2025-05-07 11:49:56",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "19100",
+          "words": "It can't be said I'm an early bird"
+        },
+        {
+          "startTimeMs": "23270",
+          "words": "It's ten o'clock before I say a word"
+        },
+        {
+          "startTimeMs": "27560",
+          "words": "Baby, I can never tell"
+        },
+        {
+          "startTimeMs": "29870",
+          "words": "How do you sleep so well?"
+        },
+        {
+          "startTimeMs": "31670",
+          "words": "You keep telling me to live right"
+        },
+        {
+          "startTimeMs": "35530",
+          "words": "To go to bed before the daylight"
+        },
+        {
+          "startTimeMs": "39600",
+          "words": "But then you wake up for the sunrise"
+        },
+        {
+          "startTimeMs": "43830",
+          "words": "You know you don't gotta pretend, baby, now and then"
+        },
+        {
+          "startTimeMs": "48000",
+          "words": "Don't you just wanna wake up, dark as a lake?"
+        },
+        {
+          "startTimeMs": "52320",
+          "words": "Smelling like a bonfire, lost in a haze?"
+        },
+        {
+          "startTimeMs": "56630",
+          "words": "If you're drunk on life, babe, I think it's great"
+        },
+        {
+          "startTimeMs": "60640",
+          "words": "But while in this world"
+        },
+        {
+          "startTimeMs": "62840",
+          "words": "I think I'll take my whiskey neat"
+        },
+        {
+          "startTimeMs": "68310",
+          "words": "My coffee black and my bed at three"
+        },
+        {
+          "startTimeMs": "72270",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "76280",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "79960",
+          "words": "I take my whiskey neat"
+        },
+        {
+          "startTimeMs": "84690",
+          "words": "My coffee black and my bed at three"
+        },
+        {
+          "startTimeMs": "88570",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "92650",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "97580",
+          "words": "Ooh-ooh, ooh-ooh"
+        },
+        {
+          "startTimeMs": "101340",
+          "words": "Ooh-ooh, ooh-ooh"
+        },
+        {
+          "startTimeMs": "105020",
+          "words": "Ooh-ooh, ooh-ooh"
+        },
+        {
+          "startTimeMs": "109620",
+          "words": "Ooh-ooh, ooh-ooh"
+        },
+        {
+          "startTimeMs": "114480",
+          "words": "I aim low"
+        },
+        {
+          "startTimeMs": "116570",
+          "words": "I aim true and the ground's where I go"
+        },
+        {
+          "startTimeMs": "120640",
+          "words": "I work late where I'm free from the phone"
+        },
+        {
+          "startTimeMs": "125060",
+          "words": "And the job gets done"
+        },
+        {
+          "startTimeMs": "127150",
+          "words": "But you worry some, I know"
+        },
+        {
+          "startTimeMs": "130150",
+          "words": "But who wants to live forever, babe?"
+        },
+        {
+          "startTimeMs": "134000",
+          "words": "You treat your mouth as if it's Heaven's gate"
+        },
+        {
+          "startTimeMs": "138160",
+          "words": "The rest of you like you're the TSA"
+        },
+        {
+          "startTimeMs": "142310",
+          "words": "I wish I could go along, babe, don't get me wrong"
+        },
+        {
+          "startTimeMs": "146470",
+          "words": "You know you're bright as the morning, as soft as the rain"
+        },
+        {
+          "startTimeMs": "150930",
+          "words": "Pretty as a vine, as sweet as a grape"
+        },
+        {
+          "startTimeMs": "154780",
+          "words": "If you can sit in a barrel, maybe I'll wait"
+        },
+        {
+          "startTimeMs": "159420",
+          "words": "Until that day"
+        },
+        {
+          "startTimeMs": "161340",
+          "words": "I'd rather take my whiskey neat"
+        },
+        {
+          "startTimeMs": "166720",
+          "words": "My coffee black and my bed at three"
+        },
+        {
+          "startTimeMs": "170610",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "174760",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "178360",
+          "words": "I take my whiskey neat"
+        },
+        {
+          "startTimeMs": "183150",
+          "words": "My coffee black and my bed at three"
+        },
+        {
+          "startTimeMs": "187010",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "191170",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "196020",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "199690",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "203730",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "208020",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "212270",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "216190",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "220100",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "224210",
+          "words": "Whoa, oh-oh"
+        },
+        {
+          "startTimeMs": "227620",
+          "words": "I take my whiskey neat"
+        },
+        {
+          "startTimeMs": "232420",
+          "words": "My coffee black and my bed at three"
+        },
+        {
+          "startTimeMs": "236200",
+          "words": "You're too sweet for me"
+        },
+        {
+          "startTimeMs": "240390",
+          "words": "You're too sweet for me"
+        }
+      ]
+    }
+  }
+}

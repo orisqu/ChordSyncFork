@@ -1,0 +1,9 @@
+{
+  "track_id": "6oxkSR49MmP414m3l4XN1K",
+  "track_name": "Fate Don't Know You",
+  "artist_name": "Desi Valentine",
+  "timestamp": "2025-03-23 18:53:16",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/desi-valentine/fate-dont-know-you-chords-2080397",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>FATE DONT KNOW YOU CHORDS by Desi Valentine @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] Am F Am F I put my palms before her eyes Am F Am F And she told me my truth Am F Laid the road for me Am F A rich man&#039;s destiny Am F Am F But she saw it without y"
+}

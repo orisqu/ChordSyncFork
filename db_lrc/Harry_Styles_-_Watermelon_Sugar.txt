@@ -1,0 +1,301 @@
+{
+  "track_id": "6UelLqGlWMcVH1E5c4H7lY",
+  "track_name": "Watermelon Sugar",
+  "artist_name": "Harry Styles",
+  "timestamp": "2025-03-21 23:18:16",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "360",
+          "words": "Tastes like strawberries"
+        },
+        {
+          "startTimeMs": "3480",
+          "words": "On a summer evenin'"
+        },
+        {
+          "startTimeMs": "6760",
+          "words": "And it sounds just like a song"
+        },
+        {
+          "startTimeMs": "10690",
+          "words": "I want more berries"
+        },
+        {
+          "startTimeMs": "13370",
+          "words": "And that summer feelin'"
+        },
+        {
+          "startTimeMs": "16860",
+          "words": "It's so wonderful and warm"
+        },
+        {
+          "startTimeMs": "20080",
+          "words": "Breathe me in"
+        },
+        {
+          "startTimeMs": "22540",
+          "words": "Breathe me out"
+        },
+        {
+          "startTimeMs": "25120",
+          "words": "I don't know if I could ever go without"
+        },
+        {
+          "startTimeMs": "30320",
+          "words": "I'm just thinking out loud"
+        },
+        {
+          "startTimeMs": "35490",
+          "words": "I don't know if I could ever go without"
+        },
+        {
+          "startTimeMs": "40270",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "41340",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "42660",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "44050",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "45240",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "46500",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "47760",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "50310",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "51670",
+          "words": "Strawberries"
+        },
+        {
+          "startTimeMs": "53830",
+          "words": "On a summer evenin'"
+        },
+        {
+          "startTimeMs": "57380",
+          "words": "Baby, you're the end of June"
+        },
+        {
+          "startTimeMs": "60910",
+          "words": "I want your belly"
+        },
+        {
+          "startTimeMs": "63740",
+          "words": "And that summer feelin'"
+        },
+        {
+          "startTimeMs": "67220",
+          "words": "Getting washed away in you"
+        },
+        {
+          "startTimeMs": "70420",
+          "words": "Breathe me in"
+        },
+        {
+          "startTimeMs": "73070",
+          "words": "Breathe me out"
+        },
+        {
+          "startTimeMs": "75560",
+          "words": "I don't know if I could ever go without"
+        },
+        {
+          "startTimeMs": "80550",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "81710",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "82970",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "84220",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "85590",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "86630",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "87920",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "90470",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "91890",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "93000",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "94210",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "95520",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "96620",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "97900",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "101490",
+          "words": "I just wanna taste it"
+        },
+        {
+          "startTimeMs": "103960",
+          "words": "I just wanna taste it"
+        },
+        {
+          "startTimeMs": "106560",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "111140",
+          "words": "Tastes like strawberries"
+        },
+        {
+          "startTimeMs": "114110",
+          "words": "On a summer evenin'"
+        },
+        {
+          "startTimeMs": "117670",
+          "words": "And it sounds just like a song"
+        },
+        {
+          "startTimeMs": "121210",
+          "words": "I want your belly"
+        },
+        {
+          "startTimeMs": "124220",
+          "words": "And that summer feelin'"
+        },
+        {
+          "startTimeMs": "126040",
+          "words": "I don't know if I could ever go without"
+        },
+        {
+          "startTimeMs": "130740",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "131910",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "133150",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "134580",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "135740",
+          "words": "Watermelon sugar (sugar)"
+        },
+        {
+          "startTimeMs": "136960",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "138150",
+          "words": "Watermelon sugar high (sugar)"
+        },
+        {
+          "startTimeMs": "140690",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "141920",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "143360",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "144480",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "145750",
+          "words": "Watermelon sugar"
+        },
+        {
+          "startTimeMs": "146860",
+          "words": "High"
+        },
+        {
+          "startTimeMs": "148210",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "151680",
+          "words": "I just wanna taste it"
+        },
+        {
+          "startTimeMs": "154130",
+          "words": "I just wanna taste it"
+        },
+        {
+          "startTimeMs": "156810",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "161970",
+          "words": "I just wanna taste it"
+        },
+        {
+          "startTimeMs": "164350",
+          "words": "I just wanna taste it"
+        },
+        {
+          "startTimeMs": "166720",
+          "words": "Watermelon sugar high"
+        },
+        {
+          "startTimeMs": "170900",
+          "words": "Watermelon sugar"
+        }
+      ]
+    }
+  }
+}

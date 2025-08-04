@@ -1,0 +1,9 @@
+{
+  "track_id": "2Q8dOmJZyjpqVNHToKTVwW",
+  "track_name": "Tiquette",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:46:44",
+  "source_link": "https://www.google.de/search?q=Klischée tiquette chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

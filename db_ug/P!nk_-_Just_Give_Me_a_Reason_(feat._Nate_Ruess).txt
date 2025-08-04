@@ -1,0 +1,9 @@
+{
+  "track_id": "1mKXFLRA179hdOWQBwUk9e",
+  "track_name": "Just Give Me a Reason (feat. Nate Ruess)",
+  "artist_name": "P!nk",
+  "timestamp": "2025-03-23 02:23:26",
+  "source_link": "https://www.google.de/search?q=P!nk just give me a reason (feat. nate ruess) chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

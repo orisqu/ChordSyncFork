@@ -1,0 +1,225 @@
+{
+  "track_id": "451GvHwY99NKV4zdKPRWmv",
+  "track_name": "Banana Pancakes",
+  "artist_name": "Jack Johnson",
+  "timestamp": "2025-03-21 22:45:45",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "8660",
+          "words": "Can't you see that it's just raining"
+        },
+        {
+          "startTimeMs": "12710",
+          "words": "Ain't no need to go outside"
+        },
+        {
+          "startTimeMs": "17380",
+          "words": "But baby, you hardly even notice"
+        },
+        {
+          "startTimeMs": "20970",
+          "words": "When I try to show you this"
+        },
+        {
+          "startTimeMs": "23090",
+          "words": "Song is meant to keep ya"
+        },
+        {
+          "startTimeMs": "25110",
+          "words": "From doing what you're supposed to"
+        },
+        {
+          "startTimeMs": "27300",
+          "words": "Like waking up too early"
+        },
+        {
+          "startTimeMs": "29320",
+          "words": "Maybe we can sleep in"
+        },
+        {
+          "startTimeMs": "31690",
+          "words": "I'll make you banana pancakes"
+        },
+        {
+          "startTimeMs": "33560",
+          "words": "Pretend like its the weekend now"
+        },
+        {
+          "startTimeMs": "38220",
+          "words": "And we could pretend it all the time"
+        },
+        {
+          "startTimeMs": "42630",
+          "words": "Can't you see that it's just raining"
+        },
+        {
+          "startTimeMs": "46550",
+          "words": "Ain't no need to go outside"
+        },
+        {
+          "startTimeMs": "51000",
+          "words": "But just maybe, Laka ukulele"
+        },
+        {
+          "startTimeMs": "54510",
+          "words": "Mama made a baby"
+        },
+        {
+          "startTimeMs": "56740",
+          "words": "Really don't mind the practice"
+        },
+        {
+          "startTimeMs": "58900",
+          "words": "'Cause you're my little lady"
+        },
+        {
+          "startTimeMs": "60940",
+          "words": "Lady, lady, love me"
+        },
+        {
+          "startTimeMs": "62920",
+          "words": "Cause I love to lay here lazy"
+        },
+        {
+          "startTimeMs": "65170",
+          "words": "We could close the curtains"
+        },
+        {
+          "startTimeMs": "67210",
+          "words": "Pretend like there's no world outside"
+        },
+        {
+          "startTimeMs": "72030",
+          "words": "And we could pretend it all the time"
+        },
+        {
+          "startTimeMs": "76220",
+          "words": "Can't you see that it's just raining"
+        },
+        {
+          "startTimeMs": "80330",
+          "words": "Ain't no need to go outside"
+        },
+        {
+          "startTimeMs": "84510",
+          "words": "Ain't no need, ain't no need, mmmm mmmmm"
+        },
+        {
+          "startTimeMs": "92940",
+          "words": "Can't you see, can't you see"
+        },
+        {
+          "startTimeMs": "97180",
+          "words": "Rain all day"
+        },
+        {
+          "startTimeMs": "98300",
+          "words": "And I don't mind"
+        },
+        {
+          "startTimeMs": "102780",
+          "words": "But the telephone is singing"
+        },
+        {
+          "startTimeMs": "104780",
+          "words": "Ringing it's too early"
+        },
+        {
+          "startTimeMs": "106250",
+          "words": "Don't pick it up"
+        },
+        {
+          "startTimeMs": "109740",
+          "words": "We don't need to we got everything"
+        },
+        {
+          "startTimeMs": "111890",
+          "words": "We need right here"
+        },
+        {
+          "startTimeMs": "113240",
+          "words": "And everything we need is enough"
+        },
+        {
+          "startTimeMs": "117610",
+          "words": "Just so easy"
+        },
+        {
+          "startTimeMs": "119290",
+          "words": "When the whole world fits inside of your arms"
+        },
+        {
+          "startTimeMs": "123350",
+          "words": "Don't really need to pay attention to the alarm"
+        },
+        {
+          "startTimeMs": "127120",
+          "words": "Wake up slow, mm mm, wake up slow"
+        },
+        {
+          "startTimeMs": "135320",
+          "words": "But baby, you hardly even notice"
+        },
+        {
+          "startTimeMs": "138140",
+          "words": "When I try to show you this"
+        },
+        {
+          "startTimeMs": "140380",
+          "words": "Song is meant to keep ya"
+        },
+        {
+          "startTimeMs": "142340",
+          "words": "From doing what you're supposed to"
+        },
+        {
+          "startTimeMs": "144580",
+          "words": "Like waking up too early"
+        },
+        {
+          "startTimeMs": "146650",
+          "words": "Maybe we can sleep in"
+        },
+        {
+          "startTimeMs": "148840",
+          "words": "I'll make you banana pancakes"
+        },
+        {
+          "startTimeMs": "150900",
+          "words": "Pretend like it's the weekend now"
+        },
+        {
+          "startTimeMs": "155700",
+          "words": "And we could pretend it all the time"
+        },
+        {
+          "startTimeMs": "159850",
+          "words": "Can't you see that it's just raining"
+        },
+        {
+          "startTimeMs": "164040",
+          "words": "Ain't no need to go outside"
+        },
+        {
+          "startTimeMs": "168210",
+          "words": "Ain't no need, ain't no need"
+        },
+        {
+          "startTimeMs": "172330",
+          "words": "Rain all day and I really, really, really don't mind"
+        },
+        {
+          "startTimeMs": "176760",
+          "words": "Can't you see, can't you see?"
+        },
+        {
+          "startTimeMs": "180650",
+          "words": "You gotta wake up slow"
+        }
+      ]
+    }
+  }
+}

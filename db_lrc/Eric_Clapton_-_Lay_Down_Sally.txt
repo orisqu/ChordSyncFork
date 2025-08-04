@@ -1,0 +1,133 @@
+{
+  "track_id": "6io0LJIP9ntX35hTfaxwQG",
+  "track_name": "Lay Down Sally",
+  "artist_name": "Eric Clapton",
+  "timestamp": "2025-03-23 15:51:04",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "20120",
+          "words": "There is nothing that is wrong"
+        },
+        {
+          "startTimeMs": "22450",
+          "words": "In wanting you to stay here with me"
+        },
+        {
+          "startTimeMs": "27760",
+          "words": "I know you've got somewhere to go"
+        },
+        {
+          "startTimeMs": "30310",
+          "words": "But won't you make yourself at home and stay with me?"
+        },
+        {
+          "startTimeMs": "34650",
+          "words": "And don't you ever leave"
+        },
+        {
+          "startTimeMs": "37050",
+          "words": "Lay down, Sally, and rest here in my arms"
+        },
+        {
+          "startTimeMs": "42230",
+          "words": "Don't you think you want someone to talk to?"
+        },
+        {
+          "startTimeMs": "48080",
+          "words": "Lay down, Sally, no need to leave so soon"
+        },
+        {
+          "startTimeMs": "52840",
+          "words": "I've been trying all night long just to talk to you"
+        },
+        {
+          "startTimeMs": "65590",
+          "words": "Sun ain't nearly on the rise"
+        },
+        {
+          "startTimeMs": "70220",
+          "words": "We still got the moon and stars above"
+        },
+        {
+          "startTimeMs": "75540",
+          "words": "Underneath the velvet skies, love is all that matters"
+        },
+        {
+          "startTimeMs": "80080",
+          "words": "Won't you stay with me? Don't you ever leave"
+        },
+        {
+          "startTimeMs": "85050",
+          "words": "Lay down, Sally, and rest here in my arms"
+        },
+        {
+          "startTimeMs": "90330",
+          "words": "Don't you think you want someone to talk to?"
+        },
+        {
+          "startTimeMs": "95630",
+          "words": "Lay down, Sally, and no need to leave so soon"
+        },
+        {
+          "startTimeMs": "100180",
+          "words": "I've been trying all night long just to talk to you"
+        },
+        {
+          "startTimeMs": "145550",
+          "words": "I long to see the morning light"
+        },
+        {
+          "startTimeMs": "147960",
+          "words": "Color in your face so dreamily"
+        },
+        {
+          "startTimeMs": "152980",
+          "words": "So don't you go and say goodbye"
+        },
+        {
+          "startTimeMs": "155630",
+          "words": "You can lay your worries down and stay with me"
+        },
+        {
+          "startTimeMs": "160110",
+          "words": "And don't you ever leave"
+        },
+        {
+          "startTimeMs": "162710",
+          "words": "Lay down, Sally, and rest here in my arms"
+        },
+        {
+          "startTimeMs": "168040",
+          "words": "Don't you think you want someone to talk to?"
+        },
+        {
+          "startTimeMs": "173360",
+          "words": "Lay down, Sally, there's no need to leave so soon"
+        },
+        {
+          "startTimeMs": "178620",
+          "words": "I've been trying all night long just to talk to you"
+        },
+        {
+          "startTimeMs": "184120",
+          "words": "Lay down, Sally, and rest here in my arms"
+        },
+        {
+          "startTimeMs": "188630",
+          "words": "Don't you think you want someone to talk to?"
+        },
+        {
+          "startTimeMs": "193610",
+          "words": "Lay down, Sally, there's no need to leave so soon"
+        },
+        {
+          "startTimeMs": "198770",
+          "words": "I've been trying all night long just to talk to you"
+        }
+      ]
+    }
+  }
+}

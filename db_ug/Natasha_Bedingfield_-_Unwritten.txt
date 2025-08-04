@@ -1,0 +1,9 @@
+{
+  "track_id": "3U5JVgI2x4rDyHGObzJfNf",
+  "track_name": "Unwritten",
+  "artist_name": "Natasha Bedingfield",
+  "timestamp": "2025-03-23 01:22:35",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/natasha-bedingfield/unwritten-chords-640615",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>UNWRITTEN CHORDS (ver 3) by Natasha Bedingfield @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Capo 3 [Verse 1] D I am unwritten Can&#039;t read my mind, I&#039;m undefined I&#039;m just beginning The pen&#039;s in my hand, ending unplanned [Pre-Chorus] D C Staring at"
+}

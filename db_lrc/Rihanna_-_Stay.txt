@@ -1,0 +1,149 @@
+{
+  "track_id": "789CxjEOtO76BVD1A9yJQH",
+  "track_name": "Stay",
+  "artist_name": "Rihanna",
+  "timestamp": "2025-03-23 02:27:40",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "17480",
+          "words": "All along it was a fever"
+        },
+        {
+          "startTimeMs": "25290",
+          "words": "A cold sweat, hot-headed believer"
+        },
+        {
+          "startTimeMs": "33470",
+          "words": "I threw my hands in the air, I said, \"Show me something\""
+        },
+        {
+          "startTimeMs": "42000",
+          "words": "He said, \"If you dare, come a little closer\""
+        },
+        {
+          "startTimeMs": "51330",
+          "words": "Round and around, and around, and around we go"
+        },
+        {
+          "startTimeMs": "59110",
+          "words": "Oh, now, tell me now, tell me now, tell me now, you know"
+        },
+        {
+          "startTimeMs": "68820",
+          "words": "Not really sure how to feel about it"
+        },
+        {
+          "startTimeMs": "72590",
+          "words": "Something in the way you move"
+        },
+        {
+          "startTimeMs": "76710",
+          "words": "Makes me feel like I can't live without you"
+        },
+        {
+          "startTimeMs": "81150",
+          "words": "It takes me all the way"
+        },
+        {
+          "startTimeMs": "84550",
+          "words": "I want you to stay"
+        },
+        {
+          "startTimeMs": "94550",
+          "words": "It's not much of a life you're living"
+        },
+        {
+          "startTimeMs": "101950",
+          "words": "It's not just something you take, it's given"
+        },
+        {
+          "startTimeMs": "111380",
+          "words": "Round and around, and around, and around we go"
+        },
+        {
+          "startTimeMs": "118720",
+          "words": "Oh, now, tell me now, tell me now, tell me now, you know"
+        },
+        {
+          "startTimeMs": "128520",
+          "words": "Not really sure how to feel about it"
+        },
+        {
+          "startTimeMs": "132430",
+          "words": "Something in the way you move"
+        },
+        {
+          "startTimeMs": "136780",
+          "words": "Makes me feel like I can't live without you"
+        },
+        {
+          "startTimeMs": "141030",
+          "words": "It takes me all the way"
+        },
+        {
+          "startTimeMs": "144200",
+          "words": "And I want you to stay"
+        },
+        {
+          "startTimeMs": "154320",
+          "words": "Ooh, the reason I hold on"
+        },
+        {
+          "startTimeMs": "163030",
+          "words": "Ooh, 'cause I need this hole gone"
+        },
+        {
+          "startTimeMs": "171280",
+          "words": "Funny, you're the broken one"
+        },
+        {
+          "startTimeMs": "173470",
+          "words": "But I'm the only one who needed saving"
+        },
+        {
+          "startTimeMs": "179750",
+          "words": "'Cause when you never see the light"
+        },
+        {
+          "startTimeMs": "182090",
+          "words": "It's hard to know which one of us is caving"
+        },
+        {
+          "startTimeMs": "188730",
+          "words": "Not really sure how to feel about it"
+        },
+        {
+          "startTimeMs": "192570",
+          "words": "Something in the way you move"
+        },
+        {
+          "startTimeMs": "196960",
+          "words": "Makes me feel like I can't live without you"
+        },
+        {
+          "startTimeMs": "201150",
+          "words": "It takes me all the way"
+        },
+        {
+          "startTimeMs": "204630",
+          "words": "I want you to stay"
+        },
+        {
+          "startTimeMs": "213850",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "221440",
+          "words": "I want you to stay"
+        },
+        {
+          "startTimeMs": "226300",
+          "words": "Ooh"
+        }
+      ]
+    }
+  }
+}

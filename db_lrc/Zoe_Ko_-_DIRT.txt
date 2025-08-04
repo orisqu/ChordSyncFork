@@ -1,0 +1,189 @@
+{
+  "track_id": "5N6g6EEUxrBUJgtGkTr37q",
+  "track_name": "DIRT",
+  "artist_name": "Zoe Ko",
+  "timestamp": "2025-03-21 17:42:52",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "5290",
+          "words": "Hey honey"
+        },
+        {
+          "startTimeMs": "6280",
+          "words": "Where's the grease?"
+        },
+        {
+          "startTimeMs": "8380",
+          "words": "You look so squeaky clean"
+        },
+        {
+          "startTimeMs": "11260",
+          "words": "On the street"
+        },
+        {
+          "startTimeMs": "12800",
+          "words": "Dripping lush"
+        },
+        {
+          "startTimeMs": "14630",
+          "words": "Where I'm from"
+        },
+        {
+          "startTimeMs": "16240",
+          "words": "We know how to have more fun"
+        },
+        {
+          "startTimeMs": "18860",
+          "words": "I'm talkin to a plastic head"
+        },
+        {
+          "startTimeMs": "21800",
+          "words": "Choke on artificial smoke"
+        },
+        {
+          "startTimeMs": "23590",
+          "words": "Watermelon cigarettes"
+        },
+        {
+          "startTimeMs": "25110",
+          "words": "It's so un messy here it hurts"
+        },
+        {
+          "startTimeMs": "28400",
+          "words": "Let me put it in a word"
+        },
+        {
+          "startTimeMs": "30170",
+          "words": "What I'm missing is some dirt"
+        },
+        {
+          "startTimeMs": "32250",
+          "words": "What?!"
+        },
+        {
+          "startTimeMs": "33090",
+          "words": "Dirt x100"
+        },
+        {
+          "startTimeMs": "39100",
+          "words": "Filthy."
+        },
+        {
+          "startTimeMs": "39530",
+          "words": "I can't live in these conditions"
+        },
+        {
+          "startTimeMs": "44200",
+          "words": "What I want is something different"
+        },
+        {
+          "startTimeMs": "47070",
+          "words": "You say wha-wha-wha-wha-wha-wha what do you mean?!"
+        },
+        {
+          "startTimeMs": "50990",
+          "words": "I need"
+        },
+        {
+          "startTimeMs": "52880",
+          "words": "Dirt!"
+        },
+        {
+          "startTimeMs": "53590",
+          "words": "Put a boy in a skirt"
+        },
+        {
+          "startTimeMs": "55140",
+          "words": "Tell my girl take off the shirt"
+        },
+        {
+          "startTimeMs": "56710",
+          "words": "Dig your nails into the earth"
+        },
+        {
+          "startTimeMs": "58510",
+          "words": "Put some mud inside my purse"
+        },
+        {
+          "startTimeMs": "61990",
+          "words": "I want cake"
+        },
+        {
+          "startTimeMs": "62920",
+          "words": "Want mistakes"
+        },
+        {
+          "startTimeMs": "63730",
+          "words": "Put your lipstick on my face"
+        },
+        {
+          "startTimeMs": "65300",
+          "words": "Use my tongue to say"
+        },
+        {
+          "startTimeMs": "66540",
+          "words": "This is how the people play"
+        },
+        {
+          "startTimeMs": "69950",
+          "words": "It goes x4"
+        },
+        {
+          "startTimeMs": "80400",
+          "words": "I can't live in these conditions"
+        },
+        {
+          "startTimeMs": "85320",
+          "words": "What I want is something different"
+        },
+        {
+          "startTimeMs": "88730",
+          "words": "You say wha-wha-wha-wha-wha-wha what do you mean?!"
+        },
+        {
+          "startTimeMs": "91860",
+          "words": "I need"
+        },
+        {
+          "startTimeMs": "94130",
+          "words": "Dirt dirt dirt dirt"
+        },
+        {
+          "startTimeMs": "96060",
+          "words": "Now your speaking in my language"
+        },
+        {
+          "startTimeMs": "97500",
+          "words": "Dirt dirt dirt dirt"
+        },
+        {
+          "startTimeMs": "99190",
+          "words": "Once you've had it it's contagious"
+        },
+        {
+          "startTimeMs": "101250",
+          "words": "Look -wha-wha-wha-wha-wha what do you see?!"
+        },
+        {
+          "startTimeMs": "105980",
+          "words": "I see DIRT DIRT DIRT DIRT"
+        },
+        {
+          "startTimeMs": "108300",
+          "words": "This is how the people play"
+        },
+        {
+          "startTimeMs": "110650",
+          "words": "It goes x4"
+        },
+        {
+          "startTimeMs": "118440",
+          "words": "Dirt x100"
+        }
+      ]
+    }
+  }
+}

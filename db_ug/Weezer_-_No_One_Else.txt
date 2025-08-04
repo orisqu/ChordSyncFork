@@ -1,0 +1,9 @@
+{
+  "track_id": "2w12ff20EDDeXpsx08CgG5",
+  "track_name": "No One Else",
+  "artist_name": "Weezer",
+  "timestamp": "2025-03-21 23:12:34",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/weezer/no-one-else-chords-1520747",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>NO ONE ELSE CHORDS (ver 2) by Weezer for guitar, ukulele, piano at Ultimate-Guitar</title>\n<meta name=\"description\" content=\"No One Else - Weezer [Intro] E D# C# B A B [Verse 1] E A G#m My girl&#039;s got a big mouth F#m B A With which she blabbers a lot G#m A G#m She laughs at most e"
+}

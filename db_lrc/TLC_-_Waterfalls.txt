@@ -1,0 +1,269 @@
+{
+  "track_id": "6qspW4YKycviDFjHBOaqUY",
+  "track_name": "Waterfalls",
+  "artist_name": "TLC",
+  "timestamp": "2025-03-21 23:55:44",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "34060",
+          "words": "A lonely mother gazing out of her window"
+        },
+        {
+          "startTimeMs": "38550",
+          "words": "Staring at a son that she just can't touch"
+        },
+        {
+          "startTimeMs": "42890",
+          "words": "If at any time he's in a jam, she'll be by his side"
+        },
+        {
+          "startTimeMs": "48820",
+          "words": "But he doesn't realize he hurts her so much"
+        },
+        {
+          "startTimeMs": "56260",
+          "words": "But all the praying just ain't helping at all"
+        },
+        {
+          "startTimeMs": "60470",
+          "words": "'Cause he can't seem to keep his self out of trouble"
+        },
+        {
+          "startTimeMs": "65950",
+          "words": "So, he goes out, and he makes his money the best way he know how"
+        },
+        {
+          "startTimeMs": "71560",
+          "words": "Another body laying cold in the gutter"
+        },
+        {
+          "startTimeMs": "76400",
+          "words": "Listen to me"
+        },
+        {
+          "startTimeMs": "78470",
+          "words": "Don't go chasing waterfalls"
+        },
+        {
+          "startTimeMs": "82430",
+          "words": "Please stick to the rivers and the lakes that you're used to"
+        },
+        {
+          "startTimeMs": "88000",
+          "words": "I know that you're gonna have it your way or nothing at all"
+        },
+        {
+          "startTimeMs": "93770",
+          "words": "But I think you're moving too fast"
+        },
+        {
+          "startTimeMs": "101450",
+          "words": "Little precious has a natural obsession"
+        },
+        {
+          "startTimeMs": "105520",
+          "words": "For temptation, but he just can't see"
+        },
+        {
+          "startTimeMs": "112100",
+          "words": "She give him loving that his body can't handle"
+        },
+        {
+          "startTimeMs": "116750",
+          "words": "But all he can say is, \"Baby, it's good to me\""
+        },
+        {
+          "startTimeMs": "123410",
+          "words": "One day he goes and takes a glimpse in the mirror"
+        },
+        {
+          "startTimeMs": "128070",
+          "words": "But he doesn't recognize his own face"
+        },
+        {
+          "startTimeMs": "134310",
+          "words": "His health is fading and he doesn't know why"
+        },
+        {
+          "startTimeMs": "138760",
+          "words": "Three letters took him to his final resting place"
+        },
+        {
+          "startTimeMs": "143180",
+          "words": "Y'all don't hear me"
+        },
+        {
+          "startTimeMs": "145390",
+          "words": "Don't go chasing waterfalls"
+        },
+        {
+          "startTimeMs": "149570",
+          "words": "Please stick to the rivers and the lakes that you're used to"
+        },
+        {
+          "startTimeMs": "155500",
+          "words": "I know that you're gonna have it your way or nothing at all"
+        },
+        {
+          "startTimeMs": "160730",
+          "words": "But I think you're moving too fast"
+        },
+        {
+          "startTimeMs": "167810",
+          "words": "Don't go chasing waterfalls"
+        },
+        {
+          "startTimeMs": "172010",
+          "words": "Please stick to the rivers and the lakes that you're used to"
+        },
+        {
+          "startTimeMs": "177480",
+          "words": "I know that you're gonna have it your way or nothing at all"
+        },
+        {
+          "startTimeMs": "183100",
+          "words": "But I think you're moving too fast (come on)"
+        },
+        {
+          "startTimeMs": "190050",
+          "words": "I seen a rainbow yesterday"
+        },
+        {
+          "startTimeMs": "191950",
+          "words": "But too many storms have come and gone"
+        },
+        {
+          "startTimeMs": "193650",
+          "words": "Leavin' a trace of not on God-given ray"
+        },
+        {
+          "startTimeMs": "195750",
+          "words": "Is it because my life is ten shades of gray"
+        },
+        {
+          "startTimeMs": "198080",
+          "words": "I pray all ten fade away"
+        },
+        {
+          "startTimeMs": "199520",
+          "words": "Seldom praise Him for the sunny days"
+        },
+        {
+          "startTimeMs": "201220",
+          "words": "And like his promise is true"
+        },
+        {
+          "startTimeMs": "202830",
+          "words": "Only my faith can undo"
+        },
+        {
+          "startTimeMs": "204280",
+          "words": "The many chances I blew"
+        },
+        {
+          "startTimeMs": "205430",
+          "words": "Will it bring my life to anew"
+        },
+        {
+          "startTimeMs": "207200",
+          "words": "Clear blue and unconditional skies"
+        },
+        {
+          "startTimeMs": "209320",
+          "words": "Have dried the tears from my eyes"
+        },
+        {
+          "startTimeMs": "210630",
+          "words": "No more lonely cries"
+        },
+        {
+          "startTimeMs": "212380",
+          "words": "My only bleedin' hope is for the folk who can't cope"
+        },
+        {
+          "startTimeMs": "214770",
+          "words": "Wit' such an endurin' pain"
+        },
+        {
+          "startTimeMs": "216250",
+          "words": "That it keeps 'em in the pourin' rain"
+        },
+        {
+          "startTimeMs": "218290",
+          "words": "Who's to blame for tootin' cane in your own vein"
+        },
+        {
+          "startTimeMs": "221030",
+          "words": "What a shame"
+        },
+        {
+          "startTimeMs": "221770",
+          "words": "You shoot and aim for someone else's brain"
+        },
+        {
+          "startTimeMs": "223360",
+          "words": "You claim the insane and name this day in time"
+        },
+        {
+          "startTimeMs": "225550",
+          "words": "For fallin' prey to crime"
+        },
+        {
+          "startTimeMs": "226730",
+          "words": "I say the system got you victim to your own mind"
+        },
+        {
+          "startTimeMs": "229450",
+          "words": "Dreams are hopeless aspirations"
+        },
+        {
+          "startTimeMs": "231140",
+          "words": "In hopes of comin' true"
+        },
+        {
+          "startTimeMs": "232600",
+          "words": "Believe in yourself"
+        },
+        {
+          "startTimeMs": "233660",
+          "words": "The rest is up to me and you"
+        },
+        {
+          "startTimeMs": "234970",
+          "words": "Don't go chasing waterfalls"
+        },
+        {
+          "startTimeMs": "239110",
+          "words": "Please stick to the rivers and the lakes that you're used to"
+        },
+        {
+          "startTimeMs": "244580",
+          "words": "I know that you're gonna have it your way or nothing at all"
+        },
+        {
+          "startTimeMs": "250050",
+          "words": "But I think you're moving too fast (oh, you're moving)"
+        },
+        {
+          "startTimeMs": "257210",
+          "words": "Don't go chasing waterfalls"
+        },
+        {
+          "startTimeMs": "261130",
+          "words": "Please stick to the rivers and the lakes that you're used to"
+        },
+        {
+          "startTimeMs": "267210",
+          "words": "I know that you're gonna have it your way or nothing at all"
+        },
+        {
+          "startTimeMs": "272670",
+          "words": "But I think you're moving too fast"
+        }
+      ]
+    }
+  }
+}

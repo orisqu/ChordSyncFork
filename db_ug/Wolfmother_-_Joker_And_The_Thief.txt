@@ -1,0 +1,9 @@
+{
+  "track_id": "5cQjQPs8KzsmKNhBCb2Ad5",
+  "track_name": "Joker And The Thief",
+  "artist_name": "Wolfmother",
+  "timestamp": "2025-03-21 20:56:50",
+  "source_link": "https://www.google.de/search?q=Wolfmother joker and the thief chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

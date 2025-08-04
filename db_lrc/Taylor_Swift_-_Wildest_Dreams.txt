@@ -1,0 +1,249 @@
+{
+  "track_id": "59HjlYCeBsxdI0fcm3zglw",
+  "track_name": "Wildest Dreams",
+  "artist_name": "Taylor Swift",
+  "timestamp": "2025-03-23 02:23:49",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "13180",
+          "words": "He said, \"Let's get out of this town"
+        },
+        {
+          "startTimeMs": "16590",
+          "words": "Drive out of the city, away from the crowds\""
+        },
+        {
+          "startTimeMs": "20000",
+          "words": "I thought Heaven can't help me now"
+        },
+        {
+          "startTimeMs": "23300",
+          "words": "Nothing lasts forever"
+        },
+        {
+          "startTimeMs": "25760",
+          "words": "But this is gonna take me down"
+        },
+        {
+          "startTimeMs": "27940",
+          "words": "He's so tall and handsome as hell"
+        },
+        {
+          "startTimeMs": "31170",
+          "words": "He's so bad, but he does it so well"
+        },
+        {
+          "startTimeMs": "34420",
+          "words": "I can see the end as it begins"
+        },
+        {
+          "startTimeMs": "37850",
+          "words": "My one condition is"
+        },
+        {
+          "startTimeMs": "41250",
+          "words": "Say you'll remember me"
+        },
+        {
+          "startTimeMs": "43780",
+          "words": "Standing in a nice dress"
+        },
+        {
+          "startTimeMs": "45480",
+          "words": "Staring at the sunset, babe"
+        },
+        {
+          "startTimeMs": "48170",
+          "words": "Red lips and rosy cheeks"
+        },
+        {
+          "startTimeMs": "50670",
+          "words": "Say you'll see me again"
+        },
+        {
+          "startTimeMs": "52570",
+          "words": "Even if it's just in your wildest dreams, ah-ah, ha"
+        },
+        {
+          "startTimeMs": "61920",
+          "words": "Wildest dreams, ah-ah, ha"
+        },
+        {
+          "startTimeMs": "71510",
+          "words": "I said, \"No one has to know what we do\""
+        },
+        {
+          "startTimeMs": "74560",
+          "words": "His hands are in my hair, his clothes are in my room"
+        },
+        {
+          "startTimeMs": "78750",
+          "words": "And his voice is a familiar sound"
+        },
+        {
+          "startTimeMs": "81780",
+          "words": "Nothing lasts forever"
+        },
+        {
+          "startTimeMs": "83950",
+          "words": "But this is getting good now"
+        },
+        {
+          "startTimeMs": "86200",
+          "words": "He's so tall and handsome as hell"
+        },
+        {
+          "startTimeMs": "89430",
+          "words": "He's so bad, but he does it so well"
+        },
+        {
+          "startTimeMs": "92880",
+          "words": "And when we've had our very last kiss"
+        },
+        {
+          "startTimeMs": "96030",
+          "words": "My last request is"
+        },
+        {
+          "startTimeMs": "99480",
+          "words": "Say you'll remember me"
+        },
+        {
+          "startTimeMs": "102150",
+          "words": "Standing in a nice dress"
+        },
+        {
+          "startTimeMs": "103730",
+          "words": "Staring at the sunset, babe"
+        },
+        {
+          "startTimeMs": "106580",
+          "words": "Red lips and rosy cheeks"
+        },
+        {
+          "startTimeMs": "108970",
+          "words": "Say you'll see me again"
+        },
+        {
+          "startTimeMs": "110760",
+          "words": "Even if it's just in your wildest dreams, ah-ah, ha (ha-ah, ha)"
+        },
+        {
+          "startTimeMs": "120260",
+          "words": "Wildest dreams, ah-ah, ha"
+        },
+        {
+          "startTimeMs": "126860",
+          "words": "You'll see me in hindsight"
+        },
+        {
+          "startTimeMs": "128760",
+          "words": "Tangled up with you all night"
+        },
+        {
+          "startTimeMs": "130470",
+          "words": "Burning it down"
+        },
+        {
+          "startTimeMs": "133820",
+          "words": "Someday when you leave me"
+        },
+        {
+          "startTimeMs": "135690",
+          "words": "I bet these memories"
+        },
+        {
+          "startTimeMs": "137440",
+          "words": "Follow you around"
+        },
+        {
+          "startTimeMs": "140460",
+          "words": "You'll see me in hindsight"
+        },
+        {
+          "startTimeMs": "142440",
+          "words": "Tangled up with you all night"
+        },
+        {
+          "startTimeMs": "144190",
+          "words": "Burning (burning) it (it) down (down)"
+        },
+        {
+          "startTimeMs": "147430",
+          "words": "Someday when you leave me"
+        },
+        {
+          "startTimeMs": "149330",
+          "words": "I bet these memories"
+        },
+        {
+          "startTimeMs": "151040",
+          "words": "Follow (follow) you (you) around (follow you around)"
+        },
+        {
+          "startTimeMs": "157710",
+          "words": "Say you'll remember me"
+        },
+        {
+          "startTimeMs": "160680",
+          "words": "Standing in a nice dress"
+        },
+        {
+          "startTimeMs": "162280",
+          "words": "Staring at the sunset, babe"
+        },
+        {
+          "startTimeMs": "164820",
+          "words": "Red lips and rosy cheeks"
+        },
+        {
+          "startTimeMs": "167340",
+          "words": "Say you'll see me again"
+        },
+        {
+          "startTimeMs": "169130",
+          "words": "Even if it's just pretend"
+        },
+        {
+          "startTimeMs": "173220",
+          "words": "Say you'll remember me"
+        },
+        {
+          "startTimeMs": "175890",
+          "words": "Standing in a nice dress"
+        },
+        {
+          "startTimeMs": "177510",
+          "words": "Staring at the sunset, babe"
+        },
+        {
+          "startTimeMs": "180240",
+          "words": "Red lips and rosy cheeks"
+        },
+        {
+          "startTimeMs": "182780",
+          "words": "Say you'll see me again"
+        },
+        {
+          "startTimeMs": "184460",
+          "words": "Even if it's just (pretend, just pretend) in your wildest dreams, ah-ah, ha (ah)"
+        },
+        {
+          "startTimeMs": "193030",
+          "words": "In your wildest dreams, ah-ah, ha"
+        },
+        {
+          "startTimeMs": "198320",
+          "words": "Even if it's just stayed in your wildest dreams, ah-ah, ha"
+        },
+        {
+          "startTimeMs": "206780",
+          "words": "In your wildest dreams, ah-ah, ha"
+        }
+      ]
+    }
+  }
+}

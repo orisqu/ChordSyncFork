@@ -1,0 +1,181 @@
+{
+  "track_id": "1iDbNfNfGuQL6vQ8Xr8Fr8",
+  "track_name": "As Lovers Go - Remix",
+  "artist_name": "Dashboard Confessional",
+  "timestamp": "2025-03-21 20:14:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "5660",
+          "words": "She said \"I've gotta be honest,"
+        },
+        {
+          "startTimeMs": "7750",
+          "words": "You're wasting your time if you're fishing round here.\""
+        },
+        {
+          "startTimeMs": "11310",
+          "words": "And I said \"you must be mistaken,"
+        },
+        {
+          "startTimeMs": "15870",
+          "words": "I'm not fooling... this feeling is real\""
+        },
+        {
+          "startTimeMs": "19420",
+          "words": "She said \"you gotta be crazy,"
+        },
+        {
+          "startTimeMs": "23790",
+          "words": "What do you take me for? Some kind of easy mark?"
+        },
+        {
+          "startTimeMs": "30130",
+          "words": "\"You've got wits, you've got looks,"
+        },
+        {
+          "startTimeMs": "32820",
+          "words": "You've got passion, but I swear that you've got me all wrong.\""
+        },
+        {
+          "startTimeMs": "36870",
+          "words": "All wrong."
+        },
+        {
+          "startTimeMs": "39390",
+          "words": "All wrong."
+        },
+        {
+          "startTimeMs": "44800",
+          "words": "But you got me..."
+        },
+        {
+          "startTimeMs": "48110",
+          "words": "I'll be true, I'll be useful..."
+        },
+        {
+          "startTimeMs": "53220",
+          "words": "I'll be cavalier... i'll be yours my dear."
+        },
+        {
+          "startTimeMs": "58720",
+          "words": "And I'll belong to you..."
+        },
+        {
+          "startTimeMs": "62500",
+          "words": "If you'll just let me through."
+        },
+        {
+          "startTimeMs": "65790",
+          "words": "This is easy as lovers go,"
+        },
+        {
+          "startTimeMs": "71260",
+          "words": "So don't complicate it by hesitating."
+        },
+        {
+          "startTimeMs": "76570",
+          "words": "And this is wonderful as loving goes,"
+        },
+        {
+          "startTimeMs": "80640",
+          "words": "This is tailor-made, whats the sense in waiting?"
+        },
+        {
+          "startTimeMs": "85310",
+          "words": "And I said \"I've gotta be honest"
+        },
+        {
+          "startTimeMs": "88770",
+          "words": "I've been waiting for you all my life.\""
+        },
+        {
+          "startTimeMs": "92210",
+          "words": "For so long I thought I was asylum bound,"
+        },
+        {
+          "startTimeMs": "97520",
+          "words": "But just seeing you makes me think twice."
+        },
+        {
+          "startTimeMs": "101140",
+          "words": "And being with you here makes me sane,"
+        },
+        {
+          "startTimeMs": "104840",
+          "words": "I fear I'll go crazy if you leave my side."
+        },
+        {
+          "startTimeMs": "108510",
+          "words": "You've got wits... you've got looks,"
+        },
+        {
+          "startTimeMs": "113050",
+          "words": "You've got passion but are you brave enough to leave with me tonight?"
+        },
+        {
+          "startTimeMs": "117480",
+          "words": "Tonight."
+        },
+        {
+          "startTimeMs": "119530",
+          "words": "Tonight."
+        },
+        {
+          "startTimeMs": "124860",
+          "words": "But you've got me..."
+        },
+        {
+          "startTimeMs": "128850",
+          "words": "I'll be true, I'll be useful..."
+        },
+        {
+          "startTimeMs": "134590",
+          "words": "I'll be cavalier... i'll be yours my dear."
+        },
+        {
+          "startTimeMs": "139720",
+          "words": "And I'll belong to you..."
+        },
+        {
+          "startTimeMs": "143360",
+          "words": "If you'll just let me through."
+        },
+        {
+          "startTimeMs": "146470",
+          "words": "This is easy as lovers go,"
+        },
+        {
+          "startTimeMs": "149650",
+          "words": "So don't complicate it by hesitating."
+        },
+        {
+          "startTimeMs": "157160",
+          "words": "And this is wonderful as loving goes,"
+        },
+        {
+          "startTimeMs": "161300",
+          "words": "This is tailor-made, whats the sense in waiting?"
+        },
+        {
+          "startTimeMs": "166070",
+          "words": "This is easy as lovers go,"
+        },
+        {
+          "startTimeMs": "169130",
+          "words": "So don't complicate it by hesitating."
+        },
+        {
+          "startTimeMs": "174100",
+          "words": "And this is wonderful as loving goes,"
+        },
+        {
+          "startTimeMs": "177570",
+          "words": "This is tailor-made, whats the sense in waiting?"
+        }
+      ]
+    }
+  }
+}

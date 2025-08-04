@@ -1,0 +1,12 @@
+{
+  "track_id": "1CK7FnJxNSZrQhEPLVVa2N",
+  "track_name": "Bajo el mar",
+  "artist_name": "Alan Menken",
+  "timestamp": "2025-03-23 14:55:05",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

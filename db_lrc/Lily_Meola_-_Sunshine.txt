@@ -1,0 +1,141 @@
+{
+  "track_id": "4Yx4nkx3ymrAZZ3DSlhV8O",
+  "track_name": "Sunshine",
+  "artist_name": "Lily Meola",
+  "timestamp": "2025-03-23 14:34:10",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16660",
+          "words": "Dark clouds hanging all around, and I've cast out all my luck"
+        },
+        {
+          "startTimeMs": "23720",
+          "words": "I tend to push everybody out when I'm close to giving up"
+        },
+        {
+          "startTimeMs": "31130",
+          "words": "I turn down every helping hand when I need some picking up"
+        },
+        {
+          "startTimeMs": "38760",
+          "words": "Why do I gotta block it out when I'm most in need of love?"
+        },
+        {
+          "startTimeMs": "44600",
+          "words": "Here we go again, such a strange feeling"
+        },
+        {
+          "startTimeMs": "48510",
+          "words": "Stuck inside my head and my heart's beating"
+        },
+        {
+          "startTimeMs": "52240",
+          "words": "Heavy in my chest and I can't even"
+        },
+        {
+          "startTimeMs": "55800",
+          "words": "Find the words to let you know"
+        },
+        {
+          "startTimeMs": "60140",
+          "words": "Stay close to the people who feel like sunshine"
+        },
+        {
+          "startTimeMs": "67420",
+          "words": "When you're lost, feeling low, let you know you're alright"
+        },
+        {
+          "startTimeMs": "74470",
+          "words": "Shining like a star on the darkest night"
+        },
+        {
+          "startTimeMs": "78020",
+          "words": "No matter where you are, you can see the light"
+        },
+        {
+          "startTimeMs": "82130",
+          "words": "Stay close to the people who feel like sunshine"
+        },
+        {
+          "startTimeMs": "90520",
+          "words": "Shadows everywhere I go, and it's hard to see the end"
+        },
+        {
+          "startTimeMs": "97730",
+          "words": "Tied strings in a puppet show, maybe I just need a friend"
+        },
+        {
+          "startTimeMs": "103710",
+          "words": "Here we go again, such a strange feeling"
+        },
+        {
+          "startTimeMs": "107640",
+          "words": "Stuck inside my head and my heart's beating"
+        },
+        {
+          "startTimeMs": "111280",
+          "words": "Heavy in my chest and I can't even"
+        },
+        {
+          "startTimeMs": "114900",
+          "words": "Find the words to let you know"
+        },
+        {
+          "startTimeMs": "119080",
+          "words": "Stay close to the people who feel like sunshine"
+        },
+        {
+          "startTimeMs": "126480",
+          "words": "When you're lost, feeling low, let you know you're alright"
+        },
+        {
+          "startTimeMs": "133450",
+          "words": "Shining like a star on the darkest night"
+        },
+        {
+          "startTimeMs": "137040",
+          "words": "No matter where you are, you can see the light"
+        },
+        {
+          "startTimeMs": "141290",
+          "words": "Stay close to the people who feel like sunshine"
+        },
+        {
+          "startTimeMs": "151540",
+          "words": "I can feel it now, and it's all around"
+        },
+        {
+          "startTimeMs": "156420",
+          "words": "Close to the people who feel like sunshine"
+        },
+        {
+          "startTimeMs": "163590",
+          "words": "When you're lost, feeling low, let you know you're alright"
+        },
+        {
+          "startTimeMs": "167550",
+          "words": "(Know that you're all right)"
+        },
+        {
+          "startTimeMs": "170420",
+          "words": "Shining like a star on the darkest night"
+        },
+        {
+          "startTimeMs": "173720",
+          "words": "No matter where you are, you can see the light"
+        },
+        {
+          "startTimeMs": "178240",
+          "words": "Stay close to the people who feel like sunshine"
+        },
+        {
+          "startTimeMs": "185480",
+          "words": "Stay close to the people who feel like sunshine"
+        }
+      ]
+    }
+  }
+}

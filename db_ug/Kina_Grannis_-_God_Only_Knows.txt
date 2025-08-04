@@ -1,0 +1,9 @@
+{
+  "track_id": "1YnLthg0HOs8YTzgN5hVh2",
+  "track_name": "God Only Knows",
+  "artist_name": "Kina Grannis",
+  "timestamp": "2025-03-23 21:40:51",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/imaginary-future/god-only-knows-chords-2397141",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>GOD ONLY KNOWS CHORDS by Imaginary Future  &amp; Kina Grannis @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Kina Grannis and Imaginary Future Cover: Beach Boys - God Only Knows / Bbdim7 X-1-2-0-2-X D/F# 2-0-0-2-3-x / [Verse 1] / C Am Em I may not always love you G D "
+}

@@ -1,0 +1,165 @@
+{
+  "track_id": "0xLc8o749G1NoLfZIKzvsl",
+  "track_name": "I'm On My Way",
+  "artist_name": "Richard Price",
+  "timestamp": "2025-03-21 20:22:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11570",
+          "words": "If I lift my head"
+        },
+        {
+          "startTimeMs": "16450",
+          "words": "From the bed of stars, the ocean wide"
+        },
+        {
+          "startTimeMs": "22260",
+          "words": "If I call your name out"
+        },
+        {
+          "startTimeMs": "27500",
+          "words": "Would you carry me on inside"
+        },
+        {
+          "startTimeMs": "38270",
+          "words": "If I close my eyes"
+        },
+        {
+          "startTimeMs": "42830",
+          "words": "Let me put my face in the hot sand"
+        },
+        {
+          "startTimeMs": "48900",
+          "words": "Could you raise your voice up"
+        },
+        {
+          "startTimeMs": "53470",
+          "words": "Feeling that hope"
+        },
+        {
+          "startTimeMs": "56050",
+          "words": "Together with mine, yeah"
+        },
+        {
+          "startTimeMs": "62120",
+          "words": "But I'm on my way"
+        },
+        {
+          "startTimeMs": "67400",
+          "words": "Yes I'm on my way"
+        },
+        {
+          "startTimeMs": "72750",
+          "words": "I said I'm on my way"
+        },
+        {
+          "startTimeMs": "78110",
+          "words": "But I'm on my way"
+        },
+        {
+          "startTimeMs": "94270",
+          "words": "Yeah"
+        },
+        {
+          "startTimeMs": "94270",
+          "words": "If I'm on my way now"
+        },
+        {
+          "startTimeMs": "98560",
+          "words": "I'm better for it all cause I'm moving on"
+        },
+        {
+          "startTimeMs": "104580",
+          "words": "And whether they might say"
+        },
+        {
+          "startTimeMs": "110290",
+          "words": "After all you can see"
+        },
+        {
+          "startTimeMs": "114470",
+          "words": "Yeah you can see"
+        },
+        {
+          "startTimeMs": "116500",
+          "words": "I'm gone"
+        },
+        {
+          "startTimeMs": "118130",
+          "words": "But I'm on my way"
+        },
+        {
+          "startTimeMs": "123410",
+          "words": "Yes I'm on my way"
+        },
+        {
+          "startTimeMs": "128720",
+          "words": "Said I'm on my way, yeah"
+        },
+        {
+          "startTimeMs": "134080",
+          "words": "Said I'm on my way,"
+        },
+        {
+          "startTimeMs": "138700",
+          "words": "I'll never find my way back here from anywhere"
+        },
+        {
+          "startTimeMs": "143850",
+          "words": "I'll never find my way back here from anywhere"
+        },
+        {
+          "startTimeMs": "149150",
+          "words": "I'll never find my way back here from anywhere"
+        },
+        {
+          "startTimeMs": "154550",
+          "words": "I'll never find my way back here from anywhere"
+        },
+        {
+          "startTimeMs": "160850",
+          "words": "But I'm on my way"
+        },
+        {
+          "startTimeMs": "166080",
+          "words": "I said I'm on my way"
+        },
+        {
+          "startTimeMs": "170920",
+          "words": "Yes I'm on my way"
+        },
+        {
+          "startTimeMs": "174020",
+          "words": "I'm on my way"
+        },
+        {
+          "startTimeMs": "176030",
+          "words": "Said I'm on my way"
+        },
+        {
+          "startTimeMs": "181480",
+          "words": "Yes I'm on my way"
+        },
+        {
+          "startTimeMs": "183230",
+          "words": "I'm on my way"
+        },
+        {
+          "startTimeMs": "186700",
+          "words": "Said I'm on my way"
+        },
+        {
+          "startTimeMs": "189820",
+          "words": "Yeah"
+        },
+        {
+          "startTimeMs": "192330",
+          "words": "But I'm on my way"
+        }
+      ]
+    }
+  }
+}

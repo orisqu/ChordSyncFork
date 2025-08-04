@@ -1,0 +1,173 @@
+{
+  "track_id": "2DNXgvkyv35vTWvdgjs7qn",
+  "track_name": "Someone New",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-23 18:53:44",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "21440",
+          "words": "Don't take this the wrong way"
+        },
+        {
+          "startTimeMs": "25340",
+          "words": "You knew who I was with every step that I ran to you"
+        },
+        {
+          "startTimeMs": "31540",
+          "words": "Only blue or black days"
+        },
+        {
+          "startTimeMs": "36740",
+          "words": "Electing strange perfections in any stranger I choose"
+        },
+        {
+          "startTimeMs": "43080",
+          "words": "Would things be easier if there was a right way?"
+        },
+        {
+          "startTimeMs": "47540",
+          "words": "Honey there is no right way"
+        },
+        {
+          "startTimeMs": "51410",
+          "words": "And so I fall in love just a little ol' little bit"
+        },
+        {
+          "startTimeMs": "54970",
+          "words": "Every day with someone new"
+        },
+        {
+          "startTimeMs": "57220",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "62220",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "67750",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "73260",
+          "words": "There's an art to life's distractions"
+        },
+        {
+          "startTimeMs": "78070",
+          "words": "To somehow escapes the burning weight, the art of scraping through"
+        },
+        {
+          "startTimeMs": "83890",
+          "words": "Some like to imagine"
+        },
+        {
+          "startTimeMs": "88380",
+          "words": "The dark caress of someone else, I guess any thrill will do"
+        },
+        {
+          "startTimeMs": "95220",
+          "words": "Would things be easier if there was a right way?"
+        },
+        {
+          "startTimeMs": "99720",
+          "words": "Honey there is no right way"
+        },
+        {
+          "startTimeMs": "103580",
+          "words": "And so I fall in love just a little ol' little bit"
+        },
+        {
+          "startTimeMs": "106980",
+          "words": "Every day with someone new"
+        },
+        {
+          "startTimeMs": "109400",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "114600",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "119860",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "125030",
+          "words": "I wake at the first crink of morning"
+        },
+        {
+          "startTimeMs": "130970",
+          "words": "And my heart's already sinned"
+        },
+        {
+          "startTimeMs": "135220",
+          "words": "How pure, how sweet a love, Aretha, that you would pray for him?"
+        },
+        {
+          "startTimeMs": "144550",
+          "words": "'Cause God knows I fall in love just a little ol' little bit"
+        },
+        {
+          "startTimeMs": "148950",
+          "words": "Every day with someone new"
+        },
+        {
+          "startTimeMs": "151180",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "156170",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "161660",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "166670",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "171960",
+          "words": "I fall in love just a little ol' little bit every day"
+        },
+        {
+          "startTimeMs": "178220",
+          "words": "Love with every stranger the stranger the better"
+        },
+        {
+          "startTimeMs": "183410",
+          "words": "Love with every stranger the stranger the better"
+        },
+        {
+          "startTimeMs": "188550",
+          "words": "Love with every stranger the stranger the better"
+        },
+        {
+          "startTimeMs": "193840",
+          "words": "Love with every stranger the stranger the better"
+        },
+        {
+          "startTimeMs": "197980",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "203150",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "208390",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        },
+        {
+          "startTimeMs": "213820",
+          "words": "I fall in love just a little ol' little bit every day with someone new"
+        }
+      ]
+    }
+  }
+}

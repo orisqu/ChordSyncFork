@@ -1,0 +1,165 @@
+{
+  "track_id": "0iA3xXSkSCiJywKyo1UKjQ",
+  "track_name": "Louie Louie",
+  "artist_name": "The Kingsmen",
+  "timestamp": "2025-03-23 15:32:07",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "8640",
+          "words": "Louie, Louie"
+        },
+        {
+          "startTimeMs": "10990",
+          "words": "Oh, no, you take me where ya gotta go"
+        },
+        {
+          "startTimeMs": "14840",
+          "words": "Yeah, yeah, yeah, yeah, yeah, baby"
+        },
+        {
+          "startTimeMs": "16610",
+          "words": "Louie, Louie"
+        },
+        {
+          "startTimeMs": "18700",
+          "words": "Oh, baby, take me where ya gotta go"
+        },
+        {
+          "startTimeMs": "24450",
+          "words": "A fine little girl, she waits for me"
+        },
+        {
+          "startTimeMs": "28120",
+          "words": "Me catch the ship across the sea"
+        },
+        {
+          "startTimeMs": "32120",
+          "words": "Me sailed that ship all alone"
+        },
+        {
+          "startTimeMs": "36040",
+          "words": "Me never think I'll make it home"
+        },
+        {
+          "startTimeMs": "39880",
+          "words": "Oh, Louie, Louie"
+        },
+        {
+          "startTimeMs": "41940",
+          "words": "Oh, no, no, no, take me where ya gotta go"
+        },
+        {
+          "startTimeMs": "46180",
+          "words": "Oh, no"
+        },
+        {
+          "startTimeMs": "47940",
+          "words": "Louie, Louie"
+        },
+        {
+          "startTimeMs": "49840",
+          "words": "Oh, baby, take me where ya gotta go"
+        },
+        {
+          "startTimeMs": "54290",
+          "words": "(Fuck!)"
+        },
+        {
+          "startTimeMs": "55590",
+          "words": "Three nights and days I sailed the sea"
+        },
+        {
+          "startTimeMs": "59450",
+          "words": "Me think of girl constantly"
+        },
+        {
+          "startTimeMs": "63440",
+          "words": "On that ship, I dream she there"
+        },
+        {
+          "startTimeMs": "67310",
+          "words": "I smell the rose in her hair"
+        },
+        {
+          "startTimeMs": "71130",
+          "words": "Louie, Louie"
+        },
+        {
+          "startTimeMs": "73260",
+          "words": "Oh, no, me gotta go"
+        },
+        {
+          "startTimeMs": "77150",
+          "words": "Yeah, yeah, yeah, yeah, yeah, baby"
+        },
+        {
+          "startTimeMs": "79250",
+          "words": "Louie, Louie"
+        },
+        {
+          "startTimeMs": "81210",
+          "words": "Oh, baby, me gotta go"
+        },
+        {
+          "startTimeMs": "85160",
+          "words": "Okay, let's give it to 'em, right now"
+        },
+        {
+          "startTimeMs": "117400",
+          "words": "Me see"
+        },
+        {
+          "startTimeMs": "121590",
+          "words": "Me see Jamaica, the moon above"
+        },
+        {
+          "startTimeMs": "125360",
+          "words": "It won't be long me see me love"
+        },
+        {
+          "startTimeMs": "129480",
+          "words": "Me take her in my arms and then"
+        },
+        {
+          "startTimeMs": "133170",
+          "words": "I tell her I'll never leave again"
+        },
+        {
+          "startTimeMs": "137120",
+          "words": "Oh, Louie, Louie"
+        },
+        {
+          "startTimeMs": "139420",
+          "words": "Oh, no, me gotta go"
+        },
+        {
+          "startTimeMs": "143370",
+          "words": "Yeah, yeah, yeah, yeah, yeah, baby"
+        },
+        {
+          "startTimeMs": "145460",
+          "words": "Louie, Louie"
+        },
+        {
+          "startTimeMs": "147250",
+          "words": "Oh, baby, me gotta go"
+        },
+        {
+          "startTimeMs": "152760",
+          "words": "I said me gotta go now"
+        },
+        {
+          "startTimeMs": "156620",
+          "words": "Let's hustle on out of here"
+        },
+        {
+          "startTimeMs": "160560",
+          "words": "Let's go!"
+        }
+      ]
+    }
+  }
+}

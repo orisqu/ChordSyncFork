@@ -1,0 +1,9 @@
+{
+  "track_id": "1a4YRgItMM4aGilIg99elY",
+  "track_name": "Peggy Sue - Single Version",
+  "artist_name": "Buddy Holly",
+  "timestamp": "2025-03-23 15:48:32",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/buddy-holly/peggy-sue-got-married-chords-202038",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>PEGGY SUE GOT MARRIED CHORDS by Buddy Holly @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Https://www.youtube.com/watch?v=wN5IMsy2glY / chords for the original (undubbed) recording.\">\n<meta name=\"keywords\" content=\"Buddy Holly - Peggy Sue Got Married (Chords), Chords"
+}

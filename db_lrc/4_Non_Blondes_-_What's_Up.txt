@@ -1,0 +1,213 @@
+{
+  "track_id": "0jWgAnTrNZmOGmqgvHhZEm",
+  "track_name": "What's Up?",
+  "artist_name": "4 Non Blondes",
+  "timestamp": "2025-03-24 17:09:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "30180",
+          "words": "25 years and my life is still"
+        },
+        {
+          "startTimeMs": "33220",
+          "words": "Trying to get up that great big hill of hope"
+        },
+        {
+          "startTimeMs": "39040",
+          "words": "For a destination"
+        },
+        {
+          "startTimeMs": "43920",
+          "words": "I realized quickly when I knew I should"
+        },
+        {
+          "startTimeMs": "46810",
+          "words": "That the world was made up of this brotherhood of man"
+        },
+        {
+          "startTimeMs": "53460",
+          "words": "For whatever that means"
+        },
+        {
+          "startTimeMs": "57560",
+          "words": "And so I cry sometimes"
+        },
+        {
+          "startTimeMs": "59750",
+          "words": "When I'm lying in bed just to get it all out"
+        },
+        {
+          "startTimeMs": "63110",
+          "words": "What's in my head"
+        },
+        {
+          "startTimeMs": "64970",
+          "words": "And I, I am feeling a little peculiar"
+        },
+        {
+          "startTimeMs": "72020",
+          "words": "And so I wake in the morning"
+        },
+        {
+          "startTimeMs": "74090",
+          "words": "And I step outside"
+        },
+        {
+          "startTimeMs": "75740",
+          "words": "And I take a deep breath and I get real high"
+        },
+        {
+          "startTimeMs": "79220",
+          "words": "And I scream from the top of my lungs"
+        },
+        {
+          "startTimeMs": "82170",
+          "words": "What's going on?"
+        },
+        {
+          "startTimeMs": "85790",
+          "words": "And I say, hey yeah yeah-eh-eh, hey yeah yeah"
+        },
+        {
+          "startTimeMs": "93400",
+          "words": "I said hey, what's going on?"
+        },
+        {
+          "startTimeMs": "99810",
+          "words": "And I say, hey yeah yeah-eh-eh, hey yeah yeah"
+        },
+        {
+          "startTimeMs": "107620",
+          "words": "I said hey, what's going on?"
+        },
+        {
+          "startTimeMs": "115720",
+          "words": "Ooh, ooh ooh, hoo, hoo, hoo, hoo"
+        },
+        {
+          "startTimeMs": "122800",
+          "words": "Ooh, ooh ooh, hoo, hoo, hoo, hoo"
+        },
+        {
+          "startTimeMs": "130090",
+          "words": "Ooh, ooh ooh, hoo, hoo, hoo, hoo"
+        },
+        {
+          "startTimeMs": "137360",
+          "words": "Ooh, ooh ooh, hoo, hoo, hoo, hoo"
+        },
+        {
+          "startTimeMs": "143170",
+          "words": "And I try, oh my god do I try!"
+        },
+        {
+          "startTimeMs": "149040",
+          "words": "I try all the time, in this institution"
+        },
+        {
+          "startTimeMs": "157410",
+          "words": "And I pray, oh my god do I pray!"
+        },
+        {
+          "startTimeMs": "163270",
+          "words": "I pray every single day"
+        },
+        {
+          "startTimeMs": "167510",
+          "words": "For revolution"
+        },
+        {
+          "startTimeMs": "171720",
+          "words": "And so I cry sometimes"
+        },
+        {
+          "startTimeMs": "173840",
+          "words": "When I'm lying in bed just to get it all out"
+        },
+        {
+          "startTimeMs": "177240",
+          "words": "What's in my head"
+        },
+        {
+          "startTimeMs": "178810",
+          "words": "And I, I am feeling a little peculiar"
+        },
+        {
+          "startTimeMs": "186050",
+          "words": "And so I wake in the morning"
+        },
+        {
+          "startTimeMs": "187980",
+          "words": "And I step outside"
+        },
+        {
+          "startTimeMs": "189630",
+          "words": "And I take a deep breath and I get real high"
+        },
+        {
+          "startTimeMs": "193060",
+          "words": "And I scream from the top of my lungs"
+        },
+        {
+          "startTimeMs": "195850",
+          "words": "What's going on?"
+        },
+        {
+          "startTimeMs": "199490",
+          "words": "And I say, hey yeah yeah-eh-eh, hey yeah yeah"
+        },
+        {
+          "startTimeMs": "207020",
+          "words": "I said hey, what's going on?"
+        },
+        {
+          "startTimeMs": "213560",
+          "words": "And I say, hey yeah yeah-eh-eh, hey yeah yeah"
+        },
+        {
+          "startTimeMs": "221270",
+          "words": "I said hey, what's going on?"
+        },
+        {
+          "startTimeMs": "227750",
+          "words": "And I say, hey yeah yeah-eh-eh, hey yeah yeah"
+        },
+        {
+          "startTimeMs": "235360",
+          "words": "I said hey, what's going on?"
+        },
+        {
+          "startTimeMs": "241700",
+          "words": "And I say, hey yeah yeah-eh-eh, hey yeah yeah-yeah-yeah"
+        },
+        {
+          "startTimeMs": "249570",
+          "words": "I said hey, what's going on?"
+        },
+        {
+          "startTimeMs": "257630",
+          "words": "Ooh, ooh ooh, hoo, hoo, hoo, hoo"
+        },
+        {
+          "startTimeMs": "264900",
+          "words": "Ooh, ooh ooh, hoo, hoo, hoo, hoo"
+        },
+        {
+          "startTimeMs": "272770",
+          "words": "25 years and my life is still"
+        },
+        {
+          "startTimeMs": "276660",
+          "words": "Trying to get up that great big hill of hope"
+        },
+        {
+          "startTimeMs": "283230",
+          "words": "For a destination"
+        }
+      ]
+    }
+  }
+}

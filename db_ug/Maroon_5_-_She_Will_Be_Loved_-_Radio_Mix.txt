@@ -1,0 +1,9 @@
+{
+  "track_id": "4llK75pXNWZz6KAho2Gp16",
+  "track_name": "She Will Be Loved - Radio Mix",
+  "artist_name": "Maroon 5",
+  "timestamp": "2025-03-21 23:33:34",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/maroon-5/she-will-be-loved-chords-1091810",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SHE WILL BE LOVED CHORDS (ver 4) by Maroon 5 @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Maroon 5 - She will be loved Tabbed by Tobytab / Tuning: standard capo 1st fret Chords: Bm : 224432 A : 002220 D : 000232 G : 355433 This is my first tab. so feedback is welcom"
+}

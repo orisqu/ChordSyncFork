@@ -1,0 +1,9 @@
+{
+  "track_id": "3i6qNxyVgIdUZTTi5m25EM",
+  "track_name": "Bitch",
+  "artist_name": "Meredith Brooks",
+  "timestamp": "2025-03-21 23:23:00",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/meredith-brooks/bitch-chords-185975",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BITCH CHORDS (ver 2) by Meredith Brooks @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] A E* D x2 [Verse 1] A I hate the world today E* D A You&#039;re so good to me, I know but I can&#039;t change E* D F#m Tried to tell you but you look at me like maybe Bm D I"
+}

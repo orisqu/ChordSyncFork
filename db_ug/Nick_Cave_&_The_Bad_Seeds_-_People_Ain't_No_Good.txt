@@ -1,0 +1,9 @@
+{
+  "track_id": "4qiGWygYcajMZGdVFJm5oc",
+  "track_name": "People Ain't No Good",
+  "artist_name": "Nick Cave & The Bad Seeds",
+  "timestamp": "2025-03-21 20:39:22",
+  "source_link": "https://www.google.de/search?q=Nick Cave & The Bad Seeds people ain't no good chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

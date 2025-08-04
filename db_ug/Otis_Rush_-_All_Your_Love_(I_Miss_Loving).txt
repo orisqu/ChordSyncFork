@@ -1,0 +1,9 @@
+{
+  "track_id": "46UVOp5pnAasev0rak9ta7",
+  "track_name": "All Your Love (I Miss Loving)",
+  "artist_name": "Otis Rush",
+  "timestamp": "2025-03-23 15:43:20",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/otis-rush/all-your-love-i-miss-loving-chords-1993851",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>ALL YOUR LOVE I MISS LOVING CHORDS by Otis Rush @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"From John Mayall&#039;s Bluesbreakers With Eric Clapton / [Intro] Am Dm Am Em Dm Am / [Verse 1] Am All the lovin&#039;est lov-in&#039;, all the kissin&#039;est kissin&#039;,"
+}

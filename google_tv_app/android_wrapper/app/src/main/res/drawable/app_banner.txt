@@ -1,0 +1,10 @@
+ChordSync TV App Banner
+
+This is a placeholder for the app banner. The actual banner should be a PNG file named app_banner.png with the following specifications:
+
+- Size: 1280x720 pixels
+- Background: Dark gray (#121212)
+- Foreground: Spotify green (#1DB954) guitar/music note design
+- Text: "ChordSync TV" in large white text
+
+The banner is displayed on the Google TV home screen and should be visually appealing and recognizable from a distance.

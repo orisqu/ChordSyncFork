@@ -1,0 +1,9 @@
+{
+  "track_id": "3YeBXUEWIjCtcsv0tULpz8",
+  "track_name": "Devil in a Dress",
+  "artist_name": "Teddy Swims",
+  "timestamp": "2025-03-23 15:13:50",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/teddy-swims/devil-in-a-dress-chords-4404428",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>DEVIL IN A DRESS CHORDS by Teddy Swims @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] Am F If you leave me God rest my soul Dm If you stay here E I&#039;m no better off Am F Bury me six feet down below Dm E And I&#039;ll be smiling, when I go [Pre-Chorus] F "
+}

@@ -1,0 +1,189 @@
+{
+  "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
+  "track_name": "Ordinary",
+  "artist_name": "Alex Warren",
+  "timestamp": "2025-05-07 11:57:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9150",
+          "words": "They say, \"The holy water's watered down"
+        },
+        {
+          "startTimeMs": "11590",
+          "words": "And this town's lost its faith"
+        },
+        {
+          "startTimeMs": "14020",
+          "words": "Our colors will fade eventually\""
+        },
+        {
+          "startTimeMs": "17280",
+          "words": "So if our time is runnin' out"
+        },
+        {
+          "startTimeMs": "20630",
+          "words": "Day after day"
+        },
+        {
+          "startTimeMs": "22680",
+          "words": "We'll make the mundane our masterpiece"
+        },
+        {
+          "startTimeMs": "26250",
+          "words": "Oh my, my"
+        },
+        {
+          "startTimeMs": "28830",
+          "words": "Oh my, my love"
+        },
+        {
+          "startTimeMs": "32170",
+          "words": "I take one look at you"
+        },
+        {
+          "startTimeMs": "33970",
+          "words": "You're takin' me out of the ordinary"
+        },
+        {
+          "startTimeMs": "37750",
+          "words": "I want you layin' me down 'til we're dead and buried"
+        },
+        {
+          "startTimeMs": "41960",
+          "words": "On the edge of your knife, stayin' drunk on your vine"
+        },
+        {
+          "startTimeMs": "46960",
+          "words": "The angels up in the clouds are jealous, knowin' we found"
+        },
+        {
+          "startTimeMs": "51050",
+          "words": "Somethin' so out of the ordinary"
+        },
+        {
+          "startTimeMs": "54760",
+          "words": "You got me kissin' the ground of your sanctuary"
+        },
+        {
+          "startTimeMs": "59020",
+          "words": "Shatter me with your touch, oh Lord, return me to dust"
+        },
+        {
+          "startTimeMs": "64400",
+          "words": "The angels up in the clouds are jealous, knowin' we found"
+        },
+        {
+          "startTimeMs": "70030",
+          "words": "Hopeless hallelujah"
+        },
+        {
+          "startTimeMs": "73950",
+          "words": "On this side of Heaven's gate"
+        },
+        {
+          "startTimeMs": "78340",
+          "words": "Oh, my life, how do ya"
+        },
+        {
+          "startTimeMs": "82680",
+          "words": "Breathe and take my breath away?"
+        },
+        {
+          "startTimeMs": "87830",
+          "words": "At your altar, I will pray"
+        },
+        {
+          "startTimeMs": "89820",
+          "words": "You're the sculptor, I'm the clay"
+        },
+        {
+          "startTimeMs": "92840",
+          "words": "Oh my, my"
+        },
+        {
+          "startTimeMs": "94000",
+          "words": "You're takin' me out of the ordinary"
+        },
+        {
+          "startTimeMs": "97780",
+          "words": "I want you layin' me down 'til we're dead and buried"
+        },
+        {
+          "startTimeMs": "101870",
+          "words": "On the edge of your knife, stayin' drunk on your vine"
+        },
+        {
+          "startTimeMs": "107220",
+          "words": "The angels up in the clouds are jealous, knowin' we found"
+        },
+        {
+          "startTimeMs": "111130",
+          "words": "Somethin' so out (out) of the ordinary (ordinary)"
+        },
+        {
+          "startTimeMs": "114920",
+          "words": "You got me kissin' the ground (ground) of your sanctuary (sanctuary)"
+        },
+        {
+          "startTimeMs": "118910",
+          "words": "Shatter me with your touch, oh Lord, return me to dust"
+        },
+        {
+          "startTimeMs": "124490",
+          "words": "The angels up in the clouds are jealous, knowin' we found"
+        },
+        {
+          "startTimeMs": "129110",
+          "words": "Somethin' so heavenly, higher than ecstasy"
+        },
+        {
+          "startTimeMs": "133630",
+          "words": "Whenever you're next to me, oh my, my"
+        },
+        {
+          "startTimeMs": "138070",
+          "words": "World was in black and white until I saw your light"
+        },
+        {
+          "startTimeMs": "142350",
+          "words": "I thought you had to die to find"
+        },
+        {
+          "startTimeMs": "145430",
+          "words": "Somethin' so out of the ordinary"
+        },
+        {
+          "startTimeMs": "149320",
+          "words": "I want you layin' me down 'til we're dead and buried"
+        },
+        {
+          "startTimeMs": "153490",
+          "words": "On the edge of your knife, stayin' drunk on your vine"
+        },
+        {
+          "startTimeMs": "158690",
+          "words": "The angels up in the clouds are jealous, knowin' we found"
+        },
+        {
+          "startTimeMs": "162500",
+          "words": "Somethin' so out (out) of the ordinary"
+        },
+        {
+          "startTimeMs": "166430",
+          "words": "You got me kissin' the ground (ground) of your sanctuary (sanctuary)"
+        },
+        {
+          "startTimeMs": "170660",
+          "words": "Shatter me with your touch, oh Lord, return me to dust"
+        },
+        {
+          "startTimeMs": "175760",
+          "words": "The angels up in the clouds are jealous, knowin' we found"
+        }
+      ]
+    }
+  }
+}

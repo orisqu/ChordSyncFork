@@ -1,0 +1,237 @@
+{
+  "track_id": "3dj4wgM3cPeuLwMNHDuBon",
+  "track_name": "The Door",
+  "artist_name": "Teddy Swims",
+  "timestamp": "2025-05-07 11:46:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16150",
+          "words": "I took a page out your, favourite book"
+        },
+        {
+          "startTimeMs": "19650",
+          "words": "You sold me lies just by the, way you look"
+        },
+        {
+          "startTimeMs": "23690",
+          "words": "Taught me a language that I, never speak"
+        },
+        {
+          "startTimeMs": "26750",
+          "words": "Baby that ain't for me"
+        },
+        {
+          "startTimeMs": "28320",
+          "words": "That, that ain't for me"
+        },
+        {
+          "startTimeMs": "31070",
+          "words": "I dug my grave watching, the way you move"
+        },
+        {
+          "startTimeMs": "35020",
+          "words": "You took me higher, than I ever flew"
+        },
+        {
+          "startTimeMs": "38530",
+          "words": "Too many times, gave you a second chance"
+        },
+        {
+          "startTimeMs": "41740",
+          "words": "Baby I'm just a man"
+        },
+        {
+          "startTimeMs": "43360",
+          "words": "I'm, I'm just a man"
+        },
+        {
+          "startTimeMs": "45770",
+          "words": "No, not thinking about you late night"
+        },
+        {
+          "startTimeMs": "49500",
+          "words": "Don't, go running around with your friends now"
+        },
+        {
+          "startTimeMs": "54080",
+          "words": "Picking up pieces of my soul off up the floor"
+        },
+        {
+          "startTimeMs": "61330",
+          "words": "I said I'd die for you baby"
+        },
+        {
+          "startTimeMs": "64820",
+          "words": "But I can't take this pain no more"
+        },
+        {
+          "startTimeMs": "68590",
+          "words": "I thought I was willing"
+        },
+        {
+          "startTimeMs": "70990",
+          "words": "But tonight I save my life"
+        },
+        {
+          "startTimeMs": "73810",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "76500",
+          "words": "I don't want to lose you baby"
+        },
+        {
+          "startTimeMs": "80260",
+          "words": "But I can't take this game no more"
+        },
+        {
+          "startTimeMs": "83740",
+          "words": "I thought it'd kill me"
+        },
+        {
+          "startTimeMs": "86360",
+          "words": "But tonight I saved my life"
+        },
+        {
+          "startTimeMs": "89020",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "90950",
+          "words": "You never thought this day"
+        },
+        {
+          "startTimeMs": "92350",
+          "words": "Would ever come"
+        },
+        {
+          "startTimeMs": "94780",
+          "words": "But I looked you in the eyes"
+        },
+        {
+          "startTimeMs": "96070",
+          "words": "And pulled the rug"
+        },
+        {
+          "startTimeMs": "98460",
+          "words": "You tried to take away my sanity"
+        },
+        {
+          "startTimeMs": "101780",
+          "words": "Baby that ain't for me"
+        },
+        {
+          "startTimeMs": "103060",
+          "words": "That, that ain't for me"
+        },
+        {
+          "startTimeMs": "105220",
+          "words": "Oh No, not thinking about you late night"
+        },
+        {
+          "startTimeMs": "109320",
+          "words": "Don't, go running around with your friends now"
+        },
+        {
+          "startTimeMs": "113650",
+          "words": "I'm picking up pieces of my soul from out the floor"
+        },
+        {
+          "startTimeMs": "121350",
+          "words": "I said I'd die for you baby"
+        },
+        {
+          "startTimeMs": "124990",
+          "words": "But I can't take this pain no more"
+        },
+        {
+          "startTimeMs": "128660",
+          "words": "I thought I was willing"
+        },
+        {
+          "startTimeMs": "131100",
+          "words": "But tonight I saved my life"
+        },
+        {
+          "startTimeMs": "133920",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "136480",
+          "words": "I don't want to lose you baby"
+        },
+        {
+          "startTimeMs": "140240",
+          "words": "But I can't play this game no more"
+        },
+        {
+          "startTimeMs": "143890",
+          "words": "I thought it'd kill me"
+        },
+        {
+          "startTimeMs": "145950",
+          "words": "But tonight I saved my life"
+        },
+        {
+          "startTimeMs": "148940",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "152770",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "156680",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "161160",
+          "words": "But tonight I saved my life"
+        },
+        {
+          "startTimeMs": "166570",
+          "words": "I said I'd die for you baby"
+        },
+        {
+          "startTimeMs": "170060",
+          "words": "But I can't take this pain no more"
+        },
+        {
+          "startTimeMs": "173850",
+          "words": "I thought I was willing"
+        },
+        {
+          "startTimeMs": "176060",
+          "words": "But tonight I saved my life"
+        },
+        {
+          "startTimeMs": "178620",
+          "words": "When I showed you the door"
+        },
+        {
+          "startTimeMs": "181500",
+          "words": "I don't want to lose you baby (I don't want to lose you baby)"
+        },
+        {
+          "startTimeMs": "185230",
+          "words": "But I can't take this game no more"
+        },
+        {
+          "startTimeMs": "189060",
+          "words": "I thought it'd kill me (I thought it'd kill me)"
+        },
+        {
+          "startTimeMs": "191140",
+          "words": "But tonight I saved my life"
+        },
+        {
+          "startTimeMs": "193880",
+          "words": "When I showed you the door"
+        }
+      ]
+    }
+  }
+}

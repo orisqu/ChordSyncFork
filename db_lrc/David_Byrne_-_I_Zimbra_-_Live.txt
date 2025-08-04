@@ -1,0 +1,61 @@
+{
+  "track_id": "37iAQcORJZWkvee2K5IzKj",
+  "track_name": "I Zimbra - Live",
+  "artist_name": "David Byrne",
+  "timestamp": "2025-03-21 23:02:13",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "29250",
+          "words": "Gadji beri bimba clandridi"
+        },
+        {
+          "startTimeMs": "33610",
+          "words": "Lauli lonni cadori gadjam"
+        },
+        {
+          "startTimeMs": "37910",
+          "words": "A bim beri glassala glandride"
+        },
+        {
+          "startTimeMs": "42320",
+          "words": "E glassala tuffm i zimbra"
+        },
+        {
+          "startTimeMs": "54420",
+          "words": "Bim blassa galassasa zimbrabim"
+        },
+        {
+          "startTimeMs": "58740",
+          "words": "Blassa glallassasa zimbrabim"
+        },
+        {
+          "startTimeMs": "71390",
+          "words": "A bim beri glassala grandrid"
+        },
+        {
+          "startTimeMs": "75580",
+          "words": "E glassala tuffm i zimbra"
+        },
+        {
+          "startTimeMs": "129380",
+          "words": "Gadji beri bimba glandridi"
+        },
+        {
+          "startTimeMs": "133550",
+          "words": "Lauli lonni cadora gadjam"
+        },
+        {
+          "startTimeMs": "137710",
+          "words": "A bim beri glassasa glandrid"
+        },
+        {
+          "startTimeMs": "143030",
+          "words": "E glassala tuffm i zimbra"
+        }
+      ]
+    }
+  }
+}

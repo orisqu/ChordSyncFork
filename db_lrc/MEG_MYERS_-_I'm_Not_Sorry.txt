@@ -1,0 +1,417 @@
+{
+  "track_id": "2ZdHu0bwO6fMyjzumHnQFV",
+  "track_name": "I'm Not Sorry",
+  "artist_name": "MEG MYERS",
+  "timestamp": "2025-03-24 17:14:19",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "12020",
+          "words": "I don't really know how I got so far from me"
+        },
+        {
+          "startTimeMs": "18850",
+          "words": "It feels like we started at the end of a story"
+        },
+        {
+          "startTimeMs": "24450",
+          "words": "End of a story"
+        },
+        {
+          "startTimeMs": "25980",
+          "words": "End of a story"
+        },
+        {
+          "startTimeMs": "28870",
+          "words": "When we drove out from California"
+        },
+        {
+          "startTimeMs": "32960",
+          "words": "Wheels turning around my mind"
+        },
+        {
+          "startTimeMs": "35970",
+          "words": "Tell me, why are we still saying \"I'm sorry\""
+        },
+        {
+          "startTimeMs": "39560",
+          "words": "For the things that we left behind?"
+        },
+        {
+          "startTimeMs": "43120",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "44610",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "45350",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "46240",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "47080",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "47950",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "48790",
+          "words": "Stay with me"
+        },
+        {
+          "startTimeMs": "51020",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "51780",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "52530",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "53380",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "54150",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "56830",
+          "words": "We keep running in circles"
+        },
+        {
+          "startTimeMs": "60870",
+          "words": "Rising and falling"
+        },
+        {
+          "startTimeMs": "63970",
+          "words": "But I don't wanna stop now"
+        },
+        {
+          "startTimeMs": "67350",
+          "words": "No, I'm not sorry"
+        },
+        {
+          "startTimeMs": "69660",
+          "words": "I'm not sorry"
+        },
+        {
+          "startTimeMs": "71660",
+          "words": "I'm not sorry"
+        },
+        {
+          "startTimeMs": "74650",
+          "words": "When we drove out from California"
+        },
+        {
+          "startTimeMs": "78960",
+          "words": "Wheels turning around my mind"
+        },
+        {
+          "startTimeMs": "81820",
+          "words": "Tell me, why are we still saying \"I'm sorry\""
+        },
+        {
+          "startTimeMs": "85490",
+          "words": "For the things that we left behind?"
+        },
+        {
+          "startTimeMs": "89130",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "90150",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "91040",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "92080",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "92830",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "93720",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "94840",
+          "words": "Stay with me"
+        },
+        {
+          "startTimeMs": "97100",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "98180",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "98970",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "99920",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "100730",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "101620",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "102410",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "103390",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "104210",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "105130",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "105970",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "106850",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "107720",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "108820",
+          "words": "Stay with me"
+        },
+        {
+          "startTimeMs": "111280",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "112190",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "113000",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "114030",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "117260",
+          "words": "We keep running in circles"
+        },
+        {
+          "startTimeMs": "120960",
+          "words": "Rising and falling"
+        },
+        {
+          "startTimeMs": "124190",
+          "words": "But I don't wanna stop now"
+        },
+        {
+          "startTimeMs": "127520",
+          "words": "No, I'm not sorry"
+        },
+        {
+          "startTimeMs": "129780",
+          "words": "I'm not sorry"
+        },
+        {
+          "startTimeMs": "131690",
+          "words": "I'm not sorry"
+        },
+        {
+          "startTimeMs": "133670",
+          "words": "I'm not sorry"
+        },
+        {
+          "startTimeMs": "135430",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "136130",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "137040",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "137870",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "138750",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "139390",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "140280",
+          "words": "Stay with me"
+        },
+        {
+          "startTimeMs": "142940",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "143860",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "144700",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "145770",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "146580",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "147410",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "148270",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "149100",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "150050",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "150840",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "151750",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "152670",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "153570",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "154440",
+          "words": "Stay with me"
+        },
+        {
+          "startTimeMs": "157170",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "158070",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "158980",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "159730",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "160530",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "161480",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "162260",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "163020",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "164070",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "165020",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "165860",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "166700",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "167670",
+          "words": "Stay"
+        },
+        {
+          "startTimeMs": "168730",
+          "words": "Stay with me"
+        },
+        {
+          "startTimeMs": "171360",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "172260",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "173110",
+          "words": "Me"
+        },
+        {
+          "startTimeMs": "173990",
+          "words": "Me"
+        }
+      ]
+    }
+  }
+}

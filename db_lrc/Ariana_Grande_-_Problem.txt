@@ -1,0 +1,373 @@
+{
+  "track_id": "7vS3Y0IKjde7Xg85LWIEdP",
+  "track_name": "Problem",
+  "artist_name": "Ariana Grande",
+  "timestamp": "2025-04-07 17:23:39",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "2090",
+          "words": "Uh huh"
+        },
+        {
+          "startTimeMs": "4260",
+          "words": "It's Iggy Iggs"
+        },
+        {
+          "startTimeMs": "6860",
+          "words": "I got one more problem with you girl"
+        },
+        {
+          "startTimeMs": "8540",
+          "words": "(One less, one less problem)"
+        },
+        {
+          "startTimeMs": "10710",
+          "words": "Hey baby even though I hate ya"
+        },
+        {
+          "startTimeMs": "12370",
+          "words": "I wanna love ya"
+        },
+        {
+          "startTimeMs": "13510",
+          "words": "(I want you)"
+        },
+        {
+          "startTimeMs": "15220",
+          "words": "And even though I can't forgive you"
+        },
+        {
+          "startTimeMs": "16750",
+          "words": "I really want ya"
+        },
+        {
+          "startTimeMs": "18340",
+          "words": "(I want you)"
+        },
+        {
+          "startTimeMs": "20110",
+          "words": "Tell me, tell me baby"
+        },
+        {
+          "startTimeMs": "22950",
+          "words": "Why can't you leave me?"
+        },
+        {
+          "startTimeMs": "25080",
+          "words": "Cause even though I shouldn't want it"
+        },
+        {
+          "startTimeMs": "26730",
+          "words": "I gotta have it"
+        },
+        {
+          "startTimeMs": "27960",
+          "words": "(I want you)"
+        },
+        {
+          "startTimeMs": "29250",
+          "words": "Head in the clouds"
+        },
+        {
+          "startTimeMs": "31390",
+          "words": "Got no weight on my shoulders"
+        },
+        {
+          "startTimeMs": "34120",
+          "words": "I should be wiser"
+        },
+        {
+          "startTimeMs": "35660",
+          "words": "And realize that I've got"
+        },
+        {
+          "startTimeMs": "38670",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "40750",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "43160",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "45200",
+          "words": "I got one less, one less problem"
+        },
+        {
+          "startTimeMs": "48170",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "49830",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "52400",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "54770",
+          "words": "I got one less, one less problem"
+        },
+        {
+          "startTimeMs": "59250",
+          "words": "I know you're never gonna wake up"
+        },
+        {
+          "startTimeMs": "64120",
+          "words": "I gotta give up"
+        },
+        {
+          "startTimeMs": "65300",
+          "words": "(But it's you)"
+        },
+        {
+          "startTimeMs": "66650",
+          "words": "I know I shouldn't ever call back"
+        },
+        {
+          "startTimeMs": "68710",
+          "words": "Or let you come back"
+        },
+        {
+          "startTimeMs": "69970",
+          "words": "(But it's you)"
+        },
+        {
+          "startTimeMs": "71310",
+          "words": "Every time you touch me"
+        },
+        {
+          "startTimeMs": "73760",
+          "words": "And say you love me"
+        },
+        {
+          "startTimeMs": "76180",
+          "words": "I get a little bit breathless"
+        },
+        {
+          "startTimeMs": "78190",
+          "words": "I shouldn't want it"
+        },
+        {
+          "startTimeMs": "79080",
+          "words": "(But it's you)"
+        },
+        {
+          "startTimeMs": "80500",
+          "words": "Head in the clouds"
+        },
+        {
+          "startTimeMs": "82430",
+          "words": "Got no weight on my shoulders"
+        },
+        {
+          "startTimeMs": "85310",
+          "words": "I should be wiser"
+        },
+        {
+          "startTimeMs": "87410",
+          "words": "And realize that I've got"
+        },
+        {
+          "startTimeMs": "90080",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "92000",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "94450",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "96650",
+          "words": "I got one less, one less problem"
+        },
+        {
+          "startTimeMs": "99250",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "101650",
+          "words": "I got one less problem without ya (ooh, boy)"
+        },
+        {
+          "startTimeMs": "103880",
+          "words": "I got one less problem without ya (ooh)"
+        },
+        {
+          "startTimeMs": "106220",
+          "words": "I got one less, one less problem"
+        },
+        {
+          "startTimeMs": "108620",
+          "words": "It's Iggy Iggs"
+        },
+        {
+          "startTimeMs": "111930",
+          "words": "Uh, what you got?"
+        },
+        {
+          "startTimeMs": "113580",
+          "words": "Smart money bettin'"
+        },
+        {
+          "startTimeMs": "114530",
+          "words": "I'll be better off without you"
+        },
+        {
+          "startTimeMs": "115900",
+          "words": "In no time, I'll be forgettin' all about you"
+        },
+        {
+          "startTimeMs": "118220",
+          "words": "You saying that you know"
+        },
+        {
+          "startTimeMs": "119130",
+          "words": "But I really, really doubt you"
+        },
+        {
+          "startTimeMs": "120580",
+          "words": "Understand my life is easy when I ain't around you"
+        },
+        {
+          "startTimeMs": "122970",
+          "words": "Iggy Iggy"
+        },
+        {
+          "startTimeMs": "123750",
+          "words": "To biggie to be here stressin'"
+        },
+        {
+          "startTimeMs": "125090",
+          "words": "I'm thinkin' I love the thought of you"
+        },
+        {
+          "startTimeMs": "126630",
+          "words": "More than I love your presence"
+        },
+        {
+          "startTimeMs": "127670",
+          "words": "And the best thing now is probably for you to exit"
+        },
+        {
+          "startTimeMs": "129760",
+          "words": "I let you go, let you back"
+        },
+        {
+          "startTimeMs": "131050",
+          "words": "I finally learned my lesson"
+        },
+        {
+          "startTimeMs": "132030",
+          "words": "No half-steppin'"
+        },
+        {
+          "startTimeMs": "133160",
+          "words": "Either you want it, or you just playin'"
+        },
+        {
+          "startTimeMs": "134340",
+          "words": "I'm listening to you knowin'"
+        },
+        {
+          "startTimeMs": "135210",
+          "words": "I can't believe what you're sayin'"
+        },
+        {
+          "startTimeMs": "136160",
+          "words": "There's a million you's baby boo, so don't be dumb"
+        },
+        {
+          "startTimeMs": "138870",
+          "words": "I got 99 problems, but you won't be one"
+        },
+        {
+          "startTimeMs": "141220",
+          "words": "Like what"
+        },
+        {
+          "startTimeMs": "142980",
+          "words": "One less, one less problem"
+        },
+        {
+          "startTimeMs": "145850",
+          "words": "One less, one less problem"
+        },
+        {
+          "startTimeMs": "150610",
+          "words": "Head in the clouds"
+        },
+        {
+          "startTimeMs": "152630",
+          "words": "Got no weight on my shoulders"
+        },
+        {
+          "startTimeMs": "155310",
+          "words": "I should be wiser"
+        },
+        {
+          "startTimeMs": "157370",
+          "words": "And realize that I've got (I've got)"
+        },
+        {
+          "startTimeMs": "162090",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "164290",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "166890",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "169020",
+          "words": "I got one less, one less problem"
+        },
+        {
+          "startTimeMs": "171630",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "173880",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "176150",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "178340",
+          "words": "I got one less, one less problem"
+        },
+        {
+          "startTimeMs": "180700",
+          "words": "One less problem without ya"
+        },
+        {
+          "startTimeMs": "182990",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "185520",
+          "words": "I got one less problem without ya"
+        },
+        {
+          "startTimeMs": "187880",
+          "words": "I got one less, one less problem"
+        }
+      ]
+    }
+  }
+}

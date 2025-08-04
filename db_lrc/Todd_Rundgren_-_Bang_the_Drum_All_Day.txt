@@ -1,0 +1,209 @@
+{
+  "track_id": "54EvqHberbpzMu7nu8hs9S",
+  "track_name": "Bang the Drum All Day",
+  "artist_name": "Todd Rundgren",
+  "timestamp": "2025-03-21 23:05:15",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "21010",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "23550",
+          "words": "I want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "27440",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "30180",
+          "words": "I just want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "34850",
+          "words": "Ever since I was a tiny boy"
+        },
+        {
+          "startTimeMs": "36900",
+          "words": "I don't want no candy, I don't need no toy"
+        },
+        {
+          "startTimeMs": "41320",
+          "words": "I took a stick and an old coffee can"
+        },
+        {
+          "startTimeMs": "44490",
+          "words": "I bang on that thing 'til I got blisters on my hand"
+        },
+        {
+          "startTimeMs": "47230",
+          "words": "Because"
+        },
+        {
+          "startTimeMs": "48280",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "50450",
+          "words": "I want to bang on the drum all day (yes, I do)"
+        },
+        {
+          "startTimeMs": "54730",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "57080",
+          "words": "I just want to bang on the drum all day (that's right)"
+        },
+        {
+          "startTimeMs": "61470",
+          "words": "When I get older they think I'm a fool"
+        },
+        {
+          "startTimeMs": "64950",
+          "words": "The teacher told me I should stay after school"
+        },
+        {
+          "startTimeMs": "68260",
+          "words": "She caught me pounding on the desk with my hands"
+        },
+        {
+          "startTimeMs": "71070",
+          "words": "But my licks was so hot"
+        },
+        {
+          "startTimeMs": "72450",
+          "words": "I made the teacher wanna dance"
+        },
+        {
+          "startTimeMs": "74260",
+          "words": "And that's why"
+        },
+        {
+          "startTimeMs": "74630",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "77390",
+          "words": "I want to bang on the drum all day (hey, why not?)"
+        },
+        {
+          "startTimeMs": "81830",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "83860",
+          "words": "I just want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "128450",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "130880",
+          "words": "I want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "134340",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "137620",
+          "words": "I just want to bang on the drum all day (listen to this)"
+        },
+        {
+          "startTimeMs": "142200",
+          "words": "Every day when I get home from work"
+        },
+        {
+          "startTimeMs": "144920",
+          "words": "I feel so frustrated, the boss is a jerk"
+        },
+        {
+          "startTimeMs": "148160",
+          "words": "And I get my sticks and go out to the shed"
+        },
+        {
+          "startTimeMs": "151410",
+          "words": "And I pound on that drum like it was the boss's head, because I..."
+        },
+        {
+          "startTimeMs": "155290",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "157640",
+          "words": "I want to bang on the drum all day (hey, hey)"
+        },
+        {
+          "startTimeMs": "161920",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "164200",
+          "words": "I just want to bang on the drum all day (I can bang that drum)"
+        },
+        {
+          "startTimeMs": "168630",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "171030",
+          "words": "I want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "175360",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "177610",
+          "words": "I just want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "182030",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "184390",
+          "words": "I want to bang on the drum all day (hey, you wanna take a bang at it?)"
+        },
+        {
+          "startTimeMs": "188760",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "191040",
+          "words": "I just want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "195480",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "197800",
+          "words": "I want to bang on the drum all day"
+        },
+        {
+          "startTimeMs": "202200",
+          "words": "I don't want to play"
+        },
+        {
+          "startTimeMs": "204440",
+          "words": "I just want to bang on the drum all day (I can do this all day)"
+        },
+        {
+          "startTimeMs": "208880",
+          "words": "I don't want to work"
+        },
+        {
+          "startTimeMs": "211190",
+          "words": "I want to bang on the drum all day"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "track_id": "3Vqbj9yPHBTIRhTDJHPQMq",
+  "track_name": "Moanin'",
+  "artist_name": "Mingus Big Band",
+  "timestamp": "2025-04-07 17:10:44",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

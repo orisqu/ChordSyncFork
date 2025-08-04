@@ -1,0 +1,257 @@
+{
+  "track_id": "0HPD5WQqrq7wPWR7P7Dw1i",
+  "track_name": "TiK ToK",
+  "artist_name": "Kesha",
+  "timestamp": "2025-04-07 17:04:31",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "360",
+          "words": "Wake up in the morning feelin' like P. Diddy (hey, what up, girl?)"
+        },
+        {
+          "startTimeMs": "3640",
+          "words": "Grab my glasses, I'm out the door, I'm gonna hit this city (let's go)"
+        },
+        {
+          "startTimeMs": "7790",
+          "words": "Before I leave, brush my teeth with a bottle of Jack"
+        },
+        {
+          "startTimeMs": "11490",
+          "words": "'Cause when I leave for the night, I ain't coming back"
+        },
+        {
+          "startTimeMs": "15730",
+          "words": "I'm talking pedicure on our toes, toes"
+        },
+        {
+          "startTimeMs": "18100",
+          "words": "Trying on all our clothes, clothes"
+        },
+        {
+          "startTimeMs": "20260",
+          "words": "Boys blowing up our phones, phones"
+        },
+        {
+          "startTimeMs": "23590",
+          "words": "Drop-topping, playing our favorite CDs"
+        },
+        {
+          "startTimeMs": "26270",
+          "words": "Pulling up to the parties"
+        },
+        {
+          "startTimeMs": "28290",
+          "words": "Trying to get a little bit tipsy"
+        },
+        {
+          "startTimeMs": "31640",
+          "words": "Don't stop, make it pop, DJ, blow my speakers up"
+        },
+        {
+          "startTimeMs": "35500",
+          "words": "Tonight, I'ma fight 'til we see the sunlight"
+        },
+        {
+          "startTimeMs": "39620",
+          "words": "Tick tock on the clock, but the party don't stop, no"
+        },
+        {
+          "startTimeMs": "44200",
+          "words": "Oh, woah, woah, oh, oh, woah, woah, oh"
+        },
+        {
+          "startTimeMs": "47410",
+          "words": "Don't stop, make it pop, DJ, blow my speakers up"
+        },
+        {
+          "startTimeMs": "51620",
+          "words": "Tonight, I'ma fight 'til we see the sunlight"
+        },
+        {
+          "startTimeMs": "55700",
+          "words": "Tick tock on the clock, but the party don't stop, no"
+        },
+        {
+          "startTimeMs": "59930",
+          "words": "Oh, woah, woah, oh, oh, woah, woah, oh"
+        },
+        {
+          "startTimeMs": "63950",
+          "words": "Ain't got a care in the world, but got plenty of beer"
+        },
+        {
+          "startTimeMs": "67400",
+          "words": "Ain't got no money in my pocket, but I'm already here"
+        },
+        {
+          "startTimeMs": "71320",
+          "words": "And now, the dudes are lining up 'cause they hear we got swagger"
+        },
+        {
+          "startTimeMs": "75620",
+          "words": "But we kick 'em to the curb unless they look like Mick Jagger"
+        },
+        {
+          "startTimeMs": "79650",
+          "words": "I'm talking about everybody getting crunk, crunk"
+        },
+        {
+          "startTimeMs": "82120",
+          "words": "Boys tryin' to touch my junk, junk"
+        },
+        {
+          "startTimeMs": "84360",
+          "words": "Gonna smack him if he getting too drunk, drunk"
+        },
+        {
+          "startTimeMs": "87000",
+          "words": "Now, now, we go until they kick us out, out"
+        },
+        {
+          "startTimeMs": "90490",
+          "words": "Or the police shut us down, down"
+        },
+        {
+          "startTimeMs": "92450",
+          "words": "Police shut us down, down"
+        },
+        {
+          "startTimeMs": "94380",
+          "words": "Po-po shut us"
+        },
+        {
+          "startTimeMs": "95890",
+          "words": "Don't stop, make it pop, DJ, blow my speakers up"
+        },
+        {
+          "startTimeMs": "99750",
+          "words": "Tonight, I'ma fight 'til we see the sunlight"
+        },
+        {
+          "startTimeMs": "103640",
+          "words": "Tick tock on the clock, but the party don't stop, no"
+        },
+        {
+          "startTimeMs": "108350",
+          "words": "Oh, woah, woah, oh, oh, woah, woah, oh"
+        },
+        {
+          "startTimeMs": "111540",
+          "words": "Don't stop, make it pop, DJ, blow my speakers up"
+        },
+        {
+          "startTimeMs": "115840",
+          "words": "Tonight, I'ma fight 'til we see the sunlight"
+        },
+        {
+          "startTimeMs": "119780",
+          "words": "Tick tock on the clock, but the party don't stop, no"
+        },
+        {
+          "startTimeMs": "124340",
+          "words": "Oh, woah, woah, oh, oh, woah, woah, oh"
+        },
+        {
+          "startTimeMs": "127810",
+          "words": "(DJ) you build me up"
+        },
+        {
+          "startTimeMs": "130680",
+          "words": "You break me down"
+        },
+        {
+          "startTimeMs": "132720",
+          "words": "My heart, it pounds"
+        },
+        {
+          "startTimeMs": "134620",
+          "words": "Yeah, you got me"
+        },
+        {
+          "startTimeMs": "136640",
+          "words": "With my hands up"
+        },
+        {
+          "startTimeMs": "138560",
+          "words": "You got me now"
+        },
+        {
+          "startTimeMs": "140570",
+          "words": "You got that sound"
+        },
+        {
+          "startTimeMs": "142700",
+          "words": "Yeah, you got me"
+        },
+        {
+          "startTimeMs": "143990",
+          "words": "(DJ) you build me up"
+        },
+        {
+          "startTimeMs": "146620",
+          "words": "You break me down"
+        },
+        {
+          "startTimeMs": "148520",
+          "words": "My heart, it pounds"
+        },
+        {
+          "startTimeMs": "150580",
+          "words": "Yeah, you got me"
+        },
+        {
+          "startTimeMs": "152680",
+          "words": "With my hands up"
+        },
+        {
+          "startTimeMs": "154500",
+          "words": "Put your hands up"
+        },
+        {
+          "startTimeMs": "156600",
+          "words": "Put your hands up"
+        },
+        {
+          "startTimeMs": "159860",
+          "words": "Now, the party don't start 'til I walk in"
+        },
+        {
+          "startTimeMs": "163530",
+          "words": "Don't stop, make it pop, DJ, blow my speakers up"
+        },
+        {
+          "startTimeMs": "167760",
+          "words": "Tonight, I'ma fight 'til we see the sunlight"
+        },
+        {
+          "startTimeMs": "171720",
+          "words": "Tick tock on the clock, but the party don't stop, no"
+        },
+        {
+          "startTimeMs": "176150",
+          "words": "Oh, woah, woah, oh, oh, woah, woah, oh"
+        },
+        {
+          "startTimeMs": "179550",
+          "words": "Don't stop, make it pop, DJ, blow my speakers up"
+        },
+        {
+          "startTimeMs": "183680",
+          "words": "Tonight, I'ma fight 'til we see the sunlight"
+        },
+        {
+          "startTimeMs": "187770",
+          "words": "Tick tock on the clock, but the party don't stop, no"
+        },
+        {
+          "startTimeMs": "192370",
+          "words": "Oh, woah, woah, oh, oh, woah, woah, oh"
+        }
+      ]
+    }
+  }
+}

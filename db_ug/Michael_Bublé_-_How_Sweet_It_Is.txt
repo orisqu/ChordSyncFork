@@ -1,0 +1,9 @@
+{
+  "track_id": "04XRimcx9QuSrtUvWpdkmS",
+  "track_name": "How Sweet It Is",
+  "artist_name": "Michael Bublé",
+  "timestamp": "2025-03-24 16:05:24",
+  "source_link": "https://www.google.de/search?q=Michael Bublé how sweet it is chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

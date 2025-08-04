@@ -1,0 +1,9 @@
+{
+  "track_id": "2BOqDYLOJBiMOXShCV1neZ",
+  "track_name": "Dancing On My Own",
+  "artist_name": "Calum Scott",
+  "timestamp": "2025-03-23 01:55:58",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/calum-scott/dancing-on-my-own-chords-1835574",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>DANCING ON MY OWN CHORDS (ver 2) by Calum Scott @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse] C G F Somebody said you got a new friend C G F Does she love you better than I can? C G F There&#039;s a big black sky over my town C G F I know where you&#039;re at"
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "6UelLqGlWMcVH1E5c4H7lY",
+  "track_name": "Watermelon Sugar",
+  "artist_name": "Harry Styles",
+  "timestamp": "2025-03-21 23:18:15",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/harry-styles/watermelon-sugar-chords-2895911",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WATERMELON SUGAR CHORDS by Harry Styles @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Includes chords, strumming pattern and horn lines arranged for guitar.\">\n<meta name=\"keywords\" content=\"Harry Styles - Watermelon Sugar (Chords), Chords, Harry Styles, Ultimate-Guit"
+}

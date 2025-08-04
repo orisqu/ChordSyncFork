@@ -1,0 +1,57 @@
+{
+  "track_id": "4nruFf0Gbd2gVJRrSL0vqG",
+  "track_name": "The Tower",
+  "artist_name": "Flannel Graph",
+  "timestamp": "2025-03-24 18:22:51",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "13550",
+          "words": "You've got a long way down, a long way down, a long way down with our hearts so proud"
+        },
+        {
+          "startTimeMs": "20740",
+          "words": "Apple and the baron got it old and spoiled"
+        },
+        {
+          "startTimeMs": "24300",
+          "words": "All that's good for man is the soil"
+        },
+        {
+          "startTimeMs": "41560",
+          "words": "Got a neck so strong for the crown upon your head"
+        },
+        {
+          "startTimeMs": "45110",
+          "words": "Don't think anyone will leave it when you're dead"
+        },
+        {
+          "startTimeMs": "48770",
+          "words": "There's a throng of men mightier than you"
+        },
+        {
+          "startTimeMs": "51430",
+          "words": "And they're waiting and they're watching till they fill your shoes"
+        },
+        {
+          "startTimeMs": "83080",
+          "words": "You build your tower up so high"
+        },
+        {
+          "startTimeMs": "89310",
+          "words": "Walk over brothers to get by"
+        },
+        {
+          "startTimeMs": "96640",
+          "words": "You lost your joy and don't know why"
+        },
+        {
+          "startTimeMs": "103820",
+          "words": "Why"
+        }
+      ]
+    }
+  }
+}

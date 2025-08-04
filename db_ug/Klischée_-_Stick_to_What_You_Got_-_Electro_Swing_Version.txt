@@ -1,0 +1,9 @@
+{
+  "track_id": "5O1MNopATXbeD1aLecAuGX",
+  "track_name": "Stick to What You Got - Electro Swing Version",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:33:23",
+  "source_link": "https://www.google.de/search?q=Klischée stick to what you got - electro swing  chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

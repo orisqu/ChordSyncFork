@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChordSync</title>
+    <!-- Make sure the Socket.IO script is loaded correctly -->
+    <script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
+</head>
+<body>
+    <h1>ChordSync</h1>
+    <div id="status">Connecting to server...</div>
+    <div>
+        <h2 id="track-name">Track</h2>
+        <h3 id="artist-name">Artist</h3>
+        <div id="main-chords-body">Waiting for chords...</div>
+    </div>
+
+    <script>
+        // Simple socket connection test
+        document.addEventListener('DOMContentLoaded', function() {
+            const status = document.getElementById('status');
+            status.textContent = 'DOM loaded, connecting...';
+            
+            // Connect to the Socket.IO server
+            const socket = io({
+                transports: ['websocket', 'polling'],
+                reconnectionAttempts: 10,
+                reconnectionDelay: 1000,
+                timeout: 5000
+            });
+            
+            // Connection events
+            socket.on('connect', function() {
+                status.textContent = 'Connected to server!';
+                status.style.color = 'green';
+                
+                // Request data
+                socket.emit('trackDynamicDataRequest');
+                socket.emit('trackStaticDataRequest');
+            });
+            
+            socket.on('connect_error', function(error) {
+                status.textContent = 'Connection error: ' + error;
+                status.style.color = 'red';
+                console.error('Socket connection error:', error);
+            });
+            
+            socket.on('disconnect', function(reason) {
+                status.textContent = 'Disconnected: ' + reason;
+                status.style.color = 'orange';
+                console.log('Socket disconnected:', reason);
+            });
+            
+            // Data events
+            socket.on('trackDynamicDataResponse', function(data) {
+                console.log('Received dynamic data:', data);
+            });
+            
+            socket.on('trackStaticDataResponse', function(data) {
+                console.log('Received static data:', data);
+                
+                // Update UI
+                if (data.track_name !== 'Track') {
+                    document.getElementById('track-name').textContent = data.track_name;
+                    document.getElementById('artist-name').textContent = data.artist_name;
+                    document.getElementById('main-chords-body').innerHTML = data.main_chords_body;
+                }
+            });
+            
+            // Set up polling
+            setInterval(function() {
+                if (socket.connected) {
+                    socket.emit('trackDynamicDataRequest');
+                }
+            }, 1000);
+            
+            setInterval(function() {
+                if (socket.connected) {
+                    socket.emit('trackStaticDataRequest');
+                }
+            }, 5000);
+        });
+    </script>
+</body>
+</html>

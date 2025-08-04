@@ -1,0 +1,12 @@
+{
+  "track_id": "5IqjAH2ynF7320IVnqfjlT",
+  "track_name": "Swashers",
+  "artist_name": "Yosi Horikawa",
+  "timestamp": "2025-03-21 17:46:07",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

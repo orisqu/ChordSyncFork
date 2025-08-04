@@ -1,0 +1,9 @@
+{
+  "track_id": "0JiY190vktuhSGN6aqJdrt",
+  "track_name": "So What",
+  "artist_name": "P!nk",
+  "timestamp": "2025-03-23 02:05:01",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/pnk/so-what-chords-728999",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SO WHAT CHORDS by P!nk @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Artist: Pink Song: So What Album: Funhouse / Capo 2 / Riff (During Verse): E5 G5 B5 E5 e|------------------------------------------| B|------------------------------------------| G|---------\">\n<meta"
+}

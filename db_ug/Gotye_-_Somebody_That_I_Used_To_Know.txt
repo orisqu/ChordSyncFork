@@ -1,0 +1,9 @@
+{
+  "track_id": "4wCmqSrbyCgxEXROQE6vtV",
+  "track_name": "Somebody That I Used To Know",
+  "artist_name": "Gotye",
+  "timestamp": "2025-03-23 02:23:31",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/gotye/somebody-that-i-used-to-know-chords-1094597",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SOMEBODY THAT I USED TO KNOW CHORDS (ver 2) by Gotye  feat. Kimbra @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] Am G Am G x5 [Verse 1] Am G Am G Am G Am G Now and then I think of when we were together Am G Am G Am G Am G Like when you said you felt so happy "
+}

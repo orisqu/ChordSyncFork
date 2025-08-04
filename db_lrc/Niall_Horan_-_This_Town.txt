@@ -1,0 +1,189 @@
+{
+  "track_id": "0qvzXomUDJVaUboy2wMfiS",
+  "track_name": "This Town",
+  "artist_name": "Niall Horan",
+  "timestamp": "2025-03-23 02:15:35",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "4500",
+          "words": "Waking up to kiss you and nobody's there"
+        },
+        {
+          "startTimeMs": "8440",
+          "words": "The smell of your perfume still stuck in the air"
+        },
+        {
+          "startTimeMs": "12720",
+          "words": "It's hard"
+        },
+        {
+          "startTimeMs": "17370",
+          "words": "Yesterday I thought I saw your shadow running round"
+        },
+        {
+          "startTimeMs": "21210",
+          "words": "It's funny how things never change in this old town"
+        },
+        {
+          "startTimeMs": "25530",
+          "words": "So far from the stars"
+        },
+        {
+          "startTimeMs": "34820",
+          "words": "And I want to tell you everything"
+        },
+        {
+          "startTimeMs": "37630",
+          "words": "The words I never got to say the first time around"
+        },
+        {
+          "startTimeMs": "43510",
+          "words": "And I remember everything"
+        },
+        {
+          "startTimeMs": "46240",
+          "words": "From when we were the children playing in this fairground"
+        },
+        {
+          "startTimeMs": "50380",
+          "words": "Wish I was there with you now"
+        },
+        {
+          "startTimeMs": "55300",
+          "words": "If the whole world was watching I'd still dance with you"
+        },
+        {
+          "startTimeMs": "59880",
+          "words": "Drive highways and byways to be there with you"
+        },
+        {
+          "startTimeMs": "64280",
+          "words": "Over and over the only truth"
+        },
+        {
+          "startTimeMs": "68450",
+          "words": "Everything comes back to you"
+        },
+        {
+          "startTimeMs": "79940",
+          "words": "I saw that you moved on with someone new"
+        },
+        {
+          "startTimeMs": "84090",
+          "words": "In the pub that we met he's got his arms around you"
+        },
+        {
+          "startTimeMs": "88140",
+          "words": "It's so hard"
+        },
+        {
+          "startTimeMs": "92410",
+          "words": "So hard"
+        },
+        {
+          "startTimeMs": "97790",
+          "words": "And I want to tell you everything"
+        },
+        {
+          "startTimeMs": "100250",
+          "words": "The words I never got to say the first time around"
+        },
+        {
+          "startTimeMs": "106420",
+          "words": "And I remember everything"
+        },
+        {
+          "startTimeMs": "108820",
+          "words": "From when we were the children playing in this fairground"
+        },
+        {
+          "startTimeMs": "112940",
+          "words": "Wish I was there with you now"
+        },
+        {
+          "startTimeMs": "118180",
+          "words": "Because if the whole world was watching I'd still dance with you"
+        },
+        {
+          "startTimeMs": "122540",
+          "words": "Drive highways and byways to be there with you"
+        },
+        {
+          "startTimeMs": "126980",
+          "words": "Over and over the only truth"
+        },
+        {
+          "startTimeMs": "131140",
+          "words": "Everything comes back to you"
+        },
+        {
+          "startTimeMs": "136940",
+          "words": "You still make me nervous when you walk in the room"
+        },
+        {
+          "startTimeMs": "140790",
+          "words": "Them butterflies they come alive when I'm next to you"
+        },
+        {
+          "startTimeMs": "145290",
+          "words": "Over and over the only truth"
+        },
+        {
+          "startTimeMs": "149460",
+          "words": "Everything comes back to you"
+        },
+        {
+          "startTimeMs": "161640",
+          "words": "And I know that it's wrong"
+        },
+        {
+          "startTimeMs": "163910",
+          "words": "That I can't move on"
+        },
+        {
+          "startTimeMs": "166130",
+          "words": "But there's something about you"
+        },
+        {
+          "startTimeMs": "171260",
+          "words": "If the whole world was watching I'd still dance with you"
+        },
+        {
+          "startTimeMs": "175650",
+          "words": "Drive highways and byways to be there with you"
+        },
+        {
+          "startTimeMs": "180050",
+          "words": "Over and over the only truth"
+        },
+        {
+          "startTimeMs": "184200",
+          "words": "Everything comes back to you"
+        },
+        {
+          "startTimeMs": "189960",
+          "words": "You still make me nervous when you walk in the room"
+        },
+        {
+          "startTimeMs": "193700",
+          "words": "Them butterflies they come alive when I'm next to you"
+        },
+        {
+          "startTimeMs": "198390",
+          "words": "Over and over the only truth"
+        },
+        {
+          "startTimeMs": "202460",
+          "words": "Everything comes back to you"
+        },
+        {
+          "startTimeMs": "213780",
+          "words": "Everything comes back to you"
+        }
+      ]
+    }
+  }
+}

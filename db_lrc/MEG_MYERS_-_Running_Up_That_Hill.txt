@@ -1,0 +1,241 @@
+{
+  "track_id": "7zLeOgBrdrCfMf47MCyLMC",
+  "track_name": "Running Up That Hill",
+  "artist_name": "MEG MYERS",
+  "timestamp": "2025-03-23 15:16:46",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "32300",
+          "words": "It doesn't hurt me"
+        },
+        {
+          "startTimeMs": "35680",
+          "words": "Do you wanna feel how it feels?"
+        },
+        {
+          "startTimeMs": "40260",
+          "words": "Do you wanna know, know that it doesn't hurt me?"
+        },
+        {
+          "startTimeMs": "45380",
+          "words": "Do you wanna hear about the deal that I'm making?"
+        },
+        {
+          "startTimeMs": "49740",
+          "words": "It's you"
+        },
+        {
+          "startTimeMs": "54680",
+          "words": "It's you and me"
+        },
+        {
+          "startTimeMs": "58820",
+          "words": "And if I only could"
+        },
+        {
+          "startTimeMs": "60750",
+          "words": "I'd make a deal with God"
+        },
+        {
+          "startTimeMs": "63160",
+          "words": "And I'd get him to swap our places"
+        },
+        {
+          "startTimeMs": "66810",
+          "words": "Be running up that road"
+        },
+        {
+          "startTimeMs": "69150",
+          "words": "Be running up that hill"
+        },
+        {
+          "startTimeMs": "71550",
+          "words": "Be running up that building"
+        },
+        {
+          "startTimeMs": "76130",
+          "words": "Say, if I only could, oh"
+        },
+        {
+          "startTimeMs": "93380",
+          "words": "You don't wanna hurt me"
+        },
+        {
+          "startTimeMs": "96940",
+          "words": "But see how deep the bullet lies"
+        },
+        {
+          "startTimeMs": "101590",
+          "words": "Unaware I'm tearing you asunder"
+        },
+        {
+          "startTimeMs": "106420",
+          "words": "Oh, there is thunder in our hearts"
+        },
+        {
+          "startTimeMs": "111040",
+          "words": "Is there so much hate for the ones we love?"
+        },
+        {
+          "startTimeMs": "115580",
+          "words": "Well tell me, we both matter, don't we?"
+        },
+        {
+          "startTimeMs": "120550",
+          "words": "You"
+        },
+        {
+          "startTimeMs": "125130",
+          "words": "It's you and me"
+        },
+        {
+          "startTimeMs": "129930",
+          "words": "It's you and me, you won't be unhappy"
+        },
+        {
+          "startTimeMs": "133980",
+          "words": "And if I only could"
+        },
+        {
+          "startTimeMs": "135950",
+          "words": "I'd make a deal with God"
+        },
+        {
+          "startTimeMs": "138450",
+          "words": "And I'd get him to swap our places"
+        },
+        {
+          "startTimeMs": "142170",
+          "words": "Be running up that road"
+        },
+        {
+          "startTimeMs": "144320",
+          "words": "Be running up that hill"
+        },
+        {
+          "startTimeMs": "146620",
+          "words": "Be running up that building"
+        },
+        {
+          "startTimeMs": "151610",
+          "words": "Say, if I only could, oh"
+        },
+        {
+          "startTimeMs": "169640",
+          "words": "You"
+        },
+        {
+          "startTimeMs": "174560",
+          "words": "It's you and me"
+        },
+        {
+          "startTimeMs": "179320",
+          "words": "It's you and me, you won't be unhappy"
+        },
+        {
+          "startTimeMs": "183620",
+          "words": "Oh, come on baby"
+        },
+        {
+          "startTimeMs": "186640",
+          "words": "Come on, darling"
+        },
+        {
+          "startTimeMs": "188610",
+          "words": "Let me steal this moment from you now"
+        },
+        {
+          "startTimeMs": "193480",
+          "words": "Come on, angel"
+        },
+        {
+          "startTimeMs": "195320",
+          "words": "Come on, come on, darling"
+        },
+        {
+          "startTimeMs": "197930",
+          "words": "Let's exchange the experience"
+        },
+        {
+          "startTimeMs": "201330",
+          "words": "And if I only could"
+        },
+        {
+          "startTimeMs": "203280",
+          "words": "I'd make a deal with God"
+        },
+        {
+          "startTimeMs": "205450",
+          "words": "And I'd get him to swap our places"
+        },
+        {
+          "startTimeMs": "210290",
+          "words": "I'd be running up that road"
+        },
+        {
+          "startTimeMs": "212640",
+          "words": "Be running up that hill"
+        },
+        {
+          "startTimeMs": "215790",
+          "words": "With no problems"
+        },
+        {
+          "startTimeMs": "219770",
+          "words": "So, if I only could"
+        },
+        {
+          "startTimeMs": "222580",
+          "words": "I'd make a deal with God"
+        },
+        {
+          "startTimeMs": "224380",
+          "words": "And I'd get him to swap our places"
+        },
+        {
+          "startTimeMs": "229000",
+          "words": "Be running up that road"
+        },
+        {
+          "startTimeMs": "231430",
+          "words": "Be running up that hill"
+        },
+        {
+          "startTimeMs": "234370",
+          "words": "With no problems (For the ones we love)"
+        },
+        {
+          "startTimeMs": "238760",
+          "words": "See, if I only could (If I only could)"
+        },
+        {
+          "startTimeMs": "244060",
+          "words": "With no problems (There's so much hate for the ones we love)"
+        },
+        {
+          "startTimeMs": "247910",
+          "words": "Be running up that road"
+        },
+        {
+          "startTimeMs": "250340",
+          "words": "Be running up that hill"
+        },
+        {
+          "startTimeMs": "252820",
+          "words": "Be running up that road"
+        },
+        {
+          "startTimeMs": "255070",
+          "words": "Be running up that hill"
+        },
+        {
+          "startTimeMs": "257610",
+          "words": "Be running up that hill"
+        }
+      ]
+    }
+  }
+}

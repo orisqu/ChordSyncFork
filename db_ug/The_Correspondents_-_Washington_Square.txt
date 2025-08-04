@@ -1,0 +1,9 @@
+{
+  "track_id": "3f7c9WV6cgYsvPm2Ce2zsz",
+  "track_name": "Washington Square",
+  "artist_name": "The Correspondents",
+  "timestamp": "2025-03-21 17:54:04",
+  "source_link": "https://www.google.de/search?q=The Correspondents washington square chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

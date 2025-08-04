@@ -1,0 +1,9 @@
+{
+  "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
+  "track_name": "Beautiful Things",
+  "artist_name": "Benson Boone",
+  "timestamp": "2025-05-07 11:57:41",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/benson-boone/beautiful-things-chords-5110429",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BEAUTIFUL THINGS CHORDS by Benson Boone @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Eb x68886 Gbdim7 2x121x / [Intro] Eb Bb F / [Verse 1] Eb Bb For a while there it was rough F Gm But lately, I&#039;ve been doin&#039; better Eb Bb F Than the last four cold December"
+}

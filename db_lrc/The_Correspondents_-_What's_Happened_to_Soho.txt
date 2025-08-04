@@ -1,0 +1,261 @@
+{
+  "track_id": "6p8WOEtAdFq4514mpd0eGD",
+  "track_name": "What's Happened to Soho?",
+  "artist_name": "The Correspondents",
+  "timestamp": "2025-03-21 17:46:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16400",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "20500",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "24860",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "29130",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "32960",
+          "words": "The landlord say your lease is up"
+        },
+        {
+          "startTimeMs": "34920",
+          "words": "The council says you are corrupt"
+        },
+        {
+          "startTimeMs": "37250",
+          "words": "Either way you got to go"
+        },
+        {
+          "startTimeMs": "39250",
+          "words": "To make way for a new Tesco"
+        },
+        {
+          "startTimeMs": "41080",
+          "words": "They sanitize and clean"
+        },
+        {
+          "startTimeMs": "43070",
+          "words": "Unpick it at the seam"
+        },
+        {
+          "startTimeMs": "45160",
+          "words": "Unravel and destroy"
+        },
+        {
+          "startTimeMs": "47470",
+          "words": "Decades of what has been"
+        },
+        {
+          "startTimeMs": "49360",
+          "words": "Wave good-bye to the whole damn scene"
+        },
+        {
+          "startTimeMs": "53720",
+          "words": "Bye bye bye, my gin-soaked dream"
+        },
+        {
+          "startTimeMs": "57710",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "62050",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "66040",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "70290",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "74250",
+          "words": "People gathered 'round to watch as their small empire sinks"
+        },
+        {
+          "startTimeMs": "78290",
+          "words": "Now empty rooms resound with the memories of a million drinks"
+        },
+        {
+          "startTimeMs": "82520",
+          "words": "Then the brightest stars in the blackest night burn themselves out"
+        },
+        {
+          "startTimeMs": "86780",
+          "words": "So the subjects all take flight"
+        },
+        {
+          "startTimeMs": "88730",
+          "words": "It's over there can be no doubt"
+        },
+        {
+          "startTimeMs": "91080",
+          "words": "I know Soho is a 'parody' of itself"
+        },
+        {
+          "startTimeMs": "95050",
+          "words": "I know a few frequenters there sit on the shelf"
+        },
+        {
+          "startTimeMs": "99230",
+          "words": "Regaling first-time histories they did not even live"
+        },
+        {
+          "startTimeMs": "103270",
+          "words": "In every group there's those that have nothing left to give"
+        },
+        {
+          "startTimeMs": "107370",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "111750",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "115860",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "119960",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "124150",
+          "words": "Where do I go for a family"
+        },
+        {
+          "startTimeMs": "125760",
+          "words": "Of outspoken praise and dandies and queens"
+        },
+        {
+          "startTimeMs": "128120",
+          "words": "Bearded witty, bitter men"
+        },
+        {
+          "startTimeMs": "130000",
+          "words": "And acutely self-aware has-beens"
+        },
+        {
+          "startTimeMs": "132230",
+          "words": "Sharp blonde women that will throw your responses back in your face"
+        },
+        {
+          "startTimeMs": "136550",
+          "words": "Even the coy girls will put you back in your place"
+        },
+        {
+          "startTimeMs": "140540",
+          "words": "And a select few will defy our fashions and show you style"
+        },
+        {
+          "startTimeMs": "144780",
+          "words": "The wisest words will arise from an old rogue's wry smile"
+        },
+        {
+          "startTimeMs": "148830",
+          "words": "This is a place where no one cares about what you do"
+        },
+        {
+          "startTimeMs": "153130",
+          "words": "No one will ask, just carry the conversation through"
+        },
+        {
+          "startTimeMs": "157240",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "161500",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "165380",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "169670",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "173820",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "177530",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "182020",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "186110",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "190490",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "194210",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "198730",
+          "words": "Oh no, what's happened to Soho?"
+        },
+        {
+          "startTimeMs": "203170",
+          "words": "Oh no, where will all the reprobates go?"
+        },
+        {
+          "startTimeMs": "223250",
+          "words": "Where do I go? (go)"
+        },
+        {
+          "startTimeMs": "225420",
+          "words": "Where do I go? (go)"
+        },
+        {
+          "startTimeMs": "227420",
+          "words": "Where do I go? (go)"
+        },
+        {
+          "startTimeMs": "231780",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "235890",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "239800",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "244030",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "248160",
+          "words": "Where do I go?"
+        },
+        {
+          "startTimeMs": "252160",
+          "words": "Where do I go?"
+        }
+      ]
+    }
+  }
+}

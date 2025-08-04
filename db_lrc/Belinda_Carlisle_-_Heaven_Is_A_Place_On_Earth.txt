@@ -1,0 +1,209 @@
+{
+  "track_id": "58mFu3oIpBa0HLNeJIxsw3",
+  "track_name": "Heaven Is A Place On Earth",
+  "artist_name": "Belinda Carlisle",
+  "timestamp": "2025-03-24 17:05:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "660",
+          "words": "Ooh, baby, do you know what that's worth?"
+        },
+        {
+          "startTimeMs": "3810",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "7830",
+          "words": "They say in Heaven, love comes first"
+        },
+        {
+          "startTimeMs": "11820",
+          "words": "We'll make Heaven a place on Earth"
+        },
+        {
+          "startTimeMs": "15680",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "37290",
+          "words": "When the night falls down"
+        },
+        {
+          "startTimeMs": "41290",
+          "words": "I wait for you, and you come around"
+        },
+        {
+          "startTimeMs": "44990",
+          "words": "And the world's alive"
+        },
+        {
+          "startTimeMs": "49430",
+          "words": "With the sound of kids on the street outside"
+        },
+        {
+          "startTimeMs": "53430",
+          "words": "When you walk into the room"
+        },
+        {
+          "startTimeMs": "57480",
+          "words": "You pull me close, and we start to move"
+        },
+        {
+          "startTimeMs": "61250",
+          "words": "And we're spinnin' with the stars above"
+        },
+        {
+          "startTimeMs": "64650",
+          "words": "And you lift me up in a wave of love"
+        },
+        {
+          "startTimeMs": "68610",
+          "words": "Ooh, baby, do you know what that's worth?"
+        },
+        {
+          "startTimeMs": "72300",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "76220",
+          "words": "They say in Heaven, love comes first"
+        },
+        {
+          "startTimeMs": "79790",
+          "words": "We'll make Heaven a place on Earth"
+        },
+        {
+          "startTimeMs": "84260",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "90930",
+          "words": "When I feel alone"
+        },
+        {
+          "startTimeMs": "95010",
+          "words": "I reach for you, and you bring me home"
+        },
+        {
+          "startTimeMs": "98530",
+          "words": "When I'm lost at sea"
+        },
+        {
+          "startTimeMs": "102790",
+          "words": "I hear your voice, and it carries me"
+        },
+        {
+          "startTimeMs": "106180",
+          "words": "In this world, we're just beginnin'"
+        },
+        {
+          "startTimeMs": "111250",
+          "words": "To understand the miracle of livin'"
+        },
+        {
+          "startTimeMs": "114240",
+          "words": "Baby, I was afraid before"
+        },
+        {
+          "startTimeMs": "118210",
+          "words": "But I'm not afraid anymore"
+        },
+        {
+          "startTimeMs": "122260",
+          "words": "Ooh, baby, do you know what that's worth?"
+        },
+        {
+          "startTimeMs": "126100",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "130180",
+          "words": "They say in Heaven, love comes first"
+        },
+        {
+          "startTimeMs": "133870",
+          "words": "We'll make Heaven a place on Earth"
+        },
+        {
+          "startTimeMs": "139580",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "153350",
+          "words": "Heaven"
+        },
+        {
+          "startTimeMs": "163690",
+          "words": "Heaven"
+        },
+        {
+          "startTimeMs": "168620",
+          "words": "Heaven"
+        },
+        {
+          "startTimeMs": "172660",
+          "words": "In this world we're just beginnin'"
+        },
+        {
+          "startTimeMs": "176960",
+          "words": "To understand the miracle of livin'"
+        },
+        {
+          "startTimeMs": "180320",
+          "words": "Baby, I was afraid before"
+        },
+        {
+          "startTimeMs": "183250",
+          "words": "But I'm not afraid anymore"
+        },
+        {
+          "startTimeMs": "193360",
+          "words": "Heaven"
+        },
+        {
+          "startTimeMs": "202630",
+          "words": "Ooh, baby, do you know what that's worth?"
+        },
+        {
+          "startTimeMs": "205980",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "209940",
+          "words": "They say in Heaven, love comes first"
+        },
+        {
+          "startTimeMs": "213990",
+          "words": "We'll make Heaven a place on Earth"
+        },
+        {
+          "startTimeMs": "217730",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "221440",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "225490",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "229260",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "233040",
+          "words": "Ooh, Heaven is a place on Earth"
+        },
+        {
+          "startTimeMs": "237240",
+          "words": "Ooh, Heaven is a place on Earth"
+        }
+      ]
+    }
+  }
+}

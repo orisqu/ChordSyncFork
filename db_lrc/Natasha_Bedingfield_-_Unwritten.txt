@@ -1,0 +1,305 @@
+{
+  "track_id": "3U5JVgI2x4rDyHGObzJfNf",
+  "track_name": "Unwritten",
+  "artist_name": "Natasha Bedingfield",
+  "timestamp": "2025-03-23 01:22:36",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "2600",
+          "words": "I am unwritten"
+        },
+        {
+          "startTimeMs": "15590",
+          "words": "Can't read my mind, I'm undefined"
+        },
+        {
+          "startTimeMs": "22120",
+          "words": "I'm just beginning"
+        },
+        {
+          "startTimeMs": "25540",
+          "words": "The pen's in my hand, ending unplanned"
+        },
+        {
+          "startTimeMs": "31590",
+          "words": "Staring at the blank page before you"
+        },
+        {
+          "startTimeMs": "34560",
+          "words": "Open up the dirty window"
+        },
+        {
+          "startTimeMs": "36940",
+          "words": "Let the sun illuminate the words that you cannot find"
+        },
+        {
+          "startTimeMs": "40810",
+          "words": "Reaching for something in the distance"
+        },
+        {
+          "startTimeMs": "44290",
+          "words": "So close you can almost taste it"
+        },
+        {
+          "startTimeMs": "46920",
+          "words": "Release your inhibitions"
+        },
+        {
+          "startTimeMs": "48980",
+          "words": "Feel the rain on your skin"
+        },
+        {
+          "startTimeMs": "51950",
+          "words": "No one else can feel it for you"
+        },
+        {
+          "startTimeMs": "53930",
+          "words": "Only you can let it in"
+        },
+        {
+          "startTimeMs": "55910",
+          "words": "No one else, no one else"
+        },
+        {
+          "startTimeMs": "58220",
+          "words": "Can speak the words on your lips"
+        },
+        {
+          "startTimeMs": "60700",
+          "words": "Drench yourself in words unspoken"
+        },
+        {
+          "startTimeMs": "62970",
+          "words": "Live your life with arms wide open"
+        },
+        {
+          "startTimeMs": "65560",
+          "words": "Today is where your book begins"
+        },
+        {
+          "startTimeMs": "67640",
+          "words": "The rest is still unwritten, yeah"
+        },
+        {
+          "startTimeMs": "76220",
+          "words": "Oh, oh"
+        },
+        {
+          "startTimeMs": "80350",
+          "words": "I break tradition"
+        },
+        {
+          "startTimeMs": "83900",
+          "words": "Sometimes my tries, are outside the lines yeah, yeah"
+        },
+        {
+          "startTimeMs": "89380",
+          "words": "We've been conditioned to not make mistakes"
+        },
+        {
+          "startTimeMs": "92370",
+          "words": "But I can't live that way oh, oh"
+        },
+        {
+          "startTimeMs": "98780",
+          "words": "Staring at the blank page before you"
+        },
+        {
+          "startTimeMs": "101950",
+          "words": "Open up the dirty window"
+        },
+        {
+          "startTimeMs": "104380",
+          "words": "Let the sun illuminate the words that you cannot find"
+        },
+        {
+          "startTimeMs": "108020",
+          "words": "Reaching for something in the distance"
+        },
+        {
+          "startTimeMs": "111360",
+          "words": "So close you can almost taste it"
+        },
+        {
+          "startTimeMs": "113760",
+          "words": "Release your inhibitions"
+        },
+        {
+          "startTimeMs": "116610",
+          "words": "Feel the rain on your skin"
+        },
+        {
+          "startTimeMs": "119060",
+          "words": "No one else can feel it for you"
+        },
+        {
+          "startTimeMs": "123050",
+          "words": "Only you can let it in"
+        },
+        {
+          "startTimeMs": "125630",
+          "words": "No one else, no one else"
+        },
+        {
+          "startTimeMs": "128090",
+          "words": "Can speak the words on your lips"
+        },
+        {
+          "startTimeMs": "130350",
+          "words": "Drench yourself in words unspoken"
+        },
+        {
+          "startTimeMs": "133100",
+          "words": "Live your life with arms wide open"
+        },
+        {
+          "startTimeMs": "135030",
+          "words": "Today is where your book begins"
+        },
+        {
+          "startTimeMs": "136050",
+          "words": "Feel the rain on your skin"
+        },
+        {
+          "startTimeMs": "138380",
+          "words": "No one else can feel it for you"
+        },
+        {
+          "startTimeMs": "139750",
+          "words": "Only you can let it in"
+        },
+        {
+          "startTimeMs": "142040",
+          "words": "No one else, no one else"
+        },
+        {
+          "startTimeMs": "144730",
+          "words": "Can speak the words on your lips"
+        },
+        {
+          "startTimeMs": "147080",
+          "words": "Drench yourself in words unspoken"
+        },
+        {
+          "startTimeMs": "149060",
+          "words": "Live your life with arms wide open"
+        },
+        {
+          "startTimeMs": "151760",
+          "words": "Today is where your book begins"
+        },
+        {
+          "startTimeMs": "155770",
+          "words": "The rest is still unwritten"
+        },
+        {
+          "startTimeMs": "166430",
+          "words": "Staring at the blank page before you"
+        },
+        {
+          "startTimeMs": "168810",
+          "words": "Open up the dirty window"
+        },
+        {
+          "startTimeMs": "173110",
+          "words": "Let the sun illuminate the words that you cannot find"
+        },
+        {
+          "startTimeMs": "175440",
+          "words": "Reaching for something in the distance"
+        },
+        {
+          "startTimeMs": "178870",
+          "words": "So close you can almost taste it"
+        },
+        {
+          "startTimeMs": "181130",
+          "words": "Release your inhibitions"
+        },
+        {
+          "startTimeMs": "186420",
+          "words": "Feel the rain on your skin"
+        },
+        {
+          "startTimeMs": "189440",
+          "words": "No one else can feel it for you"
+        },
+        {
+          "startTimeMs": "193910",
+          "words": "Only you can let it in"
+        },
+        {
+          "startTimeMs": "194780",
+          "words": "No one else, no one else"
+        },
+        {
+          "startTimeMs": "196120",
+          "words": "Can speak the words on your lips"
+        },
+        {
+          "startTimeMs": "198440",
+          "words": "Drench yourself in words unspoken"
+        },
+        {
+          "startTimeMs": "201840",
+          "words": "Live your life with arms wide open"
+        },
+        {
+          "startTimeMs": "203890",
+          "words": "Today is where your book begins"
+        },
+        {
+          "startTimeMs": "206150",
+          "words": "Feel the rain on your skin"
+        },
+        {
+          "startTimeMs": "208500",
+          "words": "No one else can feel it for you"
+        },
+        {
+          "startTimeMs": "210840",
+          "words": "Only you can let it in"
+        },
+        {
+          "startTimeMs": "212900",
+          "words": "No one else, no one else"
+        },
+        {
+          "startTimeMs": "214870",
+          "words": "Can speak the words on your lips"
+        },
+        {
+          "startTimeMs": "217490",
+          "words": "Drench yourself in words unspoken"
+        },
+        {
+          "startTimeMs": "221190",
+          "words": "Live your life with arms wide open"
+        },
+        {
+          "startTimeMs": "222810",
+          "words": "Today is where your book begins"
+        },
+        {
+          "startTimeMs": "225130",
+          "words": "The rest is still unwritten"
+        },
+        {
+          "startTimeMs": "230980",
+          "words": "The rest is still unwritten"
+        },
+        {
+          "startTimeMs": "240960",
+          "words": "The rest is still unwritten"
+        },
+        {
+          "startTimeMs": "247960",
+          "words": "Yeah, yeah, yeah, yeah"
+        }
+      ]
+    }
+  }
+}

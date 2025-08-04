@@ -1,0 +1,9 @@
+{
+  "track_id": "3TZwjdclvWt7iPJUnMpgcs",
+  "track_name": "Jump Around",
+  "artist_name": "House Of Pain",
+  "timestamp": "2025-03-21 23:02:22",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/house-of-pain/jump-around-chords-3726668",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>JUMP AROUND CHORDS by House of Pain for guitar, ukulele, piano at Ultimate-Guitar</title>\n<meta name=\"description\" content=\"[Intro] B B B Em7 Em7 D Em7 D Em7 D Em7 D Em7 D Em7 D Em7 D Em7 D [Verse] Em7 D Pack it up, pack it in, let me begin Em7 D I came to win, battle me that&#039;s a"
+}

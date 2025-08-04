@@ -1,0 +1,137 @@
+{
+  "track_id": "6OzAkuRDmEpd52RF1g1WvU",
+  "track_name": "Stand By Me",
+  "artist_name": "Ben E. King",
+  "timestamp": "2025-03-21 17:27:11",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16410",
+          "words": "When the night has come"
+        },
+        {
+          "startTimeMs": "21900",
+          "words": "And the land is dark"
+        },
+        {
+          "startTimeMs": "24430",
+          "words": "And the moon is the only light we'll see"
+        },
+        {
+          "startTimeMs": "32290",
+          "words": "No, I won't be afraid"
+        },
+        {
+          "startTimeMs": "35960",
+          "words": "Oh, I won't be afraid"
+        },
+        {
+          "startTimeMs": "40230",
+          "words": "Just as long as you stand"
+        },
+        {
+          "startTimeMs": "44210",
+          "words": "Stand by me"
+        },
+        {
+          "startTimeMs": "46920",
+          "words": "So darling, darling"
+        },
+        {
+          "startTimeMs": "49100",
+          "words": "Stand by me, oh stand by me"
+        },
+        {
+          "startTimeMs": "56380",
+          "words": "Oh, stand, stand by me"
+        },
+        {
+          "startTimeMs": "61850",
+          "words": "Stand by me"
+        },
+        {
+          "startTimeMs": "64740",
+          "words": "If the sky that we look upon"
+        },
+        {
+          "startTimeMs": "69910",
+          "words": "Should tumble and fall"
+        },
+        {
+          "startTimeMs": "72950",
+          "words": "Or the mountain should crumble to the sea"
+        },
+        {
+          "startTimeMs": "80900",
+          "words": "I won't cry, I won't cry"
+        },
+        {
+          "startTimeMs": "84380",
+          "words": "No, I won't shed a tear"
+        },
+        {
+          "startTimeMs": "88860",
+          "words": "Just as long as you stand, stand by me"
+        },
+        {
+          "startTimeMs": "95580",
+          "words": "And darling, darling"
+        },
+        {
+          "startTimeMs": "97650",
+          "words": "Stand by me"
+        },
+        {
+          "startTimeMs": "100580",
+          "words": "Oh, stand by me"
+        },
+        {
+          "startTimeMs": "105230",
+          "words": "Oh, stand now, stand by me"
+        },
+        {
+          "startTimeMs": "110460",
+          "words": "Stand by me"
+        },
+        {
+          "startTimeMs": "144470",
+          "words": "Darling, darling"
+        },
+        {
+          "startTimeMs": "146320",
+          "words": "Stand by me"
+        },
+        {
+          "startTimeMs": "149150",
+          "words": "Oh, stand by me"
+        },
+        {
+          "startTimeMs": "153660",
+          "words": "Oh, stand now"
+        },
+        {
+          "startTimeMs": "155930",
+          "words": "Stand by me, stand by me"
+        },
+        {
+          "startTimeMs": "160290",
+          "words": "Whenever you're in trouble won't you stand by me"
+        },
+        {
+          "startTimeMs": "165140",
+          "words": "Oh, stand by me"
+        },
+        {
+          "startTimeMs": "169090",
+          "words": "Won't you stand now"
+        },
+        {
+          "startTimeMs": "171620",
+          "words": "Oh, stand..."
+        }
+      ]
+    }
+  }
+}

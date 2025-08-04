@@ -1,0 +1,9 @@
+{
+  "track_id": "13lZDbwonGhOflQLQIfdtZ",
+  "track_name": "We're Going to Be Friends",
+  "artist_name": "The White Stripes",
+  "timestamp": "2025-03-21 23:02:45",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WERE GOING TO BE FRIENDS CHORDS by The White Stripes @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] G Fall is here, hear the yell G Back to school, ring the bell C Brand new shoes, walking blues G Climb the fence, books and pens D C G I can tell that we are "
+}

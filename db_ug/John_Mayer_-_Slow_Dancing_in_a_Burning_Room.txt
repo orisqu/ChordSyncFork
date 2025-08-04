@@ -1,0 +1,9 @@
+{
+  "track_id": "2jdAk8ATWIL3dwT47XpRfu",
+  "track_name": "Slow Dancing in a Burning Room",
+  "artist_name": "John Mayer",
+  "timestamp": "2025-03-24 17:17:21",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/john-mayer/slow-dancing-in-a-burning-room-chords-706621",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SLOW DANCING IN A BURNING ROOM CHORDS (ver 3) by John Mayer @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"John Mayer &quot;Slow Dancing In A Burning Room&quot; Tabbed by Dave Ross (Chords I use) E A D G B e - - - - - - E 0 2 2 1 0 0 C#m7 9 11 11 9 0 0 Aadd9 5 7 7 6 0"
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "0puf9yIluy9W0vpMEUoAnN",
+  "track_name": "Bang Bang",
+  "artist_name": "Jessie J",
+  "timestamp": "2025-03-23 01:21:47",
+  "source_link": "https://www.google.de/search?q=Jessie J bang bang chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

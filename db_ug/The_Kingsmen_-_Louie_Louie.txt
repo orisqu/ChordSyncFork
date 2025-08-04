@@ -1,0 +1,9 @@
+{
+  "track_id": "0iA3xXSkSCiJywKyo1UKjQ",
+  "track_name": "Louie Louie",
+  "artist_name": "The Kingsmen",
+  "timestamp": "2025-03-23 15:32:06",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/kingsmen/louie-louie-chords-1049261",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>LOUIE LOUIE CHORDS (ver 3) by Kingsmen @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Louie Louie chords The Kingsmen 1957 (Richard Berry 1955) ** [Intro] A D Em* D x2 [Chorus] A D Em D A D Em D Louie Louie, oh no, we gotta go. A D Em D A D Em D Louie Louie, oh baby, "
+}

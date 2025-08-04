@@ -1,0 +1,9 @@
+{
+  "track_id": "3OltYYcLZUhvho5QoRbUNr",
+  "track_name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
+  "artist_name": "Counting Crows",
+  "timestamp": "2025-03-24 17:50:28",
+  "source_link": "https://www.google.de/search?q=Counting Crows accidentally in love - from \"shrek 2\" soundtrack chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

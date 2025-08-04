@@ -1,0 +1,193 @@
+{
+  "track_id": "5GoSyDfZhhluHCJFXduVz7",
+  "track_name": "if u wanna",
+  "artist_name": "Jades Goudreault",
+  "timestamp": "2025-03-21 17:46:12",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1760",
+          "words": "Shoot if you wanna wear your boots"
+        },
+        {
+          "startTimeMs": "5470",
+          "words": "If you wanna lick your shoes"
+        },
+        {
+          "startTimeMs": "7520",
+          "words": "If you wanna meet your cru-u-u-ush"
+        },
+        {
+          "startTimeMs": "11790",
+          "words": "Fight if you wanna be polite"
+        },
+        {
+          "startTimeMs": "14660",
+          "words": "If you wanna say your shit"
+        },
+        {
+          "startTimeMs": "16720",
+          "words": "If you wanna have some ki-i-i-ids"
+        },
+        {
+          "startTimeMs": "21530",
+          "words": "Holy night"
+        },
+        {
+          "startTimeMs": "23920",
+          "words": "Diet Sprite"
+        },
+        {
+          "startTimeMs": "26370",
+          "words": "I'm on fire"
+        },
+        {
+          "startTimeMs": "28800",
+          "words": "Imma cry"
+        },
+        {
+          "startTimeMs": "30390",
+          "words": "Tell me I'm the shit 'cause I'm the B-E-S-T"
+        },
+        {
+          "startTimeMs": "35190",
+          "words": "Baby wash your feet 'cause you're so N-A-nasty"
+        },
+        {
+          "startTimeMs": "40120",
+          "words": "Hey, what you doing over there?"
+        },
+        {
+          "startTimeMs": "44440",
+          "words": "Shoot if you wanna wear your boots"
+        },
+        {
+          "startTimeMs": "47380",
+          "words": "If you wanna lick your shoes"
+        },
+        {
+          "startTimeMs": "49560",
+          "words": "If you wanna meet your cru-u-u-ush"
+        },
+        {
+          "startTimeMs": "53740",
+          "words": "Fight if you wanna be polite"
+        },
+        {
+          "startTimeMs": "56600",
+          "words": "If you wanna say your shit"
+        },
+        {
+          "startTimeMs": "59100",
+          "words": "If you wanna have some ki-i-i-ids"
+        },
+        {
+          "startTimeMs": "62820",
+          "words": "Do you wanna get some breadsticks? That's the question (yeah)"
+        },
+        {
+          "startTimeMs": "67380",
+          "words": "If I achoo side your house, that's a blessing"
+        },
+        {
+          "startTimeMs": "71850",
+          "words": "Come be my baby, here's a binky for you"
+        },
+        {
+          "startTimeMs": "76630",
+          "words": "Let's make it peachy, show me what you can do"
+        },
+        {
+          "startTimeMs": "82220",
+          "words": "Up, down, turn around"
+        },
+        {
+          "startTimeMs": "84630",
+          "words": "Lean back, hit the ground"
+        },
+        {
+          "startTimeMs": "86800",
+          "words": "Stop, take control"
+        },
+        {
+          "startTimeMs": "89180",
+          "words": "Move your hips, polly roll"
+        },
+        {
+          "startTimeMs": "91260",
+          "words": "Now grab someone"
+        },
+        {
+          "startTimeMs": "92640",
+          "words": "Get real close"
+        },
+        {
+          "startTimeMs": "93620",
+          "words": "Take a hint, move real slow"
+        },
+        {
+          "startTimeMs": "97450",
+          "words": "Move real slow"
+        },
+        {
+          "startTimeMs": "99510",
+          "words": "Move real slow"
+        },
+        {
+          "startTimeMs": "101490",
+          "words": "Hey, what you doing over there?"
+        },
+        {
+          "startTimeMs": "105460",
+          "words": "Shoot if you wanna wear your boots"
+        },
+        {
+          "startTimeMs": "108680",
+          "words": "If you wanna lick your shoes"
+        },
+        {
+          "startTimeMs": "110750",
+          "words": "If you wanna meet your cru-u-u-ush"
+        },
+        {
+          "startTimeMs": "114790",
+          "words": "Fight if you wanna be polite"
+        },
+        {
+          "startTimeMs": "118020",
+          "words": "If you wanna say your shit"
+        },
+        {
+          "startTimeMs": "120350",
+          "words": "If you wanna have some ki-i-i-ids"
+        },
+        {
+          "startTimeMs": "124370",
+          "words": "Shoot if you wanna wear your boots"
+        },
+        {
+          "startTimeMs": "127310",
+          "words": "If you wanna lick your shoes"
+        },
+        {
+          "startTimeMs": "129450",
+          "words": "If you wanna meet your cru-u-u-ush"
+        },
+        {
+          "startTimeMs": "133960",
+          "words": "Fight if you wanna be polite"
+        },
+        {
+          "startTimeMs": "136840",
+          "words": "If you wanna say your shit"
+        },
+        {
+          "startTimeMs": "139280",
+          "words": "If you wanna have some ki-i-i-ids"
+        }
+      ]
+    }
+  }
+}

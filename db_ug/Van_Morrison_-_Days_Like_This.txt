@@ -1,0 +1,9 @@
+{
+  "track_id": "3xINh6YqkLfucEtjoa4x7D",
+  "track_name": "Days Like This",
+  "artist_name": "Van Morrison",
+  "timestamp": "2025-03-23 15:10:32",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/van-morrison/days-like-this-chords-1203987",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>DAYS LIKE THIS CHORDS (ver 2) by Van Morrison @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] F C F C x2 [Verse 1] C Am F C When it’s not always raining there’ll be days like this C Am F C When there’s no one complaining there’ll be days like this F G C G Am Ev"
+}

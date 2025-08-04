@@ -1,0 +1,177 @@
+{
+  "track_id": "2jdAk8ATWIL3dwT47XpRfu",
+  "track_name": "Slow Dancing in a Burning Room",
+  "artist_name": "John Mayer",
+  "timestamp": "2025-03-24 17:17:21",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "29160",
+          "words": "It's not a silly little moment"
+        },
+        {
+          "startTimeMs": "32970",
+          "words": "It's not the storm before the calm"
+        },
+        {
+          "startTimeMs": "36550",
+          "words": "This is the deep and dying breath of"
+        },
+        {
+          "startTimeMs": "39360",
+          "words": "This love that we've been working on"
+        },
+        {
+          "startTimeMs": "43400",
+          "words": "Can't seem to hold you like I want to"
+        },
+        {
+          "startTimeMs": "47070",
+          "words": "So I can feel you in my arms"
+        },
+        {
+          "startTimeMs": "50640",
+          "words": "Nobody's gonna come and save you"
+        },
+        {
+          "startTimeMs": "53600",
+          "words": "We pulled too many false alarms"
+        },
+        {
+          "startTimeMs": "57270",
+          "words": "We're going down"
+        },
+        {
+          "startTimeMs": "61650",
+          "words": "And you can see it too"
+        },
+        {
+          "startTimeMs": "64520",
+          "words": "We're going down"
+        },
+        {
+          "startTimeMs": "68810",
+          "words": "And you know that we're doomed"
+        },
+        {
+          "startTimeMs": "71950",
+          "words": "My dear"
+        },
+        {
+          "startTimeMs": "73420",
+          "words": "We're slow dancing in a burning room"
+        },
+        {
+          "startTimeMs": "93870",
+          "words": "I was the one you always dreamed of"
+        },
+        {
+          "startTimeMs": "97310",
+          "words": "You were the one I tried to draw"
+        },
+        {
+          "startTimeMs": "100960",
+          "words": "How dare you say it's nothing to me?"
+        },
+        {
+          "startTimeMs": "103880",
+          "words": "Baby, you're the only light I ever saw"
+        },
+        {
+          "startTimeMs": "108090",
+          "words": "I'll make the most of all the sadness"
+        },
+        {
+          "startTimeMs": "111570",
+          "words": "You'll be a bitch because you can"
+        },
+        {
+          "startTimeMs": "114800",
+          "words": "You try to hit me just to hurt me"
+        },
+        {
+          "startTimeMs": "117130",
+          "words": "So you leave me feeling dirty"
+        },
+        {
+          "startTimeMs": "118810",
+          "words": "'Cause you can't understand"
+        },
+        {
+          "startTimeMs": "121410",
+          "words": "We're going down"
+        },
+        {
+          "startTimeMs": "126280",
+          "words": "And you can see it too"
+        },
+        {
+          "startTimeMs": "128600",
+          "words": "We're going down"
+        },
+        {
+          "startTimeMs": "133150",
+          "words": "And you know that we're doomed"
+        },
+        {
+          "startTimeMs": "136460",
+          "words": "My dear"
+        },
+        {
+          "startTimeMs": "137850",
+          "words": "We're slow dancing in a burning room"
+        },
+        {
+          "startTimeMs": "158650",
+          "words": "Go cry about it, why don't you?"
+        },
+        {
+          "startTimeMs": "165580",
+          "words": "Go cry about it, why don't you?"
+        },
+        {
+          "startTimeMs": "172920",
+          "words": "Go cry about it, why don't you?"
+        },
+        {
+          "startTimeMs": "179220",
+          "words": "My dear, we're slow dancing in a burning room"
+        },
+        {
+          "startTimeMs": "205130",
+          "words": "Burning room"
+        },
+        {
+          "startTimeMs": "212380",
+          "words": "Burning room"
+        },
+        {
+          "startTimeMs": "214630",
+          "words": "Don't you think we oughta know by now?"
+        },
+        {
+          "startTimeMs": "218300",
+          "words": "Don't you think we should have learned somehow?"
+        },
+        {
+          "startTimeMs": "221920",
+          "words": "Dont you think we oughta know by now?"
+        },
+        {
+          "startTimeMs": "225630",
+          "words": "Dont you think we should have learned somehow?"
+        },
+        {
+          "startTimeMs": "228980",
+          "words": "Don't you think we oughta know by now?"
+        },
+        {
+          "startTimeMs": "233070",
+          "words": "Don't you think we should have learned somehow?"
+        }
+      ]
+    }
+  }
+}

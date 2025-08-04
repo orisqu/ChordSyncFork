@@ -1,0 +1,201 @@
+{
+  "track_id": "0lQL2slfegu8LCj6tsMeXD",
+  "track_name": "lucky girl syndrome",
+  "artist_name": "Samantha Leah",
+  "timestamp": "2025-03-21 17:46:10",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "14120",
+          "words": "I am the vision of my loved ones dreams"
+        },
+        {
+          "startTimeMs": "21690",
+          "words": "I am the space above below within and in between"
+        },
+        {
+          "startTimeMs": "29060",
+          "words": "I am the earth"
+        },
+        {
+          "startTimeMs": "32720",
+          "words": "I ground in Her"
+        },
+        {
+          "startTimeMs": "36430",
+          "words": "I am the stars"
+        },
+        {
+          "startTimeMs": "40050",
+          "words": "Expand myself"
+        },
+        {
+          "startTimeMs": "41900",
+          "words": "So very far"
+        },
+        {
+          "startTimeMs": "44410",
+          "words": "They'll try to box you in"
+        },
+        {
+          "startTimeMs": "47440",
+          "words": "Try to tell you"
+        },
+        {
+          "startTimeMs": "48400",
+          "words": "You're not good enough"
+        },
+        {
+          "startTimeMs": "49640",
+          "words": "Stop listening"
+        },
+        {
+          "startTimeMs": "52020",
+          "words": "How can I pretend"
+        },
+        {
+          "startTimeMs": "54770",
+          "words": "When I'm the luckiest girl in the world"
+        },
+        {
+          "startTimeMs": "58610",
+          "words": "I'm a lucky lucky girl"
+        },
+        {
+          "startTimeMs": "62230",
+          "words": "In a lucky lucky world"
+        },
+        {
+          "startTimeMs": "65930",
+          "words": "If I see it, I have it"
+        },
+        {
+          "startTimeMs": "67830",
+          "words": "If I want it, I grab it"
+        },
+        {
+          "startTimeMs": "69610",
+          "words": "It all works in my favor"
+        },
+        {
+          "startTimeMs": "71540",
+          "words": "Like magic"
+        },
+        {
+          "startTimeMs": "74680",
+          "words": "Took me really long to know that I was good enough"
+        },
+        {
+          "startTimeMs": "78200",
+          "words": "Probably 'cause we're told we're just a bunch of random stuff"
+        },
+        {
+          "startTimeMs": "82080",
+          "words": "Stuck on a rock without a purpose"
+        },
+        {
+          "startTimeMs": "85780",
+          "words": "Wondered what I did to deserve this"
+        },
+        {
+          "startTimeMs": "89450",
+          "words": "Victim mentality was gripping me"
+        },
+        {
+          "startTimeMs": "93140",
+          "words": "Locked up in chains because I couldn't see"
+        },
+        {
+          "startTimeMs": "96690",
+          "words": "And I'm not to blame but"
+        },
+        {
+          "startTimeMs": "98340",
+          "words": "I acknowledge my pain"
+        },
+        {
+          "startTimeMs": "100010",
+          "words": "And yet I'm still here to claim"
+        },
+        {
+          "startTimeMs": "101790",
+          "words": "My victory like"
+        },
+        {
+          "startTimeMs": "103650",
+          "words": "They'll try to box you in"
+        },
+        {
+          "startTimeMs": "106520",
+          "words": "Try to tell you"
+        },
+        {
+          "startTimeMs": "107520",
+          "words": "You're not good enough"
+        },
+        {
+          "startTimeMs": "108740",
+          "words": "Stop listening"
+        },
+        {
+          "startTimeMs": "111280",
+          "words": "How can I pretend"
+        },
+        {
+          "startTimeMs": "113740",
+          "words": "When I'm the luckiest girl in the world"
+        },
+        {
+          "startTimeMs": "117680",
+          "words": "I'm a lucky lucky girl"
+        },
+        {
+          "startTimeMs": "121340",
+          "words": "In a lucky lucky world"
+        },
+        {
+          "startTimeMs": "125040",
+          "words": "If I see it, I have it"
+        },
+        {
+          "startTimeMs": "127390",
+          "words": "If I want it, I grab it"
+        },
+        {
+          "startTimeMs": "128790",
+          "words": "It all works in my favor"
+        },
+        {
+          "startTimeMs": "130650",
+          "words": "Like magic"
+        },
+        {
+          "startTimeMs": "132440",
+          "words": "I'm a lucky lucky girl"
+        },
+        {
+          "startTimeMs": "136110",
+          "words": "In a lucky lucky world"
+        },
+        {
+          "startTimeMs": "139830",
+          "words": "If I see it, I have it"
+        },
+        {
+          "startTimeMs": "141660",
+          "words": "If I want it, I grab it"
+        },
+        {
+          "startTimeMs": "143550",
+          "words": "It all works in my favor"
+        },
+        {
+          "startTimeMs": "145350",
+          "words": "Like magic"
+        }
+      ]
+    }
+  }
+}

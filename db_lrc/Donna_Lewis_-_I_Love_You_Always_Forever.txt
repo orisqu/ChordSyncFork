@@ -1,0 +1,253 @@
+{
+  "track_id": "1PEqh7awkpuepLBSq8ZwqD",
+  "track_name": "I Love You Always Forever",
+  "artist_name": "Donna Lewis",
+  "timestamp": "2025-03-23 01:42:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "2690",
+          "words": "Feels like I'm standing in a timeless dream"
+        },
+        {
+          "startTimeMs": "9750",
+          "words": "Of light mists with pale amber rose"
+        },
+        {
+          "startTimeMs": "18410",
+          "words": "Feels like I'm lost in a deep cloud of heavenly scent"
+        },
+        {
+          "startTimeMs": "29090",
+          "words": "Touching, discovering you"
+        },
+        {
+          "startTimeMs": "47150",
+          "words": "Those days of warm rains come rushing back to me"
+        },
+        {
+          "startTimeMs": "56020",
+          "words": "Miles of windless summer nights (Summer nights)"
+        },
+        {
+          "startTimeMs": "65230",
+          "words": "Secret moments shared within the heat of the afternoon"
+        },
+        {
+          "startTimeMs": "74540",
+          "words": "Out of the stillness, soft spoken words"
+        },
+        {
+          "startTimeMs": "82980",
+          "words": "Say it, say it again"
+        },
+        {
+          "startTimeMs": "85040",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "86680",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "88940",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "91340",
+          "words": "Everything I will do for you"
+        },
+        {
+          "startTimeMs": "93590",
+          "words": "Say it, say it again"
+        },
+        {
+          "startTimeMs": "94890",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "95950",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "98440",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "100710",
+          "words": "Everything I will do for you"
+        },
+        {
+          "startTimeMs": "102730",
+          "words": "You've got..."
+        },
+        {
+          "startTimeMs": "105260",
+          "words": "The most unbelievable blue eyes I've ever seen"
+        },
+        {
+          "startTimeMs": "111050",
+          "words": "You've got..."
+        },
+        {
+          "startTimeMs": "114750",
+          "words": "Me almost melting away"
+        },
+        {
+          "startTimeMs": "119600",
+          "words": "As we lay there"
+        },
+        {
+          "startTimeMs": "124060",
+          "words": "Under a blue sky with pure white stars"
+        },
+        {
+          "startTimeMs": "130000",
+          "words": "Exotic sweetness"
+        },
+        {
+          "startTimeMs": "133590",
+          "words": "A magical time"
+        },
+        {
+          "startTimeMs": "138470",
+          "words": "Say it, say it again"
+        },
+        {
+          "startTimeMs": "140380",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "142370",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "144420",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "146630",
+          "words": "Everything I will do for you (Say it, say it again)"
+        },
+        {
+          "startTimeMs": "149570",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "151560",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "153740",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "155670",
+          "words": "Everything I will do for you"
+        },
+        {
+          "startTimeMs": "157820",
+          "words": "Say you'll love and love me forever"
+        },
+        {
+          "startTimeMs": "161060",
+          "words": "Never stop, never whatever"
+        },
+        {
+          "startTimeMs": "162990",
+          "words": "Near and far and always everywhere and everything"
+        },
+        {
+          "startTimeMs": "167660",
+          "words": "Say you'll love and love me forever"
+        },
+        {
+          "startTimeMs": "169750",
+          "words": "Never stop, never whatever"
+        },
+        {
+          "startTimeMs": "171930",
+          "words": "Near and far and always everywhere and everything"
+        },
+        {
+          "startTimeMs": "174540",
+          "words": "Say you'll love and love me forever"
+        },
+        {
+          "startTimeMs": "179100",
+          "words": "Never stop, never whatever"
+        },
+        {
+          "startTimeMs": "181480",
+          "words": "Near and far and always everywhere and everything"
+        },
+        {
+          "startTimeMs": "186140",
+          "words": "Say you'll love and love me forever"
+        },
+        {
+          "startTimeMs": "188490",
+          "words": "Never stop, never whatever"
+        },
+        {
+          "startTimeMs": "190630",
+          "words": "Near and far and always everywhere and everything"
+        },
+        {
+          "startTimeMs": "204580",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "207110",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "209360",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "211650",
+          "words": "Everything I will do for you"
+        },
+        {
+          "startTimeMs": "213960",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "216120",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "218550",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "220930",
+          "words": "Everything I will do for you"
+        },
+        {
+          "startTimeMs": "223220",
+          "words": "I love you always forever"
+        },
+        {
+          "startTimeMs": "225640",
+          "words": "Near or far, closer together"
+        },
+        {
+          "startTimeMs": "227900",
+          "words": "Everywhere I will be with you"
+        },
+        {
+          "startTimeMs": "230200",
+          "words": "Everything I will do for you"
+        },
+        {
+          "startTimeMs": "232410",
+          "words": "I love you always forever"
+        }
+      ]
+    }
+  }
+}

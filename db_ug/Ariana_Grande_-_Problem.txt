@@ -1,0 +1,9 @@
+{
+  "track_id": "7vS3Y0IKjde7Xg85LWIEdP",
+  "track_name": "Problem",
+  "artist_name": "Ariana Grande",
+  "timestamp": "2025-04-07 17:23:38",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/ariana-grande/problem-chords-1480411",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>PROBLEM CHORDS by Ariana Grande  feat. Iggy Azalea @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"The instrumental &quot;breaks&quot; and Iggy&#039;s verse are both only G#m. Feel free to send your feedback, comment and rate :) I don&#039;t know, it might sound weird "
+}

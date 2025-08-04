@@ -1,0 +1,189 @@
+{
+  "track_id": "6Ac4NVYYl2U73QiTt11ZKd",
+  "track_name": "Hooked On A Feeling",
+  "artist_name": "Blue Swede",
+  "timestamp": "2025-03-21 22:47:35",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "270",
+          "words": "Ooga-Chaka Ooga-Ooga"
+        },
+        {
+          "startTimeMs": "3280",
+          "words": "Ooga-Chaka Ooga-Ooga"
+        },
+        {
+          "startTimeMs": "5360",
+          "words": "Ooga-Chaka Ooga-Ooga"
+        },
+        {
+          "startTimeMs": "7250",
+          "words": "Ooga-Chaka Ooga-Ooga"
+        },
+        {
+          "startTimeMs": "9340",
+          "words": "I can't stop this feeling"
+        },
+        {
+          "startTimeMs": "13440",
+          "words": "Deep inside of me"
+        },
+        {
+          "startTimeMs": "17810",
+          "words": "Girl, you just don't realize"
+        },
+        {
+          "startTimeMs": "21080",
+          "words": "What you do to me"
+        },
+        {
+          "startTimeMs": "24840",
+          "words": "When you hold me"
+        },
+        {
+          "startTimeMs": "27390",
+          "words": "In your arms so tight"
+        },
+        {
+          "startTimeMs": "29330",
+          "words": "You let me know"
+        },
+        {
+          "startTimeMs": "31890",
+          "words": "Everything's alright"
+        },
+        {
+          "startTimeMs": "34010",
+          "words": "I'm hooked on a feeling"
+        },
+        {
+          "startTimeMs": "41360",
+          "words": "I'm high on believing"
+        },
+        {
+          "startTimeMs": "44950",
+          "words": "That you're in love with me"
+        },
+        {
+          "startTimeMs": "50560",
+          "words": "Lips as sweet as candy"
+        },
+        {
+          "startTimeMs": "55230",
+          "words": "It's taste is on my mind"
+        },
+        {
+          "startTimeMs": "59260",
+          "words": "Girl, you got me thirsty"
+        },
+        {
+          "startTimeMs": "62230",
+          "words": "For another cup of wine"
+        },
+        {
+          "startTimeMs": "67220",
+          "words": "Got a bug from you girl"
+        },
+        {
+          "startTimeMs": "71150",
+          "words": "But I don't need no cure"
+        },
+        {
+          "startTimeMs": "75510",
+          "words": "I just stay a victim"
+        },
+        {
+          "startTimeMs": "78300",
+          "words": "If I can for sure"
+        },
+        {
+          "startTimeMs": "83310",
+          "words": "All the good love"
+        },
+        {
+          "startTimeMs": "84320",
+          "words": "When we're all alone"
+        },
+        {
+          "startTimeMs": "86530",
+          "words": "Keep it up girl"
+        },
+        {
+          "startTimeMs": "88390",
+          "words": "Yeah, you turn me on"
+        },
+        {
+          "startTimeMs": "91190",
+          "words": "I'm hooked on a feeling"
+        },
+        {
+          "startTimeMs": "98580",
+          "words": "I'm high on believing"
+        },
+        {
+          "startTimeMs": "102250",
+          "words": "That you're in love with me"
+        },
+        {
+          "startTimeMs": "119400",
+          "words": "All the good love"
+        },
+        {
+          "startTimeMs": "122240",
+          "words": "When we're all alone"
+        },
+        {
+          "startTimeMs": "124150",
+          "words": "Keep it up, girl"
+        },
+        {
+          "startTimeMs": "126360",
+          "words": "Yeah, you turn me on"
+        },
+        {
+          "startTimeMs": "129090",
+          "words": "I'm hooked on a feeling"
+        },
+        {
+          "startTimeMs": "136080",
+          "words": "I'm high on believing"
+        },
+        {
+          "startTimeMs": "140110",
+          "words": "That you're in love with me"
+        },
+        {
+          "startTimeMs": "143490",
+          "words": "I'm hooked on a feeling"
+        },
+        {
+          "startTimeMs": "147960",
+          "words": "And I'm high on believing"
+        },
+        {
+          "startTimeMs": "151840",
+          "words": "That you're in love with me"
+        },
+        {
+          "startTimeMs": "155900",
+          "words": "I said I'm hooked on a feeling"
+        },
+        {
+          "startTimeMs": "159790",
+          "words": "And I'm high on believing"
+        },
+        {
+          "startTimeMs": "163740",
+          "words": "That you're in love with me"
+        },
+        {
+          "startTimeMs": "168210",
+          "words": "I'm hooked on a feeling"
+        }
+      ]
+    }
+  }
+}

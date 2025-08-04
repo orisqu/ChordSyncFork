@@ -1,0 +1,197 @@
+{
+  "track_id": "22vgEDb5hykfaTwLuskFGD",
+  "track_name": "Sucker",
+  "artist_name": "Jonas Brothers",
+  "timestamp": "2025-03-21 23:38:34",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "50",
+          "words": "We go together"
+        },
+        {
+          "startTimeMs": "2850",
+          "words": "Better than birds of a feather, you and me"
+        },
+        {
+          "startTimeMs": "7480",
+          "words": "We change the weather, yeah"
+        },
+        {
+          "startTimeMs": "10120",
+          "words": "I'm feeling heat in December when you're 'round me"
+        },
+        {
+          "startTimeMs": "14020",
+          "words": "I've been dancing on top of cars and stumbling out of bars"
+        },
+        {
+          "startTimeMs": "17730",
+          "words": "I follow you through the dark, can't get enough"
+        },
+        {
+          "startTimeMs": "21080",
+          "words": "You're the medicine and the pain, the tattoo inside my brain"
+        },
+        {
+          "startTimeMs": "24330",
+          "words": "And, baby, you know it's obvious"
+        },
+        {
+          "startTimeMs": "27000",
+          "words": "I'm a sucker for you"
+        },
+        {
+          "startTimeMs": "30220",
+          "words": "Say the word and I'll go anywhere blindly"
+        },
+        {
+          "startTimeMs": "34230",
+          "words": "I'm a sucker for you, yeah"
+        },
+        {
+          "startTimeMs": "37980",
+          "words": "Any road you take, you know that you'll find me"
+        },
+        {
+          "startTimeMs": "41170",
+          "words": "I'm a sucker for all the subliminal things"
+        },
+        {
+          "startTimeMs": "45350",
+          "words": "No one knows about you, about you, about you, about you"
+        },
+        {
+          "startTimeMs": "49190",
+          "words": "And you're making the typical me, break my typical rules"
+        },
+        {
+          "startTimeMs": "54630",
+          "words": "It's true, I'm a sucker for you, yeah"
+        },
+        {
+          "startTimeMs": "59670",
+          "words": "Don't complicate it (yeah)"
+        },
+        {
+          "startTimeMs": "62360",
+          "words": "'Cause I know you and you know everything about me"
+        },
+        {
+          "startTimeMs": "66360",
+          "words": "I can't remember (yeah) all of the nights"
+        },
+        {
+          "startTimeMs": "69830",
+          "words": "I don't remember when you're 'round me (oh, yeah, yeah)"
+        },
+        {
+          "startTimeMs": "73250",
+          "words": "I've been dancing on top of cars and stumbling out of bars"
+        },
+        {
+          "startTimeMs": "76740",
+          "words": "I follow you through the dark, can't get enough"
+        },
+        {
+          "startTimeMs": "79700",
+          "words": "You're the medicine and the pain, the tattoo inside my brain"
+        },
+        {
+          "startTimeMs": "83660",
+          "words": "And, baby, you know it's obvious"
+        },
+        {
+          "startTimeMs": "86270",
+          "words": "I'm a sucker for you"
+        },
+        {
+          "startTimeMs": "89610",
+          "words": "Say the word and I'll go anywhere blindly"
+        },
+        {
+          "startTimeMs": "93280",
+          "words": "I'm a sucker for you, yeah"
+        },
+        {
+          "startTimeMs": "96750",
+          "words": "Any road you take, you know that you'll find me"
+        },
+        {
+          "startTimeMs": "100010",
+          "words": "I'm a sucker for all the subliminal things"
+        },
+        {
+          "startTimeMs": "103630",
+          "words": "No one knows about you, about you, about you, about you"
+        },
+        {
+          "startTimeMs": "108110",
+          "words": "And you're making the typical me, break my typical rules"
+        },
+        {
+          "startTimeMs": "113470",
+          "words": "It's true, I'm a sucker for you, yeah"
+        },
+        {
+          "startTimeMs": "122490",
+          "words": "(I'm a sucker for you)"
+        },
+        {
+          "startTimeMs": "129390",
+          "words": "I've been dancing on top of cars and stumbling out of bars"
+        },
+        {
+          "startTimeMs": "132890",
+          "words": "I follow you through the dark, can't get enough"
+        },
+        {
+          "startTimeMs": "136020",
+          "words": "You're the medicine and the pain, the tattoo inside my brain"
+        },
+        {
+          "startTimeMs": "139830",
+          "words": "And, baby, you know it's obvious"
+        },
+        {
+          "startTimeMs": "142380",
+          "words": "I'm a sucker for you, yeah"
+        },
+        {
+          "startTimeMs": "145550",
+          "words": "Say the word and I'll go anywhere blindly"
+        },
+        {
+          "startTimeMs": "149040",
+          "words": "I'm a sucker for you, yeah"
+        },
+        {
+          "startTimeMs": "152500",
+          "words": "Any road you take, you know that you'll find me"
+        },
+        {
+          "startTimeMs": "156090",
+          "words": "I'm a sucker for all the subliminal things"
+        },
+        {
+          "startTimeMs": "160520",
+          "words": "No one knows about you, about you, about you, about you"
+        },
+        {
+          "startTimeMs": "164280",
+          "words": "And you're making the typical me break my typical rules"
+        },
+        {
+          "startTimeMs": "169050",
+          "words": "It's true, I'm a sucker for you"
+        },
+        {
+          "startTimeMs": "177920",
+          "words": "I'm a sucker for you"
+        }
+      ]
+    }
+  }
+}

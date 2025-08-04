@@ -1,0 +1,9 @@
+{
+  "track_id": "5Nm9ERjJZ5oyfXZTECKmRt",
+  "track_name": "Stay With Me",
+  "artist_name": "Sam Smith",
+  "timestamp": "2025-03-23 01:38:53",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/sam-smith/stay-with-me-chords-1473600",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>STAY WITH ME CHORDS by Sam Smith @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"* = strum once [Intro] Am7 F C Am7 F C [Verse 1] Am7 F C Guess it&#039;s true, I&#039;m not good at a one-night stand Am7 F C But I still need love &#039;cause I&#039;m just a man Am7 F C "
+}

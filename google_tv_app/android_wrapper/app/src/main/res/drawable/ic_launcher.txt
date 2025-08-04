@@ -1,0 +1,15 @@
+ChordSync TV App Icon
+
+This is a placeholder for the app icon. The actual icon should be a PNG file named ic_launcher.png with the following specifications:
+
+- Size: 512x512 pixels
+- Background: Dark gray (#121212)
+- Foreground: Spotify green (#1DB954) guitar/music note design
+- Text: "ChordSync TV" in white
+
+Create different sizes of this icon for different screen densities:
+- res/drawable-mdpi/ic_launcher.png (48x48)
+- res/drawable-hdpi/ic_launcher.png (72x72)
+- res/drawable-xhdpi/ic_launcher.png (96x96)
+- res/drawable-xxhdpi/ic_launcher.png (144x144)
+- res/drawable-xxxhdpi/ic_launcher.png (192x192)

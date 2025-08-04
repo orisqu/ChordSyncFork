@@ -1,0 +1,189 @@
+{
+  "track_id": "4C3DueGGu0jbDeIZSQqnNw",
+  "track_name": "Dance Monkey - Acoustic",
+  "artist_name": "Andie Case",
+  "timestamp": "2025-03-23 14:54:52",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "50",
+          "words": "They say oh my god I see the way you shine"
+        },
+        {
+          "startTimeMs": "4760",
+          "words": "Take your hand, my dear, and place them both in mine"
+        },
+        {
+          "startTimeMs": "9520",
+          "words": "You know you stopped me dead when I was passing by"
+        },
+        {
+          "startTimeMs": "14890",
+          "words": "And now I beg to see you dance just one more time"
+        },
+        {
+          "startTimeMs": "19030",
+          "words": "Ooh I see you, see you, see you every time"
+        },
+        {
+          "startTimeMs": "24550",
+          "words": "And oh my I, I like your style"
+        },
+        {
+          "startTimeMs": "29040",
+          "words": "You, you make me, make me, make me wanna cry"
+        },
+        {
+          "startTimeMs": "34380",
+          "words": "And now I beg to see you dance just one more time"
+        },
+        {
+          "startTimeMs": "38830",
+          "words": "So I say"
+        },
+        {
+          "startTimeMs": "40130",
+          "words": "Dance for me, dance for me, dance for me, oh, oh, oh"
+        },
+        {
+          "startTimeMs": "43840",
+          "words": "I've never seen anybody do the things you do before"
+        },
+        {
+          "startTimeMs": "48600",
+          "words": "They say move for me, move for me, move for me, ay, ay, ay"
+        },
+        {
+          "startTimeMs": "53780",
+          "words": "And when you're done I'll make you do it all again"
+        },
+        {
+          "startTimeMs": "58170",
+          "words": "I said oh my god I see you walking by"
+        },
+        {
+          "startTimeMs": "63820",
+          "words": "Take my hands, my dear, and look me in my eyes"
+        },
+        {
+          "startTimeMs": "68030",
+          "words": "Just like a monkey I've been dancing my whole life"
+        },
+        {
+          "startTimeMs": "73120",
+          "words": "And you just beg to see me dance just one more time"
+        },
+        {
+          "startTimeMs": "77810",
+          "words": "Ooh I see you, see you, see you every time"
+        },
+        {
+          "startTimeMs": "82890",
+          "words": "And oh my I, I I like your style"
+        },
+        {
+          "startTimeMs": "87210",
+          "words": "You, you make me, make me, make me wanna cry"
+        },
+        {
+          "startTimeMs": "93030",
+          "words": "And now I beg to see you dance just one more time"
+        },
+        {
+          "startTimeMs": "97370",
+          "words": "So let's say"
+        },
+        {
+          "startTimeMs": "99050",
+          "words": "Dance for me, dance for me, dance for me, oh, oh, oh"
+        },
+        {
+          "startTimeMs": "103220",
+          "words": "I've never seen anybody do the things you do before"
+        },
+        {
+          "startTimeMs": "107320",
+          "words": "They say move for me, move for me, move for me, ay, ay, ay"
+        },
+        {
+          "startTimeMs": "112780",
+          "words": "And when you're done I'll make you do it all again"
+        },
+        {
+          "startTimeMs": "117090",
+          "words": "They say"
+        },
+        {
+          "startTimeMs": "118600",
+          "words": "Dance for me, dance for me, dance for me, oh, oh, oh, oh, oh, oh, oh"
+        },
+        {
+          "startTimeMs": "122830",
+          "words": "I've never seen anybody do the things you do before"
+        },
+        {
+          "startTimeMs": "127360",
+          "words": "They say move for me, move for me, move for me, ay, ay, ay"
+        },
+        {
+          "startTimeMs": "132060",
+          "words": "And when you're done I'll make you do it all again"
+        },
+        {
+          "startTimeMs": "137090",
+          "words": "Ooh, ooh, ooh, ooh, ooh, oh oh, oh oh"
+        },
+        {
+          "startTimeMs": "147820",
+          "words": "Ooh, ooh, ooh, ooh, ooh, oh oh, oh oh"
+        },
+        {
+          "startTimeMs": "156480",
+          "words": "They say"
+        },
+        {
+          "startTimeMs": "157580",
+          "words": "Dance for me, dance for me, dance for me, oh, oh, oh"
+        },
+        {
+          "startTimeMs": "160960",
+          "words": "I've never seen anybody do the things you do before"
+        },
+        {
+          "startTimeMs": "166230",
+          "words": "They say move for me, move for me, move for me, ay, ay, ay"
+        },
+        {
+          "startTimeMs": "171330",
+          "words": "And when you're done I'll make you do it all again"
+        },
+        {
+          "startTimeMs": "176140",
+          "words": "They say"
+        },
+        {
+          "startTimeMs": "177470",
+          "words": "Dance for me, dance for me, dance for me, oh, oh, oh, oh, oh, oh, oh"
+        },
+        {
+          "startTimeMs": "181450",
+          "words": "I've never seen anybody do the things you do before"
+        },
+        {
+          "startTimeMs": "185790",
+          "words": "They say move for me, move for me, move for me, ay, ay, ay"
+        },
+        {
+          "startTimeMs": "191180",
+          "words": "And when you're done I'll make you do it all again"
+        },
+        {
+          "startTimeMs": "195730",
+          "words": "All again"
+        }
+      ]
+    }
+  }
+}

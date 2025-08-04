@@ -1,0 +1,9 @@
+{
+  "track_id": "4fHDlIntTsRGSyTg5UYZYC",
+  "track_name": "Banana Boat (Day-O)",
+  "artist_name": "Harry Belafonte",
+  "timestamp": "2025-03-21 23:08:49",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/harry-belafonte/banana-boat-song-chords-1216378",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BANANA BOAT SONG CHORDS (ver 2) by Harry Belafonte @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Chorus] D A Day-o, Day-ay-ay-o D A D Daylight come and me wan&#039; go home D Day, me say day, me say day, me say day A Me say day, me say day-ay-ay-o D A D Daylight com"
+}

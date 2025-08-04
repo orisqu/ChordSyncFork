@@ -1,0 +1,9 @@
+{
+  "track_id": "4C3DueGGu0jbDeIZSQqnNw",
+  "track_name": "Dance Monkey - Acoustic",
+  "artist_name": "Andie Case",
+  "timestamp": "2025-03-24 18:30:49",
+  "source_link": "https://www.google.de/search?q=Andie Case dance monkey - acoustic chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

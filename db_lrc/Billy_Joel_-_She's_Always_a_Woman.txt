@@ -1,0 +1,177 @@
+{
+  "track_id": "5RgFlk1fcClZd0Y4SGYhqH",
+  "track_name": "She's Always a Woman",
+  "artist_name": "Billy Joel",
+  "timestamp": "2025-03-23 15:10:23",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "7050",
+          "words": "She can kill with a smile, she can wound with her eyes"
+        },
+        {
+          "startTimeMs": "13260",
+          "words": "And she can ruin your faith with her casual lies"
+        },
+        {
+          "startTimeMs": "18720",
+          "words": "And she only reveals what she wants you to see"
+        },
+        {
+          "startTimeMs": "24290",
+          "words": "She hides like a child"
+        },
+        {
+          "startTimeMs": "26030",
+          "words": "But she's always a woman to me"
+        },
+        {
+          "startTimeMs": "31850",
+          "words": "She can lead you to love"
+        },
+        {
+          "startTimeMs": "33540",
+          "words": "She can take you or leave you"
+        },
+        {
+          "startTimeMs": "36880",
+          "words": "She can ask for the truth"
+        },
+        {
+          "startTimeMs": "38530",
+          "words": "But she'll never believe"
+        },
+        {
+          "startTimeMs": "42020",
+          "words": "And she'll take what you give her as long as it's free"
+        },
+        {
+          "startTimeMs": "47040",
+          "words": "Yeah, she steals like a thief"
+        },
+        {
+          "startTimeMs": "48700",
+          "words": "But she's always a woman to me"
+        },
+        {
+          "startTimeMs": "55380",
+          "words": "Oh, she takes care of herself"
+        },
+        {
+          "startTimeMs": "62270",
+          "words": "She can wait if she wants"
+        },
+        {
+          "startTimeMs": "66220",
+          "words": "She's ahead of her time"
+        },
+        {
+          "startTimeMs": "71630",
+          "words": "Oh, and she never gives out"
+        },
+        {
+          "startTimeMs": "78520",
+          "words": "And she never gives in"
+        },
+        {
+          "startTimeMs": "82410",
+          "words": "She just changes her mind"
+        },
+        {
+          "startTimeMs": "87290",
+          "words": "And she'll promise you more"
+        },
+        {
+          "startTimeMs": "89010",
+          "words": "Than the Garden of Eden"
+        },
+        {
+          "startTimeMs": "92230",
+          "words": "Then she'll carelessly cut you"
+        },
+        {
+          "startTimeMs": "94270",
+          "words": "And laugh while you're bleedin'"
+        },
+        {
+          "startTimeMs": "96950",
+          "words": "But she'll bring out the best"
+        },
+        {
+          "startTimeMs": "99020",
+          "words": "And the worst you can be"
+        },
+        {
+          "startTimeMs": "102420",
+          "words": "Blame it all on yourself"
+        },
+        {
+          "startTimeMs": "104080",
+          "words": "'Cause she's always a woman to me"
+        },
+        {
+          "startTimeMs": "122990",
+          "words": "Oh, she takes care of herself"
+        },
+        {
+          "startTimeMs": "129600",
+          "words": "She can wait if she wants"
+        },
+        {
+          "startTimeMs": "133730",
+          "words": "She's ahead of her time"
+        },
+        {
+          "startTimeMs": "139260",
+          "words": "Oh, and she never gives out"
+        },
+        {
+          "startTimeMs": "145960",
+          "words": "And she never gives in"
+        },
+        {
+          "startTimeMs": "149890",
+          "words": "She just changes her mind"
+        },
+        {
+          "startTimeMs": "154430",
+          "words": "She is frequently kind"
+        },
+        {
+          "startTimeMs": "156480",
+          "words": "And she's suddenly cruel"
+        },
+        {
+          "startTimeMs": "159480",
+          "words": "She can do as she pleases"
+        },
+        {
+          "startTimeMs": "161470",
+          "words": "She's nobody's fool"
+        },
+        {
+          "startTimeMs": "164530",
+          "words": "And she can't be convicted"
+        },
+        {
+          "startTimeMs": "166430",
+          "words": "She's earned her degree"
+        },
+        {
+          "startTimeMs": "169340",
+          "words": "And the most she will do"
+        },
+        {
+          "startTimeMs": "171470",
+          "words": "Is throw shadows at you"
+        },
+        {
+          "startTimeMs": "173450",
+          "words": "But she's always a woman to me"
+        }
+      ]
+    }
+  }
+}

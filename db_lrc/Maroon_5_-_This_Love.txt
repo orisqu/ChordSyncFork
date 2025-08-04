@@ -1,0 +1,197 @@
+{
+  "track_id": "6ECp64rv50XVz93WvxXMGF",
+  "track_name": "This Love",
+  "artist_name": "Maroon 5",
+  "timestamp": "2025-03-23 02:17:18",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "20310",
+          "words": "I was so high, I did not recognize"
+        },
+        {
+          "startTimeMs": "23950",
+          "words": "The fire burning in her eyes"
+        },
+        {
+          "startTimeMs": "26580",
+          "words": "The chaos that controlled my mind"
+        },
+        {
+          "startTimeMs": "30530",
+          "words": "Whispered goodbye as she got on a plane"
+        },
+        {
+          "startTimeMs": "34160",
+          "words": "Never to return again but always in my heart, oh"
+        },
+        {
+          "startTimeMs": "41050",
+          "words": "This love has taken its toll on me"
+        },
+        {
+          "startTimeMs": "45390",
+          "words": "She said goodbye too many times before"
+        },
+        {
+          "startTimeMs": "50920",
+          "words": "And her heart is breakin' in front of me"
+        },
+        {
+          "startTimeMs": "55460",
+          "words": "And I have no choice"
+        },
+        {
+          "startTimeMs": "57770",
+          "words": "'Cause I won't say goodbye anymore"
+        },
+        {
+          "startTimeMs": "62350",
+          "words": "Whoa"
+        },
+        {
+          "startTimeMs": "64660",
+          "words": "Whoa"
+        },
+        {
+          "startTimeMs": "67200",
+          "words": "Whoa"
+        },
+        {
+          "startTimeMs": "71170",
+          "words": "I tried my best to feed her appetite"
+        },
+        {
+          "startTimeMs": "74530",
+          "words": "Keep her coming every night"
+        },
+        {
+          "startTimeMs": "76910",
+          "words": "So hard to keep her satisfied, oh"
+        },
+        {
+          "startTimeMs": "80870",
+          "words": "Kept playing love like it was just a game"
+        },
+        {
+          "startTimeMs": "84350",
+          "words": "Pretending to feel the same"
+        },
+        {
+          "startTimeMs": "86920",
+          "words": "Then turn around and leave again, but uh-oh"
+        },
+        {
+          "startTimeMs": "91500",
+          "words": "This love has taken its toll on me"
+        },
+        {
+          "startTimeMs": "95850",
+          "words": "She said goodbye too many times before"
+        },
+        {
+          "startTimeMs": "101410",
+          "words": "And her heart is breakin' in front of me"
+        },
+        {
+          "startTimeMs": "105970",
+          "words": "And I have no choice"
+        },
+        {
+          "startTimeMs": "108210",
+          "words": "'Cause I won't say goodbye anymore"
+        },
+        {
+          "startTimeMs": "112860",
+          "words": "Whoa"
+        },
+        {
+          "startTimeMs": "115380",
+          "words": "Whoa"
+        },
+        {
+          "startTimeMs": "117790",
+          "words": "Whoa"
+        },
+        {
+          "startTimeMs": "121170",
+          "words": "I'll fix these broken things, repair your broken wings"
+        },
+        {
+          "startTimeMs": "126400",
+          "words": "And make sure everything's all right (it's all right, it's all right)"
+        },
+        {
+          "startTimeMs": "131530",
+          "words": "My pressure on your hips, I'm sinking my fingertips"
+        },
+        {
+          "startTimeMs": "136410",
+          "words": "Every inch of you"
+        },
+        {
+          "startTimeMs": "138210",
+          "words": "Because I know that's what you want me to do"
+        },
+        {
+          "startTimeMs": "142180",
+          "words": "This love has taken its toll on me"
+        },
+        {
+          "startTimeMs": "146300",
+          "words": "She said goodbye too many times before"
+        },
+        {
+          "startTimeMs": "152150",
+          "words": "Her heart is breakin' in front of me"
+        },
+        {
+          "startTimeMs": "156550",
+          "words": "And I have no choice"
+        },
+        {
+          "startTimeMs": "158650",
+          "words": "'Cause I won't say goodbye anymore"
+        },
+        {
+          "startTimeMs": "162350",
+          "words": "This love has taken its toll on me"
+        },
+        {
+          "startTimeMs": "166780",
+          "words": "She said goodbye too many times before"
+        },
+        {
+          "startTimeMs": "172120",
+          "words": "And my heart is breakin' in front of me"
+        },
+        {
+          "startTimeMs": "176520",
+          "words": "And she said goodbye too many times before"
+        },
+        {
+          "startTimeMs": "182630",
+          "words": "This love has taken its toll on me"
+        },
+        {
+          "startTimeMs": "186980",
+          "words": "She said goodbye too many times before"
+        },
+        {
+          "startTimeMs": "192330",
+          "words": "And her heart is breakin' in front of me"
+        },
+        {
+          "startTimeMs": "196900",
+          "words": "And I have no choice"
+        },
+        {
+          "startTimeMs": "198920",
+          "words": "'Cause I won't say goodbye anymore"
+        }
+      ]
+    }
+  }
+}

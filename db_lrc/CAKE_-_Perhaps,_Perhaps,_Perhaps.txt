@@ -1,0 +1,149 @@
+{
+  "track_id": "4mwV1R7sI1sFql5aQlCmRQ",
+  "track_name": "Perhaps, Perhaps, Perhaps",
+  "artist_name": "CAKE",
+  "timestamp": "2025-03-23 14:40:59",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "8180",
+          "words": "You won't admit you love me"
+        },
+        {
+          "startTimeMs": "11250",
+          "words": "And so"
+        },
+        {
+          "startTimeMs": "13090",
+          "words": "How am I ever"
+        },
+        {
+          "startTimeMs": "15620",
+          "words": "To know"
+        },
+        {
+          "startTimeMs": "17380",
+          "words": "You only tell me"
+        },
+        {
+          "startTimeMs": "20030",
+          "words": "Perhaps perhaps perhaps"
+        },
+        {
+          "startTimeMs": "25280",
+          "words": "A million times I ask you"
+        },
+        {
+          "startTimeMs": "28650",
+          "words": "And then"
+        },
+        {
+          "startTimeMs": "30330",
+          "words": "I ask you over"
+        },
+        {
+          "startTimeMs": "32970",
+          "words": "Again"
+        },
+        {
+          "startTimeMs": "34770",
+          "words": "You only answer"
+        },
+        {
+          "startTimeMs": "37250",
+          "words": "Perhaps perhaps perhaps"
+        },
+        {
+          "startTimeMs": "42460",
+          "words": "If you can't make your mind up"
+        },
+        {
+          "startTimeMs": "45160",
+          "words": "We'll never get started"
+        },
+        {
+          "startTimeMs": "50950",
+          "words": "And I don't wanna' wind up"
+        },
+        {
+          "startTimeMs": "54260",
+          "words": "Being parted broken hearted"
+        },
+        {
+          "startTimeMs": "59620",
+          "words": "So if you really love me"
+        },
+        {
+          "startTimeMs": "63090",
+          "words": "Say yes"
+        },
+        {
+          "startTimeMs": "64840",
+          "words": "But if you don't dear"
+        },
+        {
+          "startTimeMs": "67350",
+          "words": "Confess"
+        },
+        {
+          "startTimeMs": "69350",
+          "words": "And please don't tell me"
+        },
+        {
+          "startTimeMs": "71880",
+          "words": "Perhaps perhaps perhaps"
+        },
+        {
+          "startTimeMs": "94030",
+          "words": "If you can't make your mind up"
+        },
+        {
+          "startTimeMs": "97320",
+          "words": "We'll never get started"
+        },
+        {
+          "startTimeMs": "102540",
+          "words": "And I don't wanna wind up"
+        },
+        {
+          "startTimeMs": "105700",
+          "words": "Being parted broken hearted"
+        },
+        {
+          "startTimeMs": "111080",
+          "words": "So if you really love me"
+        },
+        {
+          "startTimeMs": "114470",
+          "words": "Say yes"
+        },
+        {
+          "startTimeMs": "116320",
+          "words": "But if you don't dear"
+        },
+        {
+          "startTimeMs": "118930",
+          "words": "Confess"
+        },
+        {
+          "startTimeMs": "120720",
+          "words": "And please don't tell me"
+        },
+        {
+          "startTimeMs": "123310",
+          "words": "Perhaps perhaps perhaps"
+        },
+        {
+          "startTimeMs": "127390",
+          "words": "Perhaps perhaps perhaps"
+        },
+        {
+          "startTimeMs": "132010",
+          "words": "Perhaps perhaps perhaps"
+        }
+      ]
+    }
+  }
+}

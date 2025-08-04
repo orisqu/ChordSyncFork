@@ -1,0 +1,9 @@
+{
+  "track_id": "6d4FWjx72iuRWzn1HwywLK",
+  "track_name": "Colors",
+  "artist_name": "Black Pumas",
+  "timestamp": "2025-03-23 18:53:26",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/black-pumas/colors-chords-2760042",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>COLORS CHORDS by Black Pumas @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] | F#m | | A | | E | C#7 | F#m | F#m [Verse 1] F#m I woke up to the morning sky, first A Baby blue, just like we rehearsed E When I get up off this ground, I shake leaves back down C#\">"
+}

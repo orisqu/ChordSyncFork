@@ -1,0 +1,12 @@
+{
+  "track_id": "7ab0B750l70jOAYfQLnmCr",
+  "track_name": "Full Service",
+  "artist_name": "Sexy Lofi",
+  "timestamp": "2025-03-21 17:55:06",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

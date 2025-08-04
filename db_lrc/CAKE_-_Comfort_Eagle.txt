@@ -1,0 +1,237 @@
+{
+  "track_id": "2qQCU22yQXKjhytKUBxa59",
+  "track_name": "Comfort Eagle",
+  "artist_name": "CAKE",
+  "timestamp": "2025-03-24 17:23:43",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "7670",
+          "words": "We are building a religion"
+        },
+        {
+          "startTimeMs": "9450",
+          "words": "We are building it bigger"
+        },
+        {
+          "startTimeMs": "11360",
+          "words": "We are widening the corridors and adding more lanes"
+        },
+        {
+          "startTimeMs": "15200",
+          "words": "We are building a religion, a limited edition"
+        },
+        {
+          "startTimeMs": "19370",
+          "words": "We are now accepting callers for these pendant keychains"
+        },
+        {
+          "startTimeMs": "23230",
+          "words": "To resist it is useless"
+        },
+        {
+          "startTimeMs": "25500",
+          "words": "It is useless to resist it"
+        },
+        {
+          "startTimeMs": "27470",
+          "words": "His cigarette is burning, but he never seems to ash"
+        },
+        {
+          "startTimeMs": "31250",
+          "words": "He is grooming his poodle"
+        },
+        {
+          "startTimeMs": "33220",
+          "words": "He is living Comfort Eagle"
+        },
+        {
+          "startTimeMs": "35200",
+          "words": "You can meet at his location, but you'd better come with cash"
+        },
+        {
+          "startTimeMs": "39060",
+          "words": "Now his hat is on backwards"
+        },
+        {
+          "startTimeMs": "41210",
+          "words": "He can show you his tattoos"
+        },
+        {
+          "startTimeMs": "43270",
+          "words": "He is in the music business"
+        },
+        {
+          "startTimeMs": "44910",
+          "words": "He is calling you \"dude\"!"
+        },
+        {
+          "startTimeMs": "47260",
+          "words": "Now today is tomorrow, and tomorrow today"
+        },
+        {
+          "startTimeMs": "51480",
+          "words": "And yesterday is weaving in and out"
+        },
+        {
+          "startTimeMs": "54890",
+          "words": "And the fluffy white lines"
+        },
+        {
+          "startTimeMs": "57270",
+          "words": "That the airplane leaves behind"
+        },
+        {
+          "startTimeMs": "59300",
+          "words": "Are drifting right in front of the waning of the moon"
+        },
+        {
+          "startTimeMs": "63030",
+          "words": "He is handling the money"
+        },
+        {
+          "startTimeMs": "65010",
+          "words": "He is serving the food"
+        },
+        {
+          "startTimeMs": "66910",
+          "words": "He knows about your party"
+        },
+        {
+          "startTimeMs": "68880",
+          "words": "He is calling you \"dude\"!"
+        },
+        {
+          "startTimeMs": "71000",
+          "words": "Now, do you believe in the one big sign?"
+        },
+        {
+          "startTimeMs": "74750",
+          "words": "The double-wide shine on the boot-heels of your prime?"
+        },
+        {
+          "startTimeMs": "78950",
+          "words": "Doesn't matter if you're skinny, doesn't matter if you're fat"
+        },
+        {
+          "startTimeMs": "82650",
+          "words": "You can dress up like a sultan in your onion head hat"
+        },
+        {
+          "startTimeMs": "86650",
+          "words": "We are building a religion"
+        },
+        {
+          "startTimeMs": "88980",
+          "words": "We are making a brand"
+        },
+        {
+          "startTimeMs": "90720",
+          "words": "We're the only ones to turn to when your castles turn to sand"
+        },
+        {
+          "startTimeMs": "94620",
+          "words": "Take a bite of this apple, Mr. Corporate Events"
+        },
+        {
+          "startTimeMs": "98530",
+          "words": "Take a walk through the jungle of cardboard shanties and tents"
+        },
+        {
+          "startTimeMs": "102580",
+          "words": "Some people drink Pepsi, some people drink Coke"
+        },
+        {
+          "startTimeMs": "106530",
+          "words": "The wacky morning DJ says democracy's a joke"
+        },
+        {
+          "startTimeMs": "110400",
+          "words": "He says, \"Now do you believe in the one big song?\""
+        },
+        {
+          "startTimeMs": "114820",
+          "words": "He is now accepting callers who would like to sing along"
+        },
+        {
+          "startTimeMs": "118530",
+          "words": "He says, \"Do you believe in the one true edge"
+        },
+        {
+          "startTimeMs": "122780",
+          "words": "By fastening your safety belts and stepping towards the ledge?\""
+        },
+        {
+          "startTimeMs": "126570",
+          "words": "He is handling the money"
+        },
+        {
+          "startTimeMs": "128550",
+          "words": "He is serving the food"
+        },
+        {
+          "startTimeMs": "130390",
+          "words": "He is now accepting callers"
+        },
+        {
+          "startTimeMs": "132330",
+          "words": "He is calling me \"dude\"!"
+        },
+        {
+          "startTimeMs": "134780",
+          "words": "Do you believe in the one big sign?"
+        },
+        {
+          "startTimeMs": "138660",
+          "words": "The double-wide shine on the boot-heels of your prime?"
+        },
+        {
+          "startTimeMs": "142460",
+          "words": "There's no need to ask directions if you ever lose your mind"
+        },
+        {
+          "startTimeMs": "146140",
+          "words": "We're behind you, we're behind you"
+        },
+        {
+          "startTimeMs": "148550",
+          "words": "And let us please remind you"
+        },
+        {
+          "startTimeMs": "150450",
+          "words": "We can send a car to find you if you ever lose your way"
+        },
+        {
+          "startTimeMs": "154200",
+          "words": "We are building a religion"
+        },
+        {
+          "startTimeMs": "162170",
+          "words": "We are building it bigger"
+        },
+        {
+          "startTimeMs": "169970",
+          "words": "We are building a religion"
+        },
+        {
+          "startTimeMs": "177810",
+          "words": "A limited edition"
+        },
+        {
+          "startTimeMs": "185980",
+          "words": "We are now accepting callers"
+        },
+        {
+          "startTimeMs": "190050",
+          "words": "For these beautiful"
+        },
+        {
+          "startTimeMs": "192310",
+          "words": "Pendant keychains"
+        }
+      ]
+    }
+  }
+}

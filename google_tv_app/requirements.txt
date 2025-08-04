@@ -1,0 +1,17 @@
+# ChordSync Google TV App Requirements
+
+# Web Framework
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Date/Time Handling
+pytz==2023.3
+
+# Session Management
+Flask-Session==0.5.0

@@ -1,0 +1,12 @@
+{
+  "track_id": "6APBnfCBZmyJKaocgPY6MX",
+  "track_name": "Letter",
+  "artist_name": "Yosi Horikawa",
+  "timestamp": "2025-03-21 17:46:02",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

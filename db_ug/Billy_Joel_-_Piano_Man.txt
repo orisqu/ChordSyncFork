@@ -1,0 +1,9 @@
+{
+  "track_id": "70C4NyhjD5OZUMzvWZ3njJ",
+  "track_name": "Piano Man",
+  "artist_name": "Billy Joel",
+  "timestamp": "2025-03-24 16:29:47",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/billy-joel/piano-man-chords-1051336",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>PIANO MAN CHORDS (ver 5) by Billy Joel @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Piano Man chords Billy Joel 1973 * https://en.wikipedia.org/wiki/Piano_Man_(song) [Intro] C G F C F C D7 G C G F C F G C G [Verse 1] C G F C It&#039;s nine o&#039;clock on a Saturday"
+}

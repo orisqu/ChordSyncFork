@@ -1,0 +1,9 @@
+{
+  "track_id": "1kPBT8S2wJFNAyBMnGVZgL",
+  "track_name": "I'd Rather Go Blind",
+  "artist_name": "Etta James",
+  "timestamp": "2025-03-23 15:34:51",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/etta-james/id-rather-go-blind-chords-629500",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>ID RATHER GO BLIND CHORDS by Etta James @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse] A Bm Something told me it was over A when I saw you and her talking, Bm Something deep down in my soul said, ´Cry Girl´, A when I saw you and that girl, walking out. [Chorus"
+}

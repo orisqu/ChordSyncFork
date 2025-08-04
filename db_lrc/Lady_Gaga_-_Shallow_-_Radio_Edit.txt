@@ -1,0 +1,145 @@
+{
+  "track_id": "6QfS2wq5sSC1xAJCQsTSlj",
+  "track_name": "Shallow - Radio Edit",
+  "artist_name": "Lady Gaga",
+  "timestamp": "2025-03-23 21:43:52",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15380",
+          "words": "Tell me something, girl"
+        },
+        {
+          "startTimeMs": "20300",
+          "words": "Are you happy in this modern world?"
+        },
+        {
+          "startTimeMs": "25550",
+          "words": "Or do you need more?"
+        },
+        {
+          "startTimeMs": "30550",
+          "words": "Is there something else you're searchin' for?"
+        },
+        {
+          "startTimeMs": "35050",
+          "words": "I'm falling"
+        },
+        {
+          "startTimeMs": "40550",
+          "words": "In all the good times, I find myself longin' for change"
+        },
+        {
+          "startTimeMs": "50380",
+          "words": "And in the bad times, I fear myself"
+        },
+        {
+          "startTimeMs": "65520",
+          "words": "Tell me something, boy"
+        },
+        {
+          "startTimeMs": "70320",
+          "words": "Aren't you tired trying to fill that void?"
+        },
+        {
+          "startTimeMs": "75530",
+          "words": "Or do you need more?"
+        },
+        {
+          "startTimeMs": "80580",
+          "words": "Ain't it hard keeping it so hardcore?"
+        },
+        {
+          "startTimeMs": "84930",
+          "words": "I'm falling"
+        },
+        {
+          "startTimeMs": "90100",
+          "words": "In all the good times, I find myself longing for change"
+        },
+        {
+          "startTimeMs": "100320",
+          "words": "And in the bad times, I fear myself"
+        },
+        {
+          "startTimeMs": "105030",
+          "words": "I'm off the deep end, watch as I dive in"
+        },
+        {
+          "startTimeMs": "109980",
+          "words": "I'll never meet the ground"
+        },
+        {
+          "startTimeMs": "114770",
+          "words": "Crash through the surface, where they can't hurt us"
+        },
+        {
+          "startTimeMs": "119650",
+          "words": "We're far from the shallow now"
+        },
+        {
+          "startTimeMs": "125190",
+          "words": "In the sha-ha, sha-ha-llow"
+        },
+        {
+          "startTimeMs": "130340",
+          "words": "In the sha-ha-sha-la-la-la-llow"
+        },
+        {
+          "startTimeMs": "135570",
+          "words": "In the sha-ha, sha-ha-llow"
+        },
+        {
+          "startTimeMs": "139560",
+          "words": "We're far from the shallow now"
+        },
+        {
+          "startTimeMs": "147350",
+          "words": "Oh, ha-ah-ah"
+        },
+        {
+          "startTimeMs": "151830",
+          "words": "Ah, ha-ah-ah, oh, ah"
+        },
+        {
+          "startTimeMs": "156950",
+          "words": "Ha-ah-ah-ah"
+        },
+        {
+          "startTimeMs": "164940",
+          "words": "I'm off the deep end, watch as I dive in"
+        },
+        {
+          "startTimeMs": "170100",
+          "words": "I'll never meet the ground"
+        },
+        {
+          "startTimeMs": "175160",
+          "words": "Crash through the surface, where they can't hurt us"
+        },
+        {
+          "startTimeMs": "179670",
+          "words": "We're far from the shallow now"
+        },
+        {
+          "startTimeMs": "185510",
+          "words": "In the sha-ha, sha-ha-llow"
+        },
+        {
+          "startTimeMs": "190480",
+          "words": "In the sha-ha-sha-la-la-la-llow"
+        },
+        {
+          "startTimeMs": "195550",
+          "words": "In the sha-ha, sha-ha-llow"
+        },
+        {
+          "startTimeMs": "199510",
+          "words": "We're far from the shallow now"
+        }
+      ]
+    }
+  }
+}

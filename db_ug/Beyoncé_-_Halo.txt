@@ -1,0 +1,9 @@
+{
+  "track_id": "4JehYebiI9JE8sR8MisGVb",
+  "track_name": "Halo",
+  "artist_name": "Beyoncé",
+  "timestamp": "2025-03-23 02:20:45",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/759809",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>HALO CHORDS (ver 2) by Beyoncé @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] G Am Em C G Am Em C [Verse 1] G Am Remember those walls I built Em Well baby they&#039;re tumbling down C And they didn&#039;t even put up a fight G They didn&#039;t even make a soun"
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+  "track_name": "Party In The U.S.A.",
+  "artist_name": "Miley Cyrus",
+  "timestamp": "2025-03-23 01:34:36",
+  "source_link": "https://www.google.de/search?q=Miley Cyrus party in the u.s.a. chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

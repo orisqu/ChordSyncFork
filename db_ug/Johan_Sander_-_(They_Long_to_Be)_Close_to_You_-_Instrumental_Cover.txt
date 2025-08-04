@@ -1,0 +1,9 @@
+{
+  "track_id": "3M34MLRfukoBbFGnpLpGwi",
+  "track_name": "(They Long to Be) Close to You - Instrumental Cover",
+  "artist_name": "Johan Sander",
+  "timestamp": "2025-07-06 21:43:45",
+  "source_link": "https://www.google.de/search?q=Johan Sander (they long to be) close to you - instrumental cover chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

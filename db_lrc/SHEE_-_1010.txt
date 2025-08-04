@@ -1,0 +1,12 @@
+{
+  "track_id": "0V2jz1cHERhQE5tDxe0qjx",
+  "track_name": "10/10",
+  "artist_name": "SHEE",
+  "timestamp": "2025-04-07 16:56:31",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

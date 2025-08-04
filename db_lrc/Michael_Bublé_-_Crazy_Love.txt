@@ -1,0 +1,117 @@
+{
+  "track_id": "5yHRupjhJzuqxW5WjGTRr7",
+  "track_name": "Crazy Love",
+  "artist_name": "Michael Bublé",
+  "timestamp": "2025-03-24 16:51:37",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1280",
+          "words": "I can hear her heart beat for a thousand miles"
+        },
+        {
+          "startTimeMs": "7470",
+          "words": "And the heavens open up every time she smiles"
+        },
+        {
+          "startTimeMs": "13650",
+          "words": "And when I come to her that's just where I belong"
+        },
+        {
+          "startTimeMs": "18690",
+          "words": "Yet I'm running to her like a rivers song"
+        },
+        {
+          "startTimeMs": "25430",
+          "words": "She givesss me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "31570",
+          "words": "She givesss me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "39360",
+          "words": "She's got a fine sense of humor when I'm feeling low down"
+        },
+        {
+          "startTimeMs": "44150",
+          "words": "And when I come to her when the sun goes down"
+        },
+        {
+          "startTimeMs": "50330",
+          "words": "Takes away my trouble, takes away my grief"
+        },
+        {
+          "startTimeMs": "55950",
+          "words": "Takes away all of my heartache, in the night like a thief"
+        },
+        {
+          "startTimeMs": "63040",
+          "words": "She givess me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "77900",
+          "words": "She givess me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "114760",
+          "words": "Crazy love, she givess me love, love, love, love, crazy love, mm"
+        },
+        {
+          "startTimeMs": "115770",
+          "words": "Yes I need her in the daytime"
+        },
+        {
+          "startTimeMs": "120210",
+          "words": "Oh, but I need her in the night"
+        },
+        {
+          "startTimeMs": "127080",
+          "words": "Yes I want to throw my arms around her"
+        },
+        {
+          "startTimeMs": "132850",
+          "words": "Kiss her hug her, kiss her hug her tight"
+        },
+        {
+          "startTimeMs": "140210",
+          "words": "And when I'm returning from so far away"
+        },
+        {
+          "startTimeMs": "148330",
+          "words": "She givess me some sweet lovin' brighten up my day"
+        },
+        {
+          "startTimeMs": "155510",
+          "words": "Yes it makes me righteous, it makes me feel whole"
+        },
+        {
+          "startTimeMs": "161170",
+          "words": "And it makes me mellow down in to my soul"
+        },
+        {
+          "startTimeMs": "166590",
+          "words": "She givesss me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "172690",
+          "words": "She givesss me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "179190",
+          "words": "She givesss me love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "184920",
+          "words": "I need her love, love, love, love, crazy love"
+        },
+        {
+          "startTimeMs": "191630",
+          "words": "Crazy love, crazy love, crazy love"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "6QfS2wq5sSC1xAJCQsTSlj",
+  "track_name": "Shallow - Radio Edit",
+  "artist_name": "Lady Gaga",
+  "timestamp": "2025-03-23 21:43:51",
+  "source_link": "https://www.google.de/search?q=Lady Gaga shallow - radio edit chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

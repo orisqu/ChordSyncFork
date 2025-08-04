@@ -1,0 +1,12 @@
+{
+  "track_id": "0QsoJz2GAIcUvquVDCz3mN",
+  "track_name": "Wandering",
+  "artist_name": "Yosi Horikawa",
+  "timestamp": "2025-03-21 17:46:05",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

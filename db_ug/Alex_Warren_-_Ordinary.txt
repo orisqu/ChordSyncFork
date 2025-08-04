@@ -1,0 +1,9 @@
+{
+  "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
+  "track_name": "Ordinary",
+  "artist_name": "Alex Warren",
+  "timestamp": "2025-05-07 11:57:14",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/alex-warren/ordinary-chords-5660523",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>ORDINARY CHORDS by Alex Warren @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Link to the song: https://youtu.be/u2ah9tWTkmk.\">\n<meta name=\"keywords\" content=\"Alex Warren - Ordinary (Chords), Chords, Alex Warren, Ultimate-Guitar.Com\">\n            <script>\n    (functio"
+}

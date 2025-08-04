@@ -1,0 +1,9 @@
+{
+  "track_id": "54EvqHberbpzMu7nu8hs9S",
+  "track_name": "Bang the Drum All Day",
+  "artist_name": "Todd Rundgren",
+  "timestamp": "2025-03-21 23:05:14",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/todd-rundgren/bang-the-drum-all-day-chords-1780883",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BANG THE DRUM ALL DAY CHORDS by Todd Rundgren @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Bang the Drum All Day By Todd / (Intro) D C G C (6x) / D G I don&#039;t want to work D G I want to bang on the drum all day D G I don&#039;t want to play D G I just want to ba"
+}

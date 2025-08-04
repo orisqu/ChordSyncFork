@@ -1,0 +1,9 @@
+{
+  "track_id": "6fdN1txlgDkzLevWdjDfus",
+  "track_name": "Tom's Diner",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:26:51",
+  "source_link": "https://www.google.de/search?q=Klischée tom's diner chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

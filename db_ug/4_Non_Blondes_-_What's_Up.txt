@@ -1,0 +1,9 @@
+{
+  "track_id": "0jWgAnTrNZmOGmqgvHhZEm",
+  "track_name": "What's Up?",
+  "artist_name": "4 Non Blondes",
+  "timestamp": "2025-03-24 17:09:23",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/4-non-blondes/whats-up-chords-349210",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WHATS UP CHORDS (ver 2) by 4 Non Blondes @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"&quot;What&#039;s Up&quot; by 4 Non Blondes Capo II [Intro] G Am C G , Tab is not relative to the capo. G Am . . e|------------|-------------------------|--------------------------"
+}

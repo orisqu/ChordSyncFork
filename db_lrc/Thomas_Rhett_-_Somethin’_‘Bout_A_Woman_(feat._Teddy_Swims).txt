@@ -1,0 +1,185 @@
+{
+  "track_id": "1dHUB7GIbSk3MdL6a6KGvc",
+  "track_name": "Somethin’ ‘Bout A Woman (feat. Teddy Swims)",
+  "artist_name": "Thomas Rhett",
+  "timestamp": "2025-03-23 15:02:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "11750",
+          "words": "No, it ain't the moon"
+        },
+        {
+          "startTimeMs": "14100",
+          "words": "Nah, it ain't the band"
+        },
+        {
+          "startTimeMs": "16060",
+          "words": "Only one thing that'd make me do this kinda dance"
+        },
+        {
+          "startTimeMs": "20600",
+          "words": "Nah, it ain't this wine"
+        },
+        {
+          "startTimeMs": "23090",
+          "words": "That's got me buzzin'"
+        },
+        {
+          "startTimeMs": "25260",
+          "words": "I'm flyin' high and it's all because"
+        },
+        {
+          "startTimeMs": "28180",
+          "words": "There's somethin' 'bout a woman"
+        },
+        {
+          "startTimeMs": "32480",
+          "words": "Somethin' 'bout the way they bring ya to your knees"
+        },
+        {
+          "startTimeMs": "36920",
+          "words": "Somethin' 'bout a woman (somethin')"
+        },
+        {
+          "startTimeMs": "39720",
+          "words": "Somethin' 'bout a woman does somethin' to me (ooh, ooh)"
+        },
+        {
+          "startTimeMs": "55670",
+          "words": "Never used to beg"
+        },
+        {
+          "startTimeMs": "58560",
+          "words": "Never used to plead"
+        },
+        {
+          "startTimeMs": "60540",
+          "words": "No, settling down just wasn't for me"
+        },
+        {
+          "startTimeMs": "65360",
+          "words": "Wasn't the type that would rush in"
+        },
+        {
+          "startTimeMs": "67910",
+          "words": "Thought I was good, but I wasn't"
+        },
+        {
+          "startTimeMs": "69660",
+          "words": "Lord, I can't even function, no, man"
+        },
+        {
+          "startTimeMs": "74680",
+          "words": "There's somethin' 'bout a woman (somethin')"
+        },
+        {
+          "startTimeMs": "79370",
+          "words": "Somethin' 'bout the way they bring ya to your knees"
+        },
+        {
+          "startTimeMs": "83850",
+          "words": "Somethin' 'bout a woman (somethin')"
+        },
+        {
+          "startTimeMs": "88630",
+          "words": "Somethin' 'bout a woman does somethin' to me"
+        },
+        {
+          "startTimeMs": "93340",
+          "words": "Make your heart start to beat"
+        },
+        {
+          "startTimeMs": "95600",
+          "words": "Make you sweat, make you dream"
+        },
+        {
+          "startTimeMs": "98080",
+          "words": "Lose your mind, lose your sleep"
+        },
+        {
+          "startTimeMs": "100140",
+          "words": "Pushin' me, doin' things I thought I couldn't"
+        },
+        {
+          "startTimeMs": "106090",
+          "words": "Aw, there's just somethin' 'bout a woman (ooh)"
+        },
+        {
+          "startTimeMs": "112330",
+          "words": "There's somethin' 'bout 'em"
+        },
+        {
+          "startTimeMs": "114480",
+          "words": "There's somethin' 'bout 'em"
+        },
+        {
+          "startTimeMs": "116810",
+          "words": "There's somethin' 'bout 'em that sets you free, mm"
+        },
+        {
+          "startTimeMs": "121760",
+          "words": "There's somethin' 'bout 'em"
+        },
+        {
+          "startTimeMs": "123650",
+          "words": "There's somethin' 'bout 'em"
+        },
+        {
+          "startTimeMs": "125760",
+          "words": "Somethin' 'bout the one that you sent to me, yeah"
+        },
+        {
+          "startTimeMs": "130020",
+          "words": "(Ooh, ooh, ooh, ooh)"
+        },
+        {
+          "startTimeMs": "133350",
+          "words": "(Ooh, ooh, ooh, ooh)"
+        },
+        {
+          "startTimeMs": "138030",
+          "words": "(Do, do, do, do)"
+        },
+        {
+          "startTimeMs": "143120",
+          "words": "(Do, do, do, do)"
+        },
+        {
+          "startTimeMs": "147040",
+          "words": "There's somethin' 'bout a woman (somethin')"
+        },
+        {
+          "startTimeMs": "150500",
+          "words": "Oh, there's somethin' 'bout the way they bring ya to your knees"
+        },
+        {
+          "startTimeMs": "155900",
+          "words": "Somethin' 'bout a woman (somethin')"
+        },
+        {
+          "startTimeMs": "160310",
+          "words": "Somethin' 'bout a woman does somethin' to me"
+        },
+        {
+          "startTimeMs": "165320",
+          "words": "(Ooh, ooh, ooh, ooh)"
+        },
+        {
+          "startTimeMs": "169230",
+          "words": "Somethin' 'bout a woman (somethin' 'bout a woman)"
+        },
+        {
+          "startTimeMs": "174790",
+          "words": "(Ooh, ooh, ooh, ooh) yeah"
+        },
+        {
+          "startTimeMs": "178280",
+          "words": "There's somethin' 'bout a woman, ooh"
+        }
+      ]
+    }
+  }
+}

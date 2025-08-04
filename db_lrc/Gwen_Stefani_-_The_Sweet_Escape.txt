@@ -1,0 +1,365 @@
+{
+  "track_id": "66ZcOcouenzZEnzTJvoFmH",
+  "track_name": "The Sweet Escape",
+  "artist_name": "Gwen Stefani",
+  "timestamp": "2025-03-23 02:26:22",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15980",
+          "words": "Konvicted"
+        },
+        {
+          "startTimeMs": "18540",
+          "words": "(Woo hoo, yee hoo)"
+        },
+        {
+          "startTimeMs": "21490",
+          "words": "(Woo hoo, yee hoo)"
+        },
+        {
+          "startTimeMs": "25830",
+          "words": "(Woo hoo, yee hoo)"
+        },
+        {
+          "startTimeMs": "30180",
+          "words": "(Woo hoo, yee hoo) If I could escape"
+        },
+        {
+          "startTimeMs": "34110",
+          "words": "I would, but first of all, let me say"
+        },
+        {
+          "startTimeMs": "36660",
+          "words": "I must apologize for acting stank and treating you this way"
+        },
+        {
+          "startTimeMs": "40150",
+          "words": "'Cause I've been acting like sour milk all on the floor"
+        },
+        {
+          "startTimeMs": "43060",
+          "words": "It's your fault, you didn't shut the refrigerator"
+        },
+        {
+          "startTimeMs": "45120",
+          "words": "Maybe that's the reason I've been acting so cold"
+        },
+        {
+          "startTimeMs": "47450",
+          "words": "If I could escape (escape)"
+        },
+        {
+          "startTimeMs": "50830",
+          "words": "And recreate a place that's my own world (own world)"
+        },
+        {
+          "startTimeMs": "54420",
+          "words": "And I could be your favorite girl (forever)"
+        },
+        {
+          "startTimeMs": "58640",
+          "words": "Perfectly together"
+        },
+        {
+          "startTimeMs": "60300",
+          "words": "And tell me boy, now wouldn't that be sweet?"
+        },
+        {
+          "startTimeMs": "63400",
+          "words": "(The sweet escape)"
+        },
+        {
+          "startTimeMs": "65210",
+          "words": "If I could be sweet"
+        },
+        {
+          "startTimeMs": "66820",
+          "words": "Be sweet (Sorry boy)"
+        },
+        {
+          "startTimeMs": "68630",
+          "words": "I know I've been a real bad girl"
+        },
+        {
+          "startTimeMs": "70090",
+          "words": "Bad girl (I'll try to change)"
+        },
+        {
+          "startTimeMs": "71980",
+          "words": "I didn't mean for you to get hurt"
+        },
+        {
+          "startTimeMs": "73670",
+          "words": "(Whatsoever)"
+        },
+        {
+          "startTimeMs": "74950",
+          "words": "We can make it better"
+        },
+        {
+          "startTimeMs": "76700",
+          "words": "And tell me boy, now wouldn't that be sweet?"
+        },
+        {
+          "startTimeMs": "79130",
+          "words": "(Sweet escape, sweet escape)"
+        },
+        {
+          "startTimeMs": "81350",
+          "words": "(Woo hoo) I want to get away (yee hoo)"
+        },
+        {
+          "startTimeMs": "84860",
+          "words": "(Woo hoo) To our sweet escape (yee hoo)"
+        },
+        {
+          "startTimeMs": "89890",
+          "words": "(Woo hoo) I want to get away (yee hoo)"
+        },
+        {
+          "startTimeMs": "93680",
+          "words": "(Woo hoo) Yeah (yee hoo)"
+        },
+        {
+          "startTimeMs": "97000",
+          "words": "You held me down"
+        },
+        {
+          "startTimeMs": "98390",
+          "words": "I'm at my lowest boiling point"
+        },
+        {
+          "startTimeMs": "100560",
+          "words": "Come help me out"
+        },
+        {
+          "startTimeMs": "101840",
+          "words": "I need to get me out of this joint"
+        },
+        {
+          "startTimeMs": "104590",
+          "words": "Come on, let's bounce"
+        },
+        {
+          "startTimeMs": "105890",
+          "words": "Counting on you to turn me around"
+        },
+        {
+          "startTimeMs": "108830",
+          "words": "Instead of clowning around"
+        },
+        {
+          "startTimeMs": "110400",
+          "words": "Let's look for some common ground"
+        },
+        {
+          "startTimeMs": "112360",
+          "words": "So baby"
+        },
+        {
+          "startTimeMs": "113690",
+          "words": "Times get a little crazy"
+        },
+        {
+          "startTimeMs": "116570",
+          "words": "I've been getting a little lazy"
+        },
+        {
+          "startTimeMs": "119890",
+          "words": "Waiting on you to come save me"
+        },
+        {
+          "startTimeMs": "120540",
+          "words": "I can see that you're angry"
+        },
+        {
+          "startTimeMs": "122100",
+          "words": "By the way that you treat me"
+        },
+        {
+          "startTimeMs": "123810",
+          "words": "Hopefully you don't leave me"
+        },
+        {
+          "startTimeMs": "126190",
+          "words": "Wanna take you with me"
+        },
+        {
+          "startTimeMs": "128010",
+          "words": "If I could escape (escape)"
+        },
+        {
+          "startTimeMs": "130230",
+          "words": "And recreate a place that's my own world (own world)"
+        },
+        {
+          "startTimeMs": "134400",
+          "words": "And I could be your favorite girl (forever)"
+        },
+        {
+          "startTimeMs": "138430",
+          "words": "Perfectly together"
+        },
+        {
+          "startTimeMs": "140650",
+          "words": "And tell me boy, now wouldn't that be sweet?"
+        },
+        {
+          "startTimeMs": "143500",
+          "words": "(The sweet escape)"
+        },
+        {
+          "startTimeMs": "144520",
+          "words": "If I could be sweet"
+        },
+        {
+          "startTimeMs": "146130",
+          "words": "Be sweet (Sorry boy)"
+        },
+        {
+          "startTimeMs": "147550",
+          "words": "I know I've been a real bad girl"
+        },
+        {
+          "startTimeMs": "149420",
+          "words": "Bad girl (I'll try to change)"
+        },
+        {
+          "startTimeMs": "151060",
+          "words": "I didn't mean for you to get hurt"
+        },
+        {
+          "startTimeMs": "153600",
+          "words": "(Whatsoever)"
+        },
+        {
+          "startTimeMs": "154590",
+          "words": "We can make it better"
+        },
+        {
+          "startTimeMs": "157160",
+          "words": "And tell me boy, now wouldn't that be sweet?"
+        },
+        {
+          "startTimeMs": "159880",
+          "words": "(Sweet escape, sweet escape)"
+        },
+        {
+          "startTimeMs": "161490",
+          "words": "(Woo hoo, yee hoo)"
+        },
+        {
+          "startTimeMs": "164950",
+          "words": "(Woo hoo) If I could escape (yee hoo)"
+        },
+        {
+          "startTimeMs": "169240",
+          "words": "(Woo hoo) If I could escape (yee hoo)"
+        },
+        {
+          "startTimeMs": "173240",
+          "words": "(Woo hoo, yee hoo)"
+        },
+        {
+          "startTimeMs": "178140",
+          "words": "'Cause I've been acting like sour milk all on the floor"
+        },
+        {
+          "startTimeMs": "180040",
+          "words": "It's your fault, you didn't shut the refrigerator"
+        },
+        {
+          "startTimeMs": "180980",
+          "words": "Maybe that's the reason I've been acting so cold'"
+        },
+        {
+          "startTimeMs": "182840",
+          "words": "If I could escape"
+        },
+        {
+          "startTimeMs": "186510",
+          "words": "And recreate a place that's my own world (own world)"
+        },
+        {
+          "startTimeMs": "189670",
+          "words": "And I could be your favorite girl (forever)"
+        },
+        {
+          "startTimeMs": "194620",
+          "words": "Perfectly together"
+        },
+        {
+          "startTimeMs": "197020",
+          "words": "And tell me boy, now wouldn't that be sweet?"
+        },
+        {
+          "startTimeMs": "199640",
+          "words": "(The sweet escape)"
+        },
+        {
+          "startTimeMs": "200760",
+          "words": "If I could be sweet"
+        },
+        {
+          "startTimeMs": "202870",
+          "words": "Be sweet (Sorry boy)"
+        },
+        {
+          "startTimeMs": "204190",
+          "words": "I know I've been a real bad girl"
+        },
+        {
+          "startTimeMs": "205880",
+          "words": "Bad girl (I'll try to change)"
+        },
+        {
+          "startTimeMs": "207120",
+          "words": "I didn't mean for you to get hurt"
+        },
+        {
+          "startTimeMs": "209320",
+          "words": "(Whatsoever)"
+        },
+        {
+          "startTimeMs": "210680",
+          "words": "We can make it better"
+        },
+        {
+          "startTimeMs": "212780",
+          "words": "And tell me boy, now wouldn't that be sweet?"
+        },
+        {
+          "startTimeMs": "215400",
+          "words": "(Sweet escape, sweet escape)"
+        },
+        {
+          "startTimeMs": "217500",
+          "words": "(Woo hoo) I want to get away (yee hoo)"
+        },
+        {
+          "startTimeMs": "220860",
+          "words": "(Woo hoo) To our sweet escape (yee hoo)"
+        },
+        {
+          "startTimeMs": "225830",
+          "words": "(Woo hoo) I want to get away (yee hoo)"
+        },
+        {
+          "startTimeMs": "229860",
+          "words": "(Woo hoo) Yeah (yee hoo)"
+        },
+        {
+          "startTimeMs": "233020",
+          "words": "(Woo hoo, yee hoo)"
+        },
+        {
+          "startTimeMs": "237350",
+          "words": "(Woo hoo, yee hoo)"
+        }
+      ]
+    }
+  }
+}

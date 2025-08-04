@@ -1,0 +1,9 @@
+{
+  "track_id": "73CLLmbqByFeUxURAJP9Ks",
+  "track_name": "Friends in Low Places",
+  "artist_name": "Garth Brooks Tribute",
+  "timestamp": "2025-03-24 18:43:01",
+  "source_link": "https://www.google.de/search?q=Garth Brooks Tribute friends in low places chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

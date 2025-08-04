@@ -1,0 +1,197 @@
+{
+  "track_id": "3FkP6u9dRgH1sJtlCoy7bB",
+  "track_name": "(I'd Go The) Whole Wide World",
+  "artist_name": "The Monkees",
+  "timestamp": "2025-03-21 23:15:40",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "8530",
+          "words": "When I was a young boy"
+        },
+        {
+          "startTimeMs": "12930",
+          "words": "Momma she said to me"
+        },
+        {
+          "startTimeMs": "17280",
+          "words": "\"There's only one girl in the world for you"
+        },
+        {
+          "startTimeMs": "21350",
+          "words": "And she probably lives in Tahiti\""
+        },
+        {
+          "startTimeMs": "25740",
+          "words": "Or maybe she's in the Bahamas"
+        },
+        {
+          "startTimeMs": "29800",
+          "words": "Where the Caribbean sea is blue"
+        },
+        {
+          "startTimeMs": "34590",
+          "words": "Weepin' away in the tropical night"
+        },
+        {
+          "startTimeMs": "38120",
+          "words": "Because nobody's told her 'bout you"
+        },
+        {
+          "startTimeMs": "42480",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "44750",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "46820",
+          "words": "Just to find her"
+        },
+        {
+          "startTimeMs": "48910",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "51020",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "53090",
+          "words": "To find out where they hide her, yeah"
+        },
+        {
+          "startTimeMs": "64670",
+          "words": "Why am I hanging around in the rain out here?"
+        },
+        {
+          "startTimeMs": "69550",
+          "words": "Tryin' to think of a girl"
+        },
+        {
+          "startTimeMs": "73040",
+          "words": "Why are my eyes fillin' up with these lonely tears"
+        },
+        {
+          "startTimeMs": "77510",
+          "words": "When there's girls all over the world?"
+        },
+        {
+          "startTimeMs": "81750",
+          "words": "Or is she lying on a tropical beach somewhere"
+        },
+        {
+          "startTimeMs": "86300",
+          "words": "Underneath the tropical sun"
+        },
+        {
+          "startTimeMs": "90880",
+          "words": "Hiding away in the heat wave there"
+        },
+        {
+          "startTimeMs": "95060",
+          "words": "Hopin' that I won't be long?"
+        },
+        {
+          "startTimeMs": "98780",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "100740",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "102980",
+          "words": "Just to find her"
+        },
+        {
+          "startTimeMs": "104920",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "106950",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "109460",
+          "words": "To find out where they hide her"
+        },
+        {
+          "startTimeMs": "112410",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "114450",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "116550",
+          "words": "Just to find her"
+        },
+        {
+          "startTimeMs": "118830",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "120780",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "122840",
+          "words": "To find out where they hide her"
+        },
+        {
+          "startTimeMs": "126290",
+          "words": "Yeah"
+        },
+        {
+          "startTimeMs": "130130",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "134240",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "138580",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "142650",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "146530",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "148530",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "152780",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "156660",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "160650",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "164670",
+          "words": "I'd go the whole wide world"
+        },
+        {
+          "startTimeMs": "168420",
+          "words": "I'd go the whole wide world"
+        }
+      ]
+    }
+  }
+}

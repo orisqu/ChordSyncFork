@@ -1,0 +1,9 @@
+{
+  "track_id": "7iDa6hUg2VgEL1o1HjmfBn",
+  "track_name": "Meant to Be (feat. Florida Georgia Line)",
+  "artist_name": "Bebe Rexha",
+  "timestamp": "2025-03-23 02:05:15",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/bebe-rexha/meant-to-be-chords-2107185",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>MEANT TO BE CHORDS by Bebe Rexha @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Video lesson here: https://www.youtube.com/watch?v=IHoUYa874v4 / [Intro] G Am Em C G / [Verse 1] G Am Em C G Baby lay on back and relax, kick your pretty feet up on my dash G Am Em C G No "
+}

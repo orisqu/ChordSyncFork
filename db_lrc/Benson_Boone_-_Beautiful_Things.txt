@@ -1,0 +1,201 @@
+{
+  "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
+  "track_name": "Beautiful Things",
+  "artist_name": "Benson Boone",
+  "timestamp": "2025-05-07 11:57:42",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "6370",
+          "words": "For a while there, it was rough"
+        },
+        {
+          "startTimeMs": "9480",
+          "words": "But lately, I've been doin' better"
+        },
+        {
+          "startTimeMs": "13180",
+          "words": "Than the last four cold Decembers"
+        },
+        {
+          "startTimeMs": "16510",
+          "words": "I recall"
+        },
+        {
+          "startTimeMs": "19930",
+          "words": "And I see my family every month"
+        },
+        {
+          "startTimeMs": "23270",
+          "words": "I found a girl my parents love"
+        },
+        {
+          "startTimeMs": "26860",
+          "words": "She'll come and stay the night"
+        },
+        {
+          "startTimeMs": "28660",
+          "words": "And I think I might have it all"
+        },
+        {
+          "startTimeMs": "33910",
+          "words": "And I thank God every day"
+        },
+        {
+          "startTimeMs": "37140",
+          "words": "For the girl He sent my way"
+        },
+        {
+          "startTimeMs": "40620",
+          "words": "But I know the things He gives me"
+        },
+        {
+          "startTimeMs": "43470",
+          "words": "He can take away"
+        },
+        {
+          "startTimeMs": "47610",
+          "words": "And I hold you every night"
+        },
+        {
+          "startTimeMs": "50250",
+          "words": "And that's a feeling I wanna get used to"
+        },
+        {
+          "startTimeMs": "55480",
+          "words": "But there's no man as terrified"
+        },
+        {
+          "startTimeMs": "59330",
+          "words": "As the man who stands to lose you"
+        },
+        {
+          "startTimeMs": "67500",
+          "words": "Oh, I hope I don't lose you"
+        },
+        {
+          "startTimeMs": "71150",
+          "words": "Mm"
+        },
+        {
+          "startTimeMs": "73160",
+          "words": "Please stay"
+        },
+        {
+          "startTimeMs": "76910",
+          "words": "I want you, I need you, oh God"
+        },
+        {
+          "startTimeMs": "79880",
+          "words": "Don't take"
+        },
+        {
+          "startTimeMs": "83470",
+          "words": "These beautiful things that I've got"
+        },
+        {
+          "startTimeMs": "86790",
+          "words": "Please stay"
+        },
+        {
+          "startTimeMs": "90610",
+          "words": "I want you, I need you, oh God"
+        },
+        {
+          "startTimeMs": "93700",
+          "words": "Don't take"
+        },
+        {
+          "startTimeMs": "97620",
+          "words": "These beautiful things that I've got"
+        },
+        {
+          "startTimeMs": "100490",
+          "words": "Oh-oh-oh-oh"
+        },
+        {
+          "startTimeMs": "104570",
+          "words": "Ooh"
+        },
+        {
+          "startTimeMs": "107320",
+          "words": "Please don't take"
+        },
+        {
+          "startTimeMs": "112530",
+          "words": "I found my mind, I'm feelin' sane"
+        },
+        {
+          "startTimeMs": "115750",
+          "words": "It's been a while, but I'm finding my faith"
+        },
+        {
+          "startTimeMs": "119300",
+          "words": "If everything's good and it's great"
+        },
+        {
+          "startTimeMs": "121510",
+          "words": "Why do I sit and wait 'til it's gone?"
+        },
+        {
+          "startTimeMs": "125740",
+          "words": "Oh, I'll tell ya, I know I've got enough"
+        },
+        {
+          "startTimeMs": "129600",
+          "words": "I've got peace and I've got love"
+        },
+        {
+          "startTimeMs": "133150",
+          "words": "But I'm up at night thinkin'"
+        },
+        {
+          "startTimeMs": "135520",
+          "words": "I just might lose it all"
+        },
+        {
+          "startTimeMs": "141070",
+          "words": "Please stay"
+        },
+        {
+          "startTimeMs": "145510",
+          "words": "I want you, I need you, oh God"
+        },
+        {
+          "startTimeMs": "148430",
+          "words": "Don't take"
+        },
+        {
+          "startTimeMs": "152320",
+          "words": "These beautiful things that I've got"
+        },
+        {
+          "startTimeMs": "155340",
+          "words": "Oh-oh-oh-oh"
+        },
+        {
+          "startTimeMs": "159320",
+          "words": "Ooh"
+        },
+        {
+          "startTimeMs": "162140",
+          "words": "Please stay"
+        },
+        {
+          "startTimeMs": "166380",
+          "words": "I want you, I need you, oh God"
+        },
+        {
+          "startTimeMs": "169200",
+          "words": "I need"
+        },
+        {
+          "startTimeMs": "172980",
+          "words": "These beautiful things that I've got"
+        }
+      ]
+    }
+  }
+}

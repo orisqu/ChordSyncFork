@@ -1,0 +1,9 @@
+{
+  "track_id": "6ujkVvJAlQ39Ra0E2tKx8M",
+  "track_name": "Conversations in the Dark - Violin Remix",
+  "artist_name": "John Legend",
+  "timestamp": "2025-03-21 17:17:57",
+  "source_link": "https://www.google.de/search?q=John Legend conversations in the dark - violin remix chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

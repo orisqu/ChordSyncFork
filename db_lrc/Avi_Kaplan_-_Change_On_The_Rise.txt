@@ -1,0 +1,217 @@
+{
+  "track_id": "5xNpsWUHMrBvWNiQc3HAiK",
+  "track_name": "Change On The Rise",
+  "artist_name": "Avi Kaplan",
+  "timestamp": "2025-05-07 11:56:46",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "12050",
+          "words": "Without the light"
+        },
+        {
+          "startTimeMs": "17250",
+          "words": "Oh, the darkness comes"
+        },
+        {
+          "startTimeMs": "24800",
+          "words": "Hold through the night"
+        },
+        {
+          "startTimeMs": "28660",
+          "words": "Mmm, the shadows will run"
+        },
+        {
+          "startTimeMs": "36900",
+          "words": "Mmm, fend off the enemy"
+        },
+        {
+          "startTimeMs": "41890",
+          "words": "Sing out the jubilee"
+        },
+        {
+          "startTimeMs": "45260",
+          "words": "With all the fire we can breathe"
+        },
+        {
+          "startTimeMs": "49880",
+          "words": "We're singin' all day"
+        },
+        {
+          "startTimeMs": "51970",
+          "words": "And you can't tame it"
+        },
+        {
+          "startTimeMs": "54420",
+          "words": "High tide, low tide, you know"
+        },
+        {
+          "startTimeMs": "57420",
+          "words": "Night time, mornin' time, and"
+        },
+        {
+          "startTimeMs": "60470",
+          "words": "We're goin' strong"
+        },
+        {
+          "startTimeMs": "62560",
+          "words": "Headed up, down the river"
+        },
+        {
+          "startTimeMs": "65740",
+          "words": "Oh, Lord, I feel the reveling"
+        },
+        {
+          "startTimeMs": "70060",
+          "words": "I feel a change on the rise"
+        },
+        {
+          "startTimeMs": "80610",
+          "words": "What good's a man"
+        },
+        {
+          "startTimeMs": "85960",
+          "words": "Who's lost his soul"
+        },
+        {
+          "startTimeMs": "93480",
+          "words": "Can't take a stand"
+        },
+        {
+          "startTimeMs": "97760",
+          "words": "Mmm, when his flame's gone cold"
+        },
+        {
+          "startTimeMs": "104850",
+          "words": "Mmm, fend off the enemy"
+        },
+        {
+          "startTimeMs": "110430",
+          "words": "Sing out the jubilee"
+        },
+        {
+          "startTimeMs": "113440",
+          "words": "With all the fire we can breathe"
+        },
+        {
+          "startTimeMs": "117900",
+          "words": "We're singin' all day"
+        },
+        {
+          "startTimeMs": "120480",
+          "words": "And you can't tame it"
+        },
+        {
+          "startTimeMs": "122940",
+          "words": "High tide, low tide, you know"
+        },
+        {
+          "startTimeMs": "126290",
+          "words": "Night time, mornin' time, and"
+        },
+        {
+          "startTimeMs": "129230",
+          "words": "We're goin' strong"
+        },
+        {
+          "startTimeMs": "131280",
+          "words": "Headed up, down the river"
+        },
+        {
+          "startTimeMs": "134310",
+          "words": "Oh, Lord, I feel the reveling"
+        },
+        {
+          "startTimeMs": "138360",
+          "words": "I feel a change on the rise"
+        },
+        {
+          "startTimeMs": "157150",
+          "words": "I feel a change on the"
+        },
+        {
+          "startTimeMs": "160360",
+          "words": "I feel a change on the rise"
+        },
+        {
+          "startTimeMs": "169620",
+          "words": "I feel a change on the"
+        },
+        {
+          "startTimeMs": "172950",
+          "words": "I feel a change on the rise"
+        },
+        {
+          "startTimeMs": "180730",
+          "words": "We're singin' all day"
+        },
+        {
+          "startTimeMs": "182820",
+          "words": "And you can't tame it"
+        },
+        {
+          "startTimeMs": "185240",
+          "words": "High tide, low tide, you know"
+        },
+        {
+          "startTimeMs": "188300",
+          "words": "Night time, mornin' time, and"
+        },
+        {
+          "startTimeMs": "191400",
+          "words": "We're goin' strong"
+        },
+        {
+          "startTimeMs": "193510",
+          "words": "Headed up, down the river"
+        },
+        {
+          "startTimeMs": "196620",
+          "words": "Oh, Lord, I feel the reveling"
+        },
+        {
+          "startTimeMs": "200630",
+          "words": "I feel a change on the rise"
+        },
+        {
+          "startTimeMs": "205690",
+          "words": "We're singin' all day"
+        },
+        {
+          "startTimeMs": "207980",
+          "words": "And you can't tame it"
+        },
+        {
+          "startTimeMs": "210270",
+          "words": "High tide, low tide, you know"
+        },
+        {
+          "startTimeMs": "213550",
+          "words": "Night time, mornin' time, and"
+        },
+        {
+          "startTimeMs": "216400",
+          "words": "We're goin' strong"
+        },
+        {
+          "startTimeMs": "218630",
+          "words": "Headed up, down the river"
+        },
+        {
+          "startTimeMs": "221740",
+          "words": "Oh, Lord, I feel the reveling"
+        },
+        {
+          "startTimeMs": "225760",
+          "words": "I feel a change on the rise"
+        },
+        {
+          "startTimeMs": "232090",
+          "words": "I feel a change on the rise"
+        }
+      ]
+    }
+  }
+}

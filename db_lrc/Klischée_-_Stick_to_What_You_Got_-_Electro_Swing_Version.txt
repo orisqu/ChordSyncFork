@@ -1,0 +1,12 @@
+{
+  "track_id": "5O1MNopATXbeD1aLecAuGX",
+  "track_name": "Stick to What You Got - Electro Swing Version",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:33:25",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "UNSYNCED",
+      "lines": []
+    }
+  }
+}

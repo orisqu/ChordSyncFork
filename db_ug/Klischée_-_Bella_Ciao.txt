@@ -1,0 +1,9 @@
+{
+  "track_id": "1Fy5bkDkn7rsISXLOQJAIP",
+  "track_name": "Bella Ciao",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:07:48",
+  "source_link": "https://www.google.de/search?q=Klischée bella ciao chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

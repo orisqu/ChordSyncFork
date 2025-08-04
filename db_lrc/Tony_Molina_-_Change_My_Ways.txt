@@ -1,0 +1,37 @@
+{
+  "track_id": "6Ui8zZEEQCjgDO8MYQRUSw",
+  "track_name": "Change My Ways",
+  "artist_name": "Tony Molina",
+  "timestamp": "2025-03-21 23:17:11",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "12720",
+          "words": "I can't seem to change my ways"
+        },
+        {
+          "startTimeMs": "17040",
+          "words": "Till you understand"
+        },
+        {
+          "startTimeMs": "25580",
+          "words": "Can't seem to make you wanna stay"
+        },
+        {
+          "startTimeMs": "30140",
+          "words": "Cause I've done all I can"
+        },
+        {
+          "startTimeMs": "38380",
+          "words": "No matter what I do"
+        },
+        {
+          "startTimeMs": "41540",
+          "words": "My thoughts go back to you"
+        }
+      ]
+    }
+  }
+}

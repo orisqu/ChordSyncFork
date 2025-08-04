@@ -1,0 +1,205 @@
+{
+  "track_id": "4qiGWygYcajMZGdVFJm5oc",
+  "track_name": "People Ain't No Good",
+  "artist_name": "Nick Cave & The Bad Seeds",
+  "timestamp": "2025-03-21 20:33:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "26320",
+          "words": "People just ain't no good"
+        },
+        {
+          "startTimeMs": "31880",
+          "words": "I think that's well understood"
+        },
+        {
+          "startTimeMs": "38230",
+          "words": "You can see it everywhere you look"
+        },
+        {
+          "startTimeMs": "44380",
+          "words": "People just ain't no good"
+        },
+        {
+          "startTimeMs": "50450",
+          "words": "We were married under cherry trees"
+        },
+        {
+          "startTimeMs": "56430",
+          "words": "Under blossom we made our vows"
+        },
+        {
+          "startTimeMs": "62970",
+          "words": "All the blossoms come sailing down"
+        },
+        {
+          "startTimeMs": "68770",
+          "words": "Through the streets and through the playgrounds"
+        },
+        {
+          "startTimeMs": "75050",
+          "words": "The sun would stream on the sheets"
+        },
+        {
+          "startTimeMs": "80860",
+          "words": "Woken by the morning bird"
+        },
+        {
+          "startTimeMs": "87060",
+          "words": "We'd buy the Sunday newspapers"
+        },
+        {
+          "startTimeMs": "93350",
+          "words": "And never read a single word"
+        },
+        {
+          "startTimeMs": "98760",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "105420",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "111590",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "122030",
+          "words": "Seasons came, seasons went"
+        },
+        {
+          "startTimeMs": "129450",
+          "words": "The winter stripped, the blossoms bare"
+        },
+        {
+          "startTimeMs": "136040",
+          "words": "A different tree now lines the streets"
+        },
+        {
+          "startTimeMs": "141280",
+          "words": "Shaking it's fists in the air"
+        },
+        {
+          "startTimeMs": "147230",
+          "words": "The winter slammed us like a fist"
+        },
+        {
+          "startTimeMs": "153020",
+          "words": "The windows rattling in the gales"
+        },
+        {
+          "startTimeMs": "159040",
+          "words": "To which she drew the curtains"
+        },
+        {
+          "startTimeMs": "164600",
+          "words": "Made out of her wedding veils"
+        },
+        {
+          "startTimeMs": "170880",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "177270",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "182920",
+          "words": "People they ain't no good at all"
+        },
+        {
+          "startTimeMs": "194630",
+          "words": "To our love send a dozen white lilies"
+        },
+        {
+          "startTimeMs": "201120",
+          "words": "To our love send a coffin of wood"
+        },
+        {
+          "startTimeMs": "206810",
+          "words": "To our love let all the pink-eyed pigeons coo"
+        },
+        {
+          "startTimeMs": "214290",
+          "words": "That people they just ain't no good"
+        },
+        {
+          "startTimeMs": "219310",
+          "words": "To our love send back all the letters"
+        },
+        {
+          "startTimeMs": "224730",
+          "words": "To our love a valentine of blood"
+        },
+        {
+          "startTimeMs": "229670",
+          "words": "To our love let all the jilted lovers cry"
+        },
+        {
+          "startTimeMs": "236650",
+          "words": "That people they just ain't no good"
+        },
+        {
+          "startTimeMs": "244020",
+          "words": "It ain't that in their hearts they're bad"
+        },
+        {
+          "startTimeMs": "249820",
+          "words": "They can comfort you, some even try"
+        },
+        {
+          "startTimeMs": "255480",
+          "words": "They nurse you when you're ill of health"
+        },
+        {
+          "startTimeMs": "261490",
+          "words": "They bury you when you go and die"
+        },
+        {
+          "startTimeMs": "268100",
+          "words": "It ain't that in their hearts they're bad"
+        },
+        {
+          "startTimeMs": "273340",
+          "words": "They'll stick by you if they could"
+        },
+        {
+          "startTimeMs": "279760",
+          "words": "Ah, but that's just bullshit, baby"
+        },
+        {
+          "startTimeMs": "285860",
+          "words": "People just ain't no good"
+        },
+        {
+          "startTimeMs": "291190",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "297720",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "303080",
+          "words": "People they ain't no good, at all"
+        },
+        {
+          "startTimeMs": "312180",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "321160",
+          "words": "People they ain't no good"
+        },
+        {
+          "startTimeMs": "326730",
+          "words": "People they ain't no good, at all"
+        }
+      ]
+    }
+  }
+}

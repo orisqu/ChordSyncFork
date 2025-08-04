@@ -1,0 +1,189 @@
+{
+  "track_id": "0F7FA14euOIX8KcbEturGH",
+  "track_name": "Old Town Road",
+  "artist_name": "Lil Nas X",
+  "timestamp": "2025-03-21 17:19:33",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "13090",
+          "words": "Yeah, I'm gonna take my horse to the old town road"
+        },
+        {
+          "startTimeMs": "17120",
+          "words": "I'm gonna ride 'til I can't no more"
+        },
+        {
+          "startTimeMs": "20480",
+          "words": "I'm gonna take my horse to the old town road"
+        },
+        {
+          "startTimeMs": "24030",
+          "words": "I'm gonna ride (Kio, Kio) 'til I can't no more"
+        },
+        {
+          "startTimeMs": "27880",
+          "words": "I got the horses in the back"
+        },
+        {
+          "startTimeMs": "30150",
+          "words": "Horse tack is attached"
+        },
+        {
+          "startTimeMs": "31830",
+          "words": "Hat is matte black"
+        },
+        {
+          "startTimeMs": "33270",
+          "words": "Got the boots that's black to match"
+        },
+        {
+          "startTimeMs": "35270",
+          "words": "Riding on a horse, ha"
+        },
+        {
+          "startTimeMs": "37150",
+          "words": "You can whip your Porsche"
+        },
+        {
+          "startTimeMs": "38970",
+          "words": "I been in the valley"
+        },
+        {
+          "startTimeMs": "40360",
+          "words": "You ain't been up off the porch, now"
+        },
+        {
+          "startTimeMs": "42250",
+          "words": "Can't nobody tell me nothing"
+        },
+        {
+          "startTimeMs": "45860",
+          "words": "You can't tell me nothing"
+        },
+        {
+          "startTimeMs": "49220",
+          "words": "Can't nobody tell me nothing"
+        },
+        {
+          "startTimeMs": "53190",
+          "words": "You can't tell me nothing"
+        },
+        {
+          "startTimeMs": "56630",
+          "words": "Riding on a tractor"
+        },
+        {
+          "startTimeMs": "58350",
+          "words": "Lean all in my bladder"
+        },
+        {
+          "startTimeMs": "60040",
+          "words": "Cheated on my baby"
+        },
+        {
+          "startTimeMs": "61780",
+          "words": "You can go and ask her"
+        },
+        {
+          "startTimeMs": "63530",
+          "words": "My life is a movie"
+        },
+        {
+          "startTimeMs": "65420",
+          "words": "Bull riding and boobies"
+        },
+        {
+          "startTimeMs": "67040",
+          "words": "Cowboy hat from Gucci"
+        },
+        {
+          "startTimeMs": "68700",
+          "words": "Wrangler on my booty"
+        },
+        {
+          "startTimeMs": "70480",
+          "words": "Can't nobody tell me nothing"
+        },
+        {
+          "startTimeMs": "74270",
+          "words": "You can't tell me nothing"
+        },
+        {
+          "startTimeMs": "77720",
+          "words": "Can't nobody tell me nothing"
+        },
+        {
+          "startTimeMs": "81440",
+          "words": "You can't tell me nothing"
+        },
+        {
+          "startTimeMs": "83520",
+          "words": "Yeah, I'm gonna take my horse to the old town road"
+        },
+        {
+          "startTimeMs": "87510",
+          "words": "I'm gonna ride 'til I can't no more"
+        },
+        {
+          "startTimeMs": "90890",
+          "words": "I'm gonna take my horse to the old town road"
+        },
+        {
+          "startTimeMs": "94610",
+          "words": "I'm gonna ride 'til I can't no more"
+        },
+        {
+          "startTimeMs": "99030",
+          "words": "Hat down, cross-town, livin' like a rockstar"
+        },
+        {
+          "startTimeMs": "99170",
+          "words": "Spent a lot of money on my brand-new guitar"
+        },
+        {
+          "startTimeMs": "99450",
+          "words": "Baby's got a habit: diamond rings and Fendi sports bras"
+        },
+        {
+          "startTimeMs": "99720",
+          "words": "Ridin' down Rodeo in my Maserati sports car"
+        },
+        {
+          "startTimeMs": "100120",
+          "words": "Got no stress, I've been through all that"
+        },
+        {
+          "startTimeMs": "100380",
+          "words": "I'm like a Marlboro Man so I kick on back"
+        },
+        {
+          "startTimeMs": "100690",
+          "words": "Wish I could roll on back to that old town road"
+        },
+        {
+          "startTimeMs": "100900",
+          "words": "I wanna ride 'til I can't no more"
+        },
+        {
+          "startTimeMs": "101230",
+          "words": "Yeah, I'm gonna take my horse to the old town road"
+        },
+        {
+          "startTimeMs": "101560",
+          "words": "I'm gonna ride 'til I can't no more"
+        },
+        {
+          "startTimeMs": "101860",
+          "words": "I'm gonna take my horse to the old town road"
+        },
+        {
+          "startTimeMs": "102190",
+          "words": "I'm gonna ride 'til I can't no more"
+        }
+      ]
+    }
+  }
+}

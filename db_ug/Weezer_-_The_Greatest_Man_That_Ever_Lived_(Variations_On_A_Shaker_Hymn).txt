@@ -1,0 +1,9 @@
+{
+  "track_id": "2LJYikujMBFHAAHl3GkCBa",
+  "track_name": "The Greatest Man That Ever Lived (Variations On A Shaker Hymn)",
+  "artist_name": "Weezer",
+  "timestamp": "2025-03-21 23:17:18",
+  "source_link": "https://www.google.de/search?q=Weezer the greatest man that ever lived (variations on a shaker hymn) chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

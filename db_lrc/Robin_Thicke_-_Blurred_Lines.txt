@@ -1,0 +1,469 @@
+{
+  "track_id": "0n4bITAu0Y0nigrz3MFJMb",
+  "track_name": "Blurred Lines",
+  "artist_name": "Robin Thicke",
+  "timestamp": "2025-03-23 01:21:52",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "1620",
+          "words": "Everybody get up"
+        },
+        {
+          "startTimeMs": "9170",
+          "words": "Everybody get up (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "11780",
+          "words": "Hey, hey, hey (uh)"
+        },
+        {
+          "startTimeMs": "13500",
+          "words": "Hey, hey, hey (ha-ha) (woo)"
+        },
+        {
+          "startTimeMs": "17440",
+          "words": "Turn me up"
+        },
+        {
+          "startTimeMs": "19100",
+          "words": "If you can't hear what I'm trying to say (hey girl, come here)"
+        },
+        {
+          "startTimeMs": "22770",
+          "words": "If you can't read from the same page (hey)"
+        },
+        {
+          "startTimeMs": "26460",
+          "words": "Maybe I'm going deaf (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "28670",
+          "words": "Maybe I'm going blind (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "30470",
+          "words": "Maybe I'm out of my mind, mind (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "34230",
+          "words": "Okay, now he was close"
+        },
+        {
+          "startTimeMs": "36200",
+          "words": "Tried to domesticate you"
+        },
+        {
+          "startTimeMs": "38130",
+          "words": "But you're an animal"
+        },
+        {
+          "startTimeMs": "40300",
+          "words": "Baby, it's in your nature (meow)"
+        },
+        {
+          "startTimeMs": "42220",
+          "words": "Just let me liberate you (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "44730",
+          "words": "You don't need no takers (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "46240",
+          "words": "That man is not your maker (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "48740",
+          "words": "And that's why I'm gon' take a good girl (everybody get up)"
+        },
+        {
+          "startTimeMs": "52110",
+          "words": "I know you want it (hey)"
+        },
+        {
+          "startTimeMs": "54460",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "56580",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "57760",
+          "words": "You're a good girl (hey, hey)"
+        },
+        {
+          "startTimeMs": "60190",
+          "words": "Can't let it get past me (oh yeah)"
+        },
+        {
+          "startTimeMs": "62070",
+          "words": "You're far from plastic (alright)"
+        },
+        {
+          "startTimeMs": "64450",
+          "words": "Talkin' 'bout getting blasted"
+        },
+        {
+          "startTimeMs": "65880",
+          "words": "I hate these blurred lines"
+        },
+        {
+          "startTimeMs": "67850",
+          "words": "I know you want it (hey)"
+        },
+        {
+          "startTimeMs": "70220",
+          "words": "I know you want it (oh-oh-oh-oh, yeah-yeah)"
+        },
+        {
+          "startTimeMs": "72520",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "73780",
+          "words": "But you're a good girl (ah, hey)"
+        },
+        {
+          "startTimeMs": "76380",
+          "words": "The way you grab me"
+        },
+        {
+          "startTimeMs": "78140",
+          "words": "Must wanna get nasty (ah, hey, hey)"
+        },
+        {
+          "startTimeMs": "80660",
+          "words": "Go ahead, get at me (everybody get up) (come on!)"
+        },
+        {
+          "startTimeMs": "82250",
+          "words": "What do they make dreams for"
+        },
+        {
+          "startTimeMs": "84140",
+          "words": "When you got them jeans on? (Why?)"
+        },
+        {
+          "startTimeMs": "86100",
+          "words": "What do we need steam for?"
+        },
+        {
+          "startTimeMs": "88260",
+          "words": "You the hottest bitch in this place"
+        },
+        {
+          "startTimeMs": "90310",
+          "words": "I feel so lucky (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "92870",
+          "words": "You wanna hug me (hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "94430",
+          "words": "What rhymes with hug me? (Hey, hey, hey)"
+        },
+        {
+          "startTimeMs": "96680",
+          "words": "Hey (everybody get up)"
+        },
+        {
+          "startTimeMs": "98910",
+          "words": "Okay, now he was close"
+        },
+        {
+          "startTimeMs": "100540",
+          "words": "Tried to domesticate you"
+        },
+        {
+          "startTimeMs": "102220",
+          "words": "But you're an animal"
+        },
+        {
+          "startTimeMs": "104410",
+          "words": "Baby, it's in your nature (uh-huh)"
+        },
+        {
+          "startTimeMs": "106660",
+          "words": "Just let me liberate you (hey, hey, hey) (uh-huh)"
+        },
+        {
+          "startTimeMs": "108460",
+          "words": "You don't need no takers (hey, hey, hey) (uh-huh)"
+        },
+        {
+          "startTimeMs": "110550",
+          "words": "That man is not your maker (hey, hey, hey) (uh-huh)"
+        },
+        {
+          "startTimeMs": "112610",
+          "words": "And that's why I'm gon' take a good girl (everybody get up)"
+        },
+        {
+          "startTimeMs": "116670",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "118320",
+          "words": "I know you want it (hey)"
+        },
+        {
+          "startTimeMs": "120790",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "122030",
+          "words": "You're a good girl"
+        },
+        {
+          "startTimeMs": "123920",
+          "words": "Can't let it get past me (hey)"
+        },
+        {
+          "startTimeMs": "126270",
+          "words": "You're far from plastic (oh)"
+        },
+        {
+          "startTimeMs": "128290",
+          "words": "Talkin' 'bout getting blasted (everybody get up)"
+        },
+        {
+          "startTimeMs": "129800",
+          "words": "I hate these blurred lines (hate them lines)"
+        },
+        {
+          "startTimeMs": "132610",
+          "words": "I know you want it (I hate them lines)"
+        },
+        {
+          "startTimeMs": "134630",
+          "words": "I know you want it (I hate them lines)"
+        },
+        {
+          "startTimeMs": "136620",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "137900",
+          "words": "But you're a good girl (good girl)"
+        },
+        {
+          "startTimeMs": "140390",
+          "words": "The way you grab me (hustle gang, homie)"
+        },
+        {
+          "startTimeMs": "142360",
+          "words": "Must wanna get nasty (let go) (I say Rob)"
+        },
+        {
+          "startTimeMs": "144360",
+          "words": "Go ahead, get at me (let me holla at 'em real quick)"
+        },
+        {
+          "startTimeMs": "146640",
+          "words": "One thing I ask of you"
+        },
+        {
+          "startTimeMs": "147910",
+          "words": "Let me be the one you back that ass up to (come on!"
+        },
+        {
+          "startTimeMs": "149970",
+          "words": "Go from Malibu to Paris, boo (yeah)"
+        },
+        {
+          "startTimeMs": "151910",
+          "words": "Had a bitch, but she ain't bad as you (uh-uh, ayy)"
+        },
+        {
+          "startTimeMs": "154120",
+          "words": "So, hit me up when you pass through (oh)"
+        },
+        {
+          "startTimeMs": "155940",
+          "words": "I'll give you something big enough to tear your ass in two"
+        },
+        {
+          "startTimeMs": "157640",
+          "words": "Swag on 'em even when you dress casual"
+        },
+        {
+          "startTimeMs": "160120",
+          "words": "I mean, it's almost unbearable (hey, hey, hey) (everybody get up)"
+        },
+        {
+          "startTimeMs": "162650",
+          "words": "In a hundred years not dare would I"
+        },
+        {
+          "startTimeMs": "164080",
+          "words": "Pull a Pharcyde, let you pass me by"
+        },
+        {
+          "startTimeMs": "165930",
+          "words": "Nothin' like your last guy, he too square for you"
+        },
+        {
+          "startTimeMs": "168160",
+          "words": "He don't smack that ass and pull your hair like that (you like it)"
+        },
+        {
+          "startTimeMs": "169850",
+          "words": "So I'm just watchin' and waitin'"
+        },
+        {
+          "startTimeMs": "172390",
+          "words": "For you to salute the true big pimpin'"
+        },
+        {
+          "startTimeMs": "174020",
+          "words": "Not many women can refuse this pimpin'"
+        },
+        {
+          "startTimeMs": "176160",
+          "words": "I'm a nice guy, but don't get it confused, get pimpin' (everybody get up)"
+        },
+        {
+          "startTimeMs": "178370",
+          "words": "Shake your rump"
+        },
+        {
+          "startTimeMs": "179950",
+          "words": "Get down, get up"
+        },
+        {
+          "startTimeMs": "185360",
+          "words": "Do it like it hurt, like it hurt"
+        },
+        {
+          "startTimeMs": "189200",
+          "words": "What, you don't like work?"
+        },
+        {
+          "startTimeMs": "191670",
+          "words": "Hey (everybody get up)"
+        },
+        {
+          "startTimeMs": "194830",
+          "words": "Baby, can you breathe?"
+        },
+        {
+          "startTimeMs": "196600",
+          "words": "I got this from Jamaica"
+        },
+        {
+          "startTimeMs": "198570",
+          "words": "It always works for me"
+        },
+        {
+          "startTimeMs": "200150",
+          "words": "Dakota to Decatur (uh-huh)"
+        },
+        {
+          "startTimeMs": "202720",
+          "words": "No more pretending (hey, hey, hey) (uh-huh)"
+        },
+        {
+          "startTimeMs": "204400",
+          "words": "'Cause now you're winning (hey, hey, hey) (uh-huh)"
+        },
+        {
+          "startTimeMs": "206750",
+          "words": "Here's our beginning (hey, hey, hey) (uh-huh)"
+        },
+        {
+          "startTimeMs": "208510",
+          "words": "I always wanted"
+        },
+        {
+          "startTimeMs": "209870",
+          "words": "You're a good girl (everybody get up)"
+        },
+        {
+          "startTimeMs": "212810",
+          "words": "I know you want it (hey)"
+        },
+        {
+          "startTimeMs": "214460",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "216380",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "217890",
+          "words": "You're a good girl"
+        },
+        {
+          "startTimeMs": "220370",
+          "words": "Can't let it get past me (oh, yeah)"
+        },
+        {
+          "startTimeMs": "222400",
+          "words": "You're far from plastic (alright)"
+        },
+        {
+          "startTimeMs": "224530",
+          "words": "Talkin' 'bout getting blasted"
+        },
+        {
+          "startTimeMs": "226010",
+          "words": "I hate these blurred lines (everybody get up)"
+        },
+        {
+          "startTimeMs": "228410",
+          "words": "I know you want it (hey)"
+        },
+        {
+          "startTimeMs": "230280",
+          "words": "I know you want it (oh-oh-oh-oh, yeah-yeah)"
+        },
+        {
+          "startTimeMs": "232900",
+          "words": "I know you want it"
+        },
+        {
+          "startTimeMs": "233650",
+          "words": "But you're a good girl (ah, hey)"
+        },
+        {
+          "startTimeMs": "236350",
+          "words": "The way you grab me"
+        },
+        {
+          "startTimeMs": "238150",
+          "words": "Must wanna get nasty (ah, hey, hey)"
+        },
+        {
+          "startTimeMs": "240450",
+          "words": "Go ahead, get at me"
+        },
+        {
+          "startTimeMs": "243680",
+          "words": "Everybody get up"
+        },
+        {
+          "startTimeMs": "247620",
+          "words": "Everybody get up"
+        },
+        {
+          "startTimeMs": "249520",
+          "words": "Hey, hey, hey"
+        },
+        {
+          "startTimeMs": "251730",
+          "words": "Hey, hey, hey"
+        },
+        {
+          "startTimeMs": "253680",
+          "words": "Hey, hey, hey"
+        }
+      ]
+    }
+  }
+}

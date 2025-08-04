@@ -1,0 +1,169 @@
+{
+  "track_id": "6Qs4SXO9dwPj5GKvVOv8Ki",
+  "track_name": "Dancing With A Stranger (with Normani)",
+  "artist_name": "Sam Smith",
+  "timestamp": "2025-03-21 23:23:19",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "890",
+          "words": "Hmm, hmm"
+        },
+        {
+          "startTimeMs": "7570",
+          "words": "I don't wanna be alone tonight (alone tonight)"
+        },
+        {
+          "startTimeMs": "11990",
+          "words": "It's pretty clear that I'm not over you (over you)"
+        },
+        {
+          "startTimeMs": "16440",
+          "words": "I'm still thinking 'bout the things you do (things you do)"
+        },
+        {
+          "startTimeMs": "21100",
+          "words": "So I don't want to be alone tonight, alone tonight, alone tonight"
+        },
+        {
+          "startTimeMs": "27510",
+          "words": "Can you light the fire? (Light the fire)"
+        },
+        {
+          "startTimeMs": "30790",
+          "words": "I need somebody who can take control (take control)"
+        },
+        {
+          "startTimeMs": "35010",
+          "words": "I know exactly what I need to do"
+        },
+        {
+          "startTimeMs": "39520",
+          "words": "'Cause I don't want to be alone tonight, alone tonight, alone tonight"
+        },
+        {
+          "startTimeMs": "46200",
+          "words": "Look what you made me do"
+        },
+        {
+          "startTimeMs": "49130",
+          "words": "I'm with somebody new"
+        },
+        {
+          "startTimeMs": "51250",
+          "words": "Ooh, baby, baby, I'm dancing with a stranger"
+        },
+        {
+          "startTimeMs": "55800",
+          "words": "Look what you made me do"
+        },
+        {
+          "startTimeMs": "58720",
+          "words": "I'm with somebody new"
+        },
+        {
+          "startTimeMs": "60720",
+          "words": "Ooh, baby, baby, I'm dancing with a stranger"
+        },
+        {
+          "startTimeMs": "67050",
+          "words": "Dancing with a stranger"
+        },
+        {
+          "startTimeMs": "72720",
+          "words": "I wasn't even going out tonight (out tonight)"
+        },
+        {
+          "startTimeMs": "77060",
+          "words": "But boy I need to get you off my mind (off my mind)"
+        },
+        {
+          "startTimeMs": "81800",
+          "words": "I know exactly what I have to do"
+        },
+        {
+          "startTimeMs": "86690",
+          "words": "I don't want to be alone tonight, alone tonight, alone tonight"
+        },
+        {
+          "startTimeMs": "92650",
+          "words": "Look what you made me do"
+        },
+        {
+          "startTimeMs": "96080",
+          "words": "I'm with somebody new"
+        },
+        {
+          "startTimeMs": "98190",
+          "words": "Ooh, baby, baby, I'm dancing with a stranger"
+        },
+        {
+          "startTimeMs": "102550",
+          "words": "Look what you made me do"
+        },
+        {
+          "startTimeMs": "105040",
+          "words": "I'm with somebody new"
+        },
+        {
+          "startTimeMs": "107340",
+          "words": "Ooh, baby, baby, I'm dancing with a stranger"
+        },
+        {
+          "startTimeMs": "113840",
+          "words": "Dancing with a stranger"
+        },
+        {
+          "startTimeMs": "118640",
+          "words": "Dancing with a stranger"
+        },
+        {
+          "startTimeMs": "123380",
+          "words": "Dancing, yeah, ooh"
+        },
+        {
+          "startTimeMs": "130640",
+          "words": "Look what you made me do (mhmm)"
+        },
+        {
+          "startTimeMs": "133210",
+          "words": "I'm with somebody new"
+        },
+        {
+          "startTimeMs": "135270",
+          "words": "Ooh, baby, baby, I'm dancing with a stranger"
+        },
+        {
+          "startTimeMs": "139720",
+          "words": "Look what you made me do"
+        },
+        {
+          "startTimeMs": "142420",
+          "words": "I'm with somebody new"
+        },
+        {
+          "startTimeMs": "144540",
+          "words": "Ooh, baby, baby, I'm dancing with a stranger"
+        },
+        {
+          "startTimeMs": "150060",
+          "words": "I'm dancing, I'm dancing (ooh)"
+        },
+        {
+          "startTimeMs": "154470",
+          "words": "I'm dancing, I'm dancing (dancing with a stranger)"
+        },
+        {
+          "startTimeMs": "159090",
+          "words": "I'm dancing, I'm dancing (dancing with a stranger)"
+        },
+        {
+          "startTimeMs": "163980",
+          "words": "I'm dancing, I'm dancing (dancing with a stranger)"
+        }
+      ]
+    }
+  }
+}

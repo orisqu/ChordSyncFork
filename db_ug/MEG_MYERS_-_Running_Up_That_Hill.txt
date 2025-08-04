@@ -1,0 +1,9 @@
+{
+  "track_id": "7zLeOgBrdrCfMf47MCyLMC",
+  "track_name": "Running Up That Hill",
+  "artist_name": "MEG MYERS",
+  "timestamp": "2025-03-23 15:16:45",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/meg-myers/running-up-that-hill-chords-2876948",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>RUNNING UP THAT HILL CHORDS by Meg Myers @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] G A Bm G A Bm / [Verse 1] G A Bm It doesn&#039;t hurt me D G A Bm Do you want to feel how it feels? D G A Bm Do you want to know, know that it doesn&#039;t hurt me? D G A D"
+}

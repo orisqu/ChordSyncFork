@@ -1,0 +1,9 @@
+{
+  "track_id": "5Myoq3na9DWhvv1k9jxFXe",
+  "track_name": "Hem Of Your Garment",
+  "artist_name": "CAKE",
+  "timestamp": "2025-03-24 16:37:31",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/cake/hem-of-your-garment-chords-2967380",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>HEM OF YOUR GARMENT CHORDS by CAKE @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"This tab is based on the studio recording: https://www.youtube.com/watch?v=rs6Q7L9reWc.\">\n<meta name=\"keywords\" content=\"Cake - Hem Of Your Garment (Chords), Chords, CAKE, Ultimate-Guita"
+}

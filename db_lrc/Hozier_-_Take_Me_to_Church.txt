@@ -1,0 +1,277 @@
+{
+  "track_id": "1CS7Sd1u5tWkstBhpssyjP",
+  "track_name": "Take Me to Church",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-23 14:55:09",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "620",
+          "words": "My lover's got humour"
+        },
+        {
+          "startTimeMs": "3570",
+          "words": "She's the giggle at a funeral"
+        },
+        {
+          "startTimeMs": "6210",
+          "words": "Knows everybody's disapproval"
+        },
+        {
+          "startTimeMs": "9150",
+          "words": "They should've worshipped her sooner"
+        },
+        {
+          "startTimeMs": "12180",
+          "words": "If the heavens ever did speak"
+        },
+        {
+          "startTimeMs": "14930",
+          "words": "She's the last true mouthpiece"
+        },
+        {
+          "startTimeMs": "17900",
+          "words": "Every Sunday's getting more bleak"
+        },
+        {
+          "startTimeMs": "20650",
+          "words": "A fresh poison each week"
+        },
+        {
+          "startTimeMs": "23760",
+          "words": "\"We were born sick\""
+        },
+        {
+          "startTimeMs": "25310",
+          "words": "You heard them say it"
+        },
+        {
+          "startTimeMs": "27480",
+          "words": "My church offers no absolutes"
+        },
+        {
+          "startTimeMs": "29970",
+          "words": "She tells me, \"Worship in the bedroom\""
+        },
+        {
+          "startTimeMs": "32890",
+          "words": "The only heaven I'll be sent to"
+        },
+        {
+          "startTimeMs": "35710",
+          "words": "Is when I'm alone with you"
+        },
+        {
+          "startTimeMs": "38600",
+          "words": "I was born sick, but I love it"
+        },
+        {
+          "startTimeMs": "41720",
+          "words": "Command me to be well"
+        },
+        {
+          "startTimeMs": "44390",
+          "words": "A-a-a-a-a-a-a, amen, amen, amen"
+        },
+        {
+          "startTimeMs": "56660",
+          "words": "Take me to church"
+        },
+        {
+          "startTimeMs": "57920",
+          "words": "I'll worship like a dog at the shrine of your lies"
+        },
+        {
+          "startTimeMs": "61830",
+          "words": "I'll tell you my sins, and you can sharpen your knife"
+        },
+        {
+          "startTimeMs": "65750",
+          "words": "Offer me that deathless death"
+        },
+        {
+          "startTimeMs": "68100",
+          "words": "Oh, good God, let me give you my life"
+        },
+        {
+          "startTimeMs": "71610",
+          "words": "Take me to church"
+        },
+        {
+          "startTimeMs": "73440",
+          "words": "I'll worship like a dog at the shrine of your lies"
+        },
+        {
+          "startTimeMs": "76810",
+          "words": "I'll tell you my sins, and you can sharpen your knife"
+        },
+        {
+          "startTimeMs": "80440",
+          "words": "Offer me that deathless death"
+        },
+        {
+          "startTimeMs": "82920",
+          "words": "Oh, good God, let me give you my life"
+        },
+        {
+          "startTimeMs": "87970",
+          "words": "If I'm a pagan of the good times"
+        },
+        {
+          "startTimeMs": "90410",
+          "words": "My lover's the sunlight"
+        },
+        {
+          "startTimeMs": "93130",
+          "words": "To keep the goddess on my side"
+        },
+        {
+          "startTimeMs": "96120",
+          "words": "She demands a sacrifice"
+        },
+        {
+          "startTimeMs": "99030",
+          "words": "Drain the whole sea"
+        },
+        {
+          "startTimeMs": "100710",
+          "words": "Get something shiny"
+        },
+        {
+          "startTimeMs": "102640",
+          "words": "Something meaty for the main course"
+        },
+        {
+          "startTimeMs": "105480",
+          "words": "That's a fine looking high horse"
+        },
+        {
+          "startTimeMs": "108200",
+          "words": "What you got in the stable?"
+        },
+        {
+          "startTimeMs": "111180",
+          "words": "We've a lot of starving faithful"
+        },
+        {
+          "startTimeMs": "113980",
+          "words": "That looks tasty"
+        },
+        {
+          "startTimeMs": "115550",
+          "words": "That looks plenty"
+        },
+        {
+          "startTimeMs": "117440",
+          "words": "This is hungry work"
+        },
+        {
+          "startTimeMs": "119590",
+          "words": "Take me to church"
+        },
+        {
+          "startTimeMs": "121140",
+          "words": "I'll worship like a dog at the shrine of your lies"
+        },
+        {
+          "startTimeMs": "125310",
+          "words": "I'll tell you my sins so you can sharpen your knife"
+        },
+        {
+          "startTimeMs": "128890",
+          "words": "Offer me my deathless death"
+        },
+        {
+          "startTimeMs": "131650",
+          "words": "Oh, good God, let me give you my life"
+        },
+        {
+          "startTimeMs": "134820",
+          "words": "Take me to church"
+        },
+        {
+          "startTimeMs": "136420",
+          "words": "I'll worship like a dog at the shrine of your lies"
+        },
+        {
+          "startTimeMs": "140140",
+          "words": "I'll tell you my sins so you can sharpen your knife"
+        },
+        {
+          "startTimeMs": "143990",
+          "words": "Offer me my deathless death"
+        },
+        {
+          "startTimeMs": "146450",
+          "words": "Oh, good God, let me give you my life"
+        },
+        {
+          "startTimeMs": "151380",
+          "words": "No masters or kings when the ritual begins"
+        },
+        {
+          "startTimeMs": "157940",
+          "words": "There is no sweeter innocence than our gentle sin"
+        },
+        {
+          "startTimeMs": "165240",
+          "words": "In the madness and soil of that sad earthly scene"
+        },
+        {
+          "startTimeMs": "172490",
+          "words": "Only then, I am human"
+        },
+        {
+          "startTimeMs": "176490",
+          "words": "Only then, I am clean"
+        },
+        {
+          "startTimeMs": "181750",
+          "words": "Oh, oh, amen, amen, amen"
+        },
+        {
+          "startTimeMs": "197240",
+          "words": "Take me to church"
+        },
+        {
+          "startTimeMs": "198910",
+          "words": "I'll worship like a dog at the shrine of your lies"
+        },
+        {
+          "startTimeMs": "202330",
+          "words": "I'll tell you my sins, and you can sharpen your knife"
+        },
+        {
+          "startTimeMs": "205960",
+          "words": "Offer me that deathless death"
+        },
+        {
+          "startTimeMs": "208750",
+          "words": "Oh, good God, let me give you my life"
+        },
+        {
+          "startTimeMs": "212050",
+          "words": "Take me to church"
+        },
+        {
+          "startTimeMs": "213500",
+          "words": "I'll worship like a dog at the shrine of your lies"
+        },
+        {
+          "startTimeMs": "217260",
+          "words": "I'll tell you my sins, and you can sharpen your knife"
+        },
+        {
+          "startTimeMs": "220800",
+          "words": "Offer me that deathless death"
+        },
+        {
+          "startTimeMs": "223690",
+          "words": "Oh, good God, let me give you my life"
+        }
+      ]
+    }
+  }
+}

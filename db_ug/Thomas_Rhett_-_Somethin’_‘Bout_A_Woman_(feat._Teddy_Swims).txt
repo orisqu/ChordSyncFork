@@ -1,0 +1,9 @@
+{
+  "track_id": "1dHUB7GIbSk3MdL6a6KGvc",
+  "track_name": "Somethin’ ‘Bout A Woman (feat. Teddy Swims)",
+  "artist_name": "Thomas Rhett",
+  "timestamp": "2025-03-23 15:02:15",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/thomas-rhett/somethin-bout-a-woman-chords-5398503",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SOMETHIN BOUT A WOMAN CHORDS by Thomas Rhett @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"From 2024. Link to the song: https://youtu.be/clca_R_blY4.\">\n<meta name=\"keywords\" content=\"Thomas Rhett - Somethin Bout A Woman (Chords), Chords, Thomas Rhett, Ultimate-Guitar"
+}

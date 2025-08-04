@@ -1,0 +1,9 @@
+{
+  "track_id": "7a86XRg84qjasly9f6bPSD",
+  "track_name": "We Are Young (feat. Janelle Monáe)",
+  "artist_name": "fun.",
+  "timestamp": "2025-03-23 02:10:48",
+  "source_link": "https://www.google.de/search?q=fun. we are young (feat. janelle monáe) chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

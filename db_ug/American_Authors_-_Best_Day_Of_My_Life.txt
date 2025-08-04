@@ -1,0 +1,9 @@
+{
+  "track_id": "5Hroj5K7vLpIG4FNCRIjbP",
+  "track_name": "Best Day Of My Life",
+  "artist_name": "American Authors",
+  "timestamp": "2025-03-23 01:39:08",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/american-authors/best-day-of-my-life-chords-1250832",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BEST DAY OF MY LIFE CHORDS by American Authors @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse] D I had a dream so big and loud I jumped so high I touched the clouds G Wo-o-o-o-o-oh G Wo-o-o-o-o-oh D I stretched my hands out to the sky We danced with monsters th"
+}

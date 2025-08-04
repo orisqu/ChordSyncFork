@@ -1,0 +1,109 @@
+{
+  "track_id": "0JANCc1DhGuwOBnfaZNzaK",
+  "track_name": "Minnie the Moocher",
+  "artist_name": "Pisk",
+  "timestamp": "2025-04-07 17:29:43",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "32970",
+          "words": "Hey folks here's the story 'bout Minnie the Moocher"
+        },
+        {
+          "startTimeMs": "36200",
+          "words": "She was a red hot hoocie coocher"
+        },
+        {
+          "startTimeMs": "40010",
+          "words": "She was the roughest toughest frail"
+        },
+        {
+          "startTimeMs": "43660",
+          "words": "But Minnie had a heart as big as a whale"
+        },
+        {
+          "startTimeMs": "47570",
+          "words": "She messed around with a bloke named Smokie"
+        },
+        {
+          "startTimeMs": "51330",
+          "words": "She loved him though he was cokey"
+        },
+        {
+          "startTimeMs": "55340",
+          "words": "He took her down to Chinatown"
+        },
+        {
+          "startTimeMs": "58640",
+          "words": "And showed her how to kick the gong around"
+        },
+        {
+          "startTimeMs": "78280",
+          "words": "She had a dream about the king of Sweden"
+        },
+        {
+          "startTimeMs": "81940",
+          "words": "He gave her things that she was needin'"
+        },
+        {
+          "startTimeMs": "86670",
+          "words": "He gave her a home built of gold and steel"
+        },
+        {
+          "startTimeMs": "89770",
+          "words": "A diamond car with platinum wheels"
+        },
+        {
+          "startTimeMs": "93450",
+          "words": "He gave her his townhouse and his racing horses"
+        },
+        {
+          "startTimeMs": "97320",
+          "words": "Each meal she ate was a dozen courses"
+        },
+        {
+          "startTimeMs": "101180",
+          "words": "She had a million dollars worth of nickels and dimes"
+        },
+        {
+          "startTimeMs": "104720",
+          "words": "She sat around and counted them all a million times"
+        },
+        {
+          "startTimeMs": "108740",
+          "words": "Hidehidehidehi (Hidehidehidehi)"
+        },
+        {
+          "startTimeMs": "112150",
+          "words": "Hodehodehodeho (Hodehodehodeho)"
+        },
+        {
+          "startTimeMs": "115980",
+          "words": "Hedehedehedehe (Hedehedehedehe)"
+        },
+        {
+          "startTimeMs": "129490",
+          "words": "Hidehidehideho (Hidehidehideho)"
+        },
+        {
+          "startTimeMs": "146860",
+          "words": "Hidehidehidehi (Hidehidehidehi)"
+        },
+        {
+          "startTimeMs": "150590",
+          "words": "Who-o-o-o-ah (Who-o-o-o-ah)"
+        },
+        {
+          "startTimeMs": "154440",
+          "words": "Hedehedehedehe (Hedehedehedehe)"
+        },
+        {
+          "startTimeMs": "160420",
+          "words": "A hidehidehideho (Hidehidehideho)"
+        }
+      ]
+    }
+  }
+}

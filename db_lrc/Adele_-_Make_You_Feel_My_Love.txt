@@ -1,0 +1,113 @@
+{
+  "track_id": "5FgPwJ7Nh2FVmIXviKl2VF",
+  "track_name": "Make You Feel My Love",
+  "artist_name": "Adele",
+  "timestamp": "2025-03-21 17:30:38",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "25990",
+          "words": "When the rain is blowing in your face"
+        },
+        {
+          "startTimeMs": "32120",
+          "words": "And the whole world is on your case"
+        },
+        {
+          "startTimeMs": "38340",
+          "words": "I could offer you a warm embrace"
+        },
+        {
+          "startTimeMs": "44480",
+          "words": "To make you feel my love"
+        },
+        {
+          "startTimeMs": "50650",
+          "words": "When the evening shadows and the stars appear"
+        },
+        {
+          "startTimeMs": "56830",
+          "words": "And there is no one there to dry your tears"
+        },
+        {
+          "startTimeMs": "63230",
+          "words": "I could hold you for a million years"
+        },
+        {
+          "startTimeMs": "69180",
+          "words": "To make you feel my love"
+        },
+        {
+          "startTimeMs": "75450",
+          "words": "I know you haven't made your mind up yet"
+        },
+        {
+          "startTimeMs": "81750",
+          "words": "But I will never do you wrong"
+        },
+        {
+          "startTimeMs": "88070",
+          "words": "I've known it from the moment that we met"
+        },
+        {
+          "startTimeMs": "93720",
+          "words": "No doubt in my mind where you belong"
+        },
+        {
+          "startTimeMs": "100610",
+          "words": "I'd go hungry, I'd go black and blue"
+        },
+        {
+          "startTimeMs": "107010",
+          "words": "I'd go crawling down the avenue"
+        },
+        {
+          "startTimeMs": "113340",
+          "words": "No, there's nothing that I wouldn't do"
+        },
+        {
+          "startTimeMs": "119160",
+          "words": "To make you feel my love"
+        },
+        {
+          "startTimeMs": "150220",
+          "words": "The storms are raging on the rolling sea"
+        },
+        {
+          "startTimeMs": "156520",
+          "words": "And on the highway of regret"
+        },
+        {
+          "startTimeMs": "162730",
+          "words": "The winds of change are blowing wild and free"
+        },
+        {
+          "startTimeMs": "168510",
+          "words": "You ain't seen nothing like me yet"
+        },
+        {
+          "startTimeMs": "174770",
+          "words": "I could make you happy, make your dreams come true"
+        },
+        {
+          "startTimeMs": "181720",
+          "words": "Nothing that I wouldn't do"
+        },
+        {
+          "startTimeMs": "187830",
+          "words": "Go to the ends of the Earth for you"
+        },
+        {
+          "startTimeMs": "193930",
+          "words": "To make you feel my love"
+        },
+        {
+          "startTimeMs": "200280",
+          "words": "To make you feel my love"
+        }
+      ]
+    }
+  }
+}

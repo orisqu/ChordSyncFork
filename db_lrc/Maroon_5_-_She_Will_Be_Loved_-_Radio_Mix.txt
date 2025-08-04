@@ -1,0 +1,133 @@
+{
+  "track_id": "4llK75pXNWZz6KAho2Gp16",
+  "track_name": "She Will Be Loved - Radio Mix",
+  "artist_name": "Maroon 5",
+  "timestamp": "2025-03-21 23:33:35",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "10340",
+          "words": "Beauty queen of only 18"
+        },
+        {
+          "startTimeMs": "15310",
+          "words": "She had some trouble with herself"
+        },
+        {
+          "startTimeMs": "19560",
+          "words": "He was always there to help her"
+        },
+        {
+          "startTimeMs": "24380",
+          "words": "She always belonged to someone else"
+        },
+        {
+          "startTimeMs": "30060",
+          "words": "I drove for miles and miles"
+        },
+        {
+          "startTimeMs": "33090",
+          "words": "And wound up at your door"
+        },
+        {
+          "startTimeMs": "38170",
+          "words": "I've had you so many times"
+        },
+        {
+          "startTimeMs": "42150",
+          "words": "But somehow, I want more"
+        },
+        {
+          "startTimeMs": "49280",
+          "words": "I don't mind spending everyday"
+        },
+        {
+          "startTimeMs": "52840",
+          "words": "Out on your corner in the pouring rain"
+        },
+        {
+          "startTimeMs": "57020",
+          "words": "Look for the girl with the broken smile"
+        },
+        {
+          "startTimeMs": "61720",
+          "words": "Ask her if she wants to stay awhile"
+        },
+        {
+          "startTimeMs": "65580",
+          "words": "And she will be loved"
+        },
+        {
+          "startTimeMs": "69980",
+          "words": "And she will be loved"
+        },
+        {
+          "startTimeMs": "79050",
+          "words": "Tap on my window, knock on my door"
+        },
+        {
+          "startTimeMs": "83360",
+          "words": "I want to make you feel beautiful"
+        },
+        {
+          "startTimeMs": "87750",
+          "words": "I know I tend to get so insecure"
+        },
+        {
+          "startTimeMs": "92440",
+          "words": "It doesn't matter anymore"
+        },
+        {
+          "startTimeMs": "97600",
+          "words": "It's not always rainbows and butterflies"
+        },
+        {
+          "startTimeMs": "101760",
+          "words": "It's compromise that moves us along, yeah"
+        },
+        {
+          "startTimeMs": "106410",
+          "words": "My heart is full, and my door's always open"
+        },
+        {
+          "startTimeMs": "110470",
+          "words": "You come anytime you want, yeah"
+        },
+        {
+          "startTimeMs": "116330",
+          "words": "I don't mind spending everyday"
+        },
+        {
+          "startTimeMs": "120680",
+          "words": "Out on your corner in the pouring rain"
+        },
+        {
+          "startTimeMs": "125410",
+          "words": "Look for the girl with the broken smile"
+        },
+        {
+          "startTimeMs": "130040",
+          "words": "Ask her if she wants to stay awhile"
+        },
+        {
+          "startTimeMs": "133820",
+          "words": "And she will be loved"
+        },
+        {
+          "startTimeMs": "138510",
+          "words": "And she will be loved"
+        },
+        {
+          "startTimeMs": "143170",
+          "words": "And she will be loved"
+        },
+        {
+          "startTimeMs": "148260",
+          "words": "And she will be loved"
+        }
+      ]
+    }
+  }
+}

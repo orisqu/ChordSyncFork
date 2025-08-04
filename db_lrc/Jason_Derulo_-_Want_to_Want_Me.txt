@@ -1,0 +1,265 @@
+{
+  "track_id": "7oGZAicScQt96OAW4AruYy",
+  "track_name": "Want to Want Me",
+  "artist_name": "Jason Derulo",
+  "timestamp": "2025-03-23 02:04:54",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "930",
+          "words": "(Derulo)"
+        },
+        {
+          "startTimeMs": "1380",
+          "words": "It's too hot to sleep"
+        },
+        {
+          "startTimeMs": "3580",
+          "words": "I got the sheets on the floor"
+        },
+        {
+          "startTimeMs": "5800",
+          "words": "Nothing on me"
+        },
+        {
+          "startTimeMs": "7800",
+          "words": "And I can't take it no more"
+        },
+        {
+          "startTimeMs": "9960",
+          "words": "It's 100 degrees"
+        },
+        {
+          "startTimeMs": "12030",
+          "words": "I got one foot out the door"
+        },
+        {
+          "startTimeMs": "14260",
+          "words": "Where are my keys?"
+        },
+        {
+          "startTimeMs": "16320",
+          "words": "'Cause I gotta leave, yeah"
+        },
+        {
+          "startTimeMs": "18260",
+          "words": "In the back of the cab"
+        },
+        {
+          "startTimeMs": "20650",
+          "words": "I tip the driver 'head of time"
+        },
+        {
+          "startTimeMs": "22780",
+          "words": "Get me there fast (uh)"
+        },
+        {
+          "startTimeMs": "24970",
+          "words": "I got your body on my mind"
+        },
+        {
+          "startTimeMs": "27060",
+          "words": "I want it bad"
+        },
+        {
+          "startTimeMs": "28970",
+          "words": "Ooh, just the thought of you"
+        },
+        {
+          "startTimeMs": "30860",
+          "words": "Gets me so high"
+        },
+        {
+          "startTimeMs": "33120",
+          "words": "So high"
+        },
+        {
+          "startTimeMs": "36110",
+          "words": "Girl, you're the one I want to want me"
+        },
+        {
+          "startTimeMs": "41750",
+          "words": "And if you want me, girl, you got me"
+        },
+        {
+          "startTimeMs": "45840",
+          "words": "There's nothing I, no, I wouldn't do (I wouldn't do)"
+        },
+        {
+          "startTimeMs": "51480",
+          "words": "Just to get up next to you"
+        },
+        {
+          "startTimeMs": "53350",
+          "words": "Girl, you're the one I want to want me"
+        },
+        {
+          "startTimeMs": "58390",
+          "words": "And if you want me, girl, you got me"
+        },
+        {
+          "startTimeMs": "62620",
+          "words": "There's nothing I, no, I wouldn't do (I wouldn't do)"
+        },
+        {
+          "startTimeMs": "68280",
+          "words": "Just to get up next to you"
+        },
+        {
+          "startTimeMs": "72630",
+          "words": "Just to get up next to you (oh, yeah)"
+        },
+        {
+          "startTimeMs": "77580",
+          "words": "You open the door"
+        },
+        {
+          "startTimeMs": "79850",
+          "words": "Wearing nothing but a smile"
+        },
+        {
+          "startTimeMs": "81930",
+          "words": "Down to the floor (uh)"
+        },
+        {
+          "startTimeMs": "83870",
+          "words": "And you whisper in my ear"
+        },
+        {
+          "startTimeMs": "86270",
+          "words": "\"Baby, I'm yours\""
+        },
+        {
+          "startTimeMs": "87950",
+          "words": "Ooh, just the thought of you"
+        },
+        {
+          "startTimeMs": "90160",
+          "words": "Gets me so high (so high)"
+        },
+        {
+          "startTimeMs": "92560",
+          "words": "So high"
+        },
+        {
+          "startTimeMs": "95250",
+          "words": "Girl, you're the one I want to want me"
+        },
+        {
+          "startTimeMs": "100660",
+          "words": "And if you want me, girl, you got me"
+        },
+        {
+          "startTimeMs": "104720",
+          "words": "There's nothing I, no, I wouldn't do (I wouldn't do)"
+        },
+        {
+          "startTimeMs": "110690",
+          "words": "Just to get up next to you"
+        },
+        {
+          "startTimeMs": "112430",
+          "words": "Girl, you're the one I want to want me (uh)"
+        },
+        {
+          "startTimeMs": "117550",
+          "words": "And if you want me, girl, you got me"
+        },
+        {
+          "startTimeMs": "121540",
+          "words": "There's nothing I, no, I wouldn't do (I wouldn't do)"
+        },
+        {
+          "startTimeMs": "127380",
+          "words": "Just to get up next to you (yeah)"
+        },
+        {
+          "startTimeMs": "131630",
+          "words": "Just to get up next to you (oh)"
+        },
+        {
+          "startTimeMs": "136520",
+          "words": "Just the thought of you"
+        },
+        {
+          "startTimeMs": "140450",
+          "words": "Gets me so high"
+        },
+        {
+          "startTimeMs": "142800",
+          "words": "So high"
+        },
+        {
+          "startTimeMs": "145080",
+          "words": "Ooh, just the thought of you, woah"
+        },
+        {
+          "startTimeMs": "148670",
+          "words": "Gets me so high"
+        },
+        {
+          "startTimeMs": "151430",
+          "words": "So high"
+        },
+        {
+          "startTimeMs": "154130",
+          "words": "Girl, you're the one I want to want me (girl, I want you)"
+        },
+        {
+          "startTimeMs": "159220",
+          "words": "And if you want me, girl, you got me (you got me)"
+        },
+        {
+          "startTimeMs": "164010",
+          "words": "There's nothing I, no, I wouldn't do (I wouldn't do)"
+        },
+        {
+          "startTimeMs": "169490",
+          "words": "Just to get up next to you (oh-oh)"
+        },
+        {
+          "startTimeMs": "171410",
+          "words": "Girl, you're the one I want to want me"
+        },
+        {
+          "startTimeMs": "176630",
+          "words": "And if you want me, girl, you got me"
+        },
+        {
+          "startTimeMs": "180670",
+          "words": "There's nothing I, no, I wouldn't do (I wouldn't do)"
+        },
+        {
+          "startTimeMs": "186350",
+          "words": "Just to get up next to you (oh-oh)"
+        },
+        {
+          "startTimeMs": "188820",
+          "words": "I would do anything"
+        },
+        {
+          "startTimeMs": "190720",
+          "words": "Just to get up next to you"
+        },
+        {
+          "startTimeMs": "192880",
+          "words": "Anything and everything"
+        },
+        {
+          "startTimeMs": "194990",
+          "words": "Just to get up next to you (baby)"
+        },
+        {
+          "startTimeMs": "199200",
+          "words": "Just to get up next to you (oh)"
+        },
+        {
+          "startTimeMs": "203230",
+          "words": "Get up, get up"
+        }
+      ]
+    }
+  }
+}

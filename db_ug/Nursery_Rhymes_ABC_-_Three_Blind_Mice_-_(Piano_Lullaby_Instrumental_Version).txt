@@ -1,0 +1,9 @@
+{
+  "track_id": "4js7JCVUTbNl6PuCRS7AOB",
+  "track_name": "Three Blind Mice - (Piano Lullaby Instrumental Version)",
+  "artist_name": "Nursery Rhymes ABC",
+  "timestamp": "2025-07-06 21:46:45",
+  "source_link": "https://www.google.de/search?q=Nursery Rhymes ABC three blind mice - (piano lullaby instrumental ) chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

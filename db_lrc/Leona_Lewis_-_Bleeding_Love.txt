@@ -1,0 +1,277 @@
+{
+  "track_id": "7wZUrN8oemZfsEd1CGkbXE",
+  "track_name": "Bleeding Love",
+  "artist_name": "Leona Lewis",
+  "timestamp": "2025-03-21 23:24:08",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9630",
+          "words": "Ooh-ooh"
+        },
+        {
+          "startTimeMs": "14370",
+          "words": "Hey"
+        },
+        {
+          "startTimeMs": "19160",
+          "words": "Closed off from love, I didn't need the pain"
+        },
+        {
+          "startTimeMs": "23850",
+          "words": "Once or twice was enough and it was all in vain"
+        },
+        {
+          "startTimeMs": "28230",
+          "words": "Time starts to pass, before you know it you're frozen, ooh"
+        },
+        {
+          "startTimeMs": "37050",
+          "words": "But something happened for the very first time with you"
+        },
+        {
+          "startTimeMs": "42040",
+          "words": "My heart melted to the ground found somethin' true"
+        },
+        {
+          "startTimeMs": "46600",
+          "words": "And everyone's looking 'round thinking I'm going crazy, ooh I"
+        },
+        {
+          "startTimeMs": "55960",
+          "words": "But I don't care what they say"
+        },
+        {
+          "startTimeMs": "58270",
+          "words": "I'm in love with you"
+        },
+        {
+          "startTimeMs": "60510",
+          "words": "They try to pull me away"
+        },
+        {
+          "startTimeMs": "63080",
+          "words": "But they don't know the truth"
+        },
+        {
+          "startTimeMs": "65350",
+          "words": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "startTimeMs": "72010",
+          "words": "You cut me open and I"
+        },
+        {
+          "startTimeMs": "74630",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "76210",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "78970",
+          "words": "I keep bleeding"
+        },
+        {
+          "startTimeMs": "80400",
+          "words": "I keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "83390",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "85190",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "90520",
+          "words": "You cut me open"
+        },
+        {
+          "startTimeMs": "96930",
+          "words": "Trying hard not to hear, but they talk so loud"
+        },
+        {
+          "startTimeMs": "101880",
+          "words": "Their piercing sounds fill my ears, try to fill me with doubt"
+        },
+        {
+          "startTimeMs": "106450",
+          "words": "Yet I know that their goal is to keep me from falling, hey yeah, mmh"
+        },
+        {
+          "startTimeMs": "115740",
+          "words": "But nothing's greater than the risk that comes with your embrace"
+        },
+        {
+          "startTimeMs": "120300",
+          "words": "And in this world of loneliness, I see your face"
+        },
+        {
+          "startTimeMs": "125190",
+          "words": "Yet everyone around me thinks that I'm going crazy"
+        },
+        {
+          "startTimeMs": "131130",
+          "words": "Maybe, maybe"
+        },
+        {
+          "startTimeMs": "134190",
+          "words": "But I don't care what they say"
+        },
+        {
+          "startTimeMs": "137050",
+          "words": "I'm in love with you"
+        },
+        {
+          "startTimeMs": "138930",
+          "words": "They try to pull me away"
+        },
+        {
+          "startTimeMs": "141110",
+          "words": "But they don't know the truth"
+        },
+        {
+          "startTimeMs": "143220",
+          "words": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "startTimeMs": "150590",
+          "words": "You cut me open and I"
+        },
+        {
+          "startTimeMs": "152980",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "154350",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "157340",
+          "words": "I keep bleeding"
+        },
+        {
+          "startTimeMs": "158610",
+          "words": "I keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "162250",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "163100",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "168980",
+          "words": "You cut me open, mmh"
+        },
+        {
+          "startTimeMs": "172760",
+          "words": "And it's draining all of me"
+        },
+        {
+          "startTimeMs": "177480",
+          "words": "Though they find it hard to believe"
+        },
+        {
+          "startTimeMs": "181840",
+          "words": "I'll be wearing these scars for everyone to see"
+        },
+        {
+          "startTimeMs": "189880",
+          "words": "I don't care what they say"
+        },
+        {
+          "startTimeMs": "192220",
+          "words": "I'm in love with you"
+        },
+        {
+          "startTimeMs": "194550",
+          "words": "They try to pull me away"
+        },
+        {
+          "startTimeMs": "196660",
+          "words": "But they don't know the truth"
+        },
+        {
+          "startTimeMs": "199110",
+          "words": "My heart's crippled by the vein that I keep on closing"
+        },
+        {
+          "startTimeMs": "205450",
+          "words": "Ooh, you cut me open and I"
+        },
+        {
+          "startTimeMs": "208650",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "210030",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "212680",
+          "words": "I keep bleeding"
+        },
+        {
+          "startTimeMs": "214340",
+          "words": "I keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "217290",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "218620",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "223440",
+          "words": "Oh, you cut me open and I"
+        },
+        {
+          "startTimeMs": "226980",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "228250",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "231230",
+          "words": "I keep bleeding"
+        },
+        {
+          "startTimeMs": "232630",
+          "words": "I keep, keep bleeding love (I keep bleeding in love)"
+        },
+        {
+          "startTimeMs": "236280",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "237650",
+          "words": "Keep, keep bleeding love"
+        },
+        {
+          "startTimeMs": "242550",
+          "words": "Ooh, you cut me open and I"
+        },
+        {
+          "startTimeMs": "245470",
+          "words": "Keep bleeding"
+        },
+        {
+          "startTimeMs": "247420",
+          "words": "Keep, keep bleeding love"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,344 @@
+/* ChordSync TV Styles
+   Optimized for Google TV viewing at a distance
+   High contrast, large text, and simple layout
+*/
+
+/* Base styles and resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    overflow: hidden;
+}
+
+/* Typography */
+h1 {
+    font-size: 3.5vw;
+    margin-bottom: 0.5vh;
+}
+
+h2 {
+    font-size: 2.5vw;
+    margin-bottom: 1vh;
+    color: #1DB954; /* Spotify green */
+}
+
+p {
+    font-size: 2vw;
+    line-height: 1.5;
+    margin-bottom: 1vh;
+}
+
+/* Layout containers */
+.tv-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 2vh 3vw;
+}
+
+/* Header with song info */
+.song-header {
+    display: flex;
+    align-items: center;
+    height: 20vh;
+    margin-bottom: 2vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1vw;
+    padding: 2vh;
+}
+
+.album-cover {
+    width: 16vh;
+    height: 16vh;
+    margin-right: 2vw;
+    border-radius: 0.5vw;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(29, 185, 84, 0.3);
+}
+
+.album-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.song-info {
+    flex: 1;
+}
+
+.song-meta {
+    font-size: 1.8vw;
+    margin-top: 1vh;
+}
+
+.progress-bar {
+    height: 1vh;
+    background-color: #333;
+    border-radius: 0.5vh;
+    margin-top: 1vh;
+    overflow: hidden;
+}
+
+#progress-fill {
+    height: 100%;
+    background-color: #1DB954;
+    width: 0%;
+    transition: width 1s linear;
+}
+
+.playback-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 2vw;
+}
+
+.playback-status {
+    display: flex;
+    gap: 1vw;
+}
+
+.status-icon {
+    font-size: 2.5vw;
+    opacity: 0.5;
+}
+
+.status-icon.active {
+    opacity: 1;
+    color: #1DB954;
+}
+
+/* Main chord display */
+.chord-display {
+    flex: 1;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1vw;
+    padding: 2vh 3vw;
+    margin-bottom: 2vh;
+}
+
+.chord-container {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#chord-content {
+    font-size: 2.2vw;
+    line-height: 1.6;
+    white-space: pre-wrap;
+}
+
+/* Chord styling */
+.chord_span {
+    color: #1DB954;
+    font-weight: bold;
+    display: inline-block;
+    margin: 0 0.5vw;
+}
+
+/* Current line highlight */
+.current-line {
+    background-color: rgba(29, 185, 84, 0.2);
+    color: #ffffff;
+    padding: 0.5vh 1vw;
+    border-radius: 0.5vw;
+    box-shadow: 0 0 10px rgba(29, 185, 84, 0.5);
+}
+
+/* Footer */
+.tv-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1vw;
+    padding: 0 3vw;
+    font-size: 1.8vw;
+}
+
+.song-key, .song-capo, .song-tuning, .sync-status {
+    display: flex;
+    align-items: center;
+    gap: 0.5vw;
+}
+
+#song-key, #song-capo, #song-tuning, #sync-value {
+    color: #1DB954;
+    font-weight: bold;
+}
+
+/* Authentication pages */
+.auth-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #121212;
+}
+
+.auth-container {
+    width: 80%;
+    max-width: 1200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1vw;
+    padding: 5vh 5vw;
+    text-align: center;
+}
+
+.logo-container {
+    margin-bottom: 5vh;
+}
+
+.logo-ascii {
+    font-family: monospace;
+    white-space: pre;
+    font-size: 1vw;
+    line-height: 1.2;
+    margin: 3vh auto;
+    color: #1DB954;
+    display: inline-block;
+    text-align: left;
+}
+
+.auth-message {
+    margin-bottom: 5vh;
+}
+
+.auth-button {
+    display: inline-block;
+    background-color: #1DB954;
+    color: #000;
+    font-size: 2vw;
+    padding: 1.5vh 3vw;
+    border-radius: 0.5vw;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 3vh;
+}
+
+/* Device auth specific */
+.device-auth-message {
+    margin: 3vh 0;
+}
+
+.steps {
+    margin: 4vh 0;
+}
+
+.step {
+    display: flex;
+    align-items: center;
+    margin: 2vh 0;
+    justify-content: center;
+}
+
+.step-number {
+    background-color: #1DB954;
+    color: #000;
+    width: 4vh;
+    height: 4vh;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vw;
+    font-weight: bold;
+    margin-right: 2vw;
+}
+
+.step-text {
+    font-size: 2.2vw;
+}
+
+.verification-uri {
+    font-size: 3vw;
+    font-weight: bold;
+    margin: 2vh 0;
+    color: #1DB954;
+}
+
+.user-code {
+    font-size: 5vw;
+    font-weight: bold;
+    letter-spacing: 0.5vw;
+    margin: 3vh 0;
+    color: #ffffff;
+    background-color: rgba(29, 185, 84, 0.2);
+    padding: 2vh;
+    border-radius: 1vw;
+    display: inline-block;
+}
+
+.auth-status {
+    margin-top: 5vh;
+}
+
+/* Loading spinner */
+.loading-spinner {
+    width: 5vh;
+    height: 5vh;
+    border: 0.5vh solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: #1DB954;
+    animation: spin 1s ease-in-out infinite;
+    margin: 3vh auto;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.loading-message {
+    text-align: center;
+    margin-top: 10vh;
+}
+
+/* Error page */
+.error-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.error-container {
+    width: 80%;
+    max-width: 1000px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 1vw;
+    padding: 5vh 5vw;
+    text-align: center;
+}
+
+.error-message {
+    margin: 5vh 0;
+}
+
+.button {
+    display: inline-block;
+    background-color: #1DB954;
+    color: #000;
+    font-size: 2vw;
+    padding: 1.5vh 3vw;
+    border-radius: 0.5vw;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 3vh;
+}
+
+/* Utility classes */
+.hidden {
+    display: none;
+}

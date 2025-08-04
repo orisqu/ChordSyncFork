@@ -1,0 +1,121 @@
+{
+  "track_id": "34R1Otm7togkS4bVTcV3Uc",
+  "track_name": "Tin Tin",
+  "artist_name": "Klischée",
+  "timestamp": "2025-04-07 17:43:13",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "26030",
+          "words": "Or what about to walk tonight"
+        },
+        {
+          "startTimeMs": "29890",
+          "words": "The brooklyn pop still on warm"
+        },
+        {
+          "startTimeMs": "33850",
+          "words": "Show the smile and get you right"
+        },
+        {
+          "startTimeMs": "37660",
+          "words": "Darling keeps forget the walk"
+        },
+        {
+          "startTimeMs": "39710",
+          "words": "Always such a bored"
+        },
+        {
+          "startTimeMs": "42180",
+          "words": "Hey! Hey!"
+        },
+        {
+          "startTimeMs": "55970",
+          "words": "But what about to get your pack"
+        },
+        {
+          "startTimeMs": "58990",
+          "words": "(Doo-woo-doo-woo-doo-baap-dei)"
+        },
+        {
+          "startTimeMs": "60310",
+          "words": "Look at me i cut the rope"
+        },
+        {
+          "startTimeMs": "62300",
+          "words": "(Doop-doo-aah)"
+        },
+        {
+          "startTimeMs": "63820",
+          "words": "The swing spin and put your curl"
+        },
+        {
+          "startTimeMs": "65900",
+          "words": "(Doop-doop-a-doop-doo-doo)"
+        },
+        {
+          "startTimeMs": "67760",
+          "words": "Feel the scratch shake your hand"
+        },
+        {
+          "startTimeMs": "69420",
+          "words": "So heck cause that's my girl"
+        },
+        {
+          "startTimeMs": "73930",
+          "words": "(Doo-woo-doo-woo-doo-baap-dei)"
+        },
+        {
+          "startTimeMs": "77460",
+          "words": "(Doop-doo-aah)"
+        },
+        {
+          "startTimeMs": "81200",
+          "words": "(Doop-doop-a-doop-doo-doo)"
+        },
+        {
+          "startTimeMs": "94610",
+          "words": "Hey! Hey!"
+        },
+        {
+          "startTimeMs": "146240",
+          "words": "Or what about to walk tonight"
+        },
+        {
+          "startTimeMs": "148700",
+          "words": "The brooklyn pop still on warm"
+        },
+        {
+          "startTimeMs": "150250",
+          "words": "Show it your smile and get you right"
+        },
+        {
+          "startTimeMs": "152120",
+          "words": "Forget the walk with such a bored"
+        },
+        {
+          "startTimeMs": "153170",
+          "words": "But what about to get your pack"
+        },
+        {
+          "startTimeMs": "155620",
+          "words": "Look at me i cut the rope"
+        },
+        {
+          "startTimeMs": "157730",
+          "words": "The swing spin and put your curl"
+        },
+        {
+          "startTimeMs": "159420",
+          "words": "Oh heck cause that's my girl"
+        },
+        {
+          "startTimeMs": "162130",
+          "words": "Hey!"
+        }
+      ]
+    }
+  }
+}

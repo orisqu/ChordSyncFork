@@ -1,0 +1,237 @@
+{
+  "track_id": "55S2PQgSMYAhgoTCcGCDfw",
+  "track_name": "Youngblood",
+  "artist_name": "5 Seconds of Summer",
+  "timestamp": "2025-03-23 02:10:53",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "550",
+          "words": "Remember the words you told me, \"Love me 'til the day I die\""
+        },
+        {
+          "startTimeMs": "8600",
+          "words": "Surrender my everything 'cause you made me believe you're mine"
+        },
+        {
+          "startTimeMs": "16370",
+          "words": "Yeah, you used to call me baby, now, you're calling me by name (mmm)"
+        },
+        {
+          "startTimeMs": "24670",
+          "words": "Takes one to know one, yeah, you beat me at my own damn game"
+        },
+        {
+          "startTimeMs": "32810",
+          "words": "You push and you push and I'm pulling away"
+        },
+        {
+          "startTimeMs": "35080",
+          "words": "Pulling away from you"
+        },
+        {
+          "startTimeMs": "36760",
+          "words": "I give and I give and I give and you take"
+        },
+        {
+          "startTimeMs": "39010",
+          "words": "Give and you take"
+        },
+        {
+          "startTimeMs": "40430",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "41710",
+          "words": "Say you want me, say you want me out of your life"
+        },
+        {
+          "startTimeMs": "45470",
+          "words": "Then I'm just a dead man walking tonight"
+        },
+        {
+          "startTimeMs": "49790",
+          "words": "But you need it, yeah, you need it all of the time"
+        },
+        {
+          "startTimeMs": "53390",
+          "words": "Yeah, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "56590",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "57720",
+          "words": "Say you want me, say you want me back in your life"
+        },
+        {
+          "startTimeMs": "61330",
+          "words": "So I'm just a dead man crawling tonight"
+        },
+        {
+          "startTimeMs": "65790",
+          "words": "'Cause I need it, yeah, I need it all of the time"
+        },
+        {
+          "startTimeMs": "69360",
+          "words": "Yeah, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "72850",
+          "words": "Lately, our conversations end like it's the last goodbye"
+        },
+        {
+          "startTimeMs": "80500",
+          "words": "Then one of us gets too drunk and calls about a hundred times"
+        },
+        {
+          "startTimeMs": "88590",
+          "words": "So, who you been calling baby? Nobody could take my place"
+        },
+        {
+          "startTimeMs": "96620",
+          "words": "When you're looking at those strangers, hope to God you see my face (ooh, ooh)"
+        },
+        {
+          "startTimeMs": "104480",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "105850",
+          "words": "Say you want me, say you want me out of your life"
+        },
+        {
+          "startTimeMs": "109320",
+          "words": "Then I'm just a dead man walking tonight"
+        },
+        {
+          "startTimeMs": "113610",
+          "words": "But you need it, yeah, you need it all of the time"
+        },
+        {
+          "startTimeMs": "117320",
+          "words": "Yeah, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "120490",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "121670",
+          "words": "Say you want me, say you want me back in your life"
+        },
+        {
+          "startTimeMs": "125350",
+          "words": "So I'm just a dead man crawling tonight"
+        },
+        {
+          "startTimeMs": "129740",
+          "words": "'Cause I need it, yeah, I need it all of the time"
+        },
+        {
+          "startTimeMs": "133410",
+          "words": "Yeah, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "136950",
+          "words": "You push and you push and I'm pulling away"
+        },
+        {
+          "startTimeMs": "139000",
+          "words": "Pulling away from you"
+        },
+        {
+          "startTimeMs": "140980",
+          "words": "I give and I give and I give and you take"
+        },
+        {
+          "startTimeMs": "143160",
+          "words": "Give and you take"
+        },
+        {
+          "startTimeMs": "144980",
+          "words": "You're running around and I'm running away"
+        },
+        {
+          "startTimeMs": "147140",
+          "words": "Running away from you"
+        },
+        {
+          "startTimeMs": "150080",
+          "words": "Mmm, from you"
+        },
+        {
+          "startTimeMs": "152520",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "153750",
+          "words": "Say you want me, say you want me out of your life"
+        },
+        {
+          "startTimeMs": "157360",
+          "words": "Then I'm just a dead man walking tonight"
+        },
+        {
+          "startTimeMs": "161810",
+          "words": "But you need it, yeah, you need it all of the time"
+        },
+        {
+          "startTimeMs": "165350",
+          "words": "Yeah, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "168450",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "169830",
+          "words": "Say you want me, say you want me back in your life"
+        },
+        {
+          "startTimeMs": "173380",
+          "words": "So I'm just a dead man crawling tonight"
+        },
+        {
+          "startTimeMs": "177840",
+          "words": "'Cause I need it, yeah, I need it all of the time"
+        },
+        {
+          "startTimeMs": "181390",
+          "words": "Yeah, ooh, ooh, ooh"
+        },
+        {
+          "startTimeMs": "184820",
+          "words": "You push and you push and I'm pulling away"
+        },
+        {
+          "startTimeMs": "187140",
+          "words": "Pulling away from you"
+        },
+        {
+          "startTimeMs": "189080",
+          "words": "I give and I give and I give and you take"
+        },
+        {
+          "startTimeMs": "191050",
+          "words": "Give and you take"
+        },
+        {
+          "startTimeMs": "192330",
+          "words": "Youngblood"
+        },
+        {
+          "startTimeMs": "193630",
+          "words": "Say you want me, say you want me out of your life"
+        },
+        {
+          "startTimeMs": "197480",
+          "words": "Then I'm just a dead man walking tonight"
+        }
+      ]
+    }
+  }
+}

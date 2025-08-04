@@ -1,0 +1,181 @@
+{
+  "track_id": "1qPbGZqppFwLwcBC1JQ6Vr",
+  "track_name": "Wonderwall",
+  "artist_name": "Oasis",
+  "timestamp": "2025-03-23 14:37:43",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "24390",
+          "words": "Today is gonna be the day"
+        },
+        {
+          "startTimeMs": "26350",
+          "words": "That they're gonna throw it back to you"
+        },
+        {
+          "startTimeMs": "29880",
+          "words": "By now, you should've somehow"
+        },
+        {
+          "startTimeMs": "31990",
+          "words": "Realized what you gotta do"
+        },
+        {
+          "startTimeMs": "35050",
+          "words": "I don't believe that anybody"
+        },
+        {
+          "startTimeMs": "37740",
+          "words": "Feels the way I do about you now"
+        },
+        {
+          "startTimeMs": "46240",
+          "words": "Backbeat, the word was on the street"
+        },
+        {
+          "startTimeMs": "48440",
+          "words": "That the fire in your heart is out"
+        },
+        {
+          "startTimeMs": "51740",
+          "words": "I'm sure you've heard it all before"
+        },
+        {
+          "startTimeMs": "54180",
+          "words": "But you never really had a doubt"
+        },
+        {
+          "startTimeMs": "56940",
+          "words": "I don't believe that anybody"
+        },
+        {
+          "startTimeMs": "59810",
+          "words": "Feels the way I do about you now"
+        },
+        {
+          "startTimeMs": "67670",
+          "words": "And all the roads we have to walk are winding"
+        },
+        {
+          "startTimeMs": "73120",
+          "words": "And all the lights that lead us there are blinding"
+        },
+        {
+          "startTimeMs": "79020",
+          "words": "There are many things that"
+        },
+        {
+          "startTimeMs": "81340",
+          "words": "I would like to say to you, but I don't know how"
+        },
+        {
+          "startTimeMs": "89560",
+          "words": "Because maybe"
+        },
+        {
+          "startTimeMs": "93970",
+          "words": "You're gonna be the one that saves me"
+        },
+        {
+          "startTimeMs": "99390",
+          "words": "And after all"
+        },
+        {
+          "startTimeMs": "104580",
+          "words": "You're my wonderwall"
+        },
+        {
+          "startTimeMs": "116420",
+          "words": "Today was gonna be the day"
+        },
+        {
+          "startTimeMs": "118620",
+          "words": "But they'll never throw it back to you"
+        },
+        {
+          "startTimeMs": "122280",
+          "words": "By now, you should've somehow"
+        },
+        {
+          "startTimeMs": "124380",
+          "words": "Realized what you're not to do"
+        },
+        {
+          "startTimeMs": "127200",
+          "words": "I don't believe that anybody"
+        },
+        {
+          "startTimeMs": "130100",
+          "words": "Feels the way I do about you now"
+        },
+        {
+          "startTimeMs": "137870",
+          "words": "And all the roads that lead you there were winding"
+        },
+        {
+          "startTimeMs": "143530",
+          "words": "And all the lights that light the way are blinding"
+        },
+        {
+          "startTimeMs": "149460",
+          "words": "There are many things that"
+        },
+        {
+          "startTimeMs": "151620",
+          "words": "I would like to say to you, but I don't know how"
+        },
+        {
+          "startTimeMs": "160050",
+          "words": "I said maybe"
+        },
+        {
+          "startTimeMs": "163950",
+          "words": "You're gonna be the one that saves me"
+        },
+        {
+          "startTimeMs": "169780",
+          "words": "And after all"
+        },
+        {
+          "startTimeMs": "174770",
+          "words": "You're my wonderwall"
+        },
+        {
+          "startTimeMs": "181860",
+          "words": "I said maybe (I said maybe)"
+        },
+        {
+          "startTimeMs": "186070",
+          "words": "You're gonna be the one that saves me"
+        },
+        {
+          "startTimeMs": "191860",
+          "words": "And after all"
+        },
+        {
+          "startTimeMs": "196720",
+          "words": "You're my wonderwall"
+        },
+        {
+          "startTimeMs": "203810",
+          "words": "I said maybe (I said maybe)"
+        },
+        {
+          "startTimeMs": "208050",
+          "words": "You're gonna be the one that saves me (saves me)"
+        },
+        {
+          "startTimeMs": "213540",
+          "words": "You're gonna be the one that saves me (that saves me)"
+        },
+        {
+          "startTimeMs": "219280",
+          "words": "You're gonna be the one that saves me (saves me)"
+        }
+      ]
+    }
+  }
+}

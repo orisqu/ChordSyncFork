@@ -1,0 +1,9 @@
+{
+  "track_id": "1iDbNfNfGuQL6vQ8Xr8Fr8",
+  "track_name": "As Lovers Go - Remix",
+  "artist_name": "Dashboard Confessional",
+  "timestamp": "2025-03-21 20:17:49",
+  "source_link": "https://www.google.de/search?q=Dashboard Confessional as lovers go - remix chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

@@ -1,0 +1,9 @@
+{
+  "track_id": "2Ag3LUfgpN6ymEMwDOqKdg",
+  "track_name": "Lovit",
+  "artist_name": "Marian Hill",
+  "timestamp": "2025-03-21 17:45:59",
+  "source_link": "https://www.google.de/search?q=Marian Hill lovit chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Google for chords failed - daily quota exceeded."
+}

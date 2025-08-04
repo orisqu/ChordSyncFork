@@ -1,0 +1,385 @@
+{
+  "track_id": "2fXKyAyPrEa24c6PJyqznF",
+  "track_name": "Common People - Full Length Version",
+  "artist_name": "Pulp",
+  "timestamp": "2025-03-23 15:22:17",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "7910",
+          "words": "She came from Greece she had a thirst for knowledge"
+        },
+        {
+          "startTimeMs": "11530",
+          "words": "She studied sculpture at Saint Martin's College"
+        },
+        {
+          "startTimeMs": "14010",
+          "words": "That's where I"
+        },
+        {
+          "startTimeMs": "17570",
+          "words": "Caught her eye"
+        },
+        {
+          "startTimeMs": "22300",
+          "words": "She told me that her dad was loaded"
+        },
+        {
+          "startTimeMs": "25490",
+          "words": "I said, in that case I'll have rum and Coca-Cola"
+        },
+        {
+          "startTimeMs": "27990",
+          "words": "She said fine"
+        },
+        {
+          "startTimeMs": "31430",
+          "words": "And then in thirty seconds time she said"
+        },
+        {
+          "startTimeMs": "35930",
+          "words": "I wanna live like common people"
+        },
+        {
+          "startTimeMs": "39280",
+          "words": "I wanna do whatever common people do"
+        },
+        {
+          "startTimeMs": "42650",
+          "words": "Wanna sleep with common people"
+        },
+        {
+          "startTimeMs": "46050",
+          "words": "I wanna sleep with common people"
+        },
+        {
+          "startTimeMs": "49000",
+          "words": "Like you"
+        },
+        {
+          "startTimeMs": "51100",
+          "words": "Oh what else could I do"
+        },
+        {
+          "startTimeMs": "53920",
+          "words": "I said I'll, I'll see what I can do"
+        },
+        {
+          "startTimeMs": "60780",
+          "words": "I took her to a supermarket"
+        },
+        {
+          "startTimeMs": "63550",
+          "words": "I don't know why"
+        },
+        {
+          "startTimeMs": "64620",
+          "words": "But I had to start it somewhere"
+        },
+        {
+          "startTimeMs": "68510",
+          "words": "So it started there"
+        },
+        {
+          "startTimeMs": "74030",
+          "words": "I said pretend you've got no money"
+        },
+        {
+          "startTimeMs": "77300",
+          "words": "She just laughed and said"
+        },
+        {
+          "startTimeMs": "78380",
+          "words": "Oh you're so funny"
+        },
+        {
+          "startTimeMs": "79460",
+          "words": "I said; yeah"
+        },
+        {
+          "startTimeMs": "82050",
+          "words": "I can't see anyone else smiling in here"
+        },
+        {
+          "startTimeMs": "85420",
+          "words": "Are you sure?"
+        },
+        {
+          "startTimeMs": "87050",
+          "words": "You wanna live like common people"
+        },
+        {
+          "startTimeMs": "90510",
+          "words": "You wanna see whatever common people see"
+        },
+        {
+          "startTimeMs": "94080",
+          "words": "Wanna sleep with common people"
+        },
+        {
+          "startTimeMs": "97060",
+          "words": "You wanna sleep with common people"
+        },
+        {
+          "startTimeMs": "100090",
+          "words": "Like me"
+        },
+        {
+          "startTimeMs": "101550",
+          "words": "But she didn't understand"
+        },
+        {
+          "startTimeMs": "104690",
+          "words": "She just smiled and held my hand"
+        },
+        {
+          "startTimeMs": "109130",
+          "words": "Rent a flat above a shop"
+        },
+        {
+          "startTimeMs": "112850",
+          "words": "Cut your hair and get a job"
+        },
+        {
+          "startTimeMs": "115960",
+          "words": "Smoke some fags and play some pool"
+        },
+        {
+          "startTimeMs": "119020",
+          "words": "Pretend you never went to school"
+        },
+        {
+          "startTimeMs": "122360",
+          "words": "But still you'll never get it right"
+        },
+        {
+          "startTimeMs": "125450",
+          "words": "'Cause when you're laid in bed at night"
+        },
+        {
+          "startTimeMs": "128830",
+          "words": "Watching roaches climb the wall"
+        },
+        {
+          "startTimeMs": "132090",
+          "words": "If you called your dad he could stop it all, yeah"
+        },
+        {
+          "startTimeMs": "136540",
+          "words": "You'll never live like common people"
+        },
+        {
+          "startTimeMs": "139490",
+          "words": "You'll never do whatever common people do"
+        },
+        {
+          "startTimeMs": "142730",
+          "words": "You'll never fail like common people"
+        },
+        {
+          "startTimeMs": "145940",
+          "words": "You'll never watch your life slide out of view"
+        },
+        {
+          "startTimeMs": "150490",
+          "words": "And you dance and drink and screw"
+        },
+        {
+          "startTimeMs": "153750",
+          "words": "Because there's nothing else to do"
+        },
+        {
+          "startTimeMs": "184840",
+          "words": "Sing along with the common people"
+        },
+        {
+          "startTimeMs": "188030",
+          "words": "Sing along and it might just get you through"
+        },
+        {
+          "startTimeMs": "191080",
+          "words": "Laugh along with the common people"
+        },
+        {
+          "startTimeMs": "194360",
+          "words": "Laugh along even though they're really laughing at you"
+        },
+        {
+          "startTimeMs": "198250",
+          "words": "And the stupid things that you do"
+        },
+        {
+          "startTimeMs": "201080",
+          "words": "Because you think that poor is cool"
+        },
+        {
+          "startTimeMs": "206930",
+          "words": "Like a dog lying in a corner"
+        },
+        {
+          "startTimeMs": "210110",
+          "words": "They will bite you and never warn you"
+        },
+        {
+          "startTimeMs": "212510",
+          "words": "Look out, they'll tear your insides out"
+        },
+        {
+          "startTimeMs": "219840",
+          "words": "'Cause everybody hates a tourist"
+        },
+        {
+          "startTimeMs": "223060",
+          "words": "Especially one who thinks it's all such a laugh"
+        },
+        {
+          "startTimeMs": "226930",
+          "words": "Yeah and the chip stains and grease"
+        },
+        {
+          "startTimeMs": "229820",
+          "words": "Will come out in the bath"
+        },
+        {
+          "startTimeMs": "231640",
+          "words": "You will never understand"
+        },
+        {
+          "startTimeMs": "234420",
+          "words": "How it feels to live your life"
+        },
+        {
+          "startTimeMs": "237270",
+          "words": "With no meaning or control"
+        },
+        {
+          "startTimeMs": "240430",
+          "words": "And with nowhere left to go"
+        },
+        {
+          "startTimeMs": "243540",
+          "words": "You are amazed that they exist"
+        },
+        {
+          "startTimeMs": "246730",
+          "words": "And they burn so bright"
+        },
+        {
+          "startTimeMs": "248580",
+          "words": "Whilst you can only wonder why"
+        },
+        {
+          "startTimeMs": "252950",
+          "words": "Rent a flat above a shop"
+        },
+        {
+          "startTimeMs": "256100",
+          "words": "Cut your hair and get a job"
+        },
+        {
+          "startTimeMs": "259140",
+          "words": "Smoke some fags and play some pool"
+        },
+        {
+          "startTimeMs": "261100",
+          "words": "Pretend you never went to school"
+        },
+        {
+          "startTimeMs": "264970",
+          "words": "But still you'll never get it right"
+        },
+        {
+          "startTimeMs": "268190",
+          "words": "'Cause when you're laid in bed at night"
+        },
+        {
+          "startTimeMs": "271390",
+          "words": "Watching roaches climb the wall"
+        },
+        {
+          "startTimeMs": "275000",
+          "words": "If you called your dad he could stop it all"
+        },
+        {
+          "startTimeMs": "277830",
+          "words": "Yeah"
+        },
+        {
+          "startTimeMs": "278580",
+          "words": "Never live like common people"
+        },
+        {
+          "startTimeMs": "281970",
+          "words": "Never do what common people do"
+        },
+        {
+          "startTimeMs": "284870",
+          "words": "Never fail like common people"
+        },
+        {
+          "startTimeMs": "287420",
+          "words": "You'll never watch your life slide out of view"
+        },
+        {
+          "startTimeMs": "291640",
+          "words": "And then dance and drink and screw"
+        },
+        {
+          "startTimeMs": "294720",
+          "words": "Because there's nothing else to do"
+        },
+        {
+          "startTimeMs": "306270",
+          "words": "Wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "309510",
+          "words": "Wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "312450",
+          "words": "Wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "315580",
+          "words": "Wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "318830",
+          "words": "Wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "321390",
+          "words": "Wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "324750",
+          "words": "I wanna live with common people like you"
+        },
+        {
+          "startTimeMs": "328460",
+          "words": "Oh, la, la, la, la"
+        },
+        {
+          "startTimeMs": "330620",
+          "words": "Oh, la, la, la, la"
+        },
+        {
+          "startTimeMs": "333790",
+          "words": "Oh, la, la, la, la"
+        },
+        {
+          "startTimeMs": "336570",
+          "words": "Oh, la, la, la, la"
+        },
+        {
+          "startTimeMs": "338890",
+          "words": "Oh you"
+        }
+      ]
+    }
+  }
+}

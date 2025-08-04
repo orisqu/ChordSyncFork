@@ -1,0 +1,229 @@
+{
+  "track_id": "05wIrZSwuaVWhcv5FfqeH0",
+  "track_name": "Walking On Sunshine",
+  "artist_name": "Katrina & The Waves",
+  "timestamp": "2025-03-24 18:08:41",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "9590",
+          "words": "Oh!"
+        },
+        {
+          "startTimeMs": "14740",
+          "words": "Ohhhh, yeeeh"
+        },
+        {
+          "startTimeMs": "18190",
+          "words": "I used to think maybe you loved me now baby I'm sure"
+        },
+        {
+          "startTimeMs": "26670",
+          "words": "And I just can't wait till the day when you knock on my door"
+        },
+        {
+          "startTimeMs": "35380",
+          "words": "Now everytime I go for the mailbox, gotta hold myself down"
+        },
+        {
+          "startTimeMs": "44080",
+          "words": "'Cause I just can't wait till you write me you're coming around"
+        },
+        {
+          "startTimeMs": "51800",
+          "words": "I'm walking on sunshine, wooah"
+        },
+        {
+          "startTimeMs": "56130",
+          "words": "I'm walking on sunshine, woooah"
+        },
+        {
+          "startTimeMs": "60570",
+          "words": "I'm walking on sunshine, woooah"
+        },
+        {
+          "startTimeMs": "64760",
+          "words": "And don't it feel good!"
+        },
+        {
+          "startTimeMs": "67360",
+          "words": "Hey, alright now"
+        },
+        {
+          "startTimeMs": "69510",
+          "words": "And dont it feel good!"
+        },
+        {
+          "startTimeMs": "71240",
+          "words": "Hey yeah"
+        },
+        {
+          "startTimeMs": "74830",
+          "words": "I used to think maybe you loved me, now I know that it's true"
+        },
+        {
+          "startTimeMs": "83470",
+          "words": "And I don't want to spend my whole life, just waiting for you"
+        },
+        {
+          "startTimeMs": "92310",
+          "words": "Now I don't want u back for the weekend"
+        },
+        {
+          "startTimeMs": "95350",
+          "words": "Not back for a day, no no no"
+        },
+        {
+          "startTimeMs": "101080",
+          "words": "I said baby I just want you back and I want you to stay"
+        },
+        {
+          "startTimeMs": "107530",
+          "words": "Woah yeah!"
+        },
+        {
+          "startTimeMs": "108790",
+          "words": "I'm walking on sunshine, wooah"
+        },
+        {
+          "startTimeMs": "112950",
+          "words": "I'm walking on sunshine, woooah"
+        },
+        {
+          "startTimeMs": "117260",
+          "words": "I'm walking on sunshine, woooah"
+        },
+        {
+          "startTimeMs": "121510",
+          "words": "And don't it feel good!!"
+        },
+        {
+          "startTimeMs": "123680",
+          "words": "Hey, alright now"
+        },
+        {
+          "startTimeMs": "126070",
+          "words": "And don't it feel good!!"
+        },
+        {
+          "startTimeMs": "127990",
+          "words": "Yeah, oh yeah"
+        },
+        {
+          "startTimeMs": "130610",
+          "words": "And don't it feel good!!"
+        },
+        {
+          "startTimeMs": "139910",
+          "words": "Walking on sunshine"
+        },
+        {
+          "startTimeMs": "143920",
+          "words": "Walking on sunshine"
+        },
+        {
+          "startTimeMs": "148690",
+          "words": "I feel alive, I feel the love, I feel the love that's really real"
+        },
+        {
+          "startTimeMs": "153060",
+          "words": "I feel alive, I feel the love, I feel the love that's really real"
+        },
+        {
+          "startTimeMs": "157520",
+          "words": "I'm on sunshine baby oh, oh yeah"
+        },
+        {
+          "startTimeMs": "162130",
+          "words": "I'm on sunshine baby oh"
+        },
+        {
+          "startTimeMs": "165550",
+          "words": "I'm walking on sunshine, wooah"
+        },
+        {
+          "startTimeMs": "169700",
+          "words": "I'm walking on sunshine, wooah"
+        },
+        {
+          "startTimeMs": "174010",
+          "words": "I'm walking on sunshine, woooah"
+        },
+        {
+          "startTimeMs": "178440",
+          "words": "And don't it feel good"
+        },
+        {
+          "startTimeMs": "180500",
+          "words": "Hey, alright now"
+        },
+        {
+          "startTimeMs": "182840",
+          "words": "And don't it feel good"
+        },
+        {
+          "startTimeMs": "184820",
+          "words": "I'll say it, say it, say it again now"
+        },
+        {
+          "startTimeMs": "187470",
+          "words": "And don't it feel good!!"
+        },
+        {
+          "startTimeMs": "189110",
+          "words": "Ohhhh, yeahhhh"
+        },
+        {
+          "startTimeMs": "191630",
+          "words": "And don't it feel good"
+        },
+        {
+          "startTimeMs": "193320",
+          "words": "Now don't it, don't it, don't it, don't it, don't it, don't it feel good"
+        },
+        {
+          "startTimeMs": "197630",
+          "words": "I'll say it, say it, say it again now"
+        },
+        {
+          "startTimeMs": "199810",
+          "words": "And don't feel good"
+        },
+        {
+          "startTimeMs": "202140",
+          "words": "Now don't it, don't it, don't it, don't it, don't it, don't it feel good"
+        },
+        {
+          "startTimeMs": "206280",
+          "words": "Tell me, tell me, tell me again now"
+        },
+        {
+          "startTimeMs": "209210",
+          "words": "And don't it feel good"
+        },
+        {
+          "startTimeMs": "211380",
+          "words": "Ohhhh, yeahhhh"
+        },
+        {
+          "startTimeMs": "213590",
+          "words": "And don't it feel good"
+        },
+        {
+          "startTimeMs": "216150",
+          "words": "Oh don't it feel good, don't it feel good"
+        },
+        {
+          "startTimeMs": "217950",
+          "words": "Now don't it feel good?"
+        },
+        {
+          "startTimeMs": "219800",
+          "words": "Oh yeah, oh yeah, oh yeah (Don't it feel good)"
+        }
+      ]
+    }
+  }
+}

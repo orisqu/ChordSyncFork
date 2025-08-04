@@ -1,0 +1,117 @@
+{
+  "track_id": "4Gx3c4fRMYuzI9RzBNqd53",
+  "track_name": "Royal Pain",
+  "artist_name": "Eels",
+  "timestamp": "2025-03-21 20:39:51",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "7190",
+          "words": "I got some sleep and I needed it"
+        },
+        {
+          "startTimeMs": "10650",
+          "words": "Not a lot, just a little bit"
+        },
+        {
+          "startTimeMs": "13590",
+          "words": "Someone's always tryin' to keep me from it"
+        },
+        {
+          "startTimeMs": "16640",
+          "words": "It's a crying shame"
+        },
+        {
+          "startTimeMs": "20090",
+          "words": "It's a royal pain in the neck"
+        },
+        {
+          "startTimeMs": "23510",
+          "words": "I'm just tryin' to get by"
+        },
+        {
+          "startTimeMs": "25160",
+          "words": "With my pride a little bit intact"
+        },
+        {
+          "startTimeMs": "31160",
+          "words": "Ask me any question and I'll level with you"
+        },
+        {
+          "startTimeMs": "34060",
+          "words": "(I'll with you)"
+        },
+        {
+          "startTimeMs": "34520",
+          "words": "I didn't ask for anything but bein' with you"
+        },
+        {
+          "startTimeMs": "37960",
+          "words": "That's the only thing I was born to do"
+        },
+        {
+          "startTimeMs": "40830",
+          "words": "And they're all insane"
+        },
+        {
+          "startTimeMs": "44220",
+          "words": "Such a royal pain in the neck"
+        },
+        {
+          "startTimeMs": "47940",
+          "words": "I'm just tryin' to get by"
+        },
+        {
+          "startTimeMs": "49810",
+          "words": "With my pride a little bit intact"
+        },
+        {
+          "startTimeMs": "83010",
+          "words": "Another day is put to the test"
+        },
+        {
+          "startTimeMs": "87010",
+          "words": "Lord knows, I'm doin' my best (do your best)"
+        },
+        {
+          "startTimeMs": "90430",
+          "words": "Never a brother, always a guest"
+        },
+        {
+          "startTimeMs": "93040",
+          "words": "It's a cryin' shame"
+        },
+        {
+          "startTimeMs": "96490",
+          "words": "It's a royal pain in the neck"
+        },
+        {
+          "startTimeMs": "100180",
+          "words": "I'm just tryin' to get by"
+        },
+        {
+          "startTimeMs": "101780",
+          "words": "With my pride a little bit intact"
+        },
+        {
+          "startTimeMs": "120950",
+          "words": "And they're all insane"
+        },
+        {
+          "startTimeMs": "124110",
+          "words": "Such a royal pain in the neck"
+        },
+        {
+          "startTimeMs": "128030",
+          "words": "I'm just tryin' to get by"
+        },
+        {
+          "startTimeMs": "129650",
+          "words": "With my pride just a little bit intact"
+        }
+      ]
+    }
+  }
+}

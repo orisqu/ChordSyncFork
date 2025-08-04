@@ -1,0 +1,9 @@
+{
+  "track_id": "789CxjEOtO76BVD1A9yJQH",
+  "track_name": "Stay",
+  "artist_name": "Rihanna",
+  "timestamp": "2025-03-23 02:27:39",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/rihanna/stay-chords-1195964",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>STAY CHORDS by Rihanna  feat. Mikky Ekko @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] C Dm Am Am7/G Am Am7/G Am Am7/G C Dm Am Am7/G Am Am7/G Am Am7/G [Verse 1] C Dm Am Am7/G Am Am7/G Am All along it was a fever Am7/G C Dm Am Am7/G Am Am7/G Am A cold sweat ho"
+}

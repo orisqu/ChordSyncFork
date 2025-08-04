@@ -1,0 +1,133 @@
+{
+  "track_id": "4IXyhXQFfwKJaOxBv82NpR",
+  "track_name": "Little Drop Of Poison",
+  "artist_name": "Tom Waits",
+  "timestamp": "2025-03-21 20:30:50",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16310",
+          "words": "I like my town"
+        },
+        {
+          "startTimeMs": "21190",
+          "words": "With a little drop of poison"
+        },
+        {
+          "startTimeMs": "26150",
+          "words": "Nobody knows they're linin' up to go insane"
+        },
+        {
+          "startTimeMs": "33820",
+          "words": "I'm all alone"
+        },
+        {
+          "startTimeMs": "38120",
+          "words": "I smoke my friends down to the filter"
+        },
+        {
+          "startTimeMs": "44840",
+          "words": "But I feel much cleaner after it rains"
+        },
+        {
+          "startTimeMs": "51480",
+          "words": "And she left in the fall"
+        },
+        {
+          "startTimeMs": "54540",
+          "words": "That's her picture on the wall"
+        },
+        {
+          "startTimeMs": "56880",
+          "words": "She always had that little drop of poison"
+        },
+        {
+          "startTimeMs": "68640",
+          "words": "Did the devil"
+        },
+        {
+          "startTimeMs": "71140",
+          "words": "Make the world while God was sleeping?"
+        },
+        {
+          "startTimeMs": "79000",
+          "words": "You'll never get a wish from a bone"
+        },
+        {
+          "startTimeMs": "85690",
+          "words": "Another wrong goodbye"
+        },
+        {
+          "startTimeMs": "90150",
+          "words": "And a hundred sailors"
+        },
+        {
+          "startTimeMs": "96240",
+          "words": "That deep blue sky is my home"
+        },
+        {
+          "startTimeMs": "101210",
+          "words": "And she left in the fall"
+        },
+        {
+          "startTimeMs": "103730",
+          "words": "That's her picture on the wall"
+        },
+        {
+          "startTimeMs": "106060",
+          "words": "She always had that little drop of poison"
+        },
+        {
+          "startTimeMs": "122650",
+          "words": "Well a rat"
+        },
+        {
+          "startTimeMs": "125350",
+          "words": "Always knows when he's in with weasels"
+        },
+        {
+          "startTimeMs": "132100",
+          "words": "Here you lose a little everyday"
+        },
+        {
+          "startTimeMs": "139270",
+          "words": "Well I remember"
+        },
+        {
+          "startTimeMs": "142900",
+          "words": "When a million was a million"
+        },
+        {
+          "startTimeMs": "148990",
+          "words": "They all have ways to make you pay"
+        },
+        {
+          "startTimeMs": "154660",
+          "words": "And she left in the fall"
+        },
+        {
+          "startTimeMs": "157080",
+          "words": "That's her picture on the wall"
+        },
+        {
+          "startTimeMs": "159380",
+          "words": "She always had that little drop of poison"
+        },
+        {
+          "startTimeMs": "171120",
+          "words": "And she left in the fall"
+        },
+        {
+          "startTimeMs": "174020",
+          "words": "That's her picture on the wall"
+        },
+        {
+          "startTimeMs": "176570",
+          "words": "She always had that little drop of poison"
+        }
+      ]
+    }
+  }
+}

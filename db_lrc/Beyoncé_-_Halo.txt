@@ -1,0 +1,293 @@
+{
+  "track_id": "4JehYebiI9JE8sR8MisGVb",
+  "track_name": "Halo",
+  "artist_name": "Beyoncé",
+  "timestamp": "2025-03-23 02:20:46",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "25840",
+          "words": "Remember those walls I built?"
+        },
+        {
+          "startTimeMs": "28690",
+          "words": "Well, baby, they're tumbling down"
+        },
+        {
+          "startTimeMs": "31690",
+          "words": "And they didn't even put up a fight"
+        },
+        {
+          "startTimeMs": "34830",
+          "words": "They didn't even make a sound"
+        },
+        {
+          "startTimeMs": "37700",
+          "words": "I found a way to let you in"
+        },
+        {
+          "startTimeMs": "40560",
+          "words": "But I never really had a doubt"
+        },
+        {
+          "startTimeMs": "43890",
+          "words": "Standin' in the light of your halo"
+        },
+        {
+          "startTimeMs": "46670",
+          "words": "I got my angel now"
+        },
+        {
+          "startTimeMs": "49690",
+          "words": "It's like I've been awakened"
+        },
+        {
+          "startTimeMs": "52640",
+          "words": "Every rule I had you breakin'"
+        },
+        {
+          "startTimeMs": "55400",
+          "words": "It's the risk that I'm takin'"
+        },
+        {
+          "startTimeMs": "58510",
+          "words": "I ain't never gonna shut you out"
+        },
+        {
+          "startTimeMs": "61890",
+          "words": "Everywhere I'm lookin' now"
+        },
+        {
+          "startTimeMs": "64510",
+          "words": "I'm surrounded by your embrace"
+        },
+        {
+          "startTimeMs": "67830",
+          "words": "Baby, I can see your halo"
+        },
+        {
+          "startTimeMs": "70900",
+          "words": "You know you're my saving grace"
+        },
+        {
+          "startTimeMs": "73740",
+          "words": "You're everything I need and more"
+        },
+        {
+          "startTimeMs": "76650",
+          "words": "It's written all over your face"
+        },
+        {
+          "startTimeMs": "79800",
+          "words": "Baby, I can feel your halo"
+        },
+        {
+          "startTimeMs": "82920",
+          "words": "Pray it won't fade away"
+        },
+        {
+          "startTimeMs": "83620",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "86650",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "89620",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "92760",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "97800",
+          "words": "Hit me like a ray of sun"
+        },
+        {
+          "startTimeMs": "101090",
+          "words": "Burning through my darkest night"
+        },
+        {
+          "startTimeMs": "103950",
+          "words": "You're the only one that I want"
+        },
+        {
+          "startTimeMs": "106380",
+          "words": "Think I'm addicted to your light"
+        },
+        {
+          "startTimeMs": "109790",
+          "words": "I swore I'd never fall again"
+        },
+        {
+          "startTimeMs": "112850",
+          "words": "But this don't even feel like fallin'"
+        },
+        {
+          "startTimeMs": "115840",
+          "words": "Gravity can't begin"
+        },
+        {
+          "startTimeMs": "118540",
+          "words": "To pull me back to the ground again"
+        },
+        {
+          "startTimeMs": "121540",
+          "words": "It's like I've been awakened"
+        },
+        {
+          "startTimeMs": "124540",
+          "words": "Every rule I had you breakin'"
+        },
+        {
+          "startTimeMs": "127780",
+          "words": "The risk that I'm takin'"
+        },
+        {
+          "startTimeMs": "130650",
+          "words": "I'm never gonna shut you out"
+        },
+        {
+          "startTimeMs": "133910",
+          "words": "Everywhere I'm lookin' now"
+        },
+        {
+          "startTimeMs": "136570",
+          "words": "I'm surrounded by your embrace"
+        },
+        {
+          "startTimeMs": "139920",
+          "words": "Baby, I can see your halo"
+        },
+        {
+          "startTimeMs": "142620",
+          "words": "You know you're my saving grace"
+        },
+        {
+          "startTimeMs": "145840",
+          "words": "You're everything I need and more"
+        },
+        {
+          "startTimeMs": "148760",
+          "words": "It's written all over your face"
+        },
+        {
+          "startTimeMs": "151980",
+          "words": "Baby, I can feel your halo"
+        },
+        {
+          "startTimeMs": "155090",
+          "words": "Pray it won't fade away"
+        },
+        {
+          "startTimeMs": "155680",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "158720",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "161720",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "164780",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "167680",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "170700",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "173700",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "176760",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "184830",
+          "words": "Halo"
+        },
+        {
+          "startTimeMs": "190860",
+          "words": "Halo, ooh"
+        },
+        {
+          "startTimeMs": "208820",
+          "words": "Everywhere I'm lookin' now"
+        },
+        {
+          "startTimeMs": "211550",
+          "words": "I'm surrounded by your embrace"
+        },
+        {
+          "startTimeMs": "214850",
+          "words": "Baby, I can see your halo"
+        },
+        {
+          "startTimeMs": "217780",
+          "words": "You know you're my saving grace"
+        },
+        {
+          "startTimeMs": "220870",
+          "words": "You're everything I need and more"
+        },
+        {
+          "startTimeMs": "223660",
+          "words": "It's written all over your face"
+        },
+        {
+          "startTimeMs": "227070",
+          "words": "Baby, I can feel your halo"
+        },
+        {
+          "startTimeMs": "230060",
+          "words": "Pray it won't fade away"
+        },
+        {
+          "startTimeMs": "230720",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "233610",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "236550",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "239740",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "242780",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "245550",
+          "words": "I can see your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "248690",
+          "words": "I can feel your halo (halo), halo"
+        },
+        {
+          "startTimeMs": "251620",
+          "words": "I can see your halo (halo), halo"
+        }
+      ]
+    }
+  }
+}

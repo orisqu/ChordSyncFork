@@ -1,0 +1,9 @@
+{
+  "track_id": "5mvKuE9Lf9ARVXVXA32kK9",
+  "track_name": "Price Tag",
+  "artist_name": "Jessie J",
+  "timestamp": "2025-03-23 01:55:46",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/jessie-j/price-tag-chords-1031439",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>PRICE TAG CHORDS (ver 2) by Jessie J  feat. B.o.B @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Capo 5 [Intro] C Em Am F [Verse] C Em Seems like everybodys got a price, Am I wonder how they sleep at night. Am When the sale comes first, F And the truth comes second, F"
+}

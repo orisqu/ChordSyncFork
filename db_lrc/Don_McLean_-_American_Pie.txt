@@ -1,0 +1,481 @@
+{
+  "track_id": "1fDsrQ23eTAVFElUMaf38X",
+  "track_name": "American Pie",
+  "artist_name": "Don McLean",
+  "timestamp": "2025-03-24 16:43:00",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "900",
+          "words": "A long, long time ago, I can still remember"
+        },
+        {
+          "startTimeMs": "7380",
+          "words": "How that music used to make me smile"
+        },
+        {
+          "startTimeMs": "13280",
+          "words": "And I knew if I had my chance"
+        },
+        {
+          "startTimeMs": "16850",
+          "words": "That I could make those people dance"
+        },
+        {
+          "startTimeMs": "19540",
+          "words": "And maybe they'd be happy for a while"
+        },
+        {
+          "startTimeMs": "26790",
+          "words": "But February made me shiver"
+        },
+        {
+          "startTimeMs": "30140",
+          "words": "With every paper I'd deliver"
+        },
+        {
+          "startTimeMs": "33810",
+          "words": "Bad news on the doorstep"
+        },
+        {
+          "startTimeMs": "37390",
+          "words": "I couldn't take one more step"
+        },
+        {
+          "startTimeMs": "41950",
+          "words": "I can't remember if I cried"
+        },
+        {
+          "startTimeMs": "44720",
+          "words": "When I read about his widowed bride"
+        },
+        {
+          "startTimeMs": "49820",
+          "words": "But something touched me deep inside"
+        },
+        {
+          "startTimeMs": "54240",
+          "words": "The day the music died"
+        },
+        {
+          "startTimeMs": "64180",
+          "words": "So, bye, bye, Miss American Pie"
+        },
+        {
+          "startTimeMs": "68540",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "74080",
+          "words": "And them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "78540",
+          "words": "Singin', \"This'll be the day that I die"
+        },
+        {
+          "startTimeMs": "83940",
+          "words": "This'll be the day that I die\""
+        },
+        {
+          "startTimeMs": "90390",
+          "words": "Did you write the Book of Love?"
+        },
+        {
+          "startTimeMs": "92890",
+          "words": "And do you have faith in God above"
+        },
+        {
+          "startTimeMs": "97050",
+          "words": "If the Bible tells you so?"
+        },
+        {
+          "startTimeMs": "101440",
+          "words": "Do you believe in rock 'n' roll?"
+        },
+        {
+          "startTimeMs": "104810",
+          "words": "Can music save your mortal soul?"
+        },
+        {
+          "startTimeMs": "108330",
+          "words": "And can you teach me how to dance real slow?"
+        },
+        {
+          "startTimeMs": "114860",
+          "words": "Well, I know that you're in love with him"
+        },
+        {
+          "startTimeMs": "118250",
+          "words": "'Cause I saw you dancing in the gym"
+        },
+        {
+          "startTimeMs": "122250",
+          "words": "You both kicked off your shoes"
+        },
+        {
+          "startTimeMs": "125300",
+          "words": "Then I dig those rhythm and blues"
+        },
+        {
+          "startTimeMs": "128760",
+          "words": "I was a lonely teenage broncin' buck"
+        },
+        {
+          "startTimeMs": "132300",
+          "words": "With a pink carnation and a pickup truck"
+        },
+        {
+          "startTimeMs": "135990",
+          "words": "But I knew I was out of luck"
+        },
+        {
+          "startTimeMs": "139260",
+          "words": "The day the music died"
+        },
+        {
+          "startTimeMs": "144780",
+          "words": "I started singin', \"Bye-bye, Miss American Pie\""
+        },
+        {
+          "startTimeMs": "149470",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "153220",
+          "words": "Them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "156520",
+          "words": "Singin', \"This'll be the day that I die"
+        },
+        {
+          "startTimeMs": "160370",
+          "words": "This'll be the day that I die\""
+        },
+        {
+          "startTimeMs": "165060",
+          "words": "Now for ten years we've been on our own"
+        },
+        {
+          "startTimeMs": "168640",
+          "words": "And moss grows fat on a rollin' stone"
+        },
+        {
+          "startTimeMs": "172560",
+          "words": "But that's not how it used to be"
+        },
+        {
+          "startTimeMs": "177210",
+          "words": "When the jester sang for the king and queen"
+        },
+        {
+          "startTimeMs": "181160",
+          "words": "In a coat he borrowed from James Dean"
+        },
+        {
+          "startTimeMs": "184580",
+          "words": "And a voice that came from you and me"
+        },
+        {
+          "startTimeMs": "191160",
+          "words": "Oh, and while the king was looking down"
+        },
+        {
+          "startTimeMs": "195150",
+          "words": "The jester stole his thorny crown"
+        },
+        {
+          "startTimeMs": "198830",
+          "words": "The courtroom was adjourned"
+        },
+        {
+          "startTimeMs": "202140",
+          "words": "No verdict was returned"
+        },
+        {
+          "startTimeMs": "205100",
+          "words": "And while Lennon read a book on Marx"
+        },
+        {
+          "startTimeMs": "208980",
+          "words": "The quartet practiced in the park"
+        },
+        {
+          "startTimeMs": "212640",
+          "words": "And we sang dirges in the dark"
+        },
+        {
+          "startTimeMs": "216090",
+          "words": "The day the music died"
+        },
+        {
+          "startTimeMs": "221630",
+          "words": "We were singin', \"Bye-bye Miss American Pie\""
+        },
+        {
+          "startTimeMs": "226280",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "230010",
+          "words": "Them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "233160",
+          "words": "Singin', \"This'll be the day that I die"
+        },
+        {
+          "startTimeMs": "237250",
+          "words": "This'll be the day that I die\""
+        },
+        {
+          "startTimeMs": "242660",
+          "words": "Helter Skelter in the summer swelter"
+        },
+        {
+          "startTimeMs": "245520",
+          "words": "The birds flew off with a fallout shelter"
+        },
+        {
+          "startTimeMs": "249650",
+          "words": "Eight miles high and fallin' fast"
+        },
+        {
+          "startTimeMs": "254930",
+          "words": "It landed foul on the grass"
+        },
+        {
+          "startTimeMs": "257820",
+          "words": "The players tried for a forward pass"
+        },
+        {
+          "startTimeMs": "261340",
+          "words": "With the jester on the sidelines in a cast"
+        },
+        {
+          "startTimeMs": "268100",
+          "words": "Now, the half-time air was sweet perfume"
+        },
+        {
+          "startTimeMs": "271700",
+          "words": "While the sergeants played a marching tune"
+        },
+        {
+          "startTimeMs": "275610",
+          "words": "We all got up to dance"
+        },
+        {
+          "startTimeMs": "278330",
+          "words": "Oh, but we never got the chance"
+        },
+        {
+          "startTimeMs": "282130",
+          "words": "'Cause the players tried to take the field"
+        },
+        {
+          "startTimeMs": "286100",
+          "words": "The marching band refused to yield"
+        },
+        {
+          "startTimeMs": "289690",
+          "words": "Do you recall what was revealed"
+        },
+        {
+          "startTimeMs": "292670",
+          "words": "The day the music died?"
+        },
+        {
+          "startTimeMs": "298250",
+          "words": "We started singin', \"Bye-bye, Miss American Pie\""
+        },
+        {
+          "startTimeMs": "302900",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "306640",
+          "words": "Them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "309740",
+          "words": "And singin', \"This'll be the day that I die"
+        },
+        {
+          "startTimeMs": "313860",
+          "words": "This'll be the day that I die\""
+        },
+        {
+          "startTimeMs": "318490",
+          "words": "Oh, and there we were, all in one place"
+        },
+        {
+          "startTimeMs": "322680",
+          "words": "A generation lost in space"
+        },
+        {
+          "startTimeMs": "325800",
+          "words": "With no time left to start again"
+        },
+        {
+          "startTimeMs": "330590",
+          "words": "So come on, Jack be nimble, Jack be quick"
+        },
+        {
+          "startTimeMs": "334660",
+          "words": "Jack Flash sat on a candlestick"
+        },
+        {
+          "startTimeMs": "337640",
+          "words": "'Cause fire is the devil's only friend"
+        },
+        {
+          "startTimeMs": "345090",
+          "words": "Oh, and as I watched him on the stage"
+        },
+        {
+          "startTimeMs": "348290",
+          "words": "My hands were clenched in fists of rage"
+        },
+        {
+          "startTimeMs": "352330",
+          "words": "No angel born in Hell"
+        },
+        {
+          "startTimeMs": "355600",
+          "words": "Could break that Satan's spell"
+        },
+        {
+          "startTimeMs": "358160",
+          "words": "And as the flames climbed high into the night"
+        },
+        {
+          "startTimeMs": "362590",
+          "words": "To light the sacrificial rite"
+        },
+        {
+          "startTimeMs": "365470",
+          "words": "I saw Satan laughing with delight"
+        },
+        {
+          "startTimeMs": "369290",
+          "words": "The day the music died"
+        },
+        {
+          "startTimeMs": "375140",
+          "words": "He was singin', \"Bye-bye, Miss American Pie\""
+        },
+        {
+          "startTimeMs": "379300",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "383310",
+          "words": "Them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "386490",
+          "words": "And singin', \"This'll be the day that I die"
+        },
+        {
+          "startTimeMs": "390510",
+          "words": "This'll be the day that I die\""
+        },
+        {
+          "startTimeMs": "396820",
+          "words": "I met a girl who sang the blues"
+        },
+        {
+          "startTimeMs": "400200",
+          "words": "And I asked her for some happy news"
+        },
+        {
+          "startTimeMs": "404230",
+          "words": "But she just smiled and turned away"
+        },
+        {
+          "startTimeMs": "409050",
+          "words": "I went down to the sacred store"
+        },
+        {
+          "startTimeMs": "411910",
+          "words": "Where I'd heard the music years before"
+        },
+        {
+          "startTimeMs": "415820",
+          "words": "But the man there said the music wouldn't play"
+        },
+        {
+          "startTimeMs": "423720",
+          "words": "And in the streets, the children screamed"
+        },
+        {
+          "startTimeMs": "428250",
+          "words": "The lovers cried and the poets dreamed"
+        },
+        {
+          "startTimeMs": "431420",
+          "words": "But not a word was spoken"
+        },
+        {
+          "startTimeMs": "435260",
+          "words": "The church bells all were broken"
+        },
+        {
+          "startTimeMs": "439700",
+          "words": "And the three men I admire most"
+        },
+        {
+          "startTimeMs": "443790",
+          "words": "The Father, Son, and the Holy Ghost"
+        },
+        {
+          "startTimeMs": "447650",
+          "words": "They caught the last train for the coast"
+        },
+        {
+          "startTimeMs": "451780",
+          "words": "The day the music died"
+        },
+        {
+          "startTimeMs": "458890",
+          "words": "And they were singin', \"Bye-bye, Miss American Pie\""
+        },
+        {
+          "startTimeMs": "466550",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "472240",
+          "words": "And Them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "477240",
+          "words": "Singin', \"This'll be the day that I die"
+        },
+        {
+          "startTimeMs": "483040",
+          "words": "This'll be the day that I die\""
+        },
+        {
+          "startTimeMs": "488440",
+          "words": "They were singin', \"Bye-bye, Miss American Pie\""
+        },
+        {
+          "startTimeMs": "494680",
+          "words": "Drove my Chevy to The Levee, but The Levee was dry"
+        },
+        {
+          "startTimeMs": "499640",
+          "words": "Them good old boys were drinkin' whiskey in Rye"
+        },
+        {
+          "startTimeMs": "504210",
+          "words": "Singin', \"This'll be the day that I die\""
+        }
+      ]
+    }
+  }
+}

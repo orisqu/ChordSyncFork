@@ -1,0 +1,9 @@
+{
+  "track_id": "2DNXgvkyv35vTWvdgjs7qn",
+  "track_name": "Someone New",
+  "artist_name": "Hozier",
+  "timestamp": "2025-03-23 18:53:43",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/hozier/someone-new-chords-1450238",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>SOMEONE NEW CHORDS by Hozier @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"The tab should be fairly bang on until the Bridge 2 where both the chords and lyrics are probably wrong so let me know if you find the right ones! Listen to the rhythm in video. Bm and D are\">"
+}

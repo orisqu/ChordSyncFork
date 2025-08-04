@@ -1,0 +1,269 @@
+{
+  "track_id": "3f7c9WV6cgYsvPm2Ce2zsz",
+  "track_name": "Washington Square",
+  "artist_name": "The Correspondents",
+  "timestamp": "2025-03-21 17:51:05",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "770",
+          "words": "Better to have loved and lost than never loved at all"
+        },
+        {
+          "startTimeMs": "2880",
+          "words": "Just love the lust you'll have the leap without the fall"
+        },
+        {
+          "startTimeMs": "5750",
+          "words": "It's better to have loved and lost than never loved at all"
+        },
+        {
+          "startTimeMs": "8560",
+          "words": "Just love the lust you'll have the leap without the fall"
+        },
+        {
+          "startTimeMs": "23200",
+          "words": "Your best friend asked if I am straight or gay"
+        },
+        {
+          "startTimeMs": "25480",
+          "words": "I can understand the question when I dance this way"
+        },
+        {
+          "startTimeMs": "28140",
+          "words": "Straight I said, he said that's ok"
+        },
+        {
+          "startTimeMs": "31110",
+          "words": "Some other little something might be coming your way"
+        },
+        {
+          "startTimeMs": "33880",
+          "words": "A little while later and up you slide"
+        },
+        {
+          "startTimeMs": "37260",
+          "words": "Sipping on your drink I'm making moves on the side"
+        },
+        {
+          "startTimeMs": "39820",
+          "words": "I've got to impress her with my mating routine"
+        },
+        {
+          "startTimeMs": "42900",
+          "words": "Show her something no new yorker will have ever seen"
+        },
+        {
+          "startTimeMs": "45660",
+          "words": "So I pull out the peacock knees of surprise"
+        },
+        {
+          "startTimeMs": "48620",
+          "words": "She laughs and tells me that I'm spraying sweat in her eyes"
+        },
+        {
+          "startTimeMs": "51170",
+          "words": "I apologise, stand still on the spot"
+        },
+        {
+          "startTimeMs": "54110",
+          "words": "She puts her hand on my back and says wow you're hot"
+        },
+        {
+          "startTimeMs": "56670",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "58080",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "59590",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "60470",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "60800",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "61940",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "62410",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "63810",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "65580",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "66210",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "68550",
+          "words": "It's as clear as the ice melting in my glass"
+        },
+        {
+          "startTimeMs": "71060",
+          "words": "There was no need for questions to be asked"
+        },
+        {
+          "startTimeMs": "74450",
+          "words": "Hear the how d'you do's, why d'you do's, political views, you've heard the news"
+        },
+        {
+          "startTimeMs": "77050",
+          "words": "The oh my god it's different here, you have to tip with every beer"
+        },
+        {
+          "startTimeMs": "80280",
+          "words": "It's clear, so little time to waste"
+        },
+        {
+          "startTimeMs": "82820",
+          "words": "Make the move, haste post haste"
+        },
+        {
+          "startTimeMs": "85720",
+          "words": "This is lust at first sight"
+        },
+        {
+          "startTimeMs": "88340",
+          "words": "Lets knacker the night 'til it retreats to light"
+        },
+        {
+          "startTimeMs": "114480",
+          "words": "I'm in new york making out in the back of a cab"
+        },
+        {
+          "startTimeMs": "117040",
+          "words": "And she's giving me her body to taste touch and grab"
+        },
+        {
+          "startTimeMs": "119400",
+          "words": "I'm fulfilling a cliche: ticking a box"
+        },
+        {
+          "startTimeMs": "122320",
+          "words": "Big apple, yellow cab, and an American fox"
+        },
+        {
+          "startTimeMs": "125530",
+          "words": "The city driving past us block by block"
+        },
+        {
+          "startTimeMs": "128490",
+          "words": "I never ever ever want this cliche to stop"
+        },
+        {
+          "startTimeMs": "137880",
+          "words": "Knowing that skyscrapers rise above"
+        },
+        {
+          "startTimeMs": "139550",
+          "words": "I could of sworn I felt a crazy little surge of love"
+        },
+        {
+          "startTimeMs": "142500",
+          "words": "The love of lust, directed at you"
+        },
+        {
+          "startTimeMs": "145630",
+          "words": "Do you feel the same way too?"
+        },
+        {
+          "startTimeMs": "148870",
+          "words": "Please tell me that you do"
+        },
+        {
+          "startTimeMs": "151160",
+          "words": "And we can love lust the whole night through"
+        },
+        {
+          "startTimeMs": "154350",
+          "words": "They say it's better to have loved and lost than never loved at all"
+        },
+        {
+          "startTimeMs": "156830",
+          "words": "Just love the lust you'll have the leap without the fall"
+        },
+        {
+          "startTimeMs": "160350",
+          "words": "They say it's better to have loved and lost than never loved at all"
+        },
+        {
+          "startTimeMs": "163340",
+          "words": "Just love the lust you'll have the leap without the fall"
+        },
+        {
+          "startTimeMs": "165400",
+          "words": "They say it's better to have loved and lost than never loved at all"
+        },
+        {
+          "startTimeMs": "169370",
+          "words": "Just love the lust you'll have the leap without the fall"
+        },
+        {
+          "startTimeMs": "170880",
+          "words": "They say it's better to have loved and lost than never loved at all"
+        },
+        {
+          "startTimeMs": "174610",
+          "words": "Just love the lust you'll have the leap without the fall"
+        },
+        {
+          "startTimeMs": "177090",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "178050",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "179620",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "180130",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "180820",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "182570",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "183100",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "185600",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "185990",
+          "words": "You turn me on"
+        },
+        {
+          "startTimeMs": "186520",
+          "words": "You turn me on"
+        }
+      ]
+    }
+  }
+}

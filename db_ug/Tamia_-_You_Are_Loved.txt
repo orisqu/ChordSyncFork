@@ -1,0 +1,9 @@
+{
+  "track_id": "1Gq5I9PzS7FtHJ0gvBQkPy",
+  "track_name": "You Are Loved",
+  "artist_name": "Tamia",
+  "timestamp": "2025-03-23 21:40:16",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/tamia/who-do-you-tell-chords-3766586",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>WHO DO YOU TELL CHORDS by Tamia @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Chords for original album version.\">\n<meta name=\"keywords\" content=\"Tamia - Who Do You Tell (Chords), Chords, Tamia, Ultimate-Guitar.Com\">\n            <script>\n    (function () {\n        va"
+}

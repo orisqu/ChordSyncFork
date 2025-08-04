@@ -1,0 +1,9 @@
+{
+  "track_id": "1A8j067qyiNwQnZT0bzUpZ",
+  "track_name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+  "artist_name": "Kungs",
+  "timestamp": "2025-04-07 17:01:15",
+  "source_link": "https://www.google.de/search?q=Kungs this girl (kungs vs. cookin' on 3 burners) chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

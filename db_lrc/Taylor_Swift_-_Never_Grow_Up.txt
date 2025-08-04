@@ -1,0 +1,217 @@
+{
+  "track_id": "1wJL1A0QUHJPf2cm7tsrdw",
+  "track_name": "Never Grow Up",
+  "artist_name": "Taylor Swift",
+  "timestamp": "2025-03-23 21:40:38",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15480",
+          "words": "Your little hands wrapped around my finger"
+        },
+        {
+          "startTimeMs": "18600",
+          "words": "And it's so quiet in the world tonight"
+        },
+        {
+          "startTimeMs": "23250",
+          "words": "Your little eyelids flutter cause you're dreaming"
+        },
+        {
+          "startTimeMs": "26050",
+          "words": "So I tuck you in, turn on your favorite night light"
+        },
+        {
+          "startTimeMs": "31150",
+          "words": "To you everything's funny, you've got nothing to regret"
+        },
+        {
+          "startTimeMs": "39350",
+          "words": "I'd give all I have honey"
+        },
+        {
+          "startTimeMs": "43380",
+          "words": "If you could stay like that"
+        },
+        {
+          "startTimeMs": "46020",
+          "words": "Oh darling, don't you ever grow up"
+        },
+        {
+          "startTimeMs": "49320",
+          "words": "Don't you ever grow up, just stay this little"
+        },
+        {
+          "startTimeMs": "53930",
+          "words": "Oh darling, don't you ever grow up"
+        },
+        {
+          "startTimeMs": "56980",
+          "words": "Don't you ever grow up, it could stay this simple"
+        },
+        {
+          "startTimeMs": "62330",
+          "words": "I won't let nobody hurt you, won't let no one break your heart"
+        },
+        {
+          "startTimeMs": "70300",
+          "words": "And no one will desert you"
+        },
+        {
+          "startTimeMs": "74520",
+          "words": "Just try to never grow up, never grow up"
+        },
+        {
+          "startTimeMs": "92230",
+          "words": "You're in the car on the way to the movies"
+        },
+        {
+          "startTimeMs": "95580",
+          "words": "And you're mortified your mom is dropping you off"
+        },
+        {
+          "startTimeMs": "99870",
+          "words": "At 14 there is just so much you can't do"
+        },
+        {
+          "startTimeMs": "102850",
+          "words": "And you can't wait to move out someday and call your own shots"
+        },
+        {
+          "startTimeMs": "107690",
+          "words": "But don't make her drop you off around the block"
+        },
+        {
+          "startTimeMs": "111530",
+          "words": "Remember that she's getting older too"
+        },
+        {
+          "startTimeMs": "115370",
+          "words": "Don't lose the way that you dance around in your pj's getting ready for school"
+        },
+        {
+          "startTimeMs": "122760",
+          "words": "Oh darling, don't you ever grow up"
+        },
+        {
+          "startTimeMs": "126150",
+          "words": "Don't you ever grow up, just stay this little"
+        },
+        {
+          "startTimeMs": "130930",
+          "words": "Oh darling don't you ever grow up"
+        },
+        {
+          "startTimeMs": "133850",
+          "words": "Don't you ever grow up, it could stay this simple"
+        },
+        {
+          "startTimeMs": "139740",
+          "words": "And no one's ever burned you, nothing's ever left you scarred"
+        },
+        {
+          "startTimeMs": "147110",
+          "words": "And even though you want to, just try to never grow up"
+        },
+        {
+          "startTimeMs": "161560",
+          "words": "Take pictures in your mind of your childhood room"
+        },
+        {
+          "startTimeMs": "169270",
+          "words": "Memorize what it sounded like, when your dad gets home"
+        },
+        {
+          "startTimeMs": "175410",
+          "words": "Remember the footsteps, remember the words said"
+        },
+        {
+          "startTimeMs": "179780",
+          "words": "And all of your little brother's favorite songs"
+        },
+        {
+          "startTimeMs": "184650",
+          "words": "I just realized everything I have is someday gonna be gone"
+        },
+        {
+          "startTimeMs": "192210",
+          "words": "So here I am in my new apartment"
+        },
+        {
+          "startTimeMs": "195530",
+          "words": "In a big city, they just dropped me off"
+        },
+        {
+          "startTimeMs": "199810",
+          "words": "It's so much colder than I thought it would be"
+        },
+        {
+          "startTimeMs": "203170",
+          "words": "So I tuck myself in and turn my night light on"
+        },
+        {
+          "startTimeMs": "213490",
+          "words": "Wish I'd never grown up"
+        },
+        {
+          "startTimeMs": "220290",
+          "words": "I wish I'd never grown up"
+        },
+        {
+          "startTimeMs": "222590",
+          "words": "Oh I don't wanna grow up, wish I'd never grown up"
+        },
+        {
+          "startTimeMs": "228020",
+          "words": "I could still be little"
+        },
+        {
+          "startTimeMs": "230630",
+          "words": "Oh I dont wanna grow up, wish I'd never grown up"
+        },
+        {
+          "startTimeMs": "235680",
+          "words": "It could still be simple"
+        },
+        {
+          "startTimeMs": "238550",
+          "words": "Oh darling, don't you ever grow up"
+        },
+        {
+          "startTimeMs": "241240",
+          "words": "Don't you ever grow up, just stay this little"
+        },
+        {
+          "startTimeMs": "246100",
+          "words": "Oh darling, don't you ever grow up"
+        },
+        {
+          "startTimeMs": "249090",
+          "words": "Don't you ever grow up, it could stay this simple"
+        },
+        {
+          "startTimeMs": "254820",
+          "words": "Won't let nobody hurt you"
+        },
+        {
+          "startTimeMs": "258780",
+          "words": "Won't let no one break your heart"
+        },
+        {
+          "startTimeMs": "262550",
+          "words": "And even though you want to, please try to never grow up"
+        },
+        {
+          "startTimeMs": "269420",
+          "words": "Oooh, don't you ever grow up"
+        },
+        {
+          "startTimeMs": "278310",
+          "words": "Oooh, just never grow up"
+        }
+      ]
+    }
+  }
+}

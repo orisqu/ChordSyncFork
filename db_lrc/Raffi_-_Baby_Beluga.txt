@@ -1,0 +1,117 @@
+{
+  "track_id": "7zQFM7bHcyMh4QQFdBkjrE",
+  "track_name": "Baby Beluga",
+  "artist_name": "Raffi",
+  "timestamp": "2025-07-06 18:56:31",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "13920",
+          "words": "Baby Beluga in the deep blue sea"
+        },
+        {
+          "startTimeMs": "18300",
+          "words": "Swim so wild and you swim so free"
+        },
+        {
+          "startTimeMs": "21840",
+          "words": "Heaven above and the sea below"
+        },
+        {
+          "startTimeMs": "25150",
+          "words": "And a little white whale on the go"
+        },
+        {
+          "startTimeMs": "28910",
+          "words": "Baby Beluga, baby Beluga"
+        },
+        {
+          "startTimeMs": "36420",
+          "words": "Is the water warm, is your mama home"
+        },
+        {
+          "startTimeMs": "39530",
+          "words": "With you so happy?"
+        },
+        {
+          "startTimeMs": "42850",
+          "words": "Way down yonder where the dolphins play"
+        },
+        {
+          "startTimeMs": "46330",
+          "words": "Where you dive and splash all day"
+        },
+        {
+          "startTimeMs": "49560",
+          "words": "The waves roll in and the waves roll out"
+        },
+        {
+          "startTimeMs": "52900",
+          "words": "See the water squirting out of your spout"
+        },
+        {
+          "startTimeMs": "56290",
+          "words": "Baby Beluga, oh baby Beluga"
+        },
+        {
+          "startTimeMs": "62960",
+          "words": "Sing your little song, sing for all your friends"
+        },
+        {
+          "startTimeMs": "67090",
+          "words": "We like to hear you"
+        },
+        {
+          "startTimeMs": "98090",
+          "words": "When its dark and your home and fed"
+        },
+        {
+          "startTimeMs": "101760",
+          "words": "Curled up snug in your water bed"
+        },
+        {
+          "startTimeMs": "105440",
+          "words": "Moon is shining and the stars are out"
+        },
+        {
+          "startTimeMs": "108940",
+          "words": "Good night little whale good night"
+        },
+        {
+          "startTimeMs": "112440",
+          "words": "Baby Beluga, oh baby Beluga"
+        },
+        {
+          "startTimeMs": "118850",
+          "words": "With tomorrow's Sun, another day's begun"
+        },
+        {
+          "startTimeMs": "122780",
+          "words": "You'll soon be waking"
+        },
+        {
+          "startTimeMs": "126340",
+          "words": "Baby Beluga in the deep blue sea"
+        },
+        {
+          "startTimeMs": "129820",
+          "words": "Swim so wild and you swim so free"
+        },
+        {
+          "startTimeMs": "133180",
+          "words": "Heaven above and the sea below"
+        },
+        {
+          "startTimeMs": "136720",
+          "words": "And a little white whale on the go"
+        },
+        {
+          "startTimeMs": "139620",
+          "words": "You're just a little white whale on the go"
+        }
+      ]
+    }
+  }
+}

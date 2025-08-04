@@ -1,0 +1,273 @@
+{
+  "track_id": "4THrHKyBL0yaDDw9yg37Zk",
+  "track_name": "I Will Survive",
+  "artist_name": "CAKE",
+  "timestamp": "2025-03-21 17:21:38",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "19840",
+          "words": "At first I was afraid"
+        },
+        {
+          "startTimeMs": "23020",
+          "words": "I was petrified"
+        },
+        {
+          "startTimeMs": "25530",
+          "words": "I kept thinking I could never live without you"
+        },
+        {
+          "startTimeMs": "28280",
+          "words": "By my side"
+        },
+        {
+          "startTimeMs": "30270",
+          "words": "But then I spent so many nights"
+        },
+        {
+          "startTimeMs": "32550",
+          "words": "Just thinking how you've done me wrong"
+        },
+        {
+          "startTimeMs": "35260",
+          "words": "I grew strong"
+        },
+        {
+          "startTimeMs": "37860",
+          "words": "I learned how to get along"
+        },
+        {
+          "startTimeMs": "40840",
+          "words": "And so you're back"
+        },
+        {
+          "startTimeMs": "43310",
+          "words": "From outer space"
+        },
+        {
+          "startTimeMs": "45360",
+          "words": "I just walked in to find you"
+        },
+        {
+          "startTimeMs": "47820",
+          "words": "Here with that look upon your face"
+        },
+        {
+          "startTimeMs": "50880",
+          "words": "I should have changed my fucking lock"
+        },
+        {
+          "startTimeMs": "53340",
+          "words": "I would have made you leave your key"
+        },
+        {
+          "startTimeMs": "55890",
+          "words": "If I had known for just one second"
+        },
+        {
+          "startTimeMs": "58620",
+          "words": "You'd be back to bother me"
+        },
+        {
+          "startTimeMs": "61650",
+          "words": "Oh now go"
+        },
+        {
+          "startTimeMs": "63830",
+          "words": "Walk out the door"
+        },
+        {
+          "startTimeMs": "66320",
+          "words": "Just turn around"
+        },
+        {
+          "startTimeMs": "68360",
+          "words": "Now, you're not welcome anymore"
+        },
+        {
+          "startTimeMs": "71170",
+          "words": "Weren't you the one"
+        },
+        {
+          "startTimeMs": "73660",
+          "words": "Who tried to break me with desire?"
+        },
+        {
+          "startTimeMs": "76120",
+          "words": "Did you think I'd crumble?"
+        },
+        {
+          "startTimeMs": "78370",
+          "words": "Did you think I'd lay down and die?"
+        },
+        {
+          "startTimeMs": "81130",
+          "words": "Oh not I, I will survive"
+        },
+        {
+          "startTimeMs": "85690",
+          "words": "Yeah"
+        },
+        {
+          "startTimeMs": "86630",
+          "words": "As Long as I know how to love"
+        },
+        {
+          "startTimeMs": "88930",
+          "words": "I know I'll be alive"
+        },
+        {
+          "startTimeMs": "91270",
+          "words": "I've got all my life to live"
+        },
+        {
+          "startTimeMs": "93690",
+          "words": "I've got all my love to give"
+        },
+        {
+          "startTimeMs": "96400",
+          "words": "I will survive, I will survive"
+        },
+        {
+          "startTimeMs": "100910",
+          "words": "Yeah, yeah"
+        },
+        {
+          "startTimeMs": "140730",
+          "words": "It took all the strength I had"
+        },
+        {
+          "startTimeMs": "143430",
+          "words": "Just not to fall apart"
+        },
+        {
+          "startTimeMs": "145400",
+          "words": "I'm trying hard to mend the pieces"
+        },
+        {
+          "startTimeMs": "148500",
+          "words": "Of my broken heart"
+        },
+        {
+          "startTimeMs": "150770",
+          "words": "And I spent oh so many nights"
+        },
+        {
+          "startTimeMs": "153570",
+          "words": "Just feeling sorry for myself"
+        },
+        {
+          "startTimeMs": "156350",
+          "words": "I used to cry"
+        },
+        {
+          "startTimeMs": "159010",
+          "words": "But now I hold my head up high"
+        },
+        {
+          "startTimeMs": "161580",
+          "words": "And you see me"
+        },
+        {
+          "startTimeMs": "163810",
+          "words": "With somebody new"
+        },
+        {
+          "startTimeMs": "166320",
+          "words": "I'm not that stupid little person"
+        },
+        {
+          "startTimeMs": "168840",
+          "words": "Still in love with you"
+        },
+        {
+          "startTimeMs": "170840",
+          "words": "And so you thought you'd just drop by"
+        },
+        {
+          "startTimeMs": "174120",
+          "words": "And you expect me to be free"
+        },
+        {
+          "startTimeMs": "176150",
+          "words": "But now I'm saving all my lovin'"
+        },
+        {
+          "startTimeMs": "178890",
+          "words": "For someone who's lovin' me"
+        },
+        {
+          "startTimeMs": "181840",
+          "words": "Oh now go"
+        },
+        {
+          "startTimeMs": "184170",
+          "words": "Walk out the door"
+        },
+        {
+          "startTimeMs": "186360",
+          "words": "Just turn around"
+        },
+        {
+          "startTimeMs": "188590",
+          "words": "Now, you're not welcome anymore"
+        },
+        {
+          "startTimeMs": "192120",
+          "words": "Weren't you the one"
+        },
+        {
+          "startTimeMs": "194470",
+          "words": "Who tried to break me with desire?"
+        },
+        {
+          "startTimeMs": "196570",
+          "words": "Did you think I'd crumble?"
+        },
+        {
+          "startTimeMs": "198850",
+          "words": "Did you think I'd lay down and die?"
+        },
+        {
+          "startTimeMs": "201560",
+          "words": "Oh not I will survive"
+        },
+        {
+          "startTimeMs": "206110",
+          "words": "Yeah"
+        },
+        {
+          "startTimeMs": "206870",
+          "words": "As long as I know how to love"
+        },
+        {
+          "startTimeMs": "208830",
+          "words": "I know I'll be alive"
+        },
+        {
+          "startTimeMs": "211410",
+          "words": "I've got all my life to live"
+        },
+        {
+          "startTimeMs": "213670",
+          "words": "I've got all my love to give"
+        },
+        {
+          "startTimeMs": "216160",
+          "words": "I will survive, I will survive"
+        },
+        {
+          "startTimeMs": "220930",
+          "words": "Yeah, yeah"
+        },
+        {
+          "startTimeMs": "225910",
+          "words": "Oh no"
+        }
+      ]
+    }
+  }
+}

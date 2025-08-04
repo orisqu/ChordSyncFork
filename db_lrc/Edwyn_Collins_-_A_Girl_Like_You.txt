@@ -1,0 +1,129 @@
+{
+  "track_id": "6XOINCZBv8Q7RXgNNiTwIN",
+  "track_name": "A Girl Like You",
+  "artist_name": "Edwyn Collins",
+  "timestamp": "2025-03-23 15:22:14",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "16250",
+          "words": "I've never known a girl like you before"
+        },
+        {
+          "startTimeMs": "23900",
+          "words": "Now just like in a song from days of yore"
+        },
+        {
+          "startTimeMs": "31530",
+          "words": "Here you come knocking, knocking on my door"
+        },
+        {
+          "startTimeMs": "38650",
+          "words": "Well, I've never met a girl like you before"
+        },
+        {
+          "startTimeMs": "61980",
+          "words": "You give me just a taste so I want more"
+        },
+        {
+          "startTimeMs": "69160",
+          "words": "Now my hands are bleeding and my knees are raw"
+        },
+        {
+          "startTimeMs": "77030",
+          "words": "'Cause now you got me crawling, crawling on the floor"
+        },
+        {
+          "startTimeMs": "84430",
+          "words": "And I've never known a girl like you before"
+        },
+        {
+          "startTimeMs": "107180",
+          "words": "You made me acknowledge the devil in me"
+        },
+        {
+          "startTimeMs": "111260",
+          "words": "I hope to God I'm talking metaphorically"
+        },
+        {
+          "startTimeMs": "115160",
+          "words": "Hope that I'm talking alegorically"
+        },
+        {
+          "startTimeMs": "119280",
+          "words": "Know that I'm talking about the way I feel"
+        },
+        {
+          "startTimeMs": "122530",
+          "words": "And I've never known a girl like you before"
+        },
+        {
+          "startTimeMs": "130420",
+          "words": "Never, never, never, never"
+        },
+        {
+          "startTimeMs": "134210",
+          "words": "Never known a girl like you before"
+        },
+        {
+          "startTimeMs": "153840",
+          "words": "This old town's changed so much"
+        },
+        {
+          "startTimeMs": "157560",
+          "words": "Don't feel like I belong"
+        },
+        {
+          "startTimeMs": "161330",
+          "words": "Too many protest singers"
+        },
+        {
+          "startTimeMs": "165120",
+          "words": "Not enough protest songs"
+        },
+        {
+          "startTimeMs": "167740",
+          "words": "And now you've come along"
+        },
+        {
+          "startTimeMs": "172010",
+          "words": "Yes, you've come along"
+        },
+        {
+          "startTimeMs": "175780",
+          "words": "And I've never met a girl like you before"
+        },
+        {
+          "startTimeMs": "179320",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        },
+        {
+          "startTimeMs": "186930",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        },
+        {
+          "startTimeMs": "194640",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        },
+        {
+          "startTimeMs": "202190",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        },
+        {
+          "startTimeMs": "209750",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        },
+        {
+          "startTimeMs": "217400",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        },
+        {
+          "startTimeMs": "225150",
+          "words": "It's alright, yeah, it's alright, yeah, it's alright, yeah, it's alright, yeah"
+        }
+      ]
+    }
+  }
+}

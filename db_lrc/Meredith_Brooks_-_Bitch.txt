@@ -1,0 +1,329 @@
+{
+  "track_id": "3i6qNxyVgIdUZTTi5m25EM",
+  "track_name": "Bitch",
+  "artist_name": "Meredith Brooks",
+  "timestamp": "2025-03-21 23:23:01",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "15380",
+          "words": "I hate the world today"
+        },
+        {
+          "startTimeMs": "18780",
+          "words": "You're so good to me"
+        },
+        {
+          "startTimeMs": "20450",
+          "words": "I know but I can't change"
+        },
+        {
+          "startTimeMs": "23740",
+          "words": "Tried to tell you"
+        },
+        {
+          "startTimeMs": "24890",
+          "words": "But you look at me like maybe"
+        },
+        {
+          "startTimeMs": "27740",
+          "words": "I'm an angel underneath"
+        },
+        {
+          "startTimeMs": "30110",
+          "words": "Innocent and sweet"
+        },
+        {
+          "startTimeMs": "34590",
+          "words": "Yesterday I cried"
+        },
+        {
+          "startTimeMs": "37450",
+          "words": "You must have been relieved"
+        },
+        {
+          "startTimeMs": "38920",
+          "words": "To see the softer side"
+        },
+        {
+          "startTimeMs": "42220",
+          "words": "I can understand how you'd be so confused"
+        },
+        {
+          "startTimeMs": "46440",
+          "words": "I don't envy you"
+        },
+        {
+          "startTimeMs": "48380",
+          "words": "I'm a little bit of everything"
+        },
+        {
+          "startTimeMs": "51740",
+          "words": "All rolled into one"
+        },
+        {
+          "startTimeMs": "53680",
+          "words": "I'm a bitch"
+        },
+        {
+          "startTimeMs": "54840",
+          "words": "I'm a lover"
+        },
+        {
+          "startTimeMs": "56140",
+          "words": "I'm a child"
+        },
+        {
+          "startTimeMs": "57490",
+          "words": "I'm a mother"
+        },
+        {
+          "startTimeMs": "58690",
+          "words": "I'm a sinner"
+        },
+        {
+          "startTimeMs": "59950",
+          "words": "I'm a saint"
+        },
+        {
+          "startTimeMs": "61440",
+          "words": "I do not feel ashamed"
+        },
+        {
+          "startTimeMs": "63610",
+          "words": "I'm your hell"
+        },
+        {
+          "startTimeMs": "64940",
+          "words": "I'm your dream"
+        },
+        {
+          "startTimeMs": "66160",
+          "words": "I'm nothing in-between"
+        },
+        {
+          "startTimeMs": "68450",
+          "words": "You know you wouldn't want it any other way"
+        },
+        {
+          "startTimeMs": "73950",
+          "words": "So take me as I am"
+        },
+        {
+          "startTimeMs": "77000",
+          "words": "This may mean you'll have to be a stronger man"
+        },
+        {
+          "startTimeMs": "82260",
+          "words": "Rest assured that when I start to make you nervous"
+        },
+        {
+          "startTimeMs": "86100",
+          "words": "And I'm going to extremes"
+        },
+        {
+          "startTimeMs": "88790",
+          "words": "Tomorrow I will change"
+        },
+        {
+          "startTimeMs": "91060",
+          "words": "And today won't mean a thing"
+        },
+        {
+          "startTimeMs": "93580",
+          "words": "I'm a bitch"
+        },
+        {
+          "startTimeMs": "94770",
+          "words": "I'm a lover"
+        },
+        {
+          "startTimeMs": "96020",
+          "words": "I'm a child"
+        },
+        {
+          "startTimeMs": "97420",
+          "words": "I'm a mother"
+        },
+        {
+          "startTimeMs": "98470",
+          "words": "I'm a sinner"
+        },
+        {
+          "startTimeMs": "99760",
+          "words": "I'm a saint"
+        },
+        {
+          "startTimeMs": "101340",
+          "words": "I do not feel ashamed"
+        },
+        {
+          "startTimeMs": "103560",
+          "words": "I'm your hell"
+        },
+        {
+          "startTimeMs": "104710",
+          "words": "I'm your dream"
+        },
+        {
+          "startTimeMs": "106060",
+          "words": "I'm nothing in between"
+        },
+        {
+          "startTimeMs": "108380",
+          "words": "You know you wouldn't want it any other way"
+        },
+        {
+          "startTimeMs": "134460",
+          "words": "Just when you think"
+        },
+        {
+          "startTimeMs": "136250",
+          "words": "You've got me figured out"
+        },
+        {
+          "startTimeMs": "139030",
+          "words": "The season's already changin'"
+        },
+        {
+          "startTimeMs": "144240",
+          "words": "I think it's cool you do what you do"
+        },
+        {
+          "startTimeMs": "148500",
+          "words": "And don't try to save me"
+        },
+        {
+          "startTimeMs": "153280",
+          "words": "I'm a bitch"
+        },
+        {
+          "startTimeMs": "154540",
+          "words": "I'm a lover"
+        },
+        {
+          "startTimeMs": "155890",
+          "words": "I'm a child"
+        },
+        {
+          "startTimeMs": "157030",
+          "words": "I'm a mother"
+        },
+        {
+          "startTimeMs": "158380",
+          "words": "I'm a sinner"
+        },
+        {
+          "startTimeMs": "159510",
+          "words": "I'm a saint"
+        },
+        {
+          "startTimeMs": "161060",
+          "words": "I do not feel ashamed"
+        },
+        {
+          "startTimeMs": "163260",
+          "words": "I'm your hell"
+        },
+        {
+          "startTimeMs": "164560",
+          "words": "I'm your dream"
+        },
+        {
+          "startTimeMs": "166020",
+          "words": "I'm nothing in between"
+        },
+        {
+          "startTimeMs": "167950",
+          "words": "You know you wouldn't want it any other way"
+        },
+        {
+          "startTimeMs": "173130",
+          "words": "I'm a bitch"
+        },
+        {
+          "startTimeMs": "174320",
+          "words": "I'm a tease"
+        },
+        {
+          "startTimeMs": "176040",
+          "words": "I'm a goddess on my knees"
+        },
+        {
+          "startTimeMs": "178100",
+          "words": "When you hurt"
+        },
+        {
+          "startTimeMs": "179300",
+          "words": "When you suffer"
+        },
+        {
+          "startTimeMs": "180610",
+          "words": "I'm your angel undercover"
+        },
+        {
+          "startTimeMs": "183120",
+          "words": "I've been numb"
+        },
+        {
+          "startTimeMs": "184430",
+          "words": "I'm revived"
+        },
+        {
+          "startTimeMs": "185990",
+          "words": "Can't say I'm not alive"
+        },
+        {
+          "startTimeMs": "187880",
+          "words": "You know I wouldn't want it any other way"
+        },
+        {
+          "startTimeMs": "193770",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "198650",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "203600",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "208730",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "213640",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "218660",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "223590",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "228680",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "234600",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "239590",
+          "words": "Uuhh, uuhh, uuhh"
+        },
+        {
+          "startTimeMs": "244660",
+          "words": "Uuhh, uuhh, uuhh"
+        }
+      ]
+    }
+  }
+}

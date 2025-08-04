@@ -1,0 +1,9 @@
+{
+  "track_id": "3Vqbj9yPHBTIRhTDJHPQMq",
+  "track_name": "Moanin'",
+  "artist_name": "Mingus Big Band",
+  "timestamp": "2025-04-07 17:10:44",
+  "source_link": "https://www.google.de/search?q=Mingus Big Band moanin' chords Ultimate Guitar",
+  "found": false,
+  "source_snippet": "Couldn't find chords for that song."
+}

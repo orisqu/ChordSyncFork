@@ -1,0 +1,9 @@
+{
+  "track_id": "6FE2iI43OZnszFLuLtvvmg",
+  "track_name": "Classic",
+  "artist_name": "MKTO",
+  "timestamp": "2025-03-23 01:35:52",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/mkto/classic-chords-1404523",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>CLASSIC CHORDS by MKTO @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] C G F F G Am Am G F F G C [Verse 1] C G F Ooh girl, you&#039;re shining F G Am Like a 5th Avenue diamond Am G F And they don&#039;t make you like they used to F G C You&#039;re never going o"
+}

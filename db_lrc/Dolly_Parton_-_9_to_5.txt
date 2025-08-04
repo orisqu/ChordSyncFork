@@ -1,0 +1,253 @@
+{
+  "track_id": "4w3tQBXhn5345eUXDGBWZG",
+  "track_name": "9 to 5",
+  "artist_name": "Dolly Parton",
+  "timestamp": "2025-03-23 02:15:20",
+  "lyrics_data": {
+    "lyrics": {
+      "syncType": "LINE_SYNCED",
+      "lines": [
+        {
+          "startTimeMs": "10170",
+          "words": "Tumble out of bed"
+        },
+        {
+          "startTimeMs": "10940",
+          "words": "Then I stumble to the kitchen"
+        },
+        {
+          "startTimeMs": "12500",
+          "words": "Pour myself a cup of ambition"
+        },
+        {
+          "startTimeMs": "14600",
+          "words": "And yawn and stretch and try to come to life"
+        },
+        {
+          "startTimeMs": "19640",
+          "words": "Jump in the shower"
+        },
+        {
+          "startTimeMs": "20510",
+          "words": "And the blood starts pumpin'"
+        },
+        {
+          "startTimeMs": "22070",
+          "words": "Out on the streets, the traffic starts jumpin'"
+        },
+        {
+          "startTimeMs": "23900",
+          "words": "For folks like me on the job from nine to five"
+        },
+        {
+          "startTimeMs": "28280",
+          "words": "Workin' nine to five"
+        },
+        {
+          "startTimeMs": "30800",
+          "words": "What a way to make a livin'"
+        },
+        {
+          "startTimeMs": "33040",
+          "words": "Barely gettin' by"
+        },
+        {
+          "startTimeMs": "35410",
+          "words": "It's all takin' and no givin'"
+        },
+        {
+          "startTimeMs": "37810",
+          "words": "They just use your mind"
+        },
+        {
+          "startTimeMs": "40290",
+          "words": "And they never give you credit"
+        },
+        {
+          "startTimeMs": "42210",
+          "words": "It's enough to drive you crazy if you let it"
+        },
+        {
+          "startTimeMs": "47220",
+          "words": "Nine to five"
+        },
+        {
+          "startTimeMs": "49410",
+          "words": "For service and devotion"
+        },
+        {
+          "startTimeMs": "51240",
+          "words": "You would think that I"
+        },
+        {
+          "startTimeMs": "53560",
+          "words": "Would deserve a fat promotion"
+        },
+        {
+          "startTimeMs": "55900",
+          "words": "Want to move ahead"
+        },
+        {
+          "startTimeMs": "58320",
+          "words": "But the boss won't seem to let me"
+        },
+        {
+          "startTimeMs": "60630",
+          "words": "I swear sometimes that man is out to get me, hmm-mm"
+        },
+        {
+          "startTimeMs": "69850",
+          "words": "They let you dream"
+        },
+        {
+          "startTimeMs": "71020",
+          "words": "Just a watch 'em shatter"
+        },
+        {
+          "startTimeMs": "72270",
+          "words": "You're just a step on the boss man's ladder"
+        },
+        {
+          "startTimeMs": "74510",
+          "words": "But you got dreams he'll never take away"
+        },
+        {
+          "startTimeMs": "79300",
+          "words": "In the same boat with a lot of your friends"
+        },
+        {
+          "startTimeMs": "81960",
+          "words": "Waitin' for the day your ship'll come in"
+        },
+        {
+          "startTimeMs": "83980",
+          "words": "And the tide's gonna turn"
+        },
+        {
+          "startTimeMs": "85190",
+          "words": "And it's all gonna roll you away"
+        },
+        {
+          "startTimeMs": "88050",
+          "words": "Workin' nine to five"
+        },
+        {
+          "startTimeMs": "90650",
+          "words": "What a way to make livin'"
+        },
+        {
+          "startTimeMs": "92940",
+          "words": "Barely gettin' by"
+        },
+        {
+          "startTimeMs": "95240",
+          "words": "It's all takin' and no givin'"
+        },
+        {
+          "startTimeMs": "97340",
+          "words": "They just use your mind"
+        },
+        {
+          "startTimeMs": "99790",
+          "words": "And you never get the credit"
+        },
+        {
+          "startTimeMs": "101850",
+          "words": "It's enough to drive you crazy if you let it"
+        },
+        {
+          "startTimeMs": "106810",
+          "words": "Nine to five"
+        },
+        {
+          "startTimeMs": "108470",
+          "words": "Yeah, they got you where they want you"
+        },
+        {
+          "startTimeMs": "111020",
+          "words": "There's a better life"
+        },
+        {
+          "startTimeMs": "113130",
+          "words": "And you think about it, don't you?"
+        },
+        {
+          "startTimeMs": "115540",
+          "words": "It's a rich man's game"
+        },
+        {
+          "startTimeMs": "118160",
+          "words": "No matter what they call it"
+        },
+        {
+          "startTimeMs": "119880",
+          "words": "And you spend your life"
+        },
+        {
+          "startTimeMs": "121890",
+          "words": "Putting money in his wallet"
+        },
+        {
+          "startTimeMs": "124890",
+          "words": "Nine to five"
+        },
+        {
+          "startTimeMs": "126320",
+          "words": "Oh, what a way to make a livin'"
+        },
+        {
+          "startTimeMs": "128930",
+          "words": "Barely gettin' by"
+        },
+        {
+          "startTimeMs": "131080",
+          "words": "It's all takin' and no givin'"
+        },
+        {
+          "startTimeMs": "133680",
+          "words": "They just use your mind"
+        },
+        {
+          "startTimeMs": "135600",
+          "words": "And they never give you credit"
+        },
+        {
+          "startTimeMs": "137900",
+          "words": "It's enough to drive you crazy if you let it"
+        },
+        {
+          "startTimeMs": "142660",
+          "words": "Nine to five"
+        },
+        {
+          "startTimeMs": "144130",
+          "words": "Yeah, they got you where they want you"
+        },
+        {
+          "startTimeMs": "146860",
+          "words": "There's a better life"
+        },
+        {
+          "startTimeMs": "148820",
+          "words": "And you dream about it, don't you?"
+        },
+        {
+          "startTimeMs": "151260",
+          "words": "It's a rich man's game"
+        },
+        {
+          "startTimeMs": "153860",
+          "words": "No matter what they call it"
+        },
+        {
+          "startTimeMs": "155890",
+          "words": "And you spend your life"
+        },
+        {
+          "startTimeMs": "157980",
+          "words": "Putting money in his wallet"
+        }
+      ]
+    }
+  }
+}

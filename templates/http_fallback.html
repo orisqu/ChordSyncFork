@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChordSync - HTTP Fallback</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #121212;
+            color: #ffffff;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            margin: 0;
+            color: #1DB954; /* Spotify green */
+        }
+        .container {
+            display: grid;
+            grid-template-columns: 250px 1fr;
+            gap: 20px;
+        }
+        .player {
+            background-color: #282828;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .album-cover {
+            width: 200px;
+            height: 200px;
+            background-color: #333;
+            margin-bottom: 15px;
+        }
+        .content {
+            background-color: #282828;
+            padding: 20px;
+            border-radius: 8px;
+            min-height: 400px;
+        }
+        .controls {
+            display: flex;
+            justify-content: space-around;
+            margin: 15px 0;
+        }
+        button {
+            background-color: #1DB954;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #1ed760;
+        }
+        #error-message {
+            color: #ff5555;
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        #refresh-status {
+            font-size: 12px;
+            color: #aaa;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ChordSync</h1>
+        <div style="margin-left: 20px; font-size: 14px; color: #aaa;">HTTP Fallback Mode</div>
+    </header>
+    
+    <div class="container">
+        <div class="player">
+            <img id="album-cover" class="album-cover" src="" alt="Album Cover">
+            <h2 id="track-name">Track</h2>
+            <h3 id="artist-name">Artist</h3>
+            
+            <div class="controls">
+                <button id="prev-btn">◀◀</button>
+                <button id="play-btn">▶</button>
+                <button id="next-btn">▶▶</button>
+            </div>
+            
+            <div>
+                <p>
+                    <span id="current-time">0:00</span> / 
+                    <span id="total-time">0:00</span>
+                </p>
+                <p>
+                    Tuning: <span id="tuning">E A D G B E</span>
+                </p>
+                <p>
+                    Capo: <span id="capo">0</span>
+                </p>
+            </div>
+            
+            <button id="refresh-btn">Refresh Data</button>
+            <div id="refresh-status"></div>
+            <div id="error-message"></div>
+        </div>
+        
+        <div class="content">
+            <div id="main-chords-body">Loading chords...</div>
+        </div>
+    </div>
+    
+    <script>
+        // Track data request and UI update
+        let refreshInterval;
+        let lastTrackId = '';
+        
+        async function fetchTrackData() {
+            try {
+                const response = await fetch('/api/track-data');
+                const data = await response.json();
+                
+                // Check for errors
+                if (data.error) {
+                    document.getElementById('error-message').textContent = data.error;
+                    return;
+                }
+                
+                // Clear any previous error
+                document.getElementById('error-message').textContent = '';
+                
+                // Check if we have valid data
+                if (data.track_id === '0' || data.track_name === 'Track') {
+                    document.getElementById('refresh-status').textContent = 'No track playing in Spotify';
+                    return;
+                }
+                
+                // Check if track changed
+                if (data.track_id !== lastTrackId) {
+                    lastTrackId = data.track_id;
+                    // Update UI completely
+                    document.getElementById('track-name').textContent = data.track_name;
+                    document.getElementById('artist-name').textContent = data.artist_name;
+                    document.getElementById('total-time').textContent = data.track_duration_m_and_s;
+                    document.getElementById('tuning').textContent = data.guitar_tuning;
+                    document.getElementById('capo').textContent = data.guitar_capo;
+                    
+                    if (data.album_cover_url) {
+                        document.getElementById('album-cover').src = data.album_cover_url;
+                    }
+                    
+                    if (data.main_chords_body) {
+                        document.getElementById('main-chords-body').innerHTML = data.main_chords_body;
+                    }
+                }
+                
+                // Always update time and play button
+                document.getElementById('current-time').textContent = data.current_time;
+                document.getElementById('play-btn').textContent = data.play_or_pause === 'True' ? '❚❚' : '▶';
+                
+                document.getElementById('refresh-status').textContent = 'Last updated: ' + new Date().toLocaleTimeString();
+            } catch (error) {
+                document.getElementById('error-message').textContent = 'Error fetching data: ' + error.message;
+            }
+        }
+        
+        // Initial data fetch
+        fetchTrackData();
+        
+        // Set up auto-refresh
+        refreshInterval = setInterval(fetchTrackData, 1000);
+        
+        // Manual refresh button
+        document.getElementById('refresh-btn').addEventListener('click', fetchTrackData);
+        
+        // Player control buttons
+        document.getElementById('play-btn').addEventListener('click', async () => {
+            await fetch('/api/player/play-pause', { method: 'POST' });
+            fetchTrackData();
+        });
+        
+        document.getElementById('prev-btn').addEventListener('click', async () => {
+            await fetch('/api/player/previous', { method: 'POST' });
+            fetchTrackData();
+        });
+        
+        document.getElementById('next-btn').addEventListener('click', async () => {
+            await fetch('/api/player/next', { method: 'POST' });
+            fetchTrackData();
+        });
+    </script>
+</body>
+</html>

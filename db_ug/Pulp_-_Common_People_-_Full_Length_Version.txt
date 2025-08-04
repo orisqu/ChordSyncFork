@@ -1,0 +1,9 @@
+{
+  "track_id": "2fXKyAyPrEa24c6PJyqznF",
+  "track_name": "Common People - Full Length Version",
+  "artist_name": "Pulp",
+  "timestamp": "2025-03-23 15:22:16",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/pulp/common-people-chords-79870",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>COMMON PEOPLE CHORDS by Pulp @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Hi guys - here&#039;s the chords for Common People by Pulp :- COMMON PEOPLE by PULP from the album &#039;Different Class&#039; ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ The chords"
+}

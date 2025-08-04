@@ -1,0 +1,9 @@
+{
+  "track_id": "4w3tQBXhn5345eUXDGBWZG",
+  "track_name": "9 to 5",
+  "artist_name": "Dolly Parton",
+  "timestamp": "2025-03-23 02:15:19",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/dolly-parton/9-to-5-chords-1451141",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>9 TO 5 CHORDS (ver 3) by Dolly Parton @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Verse 1] D Tumble outta bed and a`stumble to the kitchen G Pour myself a cup of ambition D A And yawn n` stretch n` and try to come to life D Jump in the shower and the blood starts "
+}

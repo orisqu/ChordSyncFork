@@ -1,0 +1,9 @@
+{
+  "track_id": "2hKdd3qO7cWr2Jo0Bcs0MA",
+  "track_name": "Drops of Jupiter (Tell Me)",
+  "artist_name": "Train",
+  "timestamp": "2025-03-23 15:06:02",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/train/drops-of-jupiter-chords-1433",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>DROPS OF JUPITER CHORDS by Train @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] C G F F [Verse 1] C Now that she&#039;s back in the atmosphere G F With drops of Jupiter in her hair, hey, hey, hey, hey C She acts like summer and walks like rain G F Reminds me t"
+}

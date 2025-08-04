@@ -1,0 +1,9 @@
+{
+  "track_id": "0n4bITAu0Y0nigrz3MFJMb",
+  "track_name": "Blurred Lines",
+  "artist_name": "Robin Thicke",
+  "timestamp": "2025-03-23 01:21:51",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/robin-thicke/blurred-lines-chords-1505303",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>BLURRED LINES CHORDS (ver 3) by Robin Thicke  feat. T.I. &amp; Pharrell Williams @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"[Intro] G D Hey, hey, hey Hey, hey, hey Hey, hey, hey [Verse 1] G If you can&#039;t hear what I&#039;m trying to say If you can&#039;t read "
+}

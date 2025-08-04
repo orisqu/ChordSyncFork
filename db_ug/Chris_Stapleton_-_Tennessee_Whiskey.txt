@@ -1,0 +1,9 @@
+{
+  "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
+  "track_name": "Tennessee Whiskey",
+  "artist_name": "Chris Stapleton",
+  "timestamp": "2025-03-21 17:29:50",
+  "source_link": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/tennessee-whiskey-chords-1802477",
+  "found": true,
+  "source_snippet": "<!doctype html>\n<html lang=\"en\">\n<head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\">\n\n    <title>TENNESSEE WHISKEY CHORDS (ver 3) by Chris Stapleton @ Ultimate-Guitar.Com</title>\n<meta name=\"description\" content=\"Easy version in open chords. Key of G. The harder riffs and solo have been removed to allow for the scroll feature to be uninterrupted.\">\n<meta name=\"keywords\" content=\""
+}
