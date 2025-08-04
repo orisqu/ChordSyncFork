@@ -239,6 +239,12 @@ elif (dev_or_prod == "DEVELOPMENT"):
     spotify_client_id = os.getenv("SPOTIFY_CLIENT_ID_LOCAL")
     spotify_client_secret = os.getenv("SPOTIFY_CLIENT_SECRET_LOCAL")
     spotify_redirect_uri = os.getenv("SPOTIFY_REDIRECT_URI_LOCAL")
+else:
+    # Fallback to production settings if DEV_OR_PROD is not set
+    print("DEV_OR_PROD not set, defaulting to Production")
+    spotify_client_id = os.getenv("SPOTIFY_CLIENT_ID")
+    spotify_client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
+    spotify_redirect_uri = os.getenv("SPOTIFY_REDIRECT_URI")
 
 spotify_scope = 'user-modify-playback-state,user-read-playback-state'
 sp_oauth = SpotifyOAuth(client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope, show_dialog=True, cache_path=None)
