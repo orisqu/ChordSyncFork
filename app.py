@@ -245,8 +245,8 @@ else:
     spotify_client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
     spotify_redirect_uri = os.getenv("SPOTIFY_REDIRECT_URI")
 
-spotify_scope = 'user-modify-playback-state,user-read-playback-state'
-sp_oauth = SpotifyOAuth(client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope, show_dialog=True, cache_path=None)
+spotify_scope = 'user-modify-playback-state,user-read-playback-state,user-read-currently-playing'
+sp_oauth = SpotifyOAuth(client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope, show_dialog=True, cache_path='.spotify_cache')
 
 
 ######## GOOGLE API ########
@@ -272,7 +272,7 @@ musixmatch_lyrics_is_linesynced = 0
 
 spotify_error = 0
 
-is_logged_in = False
+# Removed global is_logged_in - using session-only authentication
 
 spotify_user_name = ""
 
@@ -339,20 +339,25 @@ def simple():
 
 @app.route('/')
 def index():
-    token_info = session.get('token_info', {})
-    # Determine login status from session data only (not global variable)
-    is_logged_in = bool(token_info)
-        
+    # Always refresh token first to get latest state
     token_info = refresh_token()
-    if token_info != 0:
-        spotify = spotipy.Spotify(auth=token_info['access_token'])
-        spotify_user_name = spotify.current_user()['display_name']
-        image = spotify.current_user()['images']
-        spotify_user_image = image[0]['url'] if image else ""
-
-    else:
-        spotify_user_name = ""
-        spotify_user_image = ""
+    
+    # Determine login status from refreshed token data
+    is_logged_in = bool(token_info and token_info != 0)
+    
+    spotify_user_name = ""
+    spotify_user_image = ""
+    
+    if is_logged_in:
+        try:
+            spotify = spotipy.Spotify(auth=token_info['access_token'])
+            user_info = spotify.current_user()
+            spotify_user_name = user_info.get('display_name', 'User')
+            images = user_info.get('images', [])
+            spotify_user_image = images[0]['url'] if images else ""
+        except Exception as e:
+            print(f"Error getting user info: {e}")
+            # Don't fail completely, just show as logged in but without user details
 
     return render_template('index.html', album_cover_url="", track_name="Track", artist_name="Artist", minutes=0, seconds=00, 
                            guitar_tuning="E A D G B E", guitar_capo="0", main_chords_body="", complete_source_code_link='javascript:void(0)', 
@@ -502,28 +507,7 @@ def refresh_token():
         
     return token_info
 
-# Add a periodic task to auto-refresh tokens before they expire
-def initialize_spotify_token_refresher():
-    def refresh_all_tokens():
-        with app.app_context():
-            try:
-                token_info = session.get('token_info', {})
-                if token_info and sp_oauth.is_token_expired(token_info):
-                    new_token = sp_oauth.refresh_access_token(token_info['refresh_token'])
-                    session['token_info'] = new_token
-                    print("Auto-refreshed token")
-            except Exception as e:
-                print(f"Auto-refresh failed: {e}")
-                
-        # Schedule next run
-        t = threading.Timer(1800, refresh_all_tokens)  # 30 minutes
-        t.daemon = True
-        t.start()
-    
-    # Start the first timer
-    t = threading.Timer(1800, refresh_all_tokens)
-    t.daemon = True
-    t.start()
+# Removed broken token refresher - refresh happens on each request instead
 
 def format_debug(message):
     """Format debug messages to stand out in terminal output"""
