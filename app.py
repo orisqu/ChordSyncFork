@@ -339,12 +339,9 @@ def simple():
 
 @app.route('/')
 def index():
-    global is_logged_in
     token_info = session.get('token_info', {})
-    if token_info == {}:
-        is_logged_in = False
-    else:
-        is_logged_in = True
+    # Determine login status from session data only (not global variable)
+    is_logged_in = bool(token_info)
         
     token_info = refresh_token()
     if token_info != 0:
@@ -454,17 +451,15 @@ def login():
 
 @app.route('/logout')
 def logout():
-    global is_logged_in
     # Clearing the session data
-    session.clear()  
+    session.clear()
     
     # Delete the Spotipy cache file
     cache_file = '.cache'
     if os.path.exists(cache_file):
         os.remove(cache_file)
         
-    is_logged_in = False
-    return redirect('/')  
+    return redirect('/')
 
 @app.route('/callback')
 def callback():
@@ -473,30 +468,26 @@ def callback():
     if 'token_info' in session:
         session.pop('token_info', None)
     
-    global is_logged_in
     error = request.args.get('error')
     code = request.args.get('code')
 
     if error:
-        # User declined the authorization
-        is_logged_in = False
+        # User declined the authorization - do nothing, session remains empty
+        pass
     elif code:
         # User accepted the authorization, proceed to get the token
-        is_logged_in = True
         # Get token and store in session
         token_info = sp_oauth.get_access_token(code)
         session['token_info'] = token_info
     else:
         # No code and no error, handle according to your application's logic
-        is_logged_in = False
+        pass
 
     return redirect('/')
 
 def refresh_token():
-    global is_logged_in
     token_info = session.get('token_info', {})
     if not token_info:
-        is_logged_in = False
         return 0
     
     try:
@@ -504,13 +495,11 @@ def refresh_token():
             # Using refresh_token instead of get_access_token which requires code
             token_info = sp_oauth.refresh_access_token(token_info['refresh_token'])
             session['token_info'] = token_info
-            is_logged_in = True
     except Exception as e:
         print(f"Error refreshing token: {e}")
         # Don't clear the session on refresh failure, just return 0
         return 0
         
-    is_logged_in = True
     return token_info
 
 # Add a periodic task to auto-refresh tokens before they expire
