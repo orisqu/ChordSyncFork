@@ -1,12 +1,12 @@
-""" 
-   _____ _                   _  _____                  
-  / ____| |                 | |/ ____|                 
- | |    | |__   ___  _ __ __| | (___  _   _ _ __   ___ 
+r"""
+   _____ _                   _  _____
+  / ____| |                 | |/ ____|
+ | |    | |__   ___  _ __ __| | (___  _   _ _ __   ___
  | |    | '_ \ / _ \| '__/ _` |\___ \| | | | '_ \ / __|
- | |____| | | | (_) | | | (_| |____) | |_| | | | | (__ 
+ | |____| | | | (_) | | | (_| |____) | |_| | | | | (__
   \_____|_| |_|\___/|_|  \__,_|_____/ \__, |_| |_|\___|
-                                       __/ |           
-                                      |___/            
+                                       __/ |
+                                      |___/
 by Simon Roedig (Mediainformatics @LMU Munich)
 Bachelor's Thesis (WS 2023/2024)
 """
@@ -40,14 +40,24 @@ logging.getLogger('engineio').setLevel(logging.DEBUG)
 ######## FLASK ########
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY")
-#CORS(app, resources={r"/*": {"origins": ["https://chordsync.io", "https://chordsync.onrender.com", "http://192.168.2.100:5000/"]}})
+
+# Configure CORS for production
+if os.getenv("DEV_OR_PROD", "PRODUCTION") == "PRODUCTION":
+    CORS(app, resources={r"/*": {"origins": ["https://chordsyncfork.onrender.com"]}})
+else:
+    CORS(app, resources={r"/*": {"origins": ["http://localhost:5003", "http://127.0.0.1:5003", "http://192.168.2.100:5000"]}})
 
 # Enhanced session configuration
 app.config['SESSION_PERMANENT'] = True
 app.config['PERMANENT_SESSION_LIFETIME'] = datetime.timedelta(days=30)  # Session lasts 30 days
 app.config['SESSION_COOKIE_HTTPONLY'] = True
 app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
-app.config['SESSION_COOKIE_SECURE'] = True  # Required for HTTPS in production
+
+# Only require secure cookies in production HTTPS environments
+if os.getenv("DEV_OR_PROD", "PRODUCTION") == "PRODUCTION":
+    app.config['SESSION_COOKIE_SECURE'] = True
+else:
+    app.config['SESSION_COOKIE_SECURE'] = False
 
 # https://stackoverflow.com/questions/20035101/why-does-my-javascript-code-receive-a-no-access-control-allow-origin-header-i
 
@@ -217,15 +227,23 @@ if (lyrics_api_source == "SELFMADE"):
 
 
 ######## WEB SOCKET ########
-#socketio = SocketIO(app, cors_allowed_origins=["https://chordsync.io", "https://chordsync.onrender.com", 'http://192.168.2.100:5000/'])
-#socketio = SocketIO(app, cors_allowed_origins="*")
-socketio = SocketIO(app, 
-                   cors_allowed_origins="*", 
-                   async_mode='threading',
-                   logger=True, 
-                   engineio_logger=True,
-                   ping_timeout=5,
-                   ping_interval=25000)
+# Configure SocketIO CORS based on environment
+if os.getenv("DEV_OR_PROD", "PRODUCTION") == "PRODUCTION":
+    socketio = SocketIO(app,
+                       cors_allowed_origins=["https://chordsyncfork.onrender.com"],
+                       async_mode='threading',
+                       logger=False,
+                       engineio_logger=False,
+                       ping_timeout=60,
+                       ping_interval=25)
+else:
+    socketio = SocketIO(app,
+                       cors_allowed_origins=["http://localhost:5003", "http://127.0.0.1:5003", "http://192.168.2.100:5000"],
+                       async_mode='threading',
+                       logger=True,
+                       engineio_logger=True,
+                       ping_timeout=5,
+                       ping_interval=25000)
 
 ######## SPOTIFY API ########
 if (dev_or_prod == "PRODUCTION"):
@@ -246,7 +264,14 @@ else:
     spotify_redirect_uri = os.getenv("SPOTIFY_REDIRECT_URI")
 
 spotify_scope = 'user-modify-playback-state,user-read-playback-state,user-read-currently-playing'
-sp_oauth = SpotifyOAuth(client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope, show_dialog=True, cache_path='.spotify_cache')
+
+# Configure OAuth cache path based on environment
+if os.getenv("DEV_OR_PROD", "PRODUCTION") == "PRODUCTION":
+    # In production, don't use file cache to avoid permission issues
+    sp_oauth = SpotifyOAuth(client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope, show_dialog=True, cache_handler=None)
+else:
+    # In development, use file cache
+    sp_oauth = SpotifyOAuth(client_id=spotify_client_id, client_secret=spotify_client_secret, redirect_uri=spotify_redirect_uri, scope=spotify_scope, show_dialog=True, cache_path='.spotify_cache')
 
 
 ######## GOOGLE API ########
@@ -1509,7 +1534,7 @@ def extractMainChordsBody(complete_source_code, align):
         if align != "middle":
             # Modify source code to include line breaks and span tags for chords (don't do if client requests middle align)
             result = replace_spaces_within_chords(result)
-        return result.replace("\\r\\n", "<br>").replace("[ch]", '<span class="chord_span">').replace("[/ch]", "</span>").replace("[tab]", "").replace("[/tab]", "").replace('\&quot;', '"')
+        return result.replace("\\r\\n", "<br>").replace("[ch]", '<span class="chord_span">').replace("[/ch]", "</span>").replace("[tab]", "").replace("[/tab]", "").replace('\\&quot;', '"')
     else:
         return "Failed to find main chords/lyrics content of the source code"
 
