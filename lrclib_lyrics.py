@@ -9,7 +9,7 @@ import re
 import requests
 import time
 from urllib.parse import quote
-from icecream import ic
+# Removed icecream import for production
 
 class LRCLIBLyrics:
     def __init__(self):
@@ -46,7 +46,7 @@ class LRCLIBLyrics:
             
             # If not found, try the search method as fallback
             if not lyrics_data:
-                ic("Track not found with direct query, trying search...")
+                # Debug: Track not found with direct query, trying search...
                 lyrics_data = self._search_lyrics(clean_track_name, clean_artist_name, album_name)
             
             # If we found lyrics data
@@ -64,7 +64,7 @@ class LRCLIBLyrics:
             return {"lyrics": {"syncType": "UNSYNCED", "lines": []}}
             
         except Exception as e:
-            ic(f"Error fetching lyrics with LRCLIB: {e}")
+            # Debug: Error fetching lyrics with LRCLIB
             # Return an empty result that mimics the structure expected by the app
             return {"lyrics": {"syncType": "UNSYNCED", "lines": []}}
     
@@ -106,13 +106,13 @@ class LRCLIBLyrics:
             if response.status_code == 200:
                 return response.json()
             elif response.status_code == 404:
-                ic(f"Track not found with details: {track_name} by {artist_name}")
+                # Debug: Track not found with details
                 return None
             else:
-                ic(f"Error from LRCLIB API: {response.status_code} - {response.text}")
+                # Debug: Error from LRCLIB API
                 return None
         except Exception as e:
-            ic(f"Request error: {e}")
+            # Debug: Request error
             return None
     
     def _search_lyrics(self, track_name, artist_name, album_name=None):
@@ -161,7 +161,7 @@ class LRCLIBLyrics:
                 
             return None
         except Exception as e:
-            ic(f"Search request error: {e}")
+            # Debug: Search request error
             return None
     
     def _similarity_check(self, str1, str2):
@@ -219,7 +219,7 @@ class LRCLIBLyrics:
                         "words": text
                     })
                 except Exception as e:
-                    ic(f"Error parsing timestamp: {timestamp_str} - {e}")
+                    # Debug: Error parsing timestamp
                     continue
         
         # Sort lines by timestamp
@@ -282,6 +282,7 @@ class LRCLIBLyrics:
             for line in lines:
                 line["startTimeMs"] = str(int(int(line["startTimeMs"]) * scaling_factor))
         except Exception as e:
-            ic(f"Error adjusting timestamps: {e}")
+            # Debug: Error adjusting timestamps
+            pass
             
         return lyrics_data

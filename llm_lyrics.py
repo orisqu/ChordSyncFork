@@ -9,7 +9,7 @@ import re
 import time
 from openai import OpenAI
 from dotenv import load_dotenv
-from icecream import ic
+# Removed icecream import for production
 
 class LLMLyrics:
     def __init__(self):
@@ -88,7 +88,7 @@ class LLMLyrics:
             return result
             
         except Exception as e:
-            ic(f"Error fetching lyrics with LLM: {e}")
+            # Debug: Error fetching lyrics with LLM
             # Return an empty result that mimics the structure expected by the app
             return {"lyrics": {"syncType": "UNSYNCED", "lines": []}}
     

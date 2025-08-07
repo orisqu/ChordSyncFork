@@ -6,7 +6,7 @@ import requests
 import time
 from dotenv import load_dotenv
 import os
-from icecream import ic
+# Removed icecream import for production
 
 class SpotifyLyrics:
     def __init__(self, sp_dc_cookie):
