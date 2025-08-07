@@ -1556,13 +1556,24 @@ def replace_spaces_within_chords(input_string):
 
 
 ######## MULTI-SOURCE LYRICS INTEGRATION ########
-# Import the LLMLyrics and LRCLIBLyrics classes
-from llm_lyrics import LLMLyrics
+# Import the LRCLIBLyrics class (always available)
 from lrclib_lyrics import LRCLIBLyrics  
 
-# Initialize the lyrics providers
+# Initialize the LRCLIB lyrics provider (always available)
 lrclib_lyrics_provider = LRCLIBLyrics()
-llm_lyrics_provider = LLMLyrics()
+
+# Only import and initialize LLM lyrics in development (experimental feature)
+# This requires the 'openai' package which is not included in production
+if dev_or_prod == "DEVELOPMENT":
+    try:
+        from llm_lyrics import LLMLyrics
+        llm_lyrics_provider = LLMLyrics()
+        print("LLM lyrics provider initialized (experimental feature)")
+    except ImportError as e:
+        print(f"LLM lyrics provider not available: {e}")
+        # llm_lyrics_provider will not exist in globals()
+else:
+    print("LLM lyrics provider disabled in production")
 
 
 def getSyncedLyricsJson(track_id, artist_name, track_name, album_name=None, track_duration_ms=None):
@@ -1619,8 +1630,11 @@ def getSyncedLyricsJson(track_id, artist_name, track_name, album_name=None, trac
             
             # If LRCLIB didn't find synced lyrics, try LLM as fallback
             if original_json["lyrics"]["syncType"] == "UNSYNCED" or not original_json["lyrics"]["lines"]:
-                print(format_debug("LRCLIB didn't find synced lyrics, trying LLM..."))
-                original_json = llm_lyrics_provider.get_lyrics(track_id, artist_name, track_name)
+                if 'llm_lyrics_provider' in globals():
+                    print(format_debug("LRCLIB didn't find synced lyrics, trying LLM..."))
+                    original_json = llm_lyrics_provider.get_lyrics(track_id, artist_name, track_name)
+                else:
+                    print(format_debug("LRCLIB didn't find synced lyrics, LLM provider not available"))
             
             cursor.execute('INSERT OR REPLACE INTO lyrics_db (track_id, artist_name, track_name, save_timestamp, original_json) VALUES (?, ?, ?, ?, ?)', (track_id, artist_name, track_name, datetime.datetime.now(), json.dumps(original_json)))
             db.commit()
