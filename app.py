@@ -21,11 +21,8 @@ import math
 import os
 import re
 import requests
-from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from flask import Flask, redirect, render_template, request, send_from_directory, session, g
-from fuzzywuzzy import fuzz
-from icecream import ic
 from flask_socketio import SocketIO, emit
 from flask_cors import CORS
 from spotipy import SpotifyOAuth
@@ -1362,7 +1359,7 @@ def googleChordsForDB(track_name, artist_name, track_id):
                 cursor.close()
                 return complete_source_code, complete_source_code_link, complete_source_code_found, result_index
             except Exception as e:
-                ic(f'Requested ue to renew in database, as it is older than {days_to_renew} days, failed, used old one: {e}')
+                # Debug: Requested UE to renew in database failed, used old cached data
                 artist_name = cached_data[0]
                 track_name = cached_data[1]
                 save_timestamp = cached_data[2]
@@ -1436,11 +1433,11 @@ def googleChords(track_name, artist_name):
                 result_index += 1
                 
                 link = result.get('link', '')
-                #ic('POSSIBLE LINK: ' + link)
+                
                 
                 # Check if the link contains the desired substring (i.e. is on Ultimate Guitar)
                 if desired_url_substring in link:
-                    #ic('FOUND THIS LINK: ' + link)
+                    
 
                     page_response = requests.get(link)
                     page_response.raise_for_status()
@@ -1463,35 +1460,35 @@ def googleChords(track_name, artist_name):
                         
                         ug_track_name = title_text_no_ug.split("chords by")[0].strip() # e.g. breathe
                         ug_artist_name = title_text_no_ug.split("chords by")[1].strip() # e.g. pink floyd
-                        ic(ug_track_name)
-                        ic(ug_artist_name)
+                        # Debug: ug_track_name, ug_artist_name
                         
                         spotify_track_name = (track_name.lower().replace('remastered', '').replace('remaster', '').replace('version', '')).strip() # e.g. Breathe - 2011 Remastered Version -> breathe - 2011
                         spotify_track_name = re.sub(r'\s- \s\d{4}', '', spotify_track_name) # both replace year
                         spotify_track_name = re.sub(r'\s-\s\d{4}', '', spotify_track_name)
 
                         spotify_artist_name = artist_name.lower().strip() # e.g. Pink Floyd
-                        ic(spotify_track_name)
-                        ic(spotify_artist_name)
+                        # Debug: spotify_track_name, spotify_artist_name
                         
-                        #ic(fuzz.ratio(ug_track_name, spotify_track_name))
-                        #ic(fuzz.ratio(ug_artist_name, spotify_artist_name))
+                        # Lazy import to save memory
+                        from fuzzywuzzy import fuzz
+                        
+                        
                         
                         # Often titles on spotify include further things like (acoustic, version, remastered, unplugged), title are often the exact same, thus different ratio thresholds
                         if (fuzz.ratio(ug_track_name, spotify_track_name) >= 40) and (fuzz.ratio(ug_artist_name, spotify_artist_name) >= 40):
                             return source_code, link, 1, result_index
     
                 
-            ic("COULDN'T FIND ANY CHORDS FOR THAT SONG")
+            # Debug: Couldn't find any chords for that song
             return "Couldn't find chords for that song.", "https://www.google.de/search?q=" + query, 0, 0
         
         else:
-            ic("GOOGLE SEARCH FOR CHORDS FAILED")
+            # Debug: Google search for chords failed
             return "Google for chords failed.", "https://www.google.de/search?q=" + query, 0, 0
         
     except Exception as e:
-        ic("Probably exceeded daily free Google API quota")
-        ic(f"Error: {e}")
+        # Debug: Probably exceeded daily free Google API quota
+        # Debug: Error occurred
         return "Google for chords failed - daily quota exceeded.", "https://www.google.de/search?q=" + query, 0, 0
         #return example_source()
 
@@ -1606,7 +1603,7 @@ def getSyncedLyricsJson(track_id, artist_name, track_name, album_name=None, trac
                 db.commit()
                 print(f'Lyrics found in database but outdated, now in lyrics_db')
             except Exception as e:
-                ic(f'Requested lyrics to renew in database, as it is older than {days_to_renew} days, failed, used old one: {e}')
+                # Debug: Requested lyrics to renew in database failed, used old cached data
                 artist_name = cached_data[0]
                 track_name = cached_data[1]
                 save_timestamp = cached_data[2]
@@ -1631,7 +1628,7 @@ def getSyncedLyricsJson(track_id, artist_name, track_name, album_name=None, trac
         except Exception as e:
             found_musixmatch_lyrics = 0
             musixmatch_lyrics_is_linesynced = 0
-            ic(f'Error making lyrics request, Perhaps no lyrics available: {e}')
+            # Debug: Error making lyrics request, perhaps no lyrics available
             return "COULDN'T FIND LYRICS, ERROR REQUESTING", found_musixmatch_lyrics, musixmatch_lyrics_is_linesynced
     
     cursor.close()
@@ -1662,7 +1659,7 @@ def getSyncedLyricsJson(track_id, artist_name, track_name, album_name=None, trac
     except Exception as e:
         found_musixmatch_lyrics = 0
         musixmatch_lyrics_is_linesynced = 0
-        ic(f'Error processing lyrics, Perhaps no lyrics available: {e}')
+        # Debug: Error processing lyrics, perhaps no lyrics available
         return "COULDN'T FIND LYRICS, ERROR REQUESTING", found_musixmatch_lyrics, musixmatch_lyrics_is_linesynced
 
     
@@ -1686,7 +1683,7 @@ def insertTimestampsToMainChordsBody(synced_lyrics_tupel_array, main_chords_body
     
     # Removes all empty lyrics and music notes from Musixmatch lyrics, as they can't be matched anyways and cause errors in red and blue paths
     synced_lyrics_tupel_array = [(timestamp, lyric) for timestamp, lyric in synced_lyrics_tupel_array if lyric not in ['', '♪']]
-    #ic(synced_lyrics_tupel_array)
+    
     
     # Array of all new lines in the source code  
     main_chords_body_line_array = main_chords_body.split("<br>")
@@ -1745,6 +1742,9 @@ def insertTimestampsToMainChordsBody(synced_lyrics_tupel_array, main_chords_body
             
             
             ### Get fuzzy ratios for all possible paths ###
+            
+            # Lazy import to save memory
+            from fuzzywuzzy import fuzz
             
             # Official lyrics fuzzy matches unofficial lyrics (GREEN)
             fuzzy_lyrics_line_ratio = fuzz.ratio(synced_lyrics_tupel_array[official_lyrics_line][1].lower(), main_chords_body_line_array_lyrics_with_index[unofficial_lyrics_line][1].lower())
@@ -2062,7 +2062,7 @@ def lerpNOTSYNCEDWithin(array_with_timestamps_to_be_lerped):
         return array_with_timestamps_to_be_lerped, False
     
     except:
-        ic("lerpNOTSYNCEDWithin failed")
+        # Debug: lerpNOTSYNCEDWithin failed
         return array_with_timestamps_to_be_lerped, True
 
 # Replace NOTSCYNCED timestamps by interpolating timestamps between the last synced timestamp and the end of the track
